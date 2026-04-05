@@ -3,462 +3,344 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Paul's Dashboard — April 4, 2026</title>
+<title>Paul's Dashboard — April 5, 2026</title>
 <style>
-*{box-sizing:border-box;margin:0;padding:0}
-body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;padding:20px;max-width:1100px;margin:0 auto}
-.header{text-align:center;padding:20px 0 10px}
-.header h1{font-size:1.8em;color:#58a6ff}
-.header .updated{color:#8b949e;font-size:0.85em;margin-top:4px}
-.stats{display:flex;gap:12px;justify-content:center;margin:12px 0;flex-wrap:wrap}
-.stat{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 16px;font-size:0.85em;text-align:center}
-.stat .count{font-size:1.4em;font-weight:bold;display:block}
-.stat.high .count{color:#f85149}
-.stat.med .count{color:#e3b341}
-.stat.low .count{color:#3fb950}
-.filters{display:flex;gap:8px;justify-content:center;margin:16px 0;flex-wrap:wrap}
-.filter-btn{background:#21262d;border:1px solid #30363d;color:#c9d1d9;padding:6px 14px;border-radius:20px;cursor:pointer;font-size:0.82em;transition:all 0.2s}
-.filter-btn:hover{background:#2d333b}
-.filter-btn.active{background:#388bfd;border-color:#388bfd;color:#fff}
-.section{background:#161b22;border:1px solid #30363d;border-radius:10px;margin-bottom:16px;overflow:hidden}
-.section-header{background:#1c2128;padding:12px 16px;font-weight:600;font-size:0.95em;color:#e6edf3;border-bottom:1px solid #30363d;display:flex;justify-content:space-between;align-items:center}
-.section-count{background:#30363d;border-radius:10px;padding:2px 8px;font-size:0.78em;font-weight:normal}
-table{width:100%;border-collapse:collapse}
-th{background:#1c2128;padding:8px 12px;text-align:left;font-size:0.78em;color:#8b949e;font-weight:600;text-transform:uppercase;letter-spacing:0.05em;border-bottom:1px solid #30363d}
-td{padding:10px 12px;border-bottom:1px solid #21262d;font-size:0.88em;vertical-align:top}
-tr:last-child td{border-bottom:none}
-tr:hover td{background:#1c2128}
-tr.done td{opacity:0.45}
-tr.done .item-text{text-decoration:line-through;color:#8b949e}
-.cb-cell{width:32px;text-align:center;padding:10px 4px 10px 12px}
-input[type=checkbox]{width:16px;height:16px;cursor:pointer;accent-color:#388bfd;vertical-align:middle}
-.priority-dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px;vertical-align:middle;flex-shrink:0}
-.p-high{background:#f85149;box-shadow:0 0 6px #f85149}
-.p-med{background:#e3b341}
-.p-low{background:#3fb950}
-.badge{display:inline-block;padding:2px 8px;border-radius:10px;font-size:0.75em;font-weight:600;white-space:nowrap}
-.badge-red{background:rgba(248,81,73,0.2);color:#f85149;border:1px solid rgba(248,81,73,0.5)}
-.badge-yellow{background:rgba(227,179,65,0.2);color:#e3b341;border:1px solid rgba(227,179,65,0.5)}
-.badge-purple{background:rgba(136,75,255,0.2);color:#a371f7;border:1px solid rgba(136,75,255,0.5)}
-.badge-gray{background:rgba(139,148,158,0.15);color:#8b949e;border:1px solid #30363d}
-a{color:#58a6ff;text-decoration:none}
-a:hover{text-decoration:underline}
-.item-text{color:#e6edf3}
-.context-text{color:#8b949e;font-size:0.82em;margin-top:3px}
-.completed-section td{opacity:0.55}
-#sync-bar{position:fixed;bottom:24px;right:24px;z-index:1000;display:none;flex-direction:column;align-items:flex-end;gap:8px}
-#sync-btn{background:#238636;border:none;color:#fff;padding:12px 20px;border-radius:24px;cursor:pointer;font-size:0.9em;font-weight:600;box-shadow:0 4px 20px rgba(35,134,54,0.5);transition:all 0.2s;display:flex;align-items:center;gap:8px}
-#sync-btn:hover{background:#2ea043;transform:translateY(-1px)}
-#sync-count{background:#f85149;border-radius:10px;padding:1px 7px;font-size:0.78em}
-#sync-modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.7);z-index:2000;align-items:center;justify-content:center;padding:20px}
-#sync-modal.open{display:flex}
-#sync-box{background:#161b22;border:1px solid #30363d;border-radius:12px;padding:24px;max-width:600px;width:100%}
-#sync-box h2{color:#e6edf3;margin-bottom:8px;font-size:1.1em}
-#sync-box p{color:#8b949e;font-size:0.85em;margin-bottom:16px}
-#sync-message{background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:14px;font-family:monospace;font-size:0.82em;color:#c9d1d9;white-space:pre-wrap;max-height:300px;overflow-y:auto;margin-bottom:16px;line-height:1.5}
-.sync-actions{display:flex;gap:10px;flex-wrap:wrap}
-.btn{padding:8px 18px;border-radius:8px;border:none;cursor:pointer;font-size:0.88em;font-weight:600;transition:all 0.2s}
-.btn-primary{background:#388bfd;color:#fff}
-.btn-primary:hover{background:#58a6ff}
-.btn-danger{background:rgba(248,81,73,0.15);color:#f85149;border:1px solid rgba(248,81,73,0.4)}
-.btn-danger:hover{background:rgba(248,81,73,0.25)}
-.btn-ghost{background:#21262d;color:#c9d1d9;border:1px solid #30363d}
-.btn-ghost:hover{background:#2d333b}
-.copy-success{color:#3fb950;font-size:0.82em;margin-left:8px;display:none}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #0d1117; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; padding: 20px; }
+.header { text-align: center; padding: 20px 0 10px; }
+.header h1 { font-size: 1.8em; color: #58a6ff; }
+.header .updated { color: #8b949e; font-size: 0.85em; margin-top: 4px; }
+.stats { display: flex; gap: 12px; justify-content: center; margin: 12px 0; flex-wrap: wrap; }
+.stat { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 8px 16px; font-size: 0.85em; }
+.stat .count { font-size: 1.4em; font-weight: bold; }
+.stat.high .count { color: #f85149; }
+.stat.med .count { color: #e3b341; }
+.stat.low .count { color: #3fb950; }
+.stat.total .count { color: #58a6ff; }
+.filters { display: flex; gap: 8px; justify-content: center; margin: 16px 0; flex-wrap: wrap; }
+.filter-btn { background: #21262d; border: 1px solid #30363d; color: #c9d1d9; padding: 6px 14px; border-radius: 20px; cursor: pointer; font-size: 0.82em; transition: all 0.2s; }
+.filter-btn:hover, .filter-btn.active { background: #388bfd; border-color: #388bfd; color: #fff; }
+.section { background: #161b22; border: 1px solid #30363d; border-radius: 10px; margin-bottom: 16px; overflow: hidden; }
+.section-header { background: #1c2128; padding: 12px 16px; font-weight: 600; font-size: 0.95em; color: #e6edf3; border-bottom: 1px solid #30363d; display: flex; justify-content: space-between; align-items: center; }
+.section-count { background: #30363d; border-radius: 10px; padding: 2px 8px; font-size: 0.78em; font-weight: normal; }
+table { width: 100%; border-collapse: collapse; }
+th { background: #1c2128; padding: 8px 12px; text-align: left; font-size: 0.78em; color: #8b949e; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid #30363d; }
+td { padding: 10px 12px; border-bottom: 1px solid #21262d; font-size: 0.88em; vertical-align: top; }
+tr:last-child td { border-bottom: none; }
+tr:hover td { background: #1c2128; }
+.priority-dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
+.p-high { background: #f85149; box-shadow: 0 0 6px #f85149; }
+.p-med { background: #e3b341; }
+.p-low { background: #3fb950; }
+.badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 0.75em; font-weight: 600; white-space: nowrap; }
+.badge-red { background: rgba(248,81,73,0.2); color: #f85149; border: 1px solid #f85149; }
+.badge-yellow { background: rgba(227,179,65,0.2); color: #e3b341; border: 1px solid #e3b341; }
+.badge-purple { background: rgba(136,75,255,0.2); color: #a371f7; border: 1px solid #a371f7; }
+.badge-gray { background: rgba(139,148,158,0.15); color: #8b949e; border: 1px solid #30363d; }
+a { color: #58a6ff; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.completed td { opacity: 0.6; }
+.item-text { color: #e6edf3; }
+.context-text { color: #8b949e; font-size: 0.82em; margin-top: 3px; }
+@media (max-width: 700px) {
+  body { padding: 10px; }
+  .header h1 { font-size: 1.3em; }
+  td, th { padding: 6px 8px; font-size: 0.82em; }
+}
 </style>
 </head>
 <body>
 <div class="header">
-  <h1>📋 Paul's Dashboard</h1>
-  <div class="updated">Last updated: April 4, 2026 &nbsp;|&nbsp; <a href="https://github.com/pmartbrown/dashboard" target="_blank">GitHub</a></div>
+  <h1>📋 Paul's Todo Dashboard</h1>
+  <div class="updated">Last updated: Sunday, April 5, 2026 at 2:09 PM UTC</div>
 </div>
+
+<!-- Stats -->
 <div class="stats">
-  <div class="stat high"><span class="count" id="count-high">0</span>High Priority</div>
-  <div class="stat med"><span class="count" id="count-med">0</span>Medium Priority</div>
-  <div class="stat low"><span class="count" id="count-low">0</span>Low Priority</div>
-  <div class="stat"><span class="count" id="count-done" style="color:#58a6ff">0</span>Checked Off</div>
+  <div class="stat total"><div class="count">28</div> Total Active</div>
+  <div class="stat high"><div class="count">16</div> 🔴 High</div>
+  <div class="stat med"><div class="count">12</div> 🟡 Medium</div>
+  <div class="stat low"><div class="count">0</div> 🟢 Low</div>
 </div>
+
+<!-- Filters -->
 <div class="filters">
-  <button class="filter-btn active" onclick="filterSection('all',event)">All</button>
-  <button class="filter-btn" onclick="filterSection('deals',event)">💰 Deals</button>
-  <button class="filter-btn" onclick="filterSection('followups',event)">📞 Follow-Ups</button>
-  <button class="filter-btn" onclick="filterSection('personal',event)">🏠 Personal</button>
-  <button class="filter-btn" onclick="filterSection('health',event)">❤️ Health</button>
-  <button class="filter-btn" onclick="filterSection('calendar',event)">📅 Calendar</button>
-  <button class="filter-btn" onclick="filterSection('systems',event)">🤖 Systems/AI</button>
-  <button class="filter-btn" onclick="filterSection('projects',event)">🛠 Projects</button>
-  <button class="filter-btn" onclick="filterSection('waiting',event)">⏳ Waiting On</button>
-  <button class="filter-btn" onclick="filterSection('completed',event)">✅ Completed</button>
+  <button class="filter-btn active" onclick="filterCat('all')">All</button>
+  <button class="filter-btn" onclick="filterCat('deals')">Deals / Funding</button>
+  <button class="filter-btn" onclick="filterCat('followups')">Follow-Ups</button>
+  <button class="filter-btn" onclick="filterCat('personal')">Personal</button>
+  <button class="filter-btn" onclick="filterCat('health')">Health</button>
+  <button class="filter-btn" onclick="filterCat('calendar')">Calendar</button>
+  <button class="filter-btn" onclick="filterCat('systems')">Systems / AI</button>
+  <button class="filter-btn" onclick="filterCat('projects')">Projects</button>
+  <button class="filter-btn" onclick="filterCat('waiting')">Waiting On</button>
+  <button class="filter-btn" onclick="filterCat('completed')">Completed</button>
 </div>
+
+<!-- Deals / Funding -->
 <div class="section" data-cat="deals">
   <div class="section-header">💰 Deals / Funding <span class="section-count">4 items</span></div>
   <table>
-    <thead><tr><th></th><th>Item</th><th>Due</th><th>Priority</th></tr></thead>
-    <tbody>
-      <tr data-id="houston-fund" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text"><a href="https://app.hubspot.com/contacts/48283532/record/0-3/318718076642" target="_blank">Houston Deal (1204 Studewood St) — FUND</a></div><div class="context-text">$174,466.92 Stack. Docs completed 4/3. Fund Monday. Borrower: Zachary Larsen.</div></td>
-        <td><span class="badge badge-yellow">Apr 6</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="alpine-fund" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text"><a href="https://app.hubspot.com/contacts/48283532/record/0-3/316769638130" target="_blank">Alpine Deal (516 E Savannah Cir) — FUND</a></div><div class="context-text">~$1M Stack (~$700K funding). Fund Monday. Borrower: Lame Kinikini.</div></td>
-        <td><span class="badge badge-yellow">Apr 6</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="hurricane-fund" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Hurricane UT deals (4) — fund</div><div class="context-text">Fund Tue or Wed depending on funds returning from Monday closings.</div></td>
-        <td><span class="badge badge-yellow">Apr 7</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="studewood-stack-decision" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Studewood Stack vs Gap decision</div><div class="context-text">Justin asked if it should move. He's out today — decide solo or table.</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><span class="priority-dot p-med"></span>Medium</td>
-      </tr>
-    </tbody>
+    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Houston Deal (1204 Studewood St) — FUND</td>
+      <td><span class="badge badge-purple">Apr 6</span></td>
+      <td class="context-text">$174,466.92 Stack. Docs completed 4/3. Fund Monday. Borrower: Zachary Larsen. <a href="https://app.hubspot.com/contacts/48283532/record/0-3/318718076642" target="_blank">HubSpot</a></td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Alpine Deal (516 E Savannah Cir) — FUND</td>
+      <td><span class="badge badge-purple">Apr 6</span></td>
+      <td class="context-text">~$1M Stack (~$700K funding). Fund Monday. Borrower: Lame Kinikini. <a href="https://app.hubspot.com/contacts/48283532/record/0-3/316769638130" target="_blank">HubSpot</a></td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Hurricane UT deals (4) — fund</td>
+      <td><span class="badge badge-purple">Apr 7</span></td>
+      <td class="context-text">Fund Tue or Wed depending on funds returning from Monday closings.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-med"></span> Medium</td>
+      <td class="item-text">Studewood Stack vs Gap decision</td>
+      <td><span class="badge badge-gray">—</span></td>
+      <td class="context-text">Justin asked if it should move. He's out today — decide solo or table.</td>
+    </tr>
   </table>
 </div>
+
+<!-- Follow-Ups / Outreach -->
 <div class="section" data-cat="followups">
   <div class="section-header">📞 Follow-Ups / Outreach <span class="section-count">6 items</span></div>
   <table>
-    <thead><tr><th></th><th>Item</th><th>Due</th><th>Priority</th></tr></thead>
-    <tbody>
-      <tr data-id="tauna-marquee-intro" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Tauna Ellis → Marquee intro</div><div class="context-text">Returned the NDA. Follow up to schedule time with her and Marquee to discuss funding and capital.</div></td>
-        <td><span class="badge badge-red">ASAP</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="nancee-heckel-rv-call" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Nancee Heckel — RV park training program call</div><div class="context-text">Still need to have the call. Re: training program for new RV park buyers. Learn more before judging.</div></td>
-        <td><span class="badge badge-red">ASAP</span></td>
-        <td><span class="priority-dot p-med"></span>Medium</td>
-      </tr>
-      <tr data-id="jade-morby-method" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Jade — fund a Morby Method with Pace</div><div class="context-text">Contact Jade to plan funding a deal using the Morby Method with Pace.</div></td>
-        <td><span class="badge badge-red">ASAP</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="lance-emd-kiefer" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Lance EMD deal — follow up with Kiefer</div><div class="context-text">~$50K stuck at title. Lance on a cattle ranch now. Watch for his email.</div></td>
-        <td><span class="badge badge-red">ASAP</span></td>
-        <td><span class="priority-dot p-med"></span>Medium</td>
-      </tr>
-      <tr data-id="heidi-property-tracking" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Heidi follow-up — property tracking</div><div class="context-text">Property manager. Discuss mortgage/payment tracking for all 4 properties.</div></td>
-        <td><span class="badge badge-yellow">Apr 4</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="curtis-300k-bank-fraud" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Curtis $300K — follow up re: bank fraud block</div><div class="context-text">Bank stopped the $300K transfer flagging it as fraud. Follow up with Curtis to resolve and get funds through.</div></td>
-        <td><span class="badge badge-red">ASAP</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-    </tbody>
+    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Tauna Ellis → Marquee intro</td>
+      <td><span class="badge badge-red">ASAP</span></td>
+      <td class="context-text">Returned the NDA. Follow up to remind her and schedule time on the calendar with her and Marquee to discuss funding and capital.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Jade — fund a Morby Method with Pace</td>
+      <td><span class="badge badge-red">ASAP</span></td>
+      <td class="context-text">Contact Jade to plan funding a deal using the Morby Method with Pace.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Heidi follow-up — property tracking</td>
+      <td><span class="badge badge-red">Apr 4 (overdue)</span></td>
+      <td class="context-text">Property manager. Discuss mortgage/payment tracking for all 4 properties.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Curtis $300K — follow up re: bank fraud block</td>
+      <td><span class="badge badge-red">ASAP</span></td>
+      <td class="context-text">Bank stopped the $300K transfer flagging it as fraud. Follow up with Curtis to resolve and get funds through.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-med"></span> Medium</td>
+      <td class="item-text">Nancee Heckel — RV park training program call</td>
+      <td><span class="badge badge-red">ASAP</span></td>
+      <td class="context-text">Still need to have the call. Re: training program for new RV park buyers. Learn more before judging.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-med"></span> Medium</td>
+      <td class="item-text">Lance EMD deal — follow up with Kiefer</td>
+      <td><span class="badge badge-red">ASAP</span></td>
+      <td class="context-text">~$50K stuck at title. Lance on a cattle ranch now. Watch for his email.</td>
+    </tr>
   </table>
 </div>
+
+<!-- Personal / Standards -->
 <div class="section" data-cat="personal">
-  <div class="section-header">🏠 Personal / Standards <span class="section-count">3 items</span></div>
+  <div class="section-header">🎯 Personal / Standards <span class="section-count">3 items</span></div>
   <table>
-    <thead><tr><th></th><th>Item</th><th>Due</th><th>Priority</th></tr></thead>
-    <tbody>
-      <tr data-id="schedule-date-akemi" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Schedule date with Akemi</div><div class="context-text">Not yet scheduled.</div></td>
-        <td><span class="badge badge-yellow">This weekend</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="schedule-temple-april" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Schedule temple visit</div><div class="context-text">Not yet scheduled for April.</div></td>
-        <td><span class="badge badge-purple">April 2026</span></td>
-        <td><span class="priority-dot p-med"></span>Medium</td>
-      </tr>
-      <tr data-id="missed-friday-workout" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Workouts — missed Friday workout</div><div class="context-text">4/5 for the week. Friday workout did not happen. Make it up or recommit next week.</div></td>
-        <td><span class="badge badge-yellow">Apr 4</span></td>
-        <td><span class="priority-dot p-med"></span>Medium</td>
-      </tr>
-    </tbody>
+    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Schedule date with Akemi</td>
+      <td><span class="badge badge-yellow">This weekend</span></td>
+      <td class="context-text">Not yet scheduled.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-med"></span> Medium</td>
+      <td class="item-text">Schedule temple visit</td>
+      <td><span class="badge badge-purple">April 2026</span></td>
+      <td class="context-text">Not yet scheduled for April.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-med"></span> Medium</td>
+      <td class="item-text">Workouts — missed Friday workout</td>
+      <td><span class="badge badge-red">Apr 4 (overdue)</span></td>
+      <td class="context-text">4/5 for the week. Friday workout did not happen. Make it up or recommit next week.</td>
+    </tr>
   </table>
 </div>
+
+<!-- Health -->
 <div class="section" data-cat="health">
-  <div class="section-header">❤️ Health <span class="section-count">2 items</span></div>
+  <div class="section-header">🏥 Health <span class="section-count">2 items</span></div>
   <table>
-    <thead><tr><th></th><th>Item</th><th>Due</th><th>Priority</th></tr></thead>
-    <tbody>
-      <tr data-id="susan-byerly-appointment" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Schedule appointment with Susan Byerly</div><div class="context-text">Blood tests and overall health check. Susan Byerly, FNP-C. (801) 224-3031 · myhealth@integrativehg.com · 3315 W Mayflower Ave STE 4, Lehi UT</div></td>
-        <td><span class="badge badge-purple">Apr 10</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="seven-layers-health" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Seven Layers of Why — health session</div><div class="context-text">Saturday 9:00–11:40 AM (incl. 20 min travel). Recurring. Protect this time.</div></td>
-        <td><span class="badge badge-yellow">Sat Apr 4</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-    </tbody>
+    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Schedule appointment with Susan Byerly</td>
+      <td><span class="badge badge-purple">Apr 10</span></td>
+      <td class="context-text">Blood tests and overall health check. Susan Byerly, FNP-C. Phone: (801) 224-3031.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Seven Layers of Why — health session</td>
+      <td><span class="badge badge-red">Apr 4 (overdue)</span></td>
+      <td class="context-text">Saturday 9:00–11:40 AM (incl. 20 min travel). Recurring. Protect this time.</td>
+    </tr>
   </table>
 </div>
+
+<!-- Calendar — This Weekend -->
 <div class="section" data-cat="calendar">
   <div class="section-header">📅 Calendar — This Weekend <span class="section-count">3 items</span></div>
   <table>
-    <thead><tr><th></th><th>Item</th><th>When</th><th>Priority</th></tr></thead>
-    <tbody>
-      <tr data-id="seven-layers-weekend" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Seven Layers of Why</div><div class="context-text">9:00–11:40 AM with travel</div></td>
-        <td><span class="badge badge-yellow">Sat 4/4 9 AM</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="orem-roof-trip" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Orem roof trip</div><div class="context-text">Drive to Orem, tour neighborhoods for roofs, drive back. Choose style/materials, order new roof.</div></td>
-        <td><span class="badge badge-yellow">Sat 4/4 1 PM</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="owners-club-homework" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Owner's Club homework</div><div class="context-text">4 weekly blocks, 1 hour each evening Mon–Thu 7–8 PM.</div></td>
-        <td><span class="badge badge-purple">Mon–Thu 7 PM</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-    </tbody>
+    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Seven Layers of Why</td>
+      <td><span class="badge badge-red">Sat 4/4 9:00 AM</span></td>
+      <td class="context-text">9:00–11:40 AM with travel</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Orem roof trip</td>
+      <td><span class="badge badge-red">Sat 4/4 1:00 PM</span></td>
+      <td class="context-text">Drive to Orem, tour neighborhoods for roofs, drive back. Choose style/materials, order new roof.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Owner's Club homework</td>
+      <td><span class="badge badge-purple">Mon–Thu 7–8 PM</span></td>
+      <td class="context-text">4 weekly blocks, 1 hour each evening.</td>
+    </tr>
   </table>
 </div>
+
+<!-- Systems / AI -->
 <div class="section" data-cat="systems">
   <div class="section-header">🤖 Systems / AI <span class="section-count">7 items</span></div>
   <table>
-    <thead><tr><th></th><th>Item</th><th>Due</th><th>Priority</th></tr></thead>
-    <tbody>
-      <tr data-id="emd-cancel-alert-tool" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">EMD cancel/return alert tool</div><div class="context-text">Monitor all active EMD deals and alert when an EMD needs to be canceled or returned. Pull signals from HubSpot + email + Slack.</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="property-mortgage-tracking" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Set up property mortgage tracking</div><div class="context-text">Track 4 properties, monthly payments, whether payments made, account balances. Heidi is property manager.</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><span class="priority-dot p-med"></span>Medium</td>
-      </tr>
-      <tr data-id="morning-briefing-improvement" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Morning briefing improvement</div><div class="context-text">Add deal funding signal detection. Blueprint at brain/blueprints/morning-briefing-deal-funding-signals.md</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><span class="priority-dot p-med"></span>Medium</td>
-      </tr>
-      <tr data-id="email-management-expand" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Email management system — expand to additional inboxes</div><div class="context-text">Working well on first email address. Expand one inbox at a time.</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><span class="priority-dot p-med"></span>Medium</td>
-      </tr>
-      <tr data-id="capital-planning-tool" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Capital planning tool</div><div class="context-text">Build a tool to plan and track deployment of capital across deals.</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><span class="priority-dot p-med"></span>Medium</td>
-      </tr>
-      <tr data-id="social-media-research-biweekly" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Social media engagement research — bi-weekly</div><div class="context-text">Automated deep research: find most highly engaged posts on Facebook, Instagram, TikTok, LinkedIn, YouTube. Deliver report to mimic. Run every 2 weeks overnight.</div></td>
-        <td><span class="badge badge-gray">Bi-weekly</span></td>
-        <td><span class="priority-dot p-med"></span>Medium</td>
-      </tr>
-      <tr data-id="prediction-markets-tool" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Prediction markets / stock market quick-bet tool</div><div class="context-text">Build a tool that can make quick bets in prediction markets or early-morning stock markets and track how they play out.</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><span class="priority-dot p-med"></span>Medium</td>
-      </tr>
-    </tbody>
+    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">EMD cancel/return alert tool</td>
+      <td><span class="badge badge-gray">—</span></td>
+      <td class="context-text">Monitor all active EMD deals and alert when an EMD needs to be canceled or returned. Pull signals from HubSpot deal stages + email + Slack.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-med"></span> Medium</td>
+      <td class="item-text">Set up property mortgage tracking</td>
+      <td><span class="badge badge-gray">—</span></td>
+      <td class="context-text">Track 4 properties, monthly payments, whether payments made, account balances. Heidi is property manager.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-med"></span> Medium</td>
+      <td class="item-text">Morning briefing improvement</td>
+      <td><span class="badge badge-gray">—</span></td>
+      <td class="context-text">Add deal funding signal detection.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-med"></span> Medium</td>
+      <td class="item-text">Email management system — expand to additional inboxes</td>
+      <td><span class="badge badge-gray">—</span></td>
+      <td class="context-text">Working well on first email address. Expand one inbox at a time.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-med"></span> Medium</td>
+      <td class="item-text">Capital planning tool</td>
+      <td><span class="badge badge-gray">—</span></td>
+      <td class="context-text">Build a tool to plan and track deployment of capital across deals.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-med"></span> Medium</td>
+      <td class="item-text">Social media engagement research — bi-weekly</td>
+      <td><span class="badge badge-gray">Bi-weekly</span></td>
+      <td class="context-text">Automated deep research: find most highly engaged posts. Deliver report with examples to mimic.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-med"></span> Medium</td>
+      <td class="item-text">Prediction markets / stock market quick-bet tool</td>
+      <td><span class="badge badge-gray">—</span></td>
+      <td class="context-text">Build a tool that can make quick bets in prediction markets or early-morning stock markets.</td>
+    </tr>
   </table>
 </div>
+
+<!-- Projects — Build -->
 <div class="section" data-cat="projects">
-  <div class="section-header">🛠 Projects — Build <span class="section-count">3 items</span></div>
+  <div class="section-header">🔨 Projects — Build <span class="section-count">3 items</span></div>
   <table>
-    <thead><tr><th></th><th>Item</th><th>Due</th><th>Priority</th></tr></thead>
-    <tbody>
-      <tr data-id="skool-community-launch" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Skool community — finish &amp; launch</div><div class="context-text">Complete updates to all classroom material. Includes voice over work. Launch when done.</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="dads-taxes-finish" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Dad's taxes — finish filing</div><div class="context-text">Started with Claude Cowork. Pick up where left off and complete.</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><span class="priority-dot p-high"></span>High</td>
-      </tr>
-      <tr data-id="cryo-business-website" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Cryo business website (friend)</div><div class="context-text">Build a website with calendaring + Instagram connectivity for a friend who runs a cryotherapy business.</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><span class="priority-dot p-med"></span>Medium</td>
-      </tr>
-    </tbody>
+    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Skool community — finish &amp; launch</td>
+      <td><span class="badge badge-gray">—</span></td>
+      <td class="context-text">Complete updates to all classroom material. Includes voice over work. Launch when done.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-high"></span> High</td>
+      <td class="item-text">Dad's taxes — finish filing</td>
+      <td><span class="badge badge-gray">—</span></td>
+      <td class="context-text">Started with Claude Cowork. Pick up where left off and complete.</td>
+    </tr>
+    <tr>
+      <td><span class="priority-dot p-med"></span> Medium</td>
+      <td class="item-text">Cryo business website (friend)</td>
+      <td><span class="badge badge-gray">—</span></td>
+      <td class="context-text">Build a website with calendaring function and Instagram connectivity for a friend's Cryo business.</td>
+    </tr>
   </table>
 </div>
+
+<!-- Waiting On -->
 <div class="section" data-cat="waiting">
-  <div class="section-header">⏳ Waiting On (Others Owe You) <span class="section-count">2 items</span></div>
+  <div class="section-header">⏳ Waiting On <span class="section-count">2 items</span></div>
   <table>
-    <thead><tr><th></th><th>Person</th><th>What They Owe</th><th>Context</th></tr></thead>
-    <tbody>
-      <tr data-id="waiting-lance-emd" data-priority="med">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Lance</div></td>
-        <td>Email with EMD deal details (~$50K stuck at title)</td>
-        <td><div class="context-text">Needs to submit docs. Follow up with Kiefer once received.</div></td>
-      </tr>
-      <tr data-id="waiting-jeramy-alpine" data-priority="high">
-        <td class="cb-cell"><input type="checkbox" onchange="toggle(this)"></td>
-        <td><div class="item-text">Jeramy (escrow)</div></td>
-        <td>Alpine deal docs</td>
-        <td><div class="context-text">Bottleneck on closing docs for 516 E Savannah Cir.</div></td>
-      </tr>
-    </tbody>
+    <tr><th>Person</th><th>What They Owe</th><th>Context</th></tr>
+    <tr>
+      <td class="item-text">Lance</td>
+      <td class="item-text">Email with EMD deal details (~$50K stuck at title)</td>
+      <td class="context-text">Needs to submit docs. Follow up with Kiefer once received.</td>
+    </tr>
+    <tr>
+      <td class="item-text">Jeramy (escrow)</td>
+      <td class="item-text">Alpine deal docs</td>
+      <td class="context-text">Bottleneck on closing docs for 516 E Savannah Cir.</td>
+    </tr>
   </table>
 </div>
-<div class="section completed-section" data-cat="completed">
+
+<!-- Completed -->
+<div class="section" data-cat="completed">
   <div class="section-header">✅ Completed (Last 30 Days) <span class="section-count">5 items</span></div>
   <table>
-    <thead><tr><th>Date</th><th>Item</th></tr></thead>
-    <tbody>
-      <tr><td style="color:#8b949e;white-space:nowrap">2026-04-03</td><td><div class="item-text" style="text-decoration:line-through;color:#8b949e">Houston Deal (1204 Studewood St) — docs completed, promissory note signed</div></td></tr>
-      <tr><td style="color:#8b949e;white-space:nowrap">2026-04-04</td><td><div class="item-text" style="text-decoration:line-through;color:#8b949e">OC homework — completed and submitted</div></td></tr>
-      <tr><td style="color:#8b949e;white-space:nowrap">2026-04-02</td><td><div class="item-text" style="text-decoration:line-through;color:#8b949e">Curtis $300K commitment secured</div></td></tr>
-      <tr><td style="color:#8b949e;white-space:nowrap">2026-04-02</td><td><div class="item-text" style="text-decoration:line-through;color:#8b949e">Darin Heckel call — updated on Tauna, all good</div></td></tr>
-      <tr><td style="color:#8b949e;white-space:nowrap">2026-04-02</td><td><div class="item-text" style="text-decoration:line-through;color:#8b949e">EMD Master Class for Skool community</div></td></tr>
-    </tbody>
+    <tr><th>Completed</th><th>Item</th></tr>
+    <tr class="completed"><td>2026-04-04</td><td>OC homework — completed and submitted</td></tr>
+    <tr class="completed"><td>2026-04-03</td><td>Houston Deal (1204 Studewood St) — docs completed, promissory note signed</td></tr>
+    <tr class="completed"><td>2026-04-02</td><td>Curtis $300K commitment secured</td></tr>
+    <tr class="completed"><td>2026-04-02</td><td>Darin Heckel call — updated on Tauna, all good</td></tr>
+    <tr class="completed"><td>2026-04-02</td><td>EMD Master Class for Skool community</td></tr>
   </table>
 </div>
-<div id="sync-bar">
-  <button id="sync-btn" onclick="openSyncModal()">
-    ✅ Sync to Brain &nbsp;<span id="sync-count">0</span>
-  </button>
-</div>
-<div id="sync-modal" onclick="closeSyncModalOutside(event)">
-  <div id="sync-box">
-    <h2>✅ Sync Checked Items to Brain</h2>
-    <p>Copy the message below and paste it into Cowork. Claude will mark these items complete in <code>brain/todo.md</code> and move them to the Completed section.</p>
-    <div id="sync-message"></div>
-    <div class="sync-actions">
-      <button class="btn btn-primary" onclick="copyMessage()">📋 Copy Message <span class="copy-success" id="copy-ok">✓ Copied!</span></button>
-      <button class="btn btn-danger" onclick="clearChecked()">🗑 Uncheck All</button>
-      <button class="btn btn-ghost" onclick="closeSyncModal()">Close</button>
-    </div>
-  </div>
-</div>
+
 <script>
-const STORAGE_KEY = 'paul-dashboard-checked-v1';
-function getChecked() {
-  try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}'); } catch(e) { return {}; }
-}
-function saveChecked(state) {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
-}
-function toggle(cb) {
-  const row = cb.closest('tr');
-  const id = row.dataset.id;
-  const checked = getChecked();
-  if (cb.checked) {
-    const label = row.querySelector('.item-text')?.textContent?.trim() || id;
-    checked[id] = label;
-    row.classList.add('done');
-  } else {
-    delete checked[id];
-    row.classList.remove('done');
-  }
-  saveChecked(checked);
-  updateUI();
-}
-function restoreState() {
-  const checked = getChecked();
-  document.querySelectorAll('tr[data-id]').forEach(row => {
-    if (checked[row.dataset.id]) {
-      row.classList.add('done');
-      const cb = row.querySelector('input[type=checkbox]');
-      if (cb) cb.checked = true;
-    }
-  });
-  updateUI();
-}
-function updateUI() {
-  const checked = getChecked();
-  const checkedCount = Object.keys(checked).length;
-  let high = 0, med = 0, low = 0;
-  document.querySelectorAll('tr[data-priority]').forEach(row => {
-    if (row.classList.contains('done')) return;
-    const p = row.dataset.priority;
-    if (p === 'high') high++;
-    else if (p === 'med') med++;
-    else low++;
-  });
-  document.getElementById('count-high').textContent = high;
-  document.getElementById('count-med').textContent = med;
-  document.getElementById('count-low').textContent = low;
-  document.getElementById('count-done').textContent = checkedCount;
-  document.getElementById('sync-count').textContent = checkedCount;
-  document.getElementById('sync-bar').style.display = checkedCount > 0 ? 'flex' : 'none';
-}
-function openSyncModal() {
-  const checked = getChecked();
-  const items = Object.values(checked);
-  const today = new Date().toISOString().split('T')[0];
-  let msg = 'Mark the following items as complete in brain/todo.md (completed date: ' + today + '):\n\n';
-  items.forEach(item => { msg += '- ' + item + '\n'; });
-  msg += '\nMove each to the Completed section with today\'s date, and remove from Active Items.';
-  document.getElementById('sync-message').textContent = msg;
-  document.getElementById('sync-modal').classList.add('open');
-  document.getElementById('copy-ok').style.display = 'none';
-}
-function closeSyncModal() {
-  document.getElementById('sync-modal').classList.remove('open');
-}
-function closeSyncModalOutside(e) {
-  if (e.target === document.getElementById('sync-modal')) closeSyncModal();
-}
-function copyMessage() {
-  const text = document.getElementById('sync-message').textContent;
-  navigator.clipboard.writeText(text).then(() => {
-    const ok = document.getElementById('copy-ok');
-    ok.style.display = 'inline';
-    setTimeout(() => { ok.style.display = 'none'; }, 2500);
-  });
-}
-function clearChecked() {
-  saveChecked({});
-  document.querySelectorAll('tr[data-id]').forEach(row => {
-    row.classList.remove('done');
-    const cb = row.querySelector('input[type=checkbox]');
-    if (cb) cb.checked = false;
-  });
-  closeSyncModal();
-  updateUI();
-}
-function filterSection(cat, e) {
+function filterCat(cat) {
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-  if (e && e.target) e.target.classList.add('active');
+  event.target.classList.add('active');
   document.querySelectorAll('.section').forEach(s => {
-    s.style.display = (cat === 'all' || s.dataset.cat === cat) ? '' : 'none';
+    if (cat === 'all') { s.style.display = ''; }
+    else { s.style.display = s.dataset.cat === cat ? '' : 'none'; }
   });
 }
-restoreState();
 </script>
 </body>
 </html>
