@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Paul's Dashboard — April 5, 2026</title>
+<title>Paul's Dashboard — April 6, 2026</title>
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { background: #0d1117; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; padding: 20px; }
@@ -44,26 +44,25 @@ a:hover { text-decoration: underline; }
 .context-text { color: #8b949e; font-size: 0.82em; margin-top: 3px; }
 @media (max-width: 700px) {
   body { padding: 10px; }
-  .header h1 { font-size: 1.3em; }
   td, th { padding: 6px 8px; font-size: 0.82em; }
+  .header h1 { font-size: 1.4em; }
 }
 </style>
 </head>
 <body>
+
 <div class="header">
-  <h1>📋 Paul's Todo Dashboard</h1>
-  <div class="updated">Last updated: Sunday, April 5, 2026 at 2:09 PM UTC</div>
+  <h1>&#x1F4CB; Paul's Todo Dashboard</h1>
+  <div class="updated">Last updated: Monday, April 6, 2026 &mdash; Auto-synced from brain/todo.md</div>
 </div>
 
-<!-- Stats -->
 <div class="stats">
-  <div class="stat total"><div class="count">28</div> Total Active</div>
-  <div class="stat high"><div class="count">16</div> 🔴 High</div>
-  <div class="stat med"><div class="count">12</div> 🟡 Medium</div>
-  <div class="stat low"><div class="count">0</div> 🟢 Low</div>
+  <div class="stat total"><div class="count">28</div>Active Items</div>
+  <div class="stat high"><div class="count">16</div>High Priority</div>
+  <div class="stat med"><div class="count">12</div>Medium Priority</div>
+  <div class="stat low"><div class="count">0</div>Low Priority</div>
 </div>
 
-<!-- Filters -->
 <div class="filters">
   <button class="filter-btn active" onclick="filterCat('all')">All</button>
   <button class="filter-btn" onclick="filterCat('deals')">Deals / Funding</button>
@@ -77,258 +76,119 @@ a:hover { text-decoration: underline; }
   <button class="filter-btn" onclick="filterCat('completed')">Completed</button>
 </div>
 
-<!-- Deals / Funding -->
 <div class="section" data-cat="deals">
-  <div class="section-header">💰 Deals / Funding <span class="section-count">4 items</span></div>
+  <div class="section-header"><span>&#x1F4B0; Deals / Funding</span><span class="section-count">4 items</span></div>
   <table>
-    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Houston Deal (1204 Studewood St) — FUND</td>
-      <td><span class="badge badge-purple">Apr 6</span></td>
-      <td class="context-text">$174,466.92 Stack. Docs completed 4/3. Fund Monday. Borrower: Zachary Larsen. <a href="https://app.hubspot.com/contacts/48283532/record/0-3/318718076642" target="_blank">HubSpot</a></td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Alpine Deal (516 E Savannah Cir) — FUND</td>
-      <td><span class="badge badge-purple">Apr 6</span></td>
-      <td class="context-text">~$1M Stack (~$700K funding). Fund Monday. Borrower: Lame Kinikini. <a href="https://app.hubspot.com/contacts/48283532/record/0-3/316769638130" target="_blank">HubSpot</a></td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Hurricane UT deals (4) — fund</td>
-      <td><span class="badge badge-purple">Apr 7</span></td>
-      <td class="context-text">Fund Tue or Wed depending on funds returning from Monday closings.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-med"></span> Medium</td>
-      <td class="item-text">Studewood Stack vs Gap decision</td>
-      <td><span class="badge badge-gray">—</span></td>
-      <td class="context-text">Justin asked if it should move. He's out today — decide solo or table.</td>
-    </tr>
+    <thead><tr><th style="width:30px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th></tr></thead>
+    <tbody>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Houston Deal (1204 Studewood St) &mdash; FUND</td><td><span class="badge badge-yellow">TODAY</span></td><td><div class="context-text">$174,466.92 Stack. Docs completed 4/3. Fund Monday. Borrower: Zachary Larsen. <a href="https://app.hubspot.com/contacts/48283532/record/0-3/318718076642" target="_blank">HubSpot</a></div></td></tr>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Alpine Deal (516 E Savannah Cir) &mdash; FUND</td><td><span class="badge badge-yellow">TODAY</span></td><td><div class="context-text">~$1M Stack (~$700K funding). Fund Monday. Borrower: Lame Kinikini. <a href="https://app.hubspot.com/contacts/48283532/record/0-3/316769638130" target="_blank">HubSpot</a></div></td></tr>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Hurricane UT deals (4) &mdash; fund</td><td><span class="badge badge-purple">Apr 7</span></td><td><div class="context-text">Fund Tue or Wed depending on funds returning from Monday closings.</div></td></tr>
+      <tr><td><span class="priority-dot p-med"></span></td><td class="item-text">Studewood Stack vs Gap decision</td><td><span class="badge badge-gray">No date</span></td><td><div class="context-text">Justin asked if it should move. He's out today &mdash; decide solo or table.</div></td></tr>
+    </tbody>
   </table>
 </div>
 
-<!-- Follow-Ups / Outreach -->
 <div class="section" data-cat="followups">
-  <div class="section-header">📞 Follow-Ups / Outreach <span class="section-count">6 items</span></div>
+  <div class="section-header"><span>&#x1F4DE; Follow-Ups / Outreach</span><span class="section-count">6 items</span></div>
   <table>
-    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Tauna Ellis → Marquee intro</td>
-      <td><span class="badge badge-red">ASAP</span></td>
-      <td class="context-text">Returned the NDA. Follow up to remind her and schedule time on the calendar with her and Marquee to discuss funding and capital.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Jade — fund a Morby Method with Pace</td>
-      <td><span class="badge badge-red">ASAP</span></td>
-      <td class="context-text">Contact Jade to plan funding a deal using the Morby Method with Pace.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Heidi follow-up — property tracking</td>
-      <td><span class="badge badge-red">Apr 4 (overdue)</span></td>
-      <td class="context-text">Property manager. Discuss mortgage/payment tracking for all 4 properties.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Curtis $300K — follow up re: bank fraud block</td>
-      <td><span class="badge badge-red">ASAP</span></td>
-      <td class="context-text">Bank stopped the $300K transfer flagging it as fraud. Follow up with Curtis to resolve and get funds through.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-med"></span> Medium</td>
-      <td class="item-text">Nancee Heckel — RV park training program call</td>
-      <td><span class="badge badge-red">ASAP</span></td>
-      <td class="context-text">Still need to have the call. Re: training program for new RV park buyers. Learn more before judging.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-med"></span> Medium</td>
-      <td class="item-text">Lance EMD deal — follow up with Kiefer</td>
-      <td><span class="badge badge-red">ASAP</span></td>
-      <td class="context-text">~$50K stuck at title. Lance on a cattle ranch now. Watch for his email.</td>
-    </tr>
+    <thead><tr><th style="width:30px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th></tr></thead>
+    <tbody>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Tauna Ellis &rarr; Marquee intro</td><td><span class="badge badge-red">ASAP</span></td><td><div class="context-text">Returned the NDA. Follow up to remind her and schedule time on the calendar with her and Marquee to discuss funding and capital.</div></td></tr>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Jade &mdash; fund a Morby Method with Pace</td><td><span class="badge badge-red">ASAP</span></td><td><div class="context-text">Contact Jade to plan funding a deal using the Morby Method with Pace.</div></td></tr>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Heidi follow-up &mdash; property tracking</td><td><span class="badge badge-red">OVERDUE Apr 4</span></td><td><div class="context-text">Property manager. Discuss mortgage/payment tracking for all 4 properties.</div></td></tr>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Curtis $300K &mdash; follow up re: bank fraud block</td><td><span class="badge badge-red">ASAP</span></td><td><div class="context-text">Bank stopped the $300K transfer flagging it as fraud. Follow up with Curtis to resolve and get funds through.</div></td></tr>
+      <tr><td><span class="priority-dot p-med"></span></td><td class="item-text">Nancee Heckel &mdash; RV park training program call</td><td><span class="badge badge-red">ASAP</span></td><td><div class="context-text">Still need to have the call. Re: training program for new RV park buyers. Learn more before judging.</div></td></tr>
+      <tr><td><span class="priority-dot p-med"></span></td><td class="item-text">Lance EMD deal &mdash; follow up with Kiefer</td><td><span class="badge badge-red">ASAP</span></td><td><div class="context-text">~$50K stuck at title. Lance on a cattle ranch now. Watch for his email.</div></td></tr>
+    </tbody>
   </table>
 </div>
 
-<!-- Personal / Standards -->
 <div class="section" data-cat="personal">
-  <div class="section-header">🎯 Personal / Standards <span class="section-count">3 items</span></div>
+  <div class="section-header"><span>&#x1F3AF; Personal / Standards</span><span class="section-count">3 items</span></div>
   <table>
-    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Schedule date with Akemi</td>
-      <td><span class="badge badge-yellow">This weekend</span></td>
-      <td class="context-text">Not yet scheduled.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-med"></span> Medium</td>
-      <td class="item-text">Schedule temple visit</td>
-      <td><span class="badge badge-purple">April 2026</span></td>
-      <td class="context-text">Not yet scheduled for April.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-med"></span> Medium</td>
-      <td class="item-text">Workouts — missed Friday workout</td>
-      <td><span class="badge badge-red">Apr 4 (overdue)</span></td>
-      <td class="context-text">4/5 for the week. Friday workout did not happen. Make it up or recommit next week.</td>
-    </tr>
+    <thead><tr><th style="width:30px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th></tr></thead>
+    <tbody>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Schedule date with Akemi</td><td><span class="badge badge-red">OVERDUE</span></td><td><div class="context-text">Not yet scheduled. Was due this past weekend.</div></td></tr>
+      <tr><td><span class="priority-dot p-med"></span></td><td class="item-text">Schedule temple visit</td><td><span class="badge badge-purple">April 2026</span></td><td><div class="context-text">Not yet scheduled for April.</div></td></tr>
+      <tr><td><span class="priority-dot p-med"></span></td><td class="item-text">Workouts &mdash; missed Friday workout</td><td><span class="badge badge-red">OVERDUE Apr 4</span></td><td><div class="context-text">4/5 for the week. Friday workout did not happen. Make it up or recommit next week.</div></td></tr>
+    </tbody>
   </table>
 </div>
 
-<!-- Health -->
 <div class="section" data-cat="health">
-  <div class="section-header">🏥 Health <span class="section-count">2 items</span></div>
+  <div class="section-header"><span>&#x2764;&#xFE0F; Health</span><span class="section-count">2 items</span></div>
   <table>
-    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Schedule appointment with Susan Byerly</td>
-      <td><span class="badge badge-purple">Apr 10</span></td>
-      <td class="context-text">Blood tests and overall health check. Susan Byerly, FNP-C. Phone: (801) 224-3031.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Seven Layers of Why — health session</td>
-      <td><span class="badge badge-red">Apr 4 (overdue)</span></td>
-      <td class="context-text">Saturday 9:00–11:40 AM (incl. 20 min travel). Recurring. Protect this time.</td>
-    </tr>
+    <thead><tr><th style="width:30px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th></tr></thead>
+    <tbody>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Schedule appointment with Susan Byerly</td><td><span class="badge badge-purple">Apr 10</span></td><td><div class="context-text">Blood tests and overall health check. Susan Byerly, FNP-C. Phone: (801) 224-3031.</div></td></tr>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Seven Layers of Why &mdash; health session</td><td><span class="badge badge-red">OVERDUE Apr 4</span></td><td><div class="context-text">Saturday 9:00&ndash;11:40 AM (incl. 20 min travel). Recurring. Protect this time.</div></td></tr>
+    </tbody>
   </table>
 </div>
 
-<!-- Calendar — This Weekend -->
 <div class="section" data-cat="calendar">
-  <div class="section-header">📅 Calendar — This Weekend <span class="section-count">3 items</span></div>
+  <div class="section-header"><span>&#x1F4C5; Calendar &mdash; This Weekend (Past)</span><span class="section-count">3 items</span></div>
   <table>
-    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Seven Layers of Why</td>
-      <td><span class="badge badge-red">Sat 4/4 9:00 AM</span></td>
-      <td class="context-text">9:00–11:40 AM with travel</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Orem roof trip</td>
-      <td><span class="badge badge-red">Sat 4/4 1:00 PM</span></td>
-      <td class="context-text">Drive to Orem, tour neighborhoods for roofs, drive back. Choose style/materials, order new roof.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Owner's Club homework</td>
-      <td><span class="badge badge-purple">Mon–Thu 7–8 PM</span></td>
-      <td class="context-text">4 weekly blocks, 1 hour each evening.</td>
-    </tr>
+    <thead><tr><th style="width:30px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th></tr></thead>
+    <tbody>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Seven Layers of Why</td><td><span class="badge badge-red">PAST Sat 4/4</span></td><td><div class="context-text">9:00&ndash;11:40 AM with travel</div></td></tr>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Orem roof trip</td><td><span class="badge badge-red">PAST Sat 4/4</span></td><td><div class="context-text">Drive to Orem, tour neighborhoods for roofs, drive back. Choose style/materials, order new roof.</div></td></tr>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Owner's Club homework</td><td><span class="badge badge-purple">Mon-Thu 7-8 PM</span></td><td><div class="context-text">4 weekly blocks, 1 hour each evening.</div></td></tr>
+    </tbody>
   </table>
 </div>
 
-<!-- Systems / AI -->
 <div class="section" data-cat="systems">
-  <div class="section-header">🤖 Systems / AI <span class="section-count">7 items</span></div>
+  <div class="section-header"><span>&#x1F916; Systems / AI</span><span class="section-count">7 items</span></div>
   <table>
-    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">EMD cancel/return alert tool</td>
-      <td><span class="badge badge-gray">—</span></td>
-      <td class="context-text">Monitor all active EMD deals and alert when an EMD needs to be canceled or returned. Pull signals from HubSpot deal stages + email + Slack.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-med"></span> Medium</td>
-      <td class="item-text">Set up property mortgage tracking</td>
-      <td><span class="badge badge-gray">—</span></td>
-      <td class="context-text">Track 4 properties, monthly payments, whether payments made, account balances. Heidi is property manager.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-med"></span> Medium</td>
-      <td class="item-text">Morning briefing improvement</td>
-      <td><span class="badge badge-gray">—</span></td>
-      <td class="context-text">Add deal funding signal detection.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-med"></span> Medium</td>
-      <td class="item-text">Email management system — expand to additional inboxes</td>
-      <td><span class="badge badge-gray">—</span></td>
-      <td class="context-text">Working well on first email address. Expand one inbox at a time.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-med"></span> Medium</td>
-      <td class="item-text">Capital planning tool</td>
-      <td><span class="badge badge-gray">—</span></td>
-      <td class="context-text">Build a tool to plan and track deployment of capital across deals.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-med"></span> Medium</td>
-      <td class="item-text">Social media engagement research — bi-weekly</td>
-      <td><span class="badge badge-gray">Bi-weekly</span></td>
-      <td class="context-text">Automated deep research: find most highly engaged posts. Deliver report with examples to mimic.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-med"></span> Medium</td>
-      <td class="item-text">Prediction markets / stock market quick-bet tool</td>
-      <td><span class="badge badge-gray">—</span></td>
-      <td class="context-text">Build a tool that can make quick bets in prediction markets or early-morning stock markets.</td>
-    </tr>
+    <thead><tr><th style="width:30px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th></tr></thead>
+    <tbody>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">EMD cancel/return alert tool</td><td><span class="badge badge-gray">No date</span></td><td><div class="context-text">Monitor all active EMD deals and alert when an EMD needs to be canceled or returned. Pull signals from HubSpot deal stages + email + Slack.</div></td></tr>
+      <tr><td><span class="priority-dot p-med"></span></td><td class="item-text">Set up property mortgage tracking</td><td><span class="badge badge-gray">No date</span></td><td><div class="context-text">Track 4 properties, monthly payments, whether payments made, account balances. Heidi is property manager.</div></td></tr>
+      <tr><td><span class="priority-dot p-med"></span></td><td class="item-text">Morning briefing improvement</td><td><span class="badge badge-gray">No date</span></td><td><div class="context-text">Add deal funding signal detection.</div></td></tr>
+      <tr><td><span class="priority-dot p-med"></span></td><td class="item-text">Email management system &mdash; expand to additional inboxes</td><td><span class="badge badge-gray">No date</span></td><td><div class="context-text">Working well on first email address. Expand one inbox at a time.</div></td></tr>
+      <tr><td><span class="priority-dot p-med"></span></td><td class="item-text">Capital planning tool</td><td><span class="badge badge-gray">No date</span></td><td><div class="context-text">Build a tool to plan and track deployment of capital across deals.</div></td></tr>
+      <tr><td><span class="priority-dot p-med"></span></td><td class="item-text">Social media engagement research &mdash; bi-weekly</td><td><span class="badge badge-purple">Bi-weekly</span></td><td><div class="context-text">Automated deep research: find most highly engaged posts on Facebook, Instagram, TikTok, LinkedIn, and YouTube.</div></td></tr>
+      <tr><td><span class="priority-dot p-med"></span></td><td class="item-text">Prediction markets / stock market quick-bet tool</td><td><span class="badge badge-gray">No date</span></td><td><div class="context-text">Build a tool that can make quick bets in prediction markets or early-morning stock markets.</div></td></tr>
+    </tbody>
   </table>
 </div>
 
-<!-- Projects — Build -->
 <div class="section" data-cat="projects">
-  <div class="section-header">🔨 Projects — Build <span class="section-count">3 items</span></div>
+  <div class="section-header"><span>&#x1F527; Projects &mdash; Build</span><span class="section-count">3 items</span></div>
   <table>
-    <tr><th>Priority</th><th>Item</th><th>Due</th><th>Context</th></tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Skool community — finish &amp; launch</td>
-      <td><span class="badge badge-gray">—</span></td>
-      <td class="context-text">Complete updates to all classroom material. Includes voice over work. Launch when done.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-high"></span> High</td>
-      <td class="item-text">Dad's taxes — finish filing</td>
-      <td><span class="badge badge-gray">—</span></td>
-      <td class="context-text">Started with Claude Cowork. Pick up where left off and complete.</td>
-    </tr>
-    <tr>
-      <td><span class="priority-dot p-med"></span> Medium</td>
-      <td class="item-text">Cryo business website (friend)</td>
-      <td><span class="badge badge-gray">—</span></td>
-      <td class="context-text">Build a website with calendaring function and Instagram connectivity for a friend's Cryo business.</td>
-    </tr>
+    <thead><tr><th style="width:30px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th></tr></thead>
+    <tbody>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Skool community &mdash; finish &amp; launch</td><td><span class="badge badge-gray">No date</span></td><td><div class="context-text">Complete updates to all classroom material. Includes voice over work. Launch when done.</div></td></tr>
+      <tr><td><span class="priority-dot p-high"></span></td><td class="item-text">Dad's taxes &mdash; finish filing</td><td><span class="badge badge-gray">No date</span></td><td><div class="context-text">Started with Claude Cowork. Pick up where left off and complete.</div></td></tr>
+      <tr><td><span class="priority-dot p-med"></span></td><td class="item-text">Cryo business website (friend)</td><td><span class="badge badge-gray">No date</span></td><td><div class="context-text">Build a website with calendaring and Instagram connectivity for a cryotherapy business.</div></td></tr>
+    </tbody>
   </table>
 </div>
 
-<!-- Waiting On -->
 <div class="section" data-cat="waiting">
-  <div class="section-header">⏳ Waiting On <span class="section-count">2 items</span></div>
+  <div class="section-header"><span>&#x23F3; Waiting On (Others Owe You)</span><span class="section-count">2 items</span></div>
   <table>
-    <tr><th>Person</th><th>What They Owe</th><th>Context</th></tr>
-    <tr>
-      <td class="item-text">Lance</td>
-      <td class="item-text">Email with EMD deal details (~$50K stuck at title)</td>
-      <td class="context-text">Needs to submit docs. Follow up with Kiefer once received.</td>
-    </tr>
-    <tr>
-      <td class="item-text">Jeramy (escrow)</td>
-      <td class="item-text">Alpine deal docs</td>
-      <td class="context-text">Bottleneck on closing docs for 516 E Savannah Cir.</td>
-    </tr>
+    <thead><tr><th>Person</th><th>What They Owe</th><th>Context</th><th style="width:100px">Last Nudge</th></tr></thead>
+    <tbody>
+      <tr><td class="item-text">Lance</td><td>Email with EMD deal details (~$50K stuck at title)</td><td><div class="context-text">Needs to submit docs. Follow up with Kiefer once received.</div></td><td><span class="badge badge-gray">None</span></td></tr>
+      <tr><td class="item-text">Jeramy (escrow)</td><td>Alpine deal docs</td><td><div class="context-text">Bottleneck on closing docs for 516 E Savannah Cir.</div></td><td><span class="badge badge-gray">None</span></td></tr>
+    </tbody>
   </table>
 </div>
 
-<!-- Completed -->
 <div class="section" data-cat="completed">
-  <div class="section-header">✅ Completed (Last 30 Days) <span class="section-count">5 items</span></div>
+  <div class="section-header"><span>&#x2705; Completed (Last 30 Days)</span><span class="section-count">5 items</span></div>
   <table>
-    <tr><th>Completed</th><th>Item</th></tr>
-    <tr class="completed"><td>2026-04-04</td><td>OC homework — completed and submitted</td></tr>
-    <tr class="completed"><td>2026-04-03</td><td>Houston Deal (1204 Studewood St) — docs completed, promissory note signed</td></tr>
-    <tr class="completed"><td>2026-04-02</td><td>Curtis $300K commitment secured</td></tr>
-    <tr class="completed"><td>2026-04-02</td><td>Darin Heckel call — updated on Tauna, all good</td></tr>
-    <tr class="completed"><td>2026-04-02</td><td>EMD Master Class for Skool community</td></tr>
+    <thead><tr><th style="width:110px">Date</th><th>Item</th></tr></thead>
+    <tbody class="completed">
+      <tr><td><span class="badge badge-gray">Apr 4</span></td><td>OC homework &mdash; completed and submitted</td></tr>
+      <tr><td><span class="badge badge-gray">Apr 3</span></td><td>Houston Deal (1204 Studewood St) &mdash; docs completed, promissory note signed</td></tr>
+      <tr><td><span class="badge badge-gray">Apr 2</span></td><td>Curtis $300K commitment secured</td></tr>
+      <tr><td><span class="badge badge-gray">Apr 2</span></td><td>Darin Heckel call &mdash; updated on Tauna, all good</td></tr>
+      <tr><td><span class="badge badge-gray">Apr 2</span></td><td>EMD Master Class for Skool community</td></tr>
+    </tbody>
   </table>
 </div>
 
@@ -342,5 +202,6 @@ function filterCat(cat) {
   });
 }
 </script>
+
 </body>
 </html>
