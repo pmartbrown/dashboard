@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Paul's Dashboard — April 6, 2026</title>
+<title>Paul's Dashboard — April 7, 2026</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;padding:20px;max-width:1200px;margin:0 auto}
@@ -84,7 +84,7 @@ a:hover{text-decoration:underline}
 
 <div class="header">
   <h1>📋 Paul's Dashboard</h1>
-  <div class="updated">Last updated: Monday, April 6, 2026 — Auto-synced from brain/todo.md</div>
+  <div class="updated">Last updated: Tuesday, April 7, 2026 — Auto-synced from brain/todo.md</div>
 </div>
 
 <div class="stats">
@@ -109,15 +109,23 @@ a:hover{text-decoration:underline}
 
 <!-- DEALS / FUNDING -->
 <div class="section" data-cat="deals">
-  <div class="section-header"><span>💰 Deals / Funding</span><span class="section-count">4 items</span></div>
+  <div class="section-header"><span>💰 Deals / Funding</span><span class="section-count">5 items</span></div>
   <table>
     <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
     <tbody>
+      <tr data-id="capital-raise-250k" data-priority="high" data-label="Capital raise — $250K for deals (contact Curtis + others)">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Capital raise — $250K for deals (contact Curtis + others)</div></td>
+        <td><span class="badge badge-red">TODAY</span></td>
+        <td><div class="context-text">Need to raise $250,000 by today for active deals. Primary contact: Curtis. Review other investors if Curtis is unavailable.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
       <tr data-id="houston-fund" data-priority="high" data-label="Houston Deal (1204 Studewood St) — FUND">
         <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
         <td><span class="priority-dot p-high"></span></td>
         <td><div class="item-text"><a href="https://app.hubspot.com/contacts/48283532/record/0-3/318718076642" target="_blank">Houston Deal (1204 Studewood St) — FUND</a></div></td>
-        <td><span class="badge badge-yellow">TODAY</span></td>
+        <td><span class="badge badge-red">OVERDUE Apr 6</span></td>
         <td><div class="context-text">$174,466.92 Stack. Docs completed 4/3. Fund Monday. Borrower: Zachary Larsen.</div></td>
         <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
       </tr>
@@ -125,7 +133,7 @@ a:hover{text-decoration:underline}
         <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
         <td><span class="priority-dot p-high"></span></td>
         <td><div class="item-text"><a href="https://app.hubspot.com/contacts/48283532/record/0-3/316769638130" target="_blank">Alpine Deal (516 E Savannah Cir) — FUND</a></div></td>
-        <td><span class="badge badge-yellow">TODAY</span></td>
+        <td><span class="badge badge-red">OVERDUE Apr 6</span></td>
         <td><div class="context-text">~$1M Stack (~$700K funding). Fund Monday. Borrower: Lame Kinikini.</div></td>
         <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
       </tr>
@@ -133,7 +141,7 @@ a:hover{text-decoration:underline}
         <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
         <td><span class="priority-dot p-high"></span></td>
         <td><div class="item-text">Hurricane UT deals (4) — fund</div></td>
-        <td><span class="badge badge-purple">Apr 7</span></td>
+        <td><span class="badge badge-yellow">TODAY</span></td>
         <td><div class="context-text">Fund Tue or Wed depending on funds returning from Monday closings.</div></td>
         <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
       </tr>
