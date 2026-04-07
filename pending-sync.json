@@ -1,0 +1,31 @@
+{
+  "date": "2026-04-07",
+  "submittedAt": "2026-04-07T18:38:23.168Z",
+  "items": {
+    "capital-raise-250k": {
+      "label": "Capital raise — $250K for deals (contact Curtis + others)",
+      "pct": 75,
+      "done": false
+    },
+    "houston-fund": {
+      "label": "Houston Deal (1204 Studewood St) — FUND",
+      "pct": 100,
+      "done": true
+    },
+    "alpine-fund": {
+      "label": "Alpine Deal (516 E Savannah Cir) — FUND",
+      "pct": 50,
+      "done": false
+    },
+    "hurricane-fund": {
+      "label": "Hurricane UT deals (4) — fund",
+      "pct": 0,
+      "done": false
+    },
+    "curtis-300k": {
+      "label": "Curtis $300K — follow up re: bank fraud block",
+      "pct": 25,
+      "done": false
+    }
+  }
+}
