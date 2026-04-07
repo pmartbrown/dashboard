@@ -1,0 +1,29 @@
+name: Dashboard Progress Sync
+
+on:
+  push:
+    paths:
+      - 'pending-sync.json'
+  workflow_dispatch:          # allows manual trigger from GitHub UI
+
+permissions:
+  contents: write             # needed to commit changes back
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Run sync script
+        run: python3 scripts/sync-progress.py
+
+      - name: Commit updated todo.md + cleared pending-sync
+        run: |
+          git config user.name "dashboard-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add todo.md pending-sync.json
+          # Only commit if there are actual changes
+          git diff --cached --quiet || git commit -m "Sync dashboard progress to todo.md"
+          git push
