@@ -594,12 +594,13 @@ const GH_FILE = 'pending-sync.json';
 function openSync() {
   const st = load();
   const today = new Date().toISOString().split('T')[0];
-  const completed = [], inProgress = [];
+  const completed = [], inProgress = [], allItems = {};
   document.querySelectorAll('tr[data-id]').forEach(row => {
     const id = row.dataset.id;
     const label = row.dataset.label || id;
     const pct = st[id]?.prog || 0;
     const done = st[id]?.done || false;
+    allItems[id] = { label, pct, done };
     if (done || pct === 100) completed.push(label);
     else if (pct > 0) inProgress.push({label, pct});
   });
@@ -613,8 +614,11 @@ function openSync() {
     msg += 'IN PROGRESS:\n';
     inProgress.forEach(({label,pct}) => { msg += '  → ' + label + ': ' + pct + '%\n'; });
   }
+  const unchanged = Object.values(allItems).filter(i => !i.done && i.pct === 0).length;
   if (!completed.length && !inProgress.length) {
     msg = '(No changes to sync yet — check items off or adjust progress bars first.)';
+  } else {
+    msg += '\n(' + unchanged + ' items at 0% not shown above)';
   }
   document.getElementById('sync-message').textContent = msg;
   document.getElementById('sync-status').textContent = '';
@@ -623,7 +627,7 @@ function openSync() {
   btn.disabled = false;
   btn.textContent = '🚀 Submit to Brain';
   document.getElementById('sync-modal').classList.add('open');
-  window._syncPayload = { completed, inProgress, date: today };
+  window._syncPayload = { completed, inProgress, allItems, date: today };
 }
 
 async function submitSync() {
@@ -650,11 +654,12 @@ async function submitSync() {
       headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' }
     });
     if (getRes.ok) { const ex = await getRes.json(); sha = ex.sha; }
-    // Write pending-sync.json
-    const body = {
-      message: 'Dashboard sync ' + payload.date,
-      content: btoa(JSON.stringify({...payload, submittedAt: new Date().toISOString()}, null, 2))
-    };
+    // Build full progress snapshot — all items including 0%
+    const snapshot = { date: payload.date, submittedAt: new Date().toISOString(), items: payload.allItems };
+    const jsonStr = JSON.stringify(snapshot, null, 2);
+    const uint8 = new TextEncoder().encode(jsonStr);
+    const binStr = Array.from(uint8, b => String.fromCharCode(b)).join('');
+    const body = { message: 'Dashboard sync ' + payload.date, content: btoa(binStr) };
     if (sha) body.sha = sha;
     const putRes = await fetch('https://api.github.com/repos/' + GH_REPO + '/contents/' + GH_FILE, {
       method: 'PUT',
@@ -662,10 +667,10 @@ async function submitSync() {
       body: JSON.stringify(body)
     });
     if (putRes.ok) {
-      statusEl.textContent = '✅ Submitted! Changes will be applied to brain/todo.md on next morning run.';
+      statusEl.textContent = '✅ Synced! Progress will update in todo.md within 1 minute.';
       statusEl.style.color = '#3fb950';
       btn.textContent = '✅ Done';
-      setTimeout(() => { clearAll(); closeSync(); }, 3000);
+      setTimeout(() => { closeSync(); }, 3000);
     } else {
       const err = await putRes.json().catch(()=>({}));
       if (putRes.status === 401) { localStorage.removeItem(GH_PAT_KEY); statusEl.textContent = '❌ Token invalid — removed. Try again.'; }
