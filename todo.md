@@ -2,7 +2,7 @@
 > Single source of truth for all action items, follow-ups, and commitments.
 > Persistent across all Cowork sessions. Any skill or task that creates, completes, or modifies action items updates THIS file.
 > Refer to this file when Paul says: "to-do list", "follow-ups", "what's pending", "what do I need to do", "check my items", "open loops", etc.
-> Last updated: 2026-04-07
+> Last updated: 2026-04-12
 
 ---
 
@@ -11,8 +11,9 @@
 ### Deals / Funding
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
-| Capital raise — $250K for deals (contact Curtis + others) | 2026-04-07 | Need to raise $250,000 by tomorrow for active deals. Primary contact: Curtis. Review other investors if Curtis is unavailable. | 🔴 High | 75% |
-| Alpine Deal (516 E Savannah Cir) — FUND | 2026-04-06 | ~$1M Stack (~$700K funding). Fund Monday. Borrower: Lame Kinikini. [HubSpot](https://app.hubspot.com/contacts/48283532/record/0-3/316769638130) | 🔴 High | 50% |
+| Capital raise — $250K for deals (contact Curtis + others) | 2026-04-07 | Need to raise $250,000 by tomorrow for active deals. Primary contact: Curtis. Review other investors if Curtis is unavailable. | 🔴 High | — |
+| Houston Deal (1204 Studewood St) — FUND | 2026-04-06 | $174,466.92 Stack. Docs completed 4/3. Fund Monday. Borrower: Zachary Larsen. [HubSpot](https://app.hubspot.com/contacts/48283532/record/0-3/318718076642) | 🔴 High | — |
+| Alpine Deal (516 E Savannah Cir) — FUND | 2026-04-06 | ~$1M Stack (~$700K funding). Fund Monday. Borrower: Lame Kinikini. [HubSpot](https://app.hubspot.com/contacts/48283532/record/0-3/316769638130) | 🔴 High | — |
 | Hurricane UT deals (4) — fund | 2026-04-07 | Fund Tue or Wed depending on funds returning from Monday closings. | 🔴 High | — |
 | Studewood Stack vs Gap decision | — | Justin asked if it should move. He's out today — decide solo or table. | 🟡 Medium | — |
 
@@ -24,7 +25,7 @@
 | Jade — fund a Morby Method with Pace | ASAP | Contact Jade to plan funding a deal using the Morby Method with Pace. | 🔴 High | — |
 | Lance EMD deal — follow up with Kiefer | ASAP | ~$50K stuck at title. Lance on a cattle ranch now. Watch for his email. | 🟡 Medium | — |
 | Heidi follow-up — property tracking | 2026-04-04 | Property manager. Discuss mortgage/payment tracking for all 4 properties. | 🔴 High | — |
-| Curtis $300K — follow up re: bank fraud block | ASAP | Bank stopped the $300K transfer flagging it as fraud. Follow up with Curtis to resolve and get funds through. | 🔴 High | 25% |
+| Curtis $300K — follow up re: bank fraud block | ASAP | Bank stopped the $300K transfer flagging it as fraud. Follow up with Curtis to resolve and get funds through. | 🔴 High | — |
 
 ### Personal / Standards
 | Item | Due | Context | Priority | Progress |
@@ -79,7 +80,6 @@
 
 | Completed | Item |
 |-----------|------|
-| 2026-04-07 | Houston Deal (1204 Studewood St) — FUND |
 | 2026-04-03 | Houston Deal (1204 Studewood St) — docs completed, promissory note signed |
 | 2026-04-04 | OC homework — completed and submitted |
 | 2026-04-02 | Curtis $300K commitment secured |
