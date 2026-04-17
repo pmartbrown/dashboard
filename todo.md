@@ -2,7 +2,7 @@
 > Single source of truth for all action items, follow-ups, and commitments.
 > Persistent across all Cowork sessions. Any skill or task that creates, completes, or modifies action items updates THIS file.
 > Refer to this file when Paul says: "to-do list", "follow-ups", "what's pending", "what do I need to do", "check my items", "open loops", etc.
-> Last updated: 2026-04-12
+> Last updated: 2026-04-17
 
 ---
 
@@ -12,10 +12,8 @@
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
 | Capital raise — $250K for deals (contact Curtis + others) | 2026-04-07 | Need to raise $250,000 by tomorrow for active deals. Primary contact: Curtis. Review other investors if Curtis is unavailable. | 🔴 High | — |
-| Houston Deal (1204 Studewood St) — FUND | 2026-04-06 | $174,466.92 Stack. Docs completed 4/3. Fund Monday. Borrower: Zachary Larsen. [HubSpot](https://app.hubspot.com/contacts/48283532/record/0-3/318718076642) | 🔴 High | — |
-| Alpine Deal (516 E Savannah Cir) — FUND | 2026-04-06 | ~$1M Stack (~$700K funding). Fund Monday. Borrower: Lame Kinikini. [HubSpot](https://app.hubspot.com/contacts/48283532/record/0-3/316769638130) | 🔴 High | — |
-| Hurricane UT deals (4) — fund | 2026-04-07 | Fund Tue or Wed depending on funds returning from Monday closings. | 🔴 High | — |
 | Studewood Stack vs Gap decision | — | Justin asked if it should move. He’s out today — decide solo or table. | 🟡 Medium | — |
+| Ensure investors have been paid, including Adam's ad hoc funds | ASAP | Reconcile with Adam — calculate return amount + rate fees owed. | 🔴 High | — |
 
 ### Follow-Ups / Outreach
 | Item | Due | Context | Priority | Progress |
@@ -26,6 +24,7 @@
 | Lance EMD deal — follow up with Kiefer | ASAP | ~$50K stuck at title. Lance on a cattle ranch now. Watch for his email. | 🟡 Medium | — |
 | Heidi follow-up — property tracking | 2026-04-04 | Property manager. Discuss mortgage/payment tracking for all 4 properties. | 🔴 High | — |
 | Curtis $300K — follow up re: bank fraud block | ASAP | Bank stopped the $300K transfer flagging it as fraud. Follow up with Curtis to resolve and get funds through. | 🔴 High | — |
+| Pace Morby 1:1 follow-up | ASAP | Jenny has the Mt. Everest statement — no response yet. Follow up to get 1:1 time with Pace. | 🔴 High | — |
 
 ### Personal / Standards
 | Item | Due | Context | Priority | Progress |
@@ -33,6 +32,8 @@
 | Schedule date with Akemi | This weekend | Not yet scheduled. | 🔴 High | — |
 | Schedule temple visit | April 2026 | Not yet scheduled for April. | 🟡 Medium | — |
 | Workouts — missed Friday workout | 2026-04-04 | 4/5 for the week. Friday workout did not happen. Make it up or recommit next week. | 🟡 Medium | — |
+| Noa's FAFSA — parent section | ASAP | Parent section still needed on studentaid.gov. | 🔴 High | — |
+| Tax prep with Ernst & Young | This week | Organize books for Jayanti Jha at EY. | 🔴 High | — |
 
 ### Health
 | Item | Due | Context | Priority | Progress |
@@ -64,6 +65,8 @@
 | Skool community — finish & launch | — | Complete updates to all classroom material. Includes voice over work (requires external software tools). Launch when done. | 🔴 High | — |
 | Dad's taxes — finish filing | — | Started with Claude Cowork. Pick up where left off and complete. | 🔴 High | — |
 | Cryo business website (friend) | — | Build a website with a calendaring function and Instagram account connectivity for a friend who runs a Cryo (cryotherapy) business. | 🟡 Medium | — |
+| Jordan Davis collaboration — AI agents/websites/apps | — | Schedule a working session with neighbor Jordan Davis. Discussed on Apr 12 walk home from church. Build AI agents, websites, and apps together. | 🟡 Medium | — |
+| RezGap Plus Fund — set up electronic sub docs | — | PPM, LPA, subscription docs uploaded. Bank connected. KPIs done. Only remaining: configure e-sign templates for subscription documents in Cash Flow Portal. | 🔴 High | — |
 
 ---
 
@@ -72,7 +75,6 @@
 | Expected | Person | What They Owe | Context | — |
 |----------|--------|--------------|---------|------------|
 | — | Lance | Email with EMD deal details (~$50K stuck at title) | Needs to submit docs. Follow up with Kiefer once received. | — |
-| — | Jeramy (escrow) | Alpine deal docs | Bottleneck on closing docs for 516 E Savannah Cir. | — |
 
 ---
 
@@ -80,8 +82,16 @@
 
 | Completed | Item |
 |-----------|------|
-| 2026-04-03 | Houston Deal (1204 Studewood St) — docs completed, promissory note signed |
+| 2026-04-17 | RezGap Plus Fund — PPM, LPA, subscription docs uploaded to Cash Flow Portal |
+| 2026-04-17 | RezGap Plus Fund — bank account connected for ACH |
+| 2026-04-17 | RezGap Plus Fund — deal-level KPIs configured |
+| 2026-04-12 | Alpine Deal (516 E Savannah Cir) — closed & returned, $17K profit |
+| 2026-04-12 | Hurricane UT deals (4) — funded, closed & returned, $21K combined profit |
+| 2026-04-12 | Houston Deal (1204 Studewood St) — funded & completed |
+| 2026-04-12 | CliftonStrengths assessment — completed |
+| 2026-04-12 | OC Retreat hotel — Airbnb booked for May 14–17 San Antonio |
 | 2026-04-04 | OC homework — completed and submitted |
+| 2026-04-03 | Houston Deal (1204 Studewood St) — docs completed, promissory note signed |
 | 2026-04-02 | Curtis $300K commitment secured |
 | 2026-04-02 | Darin Heckel call — updated on Tauna, all good |
 | 2026-04-02 | EMD Master Class for Skool community |
