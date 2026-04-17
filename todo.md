@@ -15,7 +15,7 @@
 | Houston Deal (1204 Studewood St) — FUND | 2026-04-06 | $174,466.92 Stack. Docs completed 4/3. Fund Monday. Borrower: Zachary Larsen. [HubSpot](https://app.hubspot.com/contacts/48283532/record/0-3/318718076642) | 🔴 High | — |
 | Alpine Deal (516 E Savannah Cir) — FUND | 2026-04-06 | ~$1M Stack (~$700K funding). Fund Monday. Borrower: Lame Kinikini. [HubSpot](https://app.hubspot.com/contacts/48283532/record/0-3/316769638130) | 🔴 High | — |
 | Hurricane UT deals (4) — fund | 2026-04-07 | Fund Tue or Wed depending on funds returning from Monday closings. | 🔴 High | — |
-| Studewood Stack vs Gap decision | — | Justin asked if it should move. He's out today — decide solo or table. | 🟡 Medium | — |
+| Studewood Stack vs Gap decision | — | Justin asked if it should move. He’s out today — decide solo or table. | 🟡 Medium | — |
 
 ### Follow-Ups / Outreach
 | Item | Due | Context | Priority | Progress |
