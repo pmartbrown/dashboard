@@ -12,7 +12,7 @@
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
 | Capital raise — $250K for deals (contact Curtis + others) | 2026-04-07 | Need to raise $250,000 by tomorrow for active deals. Primary contact: Curtis. Review other investors if Curtis is unavailable. | 🔴 High | — |
-| Studewood Stack vs Gap decision | — | Justin asked if it should move. He’s out today — decide solo or table. | 🟡 Medium | — |
+| Studewood Stack vs Gap decision | — | Justin asked if it should move. He's out today — decide solo or table. | 🟡 Medium | — |
 | Ensure investors have been paid, including Adam's ad hoc funds | ASAP | Reconcile with Adam — calculate return amount + rate fees owed. | 🔴 High | — |
 
 ### Follow-Ups / Outreach
