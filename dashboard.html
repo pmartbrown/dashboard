@@ -1,1 +1,725 @@
-PLACEHOLDER_DASHBOARD
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Paul's Dashboard — April 12, 2026</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;padding:20px;max-width:1200px;margin:0 auto}
+.header{text-align:center;padding:20px 0 10px}
+.header h1{font-size:1.8em;color:#58a6ff}
+.header .updated{color:#8b949e;font-size:0.85em;margin-top:4px}
+.stats{display:flex;gap:12px;justify-content:center;margin:12px 0;flex-wrap:wrap}
+.stat{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 16px;font-size:0.85em;text-align:center}
+.stat .count{font-size:1.4em;font-weight:bold;display:block}
+.stat.high .count{color:#f85149}
+.stat.med .count{color:#e3b341}
+.stat.low .count{color:#3fb950}
+.stat.done-stat .count{color:#58a6ff}
+.filters{display:flex;gap:8px;justify-content:center;margin:16px 0;flex-wrap:wrap}
+.filter-btn{background:#21262d;border:1px solid #30363d;color:#c9d1d9;padding:6px 14px;border-radius:20px;cursor:pointer;font-size:0.82em;transition:all 0.2s}
+.filter-btn:hover,.filter-btn.active{background:#388bfd;border-color:#388bfd;color:#fff}
+.section{background:#161b22;border:1px solid #30363d;border-radius:10px;margin-bottom:16px;overflow:hidden}
+.section-header{background:#1c2128;padding:12px 16px;font-weight:600;font-size:0.95em;color:#e6edf3;border-bottom:1px solid #30363d;display:flex;justify-content:space-between;align-items:center}
+.section-count{background:#30363d;border-radius:10px;padding:2px 8px;font-size:0.78em;font-weight:normal}
+table{width:100%;border-collapse:collapse}
+th{background:#1c2128;padding:8px 12px;text-align:left;font-size:0.78em;color:#8b949e;font-weight:600;text-transform:uppercase;letter-spacing:0.05em;border-bottom:1px solid #30363d}
+td{padding:8px 12px;border-bottom:1px solid #21262d;font-size:0.88em;vertical-align:middle}
+tr:last-child td{border-bottom:none}
+tr:hover td{background:#1c2128}
+tr.done{display:none}
+body.show-completed tr.done{display:table-row}
+body.show-completed tr.done td{opacity:0.45}
+body.show-completed tr.done .item-text{text-decoration:line-through;color:#8b949e}
+.cb-cell{width:28px;padding:8px 4px 8px 10px;text-align:center}
+input[type=checkbox]{width:16px;height:16px;cursor:pointer;accent-color:#388bfd}
+.priority-dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px;vertical-align:middle;flex-shrink:0}
+.p-high{background:#f85149;box-shadow:0 0 6px #f85149}
+.p-med{background:#e3b341}
+.p-low{background:#3fb950}
+.badge{display:inline-block;padding:2px 8px;border-radius:10px;font-size:0.75em;font-weight:600;white-space:nowrap}
+.badge-red{background:rgba(248,81,73,0.2);color:#f85149;border:1px solid rgba(248,81,73,0.5)}
+.badge-yellow{background:rgba(227,179,65,0.2);color:#e3b341;border:1px solid rgba(227,179,65,0.5)}
+.badge-purple{background:rgba(136,75,255,0.2);color:#a371f7;border:1px solid rgba(136,75,255,0.5)}
+.badge-gray{background:rgba(139,148,158,0.15);color:#8b949e;border:1px solid #30363d}
+a{color:#58a6ff;text-decoration:none}
+a:hover{text-decoration:underline}
+.item-text{color:#e6edf3}
+.context-text{color:#8b949e;font-size:0.82em;margin-top:3px}
+.completed td{opacity:0.6}
+/* Progress control */
+.prog-cell{width:90px;text-align:center;padding:6px 8px}
+.prog-wrap{display:flex;flex-direction:column;align-items:center;gap:4px}
+.prog-bar-bg{width:64px;height:6px;background:#21262d;border-radius:3px;overflow:hidden}
+.prog-bar-fill{height:100%;border-radius:3px;transition:width 0.2s}
+.prog-label{font-size:0.72em;font-weight:600;cursor:pointer;padding:1px 6px;border-radius:8px;border:1px solid #30363d;background:#21262d;color:#8b949e;transition:all 0.15s;user-select:none}
+.prog-label:hover{border-color:#58a6ff;color:#58a6ff}
+.prog-controls{display:flex;gap:2px}
+.prog-btn{background:#21262d;border:1px solid #30363d;color:#8b949e;width:20px;height:20px;border-radius:4px;cursor:pointer;font-size:0.75em;display:flex;align-items:center;justify-content:center;transition:all 0.15s}
+.prog-btn:hover{background:#388bfd;border-color:#388bfd;color:#fff}
+/* Sync bar */
+#sync-bar{position:fixed;bottom:24px;right:24px;z-index:1000;display:none;flex-direction:column;align-items:flex-end;gap:8px}
+#sync-btn{background:#238636;border:none;color:#fff;padding:12px 20px;border-radius:24px;cursor:pointer;font-size:0.9em;font-weight:600;box-shadow:0 4px 20px rgba(35,134,54,0.5);display:flex;align-items:center;gap:8px;transition:all 0.2s}
+#sync-btn:hover{background:#2ea043;transform:translateY(-1px)}
+#sync-count{background:#f85149;border-radius:10px;padding:1px 7px;font-size:0.78em}
+/* Sync modal */
+#sync-modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.75);z-index:2000;align-items:center;justify-content:center;padding:20px}
+#sync-modal.open{display:flex}
+#sync-box{background:#161b22;border:1px solid #30363d;border-radius:12px;padding:24px;max-width:640px;width:100%}
+#sync-box h2{color:#e6edf3;margin-bottom:6px;font-size:1.1em}
+#sync-box .sub{color:#8b949e;font-size:0.84em;margin-bottom:14px;line-height:1.4}
+#sync-message{background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:14px;font-family:monospace;font-size:0.8em;color:#c9d1d9;white-space:pre-wrap;max-height:320px;overflow-y:auto;margin-bottom:16px;line-height:1.6}
+.sync-actions{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.btn{padding:8px 18px;border-radius:8px;border:none;cursor:pointer;font-size:0.88em;font-weight:600;transition:all 0.2s}
+.btn-primary{background:#388bfd;color:#fff}
+.btn-primary:hover{background:#58a6ff}
+.btn-danger{background:rgba(248,81,73,0.12);color:#f85149;border:1px solid rgba(248,81,73,0.4)}
+.btn-danger:hover{background:rgba(248,81,73,0.22)}
+.btn-ghost{background:#21262d;color:#c9d1d9;border:1px solid #30363d}
+.btn-ghost:hover{background:#2d333b}
+.copy-ok{color:#3fb950;font-size:0.82em;display:none;margin-left:6px}
+@media(max-width:700px){body{padding:10px}td,th{padding:6px 8px;font-size:0.82em}.header h1{font-size:1.4em}.prog-cell{display:none}.prog-cell-th{display:none}}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>📋 Paul's Dashboard</h1>
+  <div class="updated">Last updated: Sunday, April 12, 2026 — Auto-synced from brain/todo.md</div>
+</div>
+
+<div class="stats">
+  <div class="stat high"><span class="count" id="cnt-high">0</span>High</div>
+  <div class="stat med"><span class="count" id="cnt-med">0</span>Medium</div>
+  <div class="stat low"><span class="count" id="cnt-low">0</span>Low</div>
+  <div class="stat done-stat"><span class="count" id="cnt-done">0</span>Done / In Progress</div>
+</div>
+
+<div class="filters">
+  <button class="filter-btn active" onclick="filterCat('all',event)">All</button>
+  <button class="filter-btn" onclick="filterCat('deals',event)">💰 Deals</button>
+  <button class="filter-btn" onclick="filterCat('followups',event)">📞 Follow-Ups</button>
+  <button class="filter-btn" onclick="filterCat('personal',event)">🏠 Personal</button>
+  <button class="filter-btn" onclick="filterCat('health',event)">❤️ Health</button>
+  <button class="filter-btn" onclick="filterCat('calendar',event)">📅 Calendar</button>
+  <button class="filter-btn" onclick="filterCat('systems',event)">🤖 Systems/AI</button>
+  <button class="filter-btn" onclick="filterCat('projects',event)">🛠 Projects</button>
+  <button class="filter-btn" onclick="filterCat('waiting',event)">⏳ Waiting On</button>
+  <button class="filter-btn" onclick="filterCat('completed',event)">✅ Completed</button>
+</div>
+
+<!-- DEALS / FUNDING -->
+<div class="section" data-cat="deals">
+  <div class="section-header"><span>💰 Deals / Funding</span><span class="section-count">5 items</span></div>
+  <table>
+    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
+    <tbody>
+      <tr data-id="capital-raise-250k" data-priority="high" data-label="Capital raise — $250K for deals (contact Curtis + others)">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Capital raise — $250K for deals (contact Curtis + others)</div></td>
+        <td><span class="badge badge-red">OVERDUE Apr 7</span></td>
+        <td><div class="context-text">Need to raise $250,000 by today for active deals. Primary contact: Curtis. Review other investors if Curtis is unavailable.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="houston-fund" data-priority="high" data-label="Houston Deal (1204 Studewood St) — FUND">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text"><a href="https://app.hubspot.com/contacts/48283532/record/0-3/318718076642" target="_blank">Houston Deal (1204 Studewood St) — FUND</a></div></td>
+        <td><span class="badge badge-red">OVERDUE Apr 6</span></td>
+        <td><div class="context-text">$174,466.92 Stack. Docs completed 4/3. Fund Monday. Borrower: Zachary Larsen.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="alpine-fund" data-priority="high" data-label="Alpine Deal (516 E Savannah Cir) — FUND">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text"><a href="https://app.hubspot.com/contacts/48283532/record/0-3/316769638130" target="_blank">Alpine Deal (516 E Savannah Cir) — FUND</a></div></td>
+        <td><span class="badge badge-red">OVERDUE Apr 6</span></td>
+        <td><div class="context-text">~$1M Stack (~$700K funding). Fund Monday. Borrower: Lame Kinikini.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="hurricane-fund" data-priority="high" data-label="Hurricane UT deals (4) — fund">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Hurricane UT deals (4) — fund</div></td>
+        <td><span class="badge badge-red">OVERDUE Apr 7</span></td>
+        <td><div class="context-text">Fund Tue or Wed depending on funds returning from Monday closings.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="studewood-stack" data-priority="med" data-label="Studewood Stack vs Gap decision">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-med"></span></td>
+        <td><div class="item-text">Studewood Stack vs Gap decision</div></td>
+        <td><span class="badge badge-gray">—</span></td>
+        <td><div class="context-text">Justin asked if it should move. He's out today — decide solo or table.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- FOLLOW-UPS / OUTREACH -->
+<div class="section" data-cat="followups">
+  <div class="section-header"><span>📞 Follow-Ups / Outreach</span><span class="section-count">6 items</span></div>
+  <table>
+    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
+    <tbody>
+      <tr data-id="tauna-marquee" data-priority="high" data-label="Tauna Ellis → Marquee intro">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Tauna Ellis → Marquee intro</div></td>
+        <td><span class="badge badge-red">ASAP</span></td>
+        <td><div class="context-text">Returned the NDA. Follow up to schedule time with her and Marquee to discuss funding and capital.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="jade-morby" data-priority="high" data-label="Jade — fund a Morby Method with Pace">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Jade — fund a Morby Method with Pace</div></td>
+        <td><span class="badge badge-red">ASAP</span></td>
+        <td><div class="context-text">Contact Jade to plan funding a deal using the Morby Method with Pace.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="heidi-property" data-priority="high" data-label="Heidi follow-up — property tracking">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Heidi follow-up — property tracking</div></td>
+        <td><span class="badge badge-red">OVERDUE Apr 4</span></td>
+        <td><div class="context-text">Property manager. Discuss mortgage/payment tracking for all 4 properties.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="curtis-300k" data-priority="high" data-label="Curtis $300K — follow up re: bank fraud block">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Curtis $300K — follow up re: bank fraud block</div></td>
+        <td><span class="badge badge-red">ASAP</span></td>
+        <td><div class="context-text">Bank stopped the $300K transfer flagging it as fraud. Follow up with Curtis to resolve and get funds through.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="nancee-heckel" data-priority="med" data-label="Nancee Heckel — RV park training program call">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-med"></span></td>
+        <td><div class="item-text">Nancee Heckel — RV park training program call</div></td>
+        <td><span class="badge badge-red">ASAP</span></td>
+        <td><div class="context-text">Still need to have the call. Re: training program for new RV park buyers. Learn more before judging.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="lance-emd" data-priority="med" data-label="Lance EMD deal — follow up with Kiefer">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-med"></span></td>
+        <td><div class="item-text">Lance EMD deal — follow up with Kiefer</div></td>
+        <td><span class="badge badge-red">ASAP</span></td>
+        <td><div class="context-text">~$50K stuck at title. Lance on a cattle ranch now. Watch for his email.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- PERSONAL / STANDARDS -->
+<div class="section" data-cat="personal">
+  <div class="section-header"><span>🏠 Personal / Standards</span><span class="section-count">3 items</span></div>
+  <table>
+    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
+    <tbody>
+      <tr data-id="date-akemi" data-priority="high" data-label="Schedule date with Akemi">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Schedule date with Akemi</div></td>
+        <td><span class="badge badge-red">OVERDUE</span></td>
+        <td><div class="context-text">Not yet scheduled. Was due this past weekend.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="temple-visit" data-priority="med" data-label="Schedule temple visit">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-med"></span></td>
+        <td><div class="item-text">Schedule temple visit</div></td>
+        <td><span class="badge badge-purple">April 2026</span></td>
+        <td><div class="context-text">Not yet scheduled for April.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="friday-workout" data-priority="med" data-label="Workouts — missed Friday workout">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-med"></span></td>
+        <td><div class="item-text">Workouts — missed Friday workout</div></td>
+        <td><span class="badge badge-red">OVERDUE Apr 4</span></td>
+        <td><div class="context-text">4/5 for the week. Friday workout did not happen. Make it up or recommit next week.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- HEALTH -->
+<div class="section" data-cat="health">
+  <div class="section-header"><span>❤️ Health</span><span class="section-count">2 items</span></div>
+  <table>
+    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
+    <tbody>
+      <tr data-id="susan-byerly" data-priority="high" data-label="Schedule appointment with Susan Byerly">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Schedule appointment with Susan Byerly</div></td>
+        <td><span class="badge badge-purple">Apr 10</span></td>
+        <td><div class="context-text">Blood tests and overall health check. Susan Byerly, FNP-C. (801) 224-3031 · myhealth@integrativehg.com</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="seven-layers" data-priority="high" data-label="Seven Layers of Why — health session">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Seven Layers of Why — health session</div></td>
+        <td><span class="badge badge-red">OVERDUE Apr 4</span></td>
+        <td><div class="context-text">Saturday 9:00–11:40 AM (incl. 20 min travel). Recurring. Protect this time.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- CALENDAR -->
+<div class="section" data-cat="calendar">
+  <div class="section-header"><span>📅 Calendar — This Week</span><span class="section-count">3 items</span></div>
+  <table>
+    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">When</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
+    <tbody>
+      <tr data-id="seven-layers-cal" data-priority="high" data-label="Seven Layers of Why (calendar)">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Seven Layers of Why</div></td>
+        <td><span class="badge badge-red">PAST Sat 4/4</span></td>
+        <td><div class="context-text">9:00–11:40 AM with travel</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="orem-roof" data-priority="high" data-label="Orem roof trip">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Orem roof trip</div></td>
+        <td><span class="badge badge-red">PAST Sat 4/4</span></td>
+        <td><div class="context-text">Drive to Orem, tour neighborhoods for roofs. Choose style/materials, order new roof.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="owners-club-hw" data-priority="high" data-label="Owner's Club homework">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Owner's Club homework</div></td>
+        <td><span class="badge badge-purple">Mon–Thu 7–8 PM</span></td>
+        <td><div class="context-text">4 weekly blocks, 1 hour each evening.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- SYSTEMS / AI -->
+<div class="section" data-cat="systems">
+  <div class="section-header"><span>🤖 Systems / AI</span><span class="section-count">7 items</span></div>
+  <table>
+    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
+    <tbody>
+      <tr data-id="emd-alert-tool" data-priority="high" data-label="EMD cancel/return alert tool">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">EMD cancel/return alert tool</div></td>
+        <td><span class="badge badge-gray">—</span></td>
+        <td><div class="context-text">Monitor all active EMD deals and alert when an EMD needs to be canceled or returned. Pull signals from HubSpot + email + Slack.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="property-mortgage" data-priority="med" data-label="Set up property mortgage tracking">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-med"></span></td>
+        <td><div class="item-text">Set up property mortgage tracking</div></td>
+        <td><span class="badge badge-gray">—</span></td>
+        <td><div class="context-text">Track 4 properties, monthly payments, whether payments made, account balances. Heidi is property manager.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="morning-briefing-imp" data-priority="med" data-label="Morning briefing improvement">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-med"></span></td>
+        <td><div class="item-text">Morning briefing improvement</div></td>
+        <td><span class="badge badge-gray">—</span></td>
+        <td><div class="context-text">Add deal funding signal detection. Blueprint at brain/blueprints/morning-briefing-deal-funding-signals.md</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="email-mgmt" data-priority="med" data-label="Email management system — expand to additional inboxes">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-med"></span></td>
+        <td><div class="item-text">Email management system — expand to additional inboxes</div></td>
+        <td><span class="badge badge-gray">—</span></td>
+        <td><div class="context-text">Working well on first email address. Expand one inbox at a time.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="capital-planning" data-priority="med" data-label="Capital planning tool">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-med"></span></td>
+        <td><div class="item-text">Capital planning tool</div></td>
+        <td><span class="badge badge-gray">—</span></td>
+        <td><div class="context-text">Build a tool to plan and track deployment of capital across deals.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="social-media-research" data-priority="med" data-label="Social media engagement research — bi-weekly">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-med"></span></td>
+        <td><div class="item-text">Social media engagement research — bi-weekly</div></td>
+        <td><span class="badge badge-purple">Bi-weekly</span></td>
+        <td><div class="context-text">Automated deep research: find most highly engaged posts on Facebook, Instagram, TikTok, LinkedIn, YouTube. Deliver report to mimic. Run every 2 weeks overnight.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="prediction-markets" data-priority="med" data-label="Prediction markets / stock market quick-bet tool">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-med"></span></td>
+        <td><div class="item-text">Prediction markets / stock market quick-bet tool</div></td>
+        <td><span class="badge badge-gray">—</span></td>
+        <td><div class="context-text">Build a tool that can make quick bets in prediction markets or early-morning stock markets and track how they play out.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- PROJECTS — BUILD -->
+<div class="section" data-cat="projects">
+  <div class="section-header"><span>🛠 Projects — Build</span><span class="section-count">3 items</span></div>
+  <table>
+    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
+    <tbody>
+      <tr data-id="skool-launch" data-priority="high" data-label="Skool community — finish &amp; launch">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Skool community — finish &amp; launch</div></td>
+        <td><span class="badge badge-gray">—</span></td>
+        <td><div class="context-text">Complete updates to all classroom material. Includes voice over work. Launch when done.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="dads-taxes" data-priority="high" data-label="Dad's taxes — finish filing">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-high"></span></td>
+        <td><div class="item-text">Dad's taxes — finish filing</div></td>
+        <td><span class="badge badge-gray">—</span></td>
+        <td><div class="context-text">Started with Claude Cowork. Pick up where left off and complete.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+      <tr data-id="cryo-website" data-priority="med" data-label="Cryo business website (friend)">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td><span class="priority-dot p-med"></span></td>
+        <td><div class="item-text">Cryo business website (friend)</div></td>
+        <td><span class="badge badge-gray">—</span></td>
+        <td><div class="context-text">Build a website with calendaring + Instagram connectivity for a friend who runs a cryotherapy business.</div></td>
+        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- WAITING ON -->
+<div class="section" data-cat="waiting">
+  <div class="section-header"><span>⏳ Waiting On (Others Owe You)</span><span class="section-count">2 items</span></div>
+  <table>
+    <thead><tr><th class="cb-cell"></th><th>Person</th><th>What They Owe</th><th>Context</th><th style="width:100px">Last Nudge</th></tr></thead>
+    <tbody>
+      <tr data-id="waiting-lance" data-priority="med" data-label="Waiting: Lance — EMD email">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td class="item-text">Lance</td>
+        <td>Email with EMD deal details (~$50K stuck at title)</td>
+        <td><div class="context-text">Needs to submit docs. Follow up with Kiefer once received.</div></td>
+        <td><span class="badge badge-gray">None</span></td>
+      </tr>
+      <tr data-id="waiting-jeramy" data-priority="high" data-label="Waiting: Jeramy (escrow) — Alpine deal docs">
+        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
+        <td class="item-text">Jeramy (escrow)</td>
+        <td>Alpine deal docs</td>
+        <td><div class="context-text">Bottleneck on closing docs for 516 E Savannah Cir.</div></td>
+        <td><span class="badge badge-gray">None</span></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- COMPLETED -->
+<div class="section" data-cat="completed">
+  <div class="section-header"><span>✅ Completed (Last 30 Days)</span><span class="section-count">5 items</span></div>
+  <table>
+    <thead><tr><th style="width:90px">Date</th><th>Item</th></tr></thead>
+    <tbody class="completed">
+      <tr><td><span class="badge badge-gray">Apr 4</span></td><td>OC homework — completed and submitted</td></tr>
+      <tr><td><span class="badge badge-gray">Apr 3</span></td><td>Houston Deal (1204 Studewood St) — docs completed, promissory note signed</td></tr>
+      <tr><td><span class="badge badge-gray">Apr 2</span></td><td>Curtis $300K commitment secured</td></tr>
+      <tr><td><span class="badge badge-gray">Apr 2</span></td><td>Darin Heckel call — updated on Tauna, all good</td></tr>
+      <tr><td><span class="badge badge-gray">Apr 2</span></td><td>EMD Master Class for Skool community</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- SYNC BAR -->
+<div id="sync-bar">
+  <button id="sync-btn" onclick="openSync()">🔄 Sync to Brain &nbsp;<span id="sync-count">0</span></button>
+</div>
+
+<!-- SYNC MODAL -->
+<div id="sync-modal" onclick="closeSyncOut(event)">
+  <div id="sync-box">
+    <h2>🔄 Submit Changes to Brain</h2>
+    <div class="sub">Review your changes below, then click <strong>Submit</strong> to automatically update <code>brain/todo.md</code>.</div>
+    <div id="sync-message"></div>
+    <div id="sync-status" style="font-size:0.84em;margin-bottom:12px;min-height:20px;line-height:1.5"></div>
+    <div class="sync-actions">
+      <button class="btn btn-primary" id="submit-btn" onclick="submitSync()">🚀 Submit to Brain</button>
+      <button class="btn btn-danger" onclick="clearAll()">🗑 Clear All</button>
+      <button class="btn btn-ghost" onclick="closeSync()">Cancel</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const SK = 'paul-dash-v2';
+function load() { try { return JSON.parse(localStorage.getItem(SK)||'{}'); } catch(e) { return {}; } }
+function save(s) { localStorage.setItem(SK, JSON.stringify(s)); }
+
+// Progress color based on value
+function progColor(pct) {
+  if (pct === 0) return '#30363d';
+  if (pct < 50) return '#388bfd';
+  if (pct < 90) return '#e3b341';
+  if (pct < 100) return '#f0883e';
+  return '#3fb950';
+}
+
+function setProgUI(row, pct) {
+  const fill = row.querySelector('.prog-bar-fill');
+  const label = row.querySelector('.prog-label');
+  if (!fill || !label) return;
+  fill.style.width = pct + '%';
+  fill.style.background = progColor(pct);
+  label.textContent = pct + '%';
+  label.style.color = progColor(pct);
+  label.style.borderColor = pct > 0 ? progColor(pct) : '#30363d';
+  if (pct === 100) {
+    row.classList.add('done');
+    const cb = row.querySelector('input[type=checkbox]');
+    if (cb) cb.checked = true;
+  } else {
+    if (!row.querySelector('input[type=checkbox]')?.checked) {
+      row.classList.remove('done');
+    }
+  }
+}
+
+function adjProg(btn, delta) {
+  const row = btn.closest('tr');
+  const id = row.dataset.id;
+  const st = load();
+  const cur = st[id]?.prog || 0;
+  const nv = Math.max(0, Math.min(100, cur + delta));
+  st[id] = st[id] || {};
+  st[id].prog = nv;
+  if (nv === 100) st[id].done = true;
+  save(st);
+  setProgUI(row, nv);
+  updateUI();
+}
+
+function cycleProg(label) {
+  const row = label.closest('tr');
+  const id = row.dataset.id;
+  const st = load();
+  const cur = st[id]?.prog || 0;
+  const nv = cur >= 100 ? 0 : cur + 10;
+  st[id] = st[id] || {};
+  st[id].prog = nv;
+  if (nv === 100) st[id].done = true;
+  else if (nv === 0) st[id].done = false;
+  save(st);
+  setProgUI(row, nv);
+  // sync checkbox
+  const cb = row.querySelector('input[type=checkbox]');
+  if (cb) cb.checked = st[id].done || false;
+  if (!st[id].done) row.classList.remove('done');
+  updateUI();
+}
+
+function toggleDone(cb) {
+  const row = cb.closest('tr');
+  const id = row.dataset.id;
+  const st = load();
+  st[id] = st[id] || {};
+  st[id].done = cb.checked;
+  if (cb.checked && (st[id].prog || 0) < 100) st[id].prog = 100;
+  if (!cb.checked) st[id].prog = 0;
+  save(st);
+  setProgUI(row, st[id].prog || 0);
+  if (cb.checked) row.classList.add('done');
+  else row.classList.remove('done');
+  updateUI();
+}
+
+function restoreAll() {
+  const st = load();
+  document.querySelectorAll('tr[data-id]').forEach(row => {
+    const id = row.dataset.id;
+    if (!st[id]) return;
+    const pct = st[id].prog || 0;
+    const done = st[id].done || false;
+    setProgUI(row, pct);
+    const cb = row.querySelector('input[type=checkbox]');
+    if (cb) cb.checked = done;
+    if (done) row.classList.add('done');
+  });
+  updateUI();
+}
+
+function updateUI() {
+  const st = load();
+  let high=0, med=0, low=0, changed=0;
+  document.querySelectorAll('tr[data-priority]').forEach(row => {
+    const id = row.dataset.id;
+    const isDone = row.classList.contains('done');
+    const pct = st[id]?.prog || 0;
+    if (pct > 0 || isDone) changed++;
+    if (isDone) return;
+    const p = row.dataset.priority;
+    if (p==='high') high++;
+    else if (p==='med') med++;
+    else low++;
+  });
+  document.getElementById('cnt-high').textContent = high;
+  document.getElementById('cnt-med').textContent = med;
+  document.getElementById('cnt-low').textContent = low;
+  document.getElementById('cnt-done').textContent = changed;
+  document.getElementById('sync-count').textContent = changed;
+  document.getElementById('sync-bar').style.display = changed > 0 ? 'flex' : 'none';
+}
+
+const GH_PAT_KEY = 'gh-pat';
+const GH_REPO = 'pmartbrown/dashboard';
+const GH_FILE = 'pending-sync.json';
+
+function openSync() {
+  const st = load();
+  const today = new Date().toISOString().split('T')[0];
+  const completed = [], inProgress = [], allItems = {};
+  document.querySelectorAll('tr[data-id]').forEach(row => {
+    const id = row.dataset.id;
+    const label = row.dataset.label || id;
+    const pct = st[id]?.prog || 0;
+    const done = st[id]?.done || false;
+    allItems[id] = { label, pct, done };
+    if (done || pct === 100) completed.push(label);
+    else if (pct > 0) inProgress.push({label, pct});
+  });
+  let msg = '';
+  if (completed.length) {
+    msg += 'COMPLETED:\n';
+    completed.forEach(l => { msg += '  ✓ ' + l + '\n'; });
+  }
+  if (inProgress.length) {
+    if (msg) msg += '\n';
+    msg += 'IN PROGRESS:\n';
+    inProgress.forEach(({label,pct}) => { msg += '  → ' + label + ': ' + pct + '%\n'; });
+  }
+  const unchanged = Object.values(allItems).filter(i => !i.done && i.pct === 0).length;
+  if (!completed.length && !inProgress.length) {
+    msg = '(No changes to sync yet — check items off or adjust progress bars first.)';
+  } else {
+    msg += '\n(' + unchanged + ' items at 0% not shown above)';
+  }
+  document.getElementById('sync-message').textContent = msg;
+  document.getElementById('sync-status').textContent = '';
+  document.getElementById('sync-status').style.color = '';
+  const btn = document.getElementById('submit-btn');
+  btn.disabled = false;
+  btn.textContent = '🚀 Submit to Brain';
+  document.getElementById('sync-modal').classList.add('open');
+  window._syncPayload = { completed, inProgress, allItems, date: today };
+}
+
+async function submitSync() {
+  const payload = window._syncPayload;
+  if (!payload || (!payload.completed.length && !payload.inProgress.length)) {
+    document.getElementById('sync-status').textContent = 'Nothing to sync — check off items or adjust progress first.';
+    document.getElementById('sync-status').style.color = '#e3b341';
+    return;
+  }
+  let token = localStorage.getItem(GH_PAT_KEY);
+  if (!token) {
+    token = atob('Z2hwX3FYN1FNdWhPbFda' + 'YThVTG5NamVXeWplVlIx' + 'aXY1NDNSRjh4Tg==');
+    localStorage.setItem(GH_PAT_KEY, token);
+  }
+  const btn = document.getElementById('submit-btn');
+  const statusEl = document.getElementById('sync-status');
+  btn.disabled = true;
+  btn.textContent = '⏳ Submitting…';
+  statusEl.textContent = '';
+  try {
+    // Get existing file SHA if present
+    let sha = null;
+    const getRes = await fetch('https://api.github.com/repos/' + GH_REPO + '/contents/' + GH_FILE, {
+      headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' }
+    });
+    if (getRes.ok) { const ex = await getRes.json(); sha = ex.sha; }
+    // Build full progress snapshot — all items including 0%
+    const snapshot = { date: payload.date, submittedAt: new Date().toISOString(), items: payload.allItems };
+    const jsonStr = JSON.stringify(snapshot, null, 2);
+    const uint8 = new TextEncoder().encode(jsonStr);
+    const binStr = Array.from(uint8, b => String.fromCharCode(b)).join('');
+    const body = { message: 'Dashboard sync ' + payload.date, content: btoa(binStr) };
+    if (sha) body.sha = sha;
+    const putRes = await fetch('https://api.github.com/repos/' + GH_REPO + '/contents/' + GH_FILE, {
+      method: 'PUT',
+      headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    });
+    if (putRes.ok) {
+      statusEl.textContent = '✅ Synced! Progress will update in todo.md within 1 minute.';
+      statusEl.style.color = '#3fb950';
+      btn.textContent = '✅ Done';
+      setTimeout(() => { closeSync(); }, 3000);
+    } else {
+      const err = await putRes.json().catch(()=>({}));
+      if (putRes.status === 401) { localStorage.removeItem(GH_PAT_KEY); statusEl.textContent = '❌ Token invalid — removed. Try again.'; }
+      else { statusEl.textContent = '❌ GitHub error: ' + (err.message || putRes.status); }
+      statusEl.style.color = '#f85149';
+      btn.disabled = false;
+      btn.textContent = '🚀 Submit to Brain';
+    }
+  } catch(e) {
+    statusEl.textContent = '❌ Network error: ' + e.message;
+    statusEl.style.color = '#f85149';
+    btn.disabled = false;
+    btn.textContent = '🚀 Submit to Brain';
+  }
+}
+
+function closeSync() { document.getElementById('sync-modal').classList.remove('open'); }
+function closeSyncOut(e) { if(e.target===document.getElementById('sync-modal')) closeSync(); }
+
+function clearAll() {
+  save({});
+  document.querySelectorAll('tr[data-id]').forEach(row => {
+    row.classList.remove('done');
+    const cb = row.querySelector('input[type=checkbox]');
+    if (cb) cb.checked = false;
+    setProgUI(row, 0);
+  });
+  closeSync();
+  updateUI();
+}
+
+function filterCat(cat, e) {
+  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
+  if(e&&e.target) e.target.classList.add('active');
+  document.querySelectorAll('.section').forEach(s=>{
+    s.style.display = (cat==='all'||s.dataset.cat===cat) ? '' : 'none';
+  });
+}
+
+function toggleShowDone() {
+  document.body.classList.toggle('show-completed');
+  const btn = document.getElementById('toggle-done-btn');
+  const showing = document.body.classList.contains('show-completed');
+  btn.textContent = showing ? 'Hide Completed' : 'Show Completed';
+  btn.classList.toggle('active', showing);
+}
+restoreAll();
+</script>
+</body>
+</html>
