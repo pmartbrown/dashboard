@@ -3,463 +3,557 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Paul's Dashboard — April 6, 2026</title>
+<title>Dashboard</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:#0d1117;color:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;padding:20px;max-width:1200px;margin:0 auto}
-.header{text-align:center;padding:20px 0 10px}
-.header h1{font-size:1.8em;color:#58a6ff}
-.header .updated{color:#8b949e;font-size:0.85em;margin-top:4px}
-.stats{display:flex;gap:12px;justify-content:center;margin:12px 0;flex-wrap:wrap}
-.stat{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 16px;font-size:0.85em;text-align:center}
-.stat .count{font-size:1.4em;font-weight:bold;display:block}
-.stat.high .count{color:#f85149}
-.stat.med .count{color:#e3b341}
-.stat.low .count{color:#3fb950}
-.stat.done-stat .count{color:#58a6ff}
-.filters{display:flex;gap:8px;justify-content:center;margin:16px 0;flex-wrap:wrap}
-.filter-btn{background:#21262d;border:1px solid #30363d;color:#c9d1d9;padding:6px 14px;border-radius:20px;cursor:pointer;font-size:0.82em;transition:all 0.2s}
-.filter-btn:hover,.filter-btn.active{background:#388bfd;border-color:#388bfd;color:#fff}
-.section{background:#161b22;border:1px solid #30363d;border-radius:10px;margin-bottom:16px;overflow:hidden}
-.section-header{background:#1c2128;padding:12px 16px;font-weight:600;font-size:0.95em;color:#e6edf3;border-bottom:1px solid #30363d;display:flex;justify-content:space-between;align-items:center}
-.section-count{background:#30363d;border-radius:10px;padding:2px 8px;font-size:0.78em;font-weight:normal}
+:root{--accent:#388bfd;--accent-hover:#58a6ff;--bg:#0d1117;--card:#161b22;--card-header:#1c2128;--border:#30363d;--text:#c9d1d9;--text-bright:#e6edf3;--text-dim:#8b949e;--red:#f85149;--yellow:#e3b341;--green:#3fb950;--purple:#a371f7}
+body.rqf{--accent:#00838f;--accent-hover:#26c6da}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;padding:24px;max-width:1280px;margin:0 auto;font-size:15px;line-height:1.5}
+.header{text-align:center;padding:24px 0 16px}
+.header h1{font-size:2em;color:var(--accent-hover);letter-spacing:-0.02em}
+.header .subtitle{color:var(--text-dim);font-size:1em;margin-top:6px;font-weight:500}
+.header .updated{color:#6e7681;font-size:0.88em;margin-top:8px}
+.rqf-banner{text-align:center;margin-bottom:10px;display:none}
+body.rqf .rqf-banner{display:block}
+.rqf-badge{display:inline-block;background:rgba(38,198,218,0.1);border:1px solid rgba(38,198,218,0.3);color:#26c6da;border-radius:20px;padding:5px 18px;font-size:0.82em;font-weight:600;letter-spacing:0.06em;text-transform:uppercase}
+.stats{display:flex;gap:14px;justify-content:center;margin:16px 0 20px;flex-wrap:wrap}
+.stat{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:10px 20px;font-size:0.9em;text-align:center;min-width:90px}
+.stat .count{font-size:1.6em;font-weight:700;display:block;margin-bottom:2px}
+.stat.high .count{color:var(--red)}
+.stat.med .count{color:var(--yellow)}
+.stat.low .count{color:var(--green)}
+.stat.done-stat .count{color:var(--accent-hover)}
+.filters{display:flex;gap:10px;justify-content:center;margin:18px 0;flex-wrap:wrap}
+.filter-btn{background:#21262d;border:1px solid var(--border);color:var(--text);padding:7px 16px;border-radius:20px;cursor:pointer;font-size:0.88em;transition:all 0.2s;font-weight:500}
+.filter-btn:hover,.filter-btn.active{background:var(--accent);border-color:var(--accent);color:#fff}
+.section{background:var(--card);border:1px solid var(--border);border-radius:12px;margin-bottom:20px;overflow:hidden}
+.section-header{background:var(--card-header);padding:14px 18px;font-weight:600;font-size:1.05em;color:var(--text-bright);border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:center}
+.section-count{background:var(--border);border-radius:10px;padding:3px 10px;font-size:0.8em;font-weight:500;color:var(--text-dim)}
 table{width:100%;border-collapse:collapse}
-th{background:#1c2128;padding:8px 12px;text-align:left;font-size:0.78em;color:#8b949e;font-weight:600;text-transform:uppercase;letter-spacing:0.05em;border-bottom:1px solid #30363d}
-td{padding:8px 12px;border-bottom:1px solid #21262d;font-size:0.88em;vertical-align:middle}
+th{background:var(--card-header);padding:10px 14px;text-align:left;font-size:0.82em;color:var(--text-dim);font-weight:600;text-transform:uppercase;letter-spacing:0.05em;border-bottom:1px solid var(--border)}
+td{padding:12px 14px;border-bottom:1px solid #21262d;font-size:0.95em;vertical-align:top;line-height:1.5}
 tr:last-child td{border-bottom:none}
-tr:hover td{background:#1c2128}
-tr.done{display:none}
-body.show-completed tr.done{display:table-row}
-body.show-completed tr.done td{opacity:0.45}
-body.show-completed tr.done .item-text{text-decoration:line-through;color:#8b949e}
-.cb-cell{width:28px;padding:8px 4px 8px 10px;text-align:center}
-input[type=checkbox]{width:16px;height:16px;cursor:pointer;accent-color:#388bfd}
-.priority-dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px;vertical-align:middle;flex-shrink:0}
-.p-high{background:#f85149;box-shadow:0 0 6px #f85149}
-.p-med{background:#e3b341}
-.p-low{background:#3fb950}
-.badge{display:inline-block;padding:2px 8px;border-radius:10px;font-size:0.75em;font-weight:600;white-space:nowrap}
-.badge-red{background:rgba(248,81,73,0.2);color:#f85149;border:1px solid rgba(248,81,73,0.5)}
-.badge-yellow{background:rgba(227,179,65,0.2);color:#e3b341;border:1px solid rgba(227,179,65,0.5)}
-.badge-purple{background:rgba(136,75,255,0.2);color:#a371f7;border:1px solid rgba(136,75,255,0.5)}
-.badge-gray{background:rgba(139,148,158,0.15);color:#8b949e;border:1px solid #30363d}
-a{color:#58a6ff;text-decoration:none}
+tr:hover td{background:rgba(28,33,40,0.7)}
+tr.done td{opacity:0.4}
+tr.done .item-text{text-decoration:line-through;color:#6e7681}
+.cb-cell{width:32px;padding:12px 6px 12px 12px;text-align:center;vertical-align:middle}
+input[type=checkbox]{width:18px;height:18px;cursor:pointer;accent-color:var(--accent)}
+.priority-dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:middle;flex-shrink:0}
+.p-high{background:var(--red);box-shadow:0 0 6px var(--red)}
+.p-med{background:var(--yellow)}
+.p-low{background:var(--green)}
+.badge{display:inline-block;padding:3px 10px;border-radius:10px;font-size:0.8em;font-weight:600;white-space:nowrap}
+.badge-red{background:rgba(248,81,73,0.15);color:#ff7b72;border:1px solid rgba(248,81,73,0.4)}
+.badge-yellow{background:rgba(227,179,65,0.15);color:var(--yellow);border:1px solid rgba(227,179,65,0.4)}
+.badge-purple{background:rgba(136,75,255,0.15);color:var(--purple);border:1px solid rgba(136,75,255,0.4)}
+.badge-teal{background:rgba(38,198,218,0.12);color:#26c6da;border:1px solid rgba(38,198,218,0.35)}
+.badge-gray{background:rgba(110,118,129,0.15);color:var(--text-dim);border:1px solid var(--border)}
+a{color:var(--accent-hover);text-decoration:none}
 a:hover{text-decoration:underline}
-.item-text{color:#e6edf3}
-.context-text{color:#8b949e;font-size:0.82em;margin-top:3px}
-.completed td{opacity:0.6}
-.prog-cell{width:90px;text-align:center;padding:6px 8px}
-.prog-wrap{display:flex;flex-direction:column;align-items:center;gap:4px}
-.prog-bar-bg{width:64px;height:6px;background:#21262d;border-radius:3px;overflow:hidden}
-.prog-bar-fill{height:100%;border-radius:3px;transition:width 0.2s}
-.prog-label{font-size:0.72em;font-weight:600;cursor:pointer;padding:1px 6px;border-radius:8px;border:1px solid #30363d;background:#21262d;color:#8b949e;transition:all 0.15s;user-select:none}
-.prog-label:hover{border-color:#58a6ff;color:#58a6ff}
-.prog-controls{display:flex;gap:2px}
-.prog-btn{background:#21262d;border:1px solid #30363d;color:#8b949e;width:20px;height:20px;border-radius:4px;cursor:pointer;font-size:0.75em;display:flex;align-items:center;justify-content:center;transition:all 0.15s}
-.prog-btn:hover{background:#388bfd;border-color:#388bfd;color:#fff}
-#sync-bar{position:fixed;bottom:24px;right:24px;z-index:1000;display:none;flex-direction:column;align-items:flex-end;gap:8px}
-#sync-btn{background:#238636;border:none;color:#fff;padding:12px 20px;border-radius:24px;cursor:pointer;font-size:0.9em;font-weight:600;box-shadow:0 4px 20px rgba(35,134,54,0.5);display:flex;align-items:center;gap:8px;transition:all 0.2s}
-#sync-btn:hover{background:#2ea043;transform:translateY(-1px)}
-#sync-count{background:#f85149;border-radius:10px;padding:1px 7px;font-size:0.78em}
-#sync-modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.75);z-index:2000;align-items:center;justify-content:center;padding:20px}
-#sync-modal.open{display:flex}
-#sync-box{background:#161b22;border:1px solid #30363d;border-radius:12px;padding:24px;max-width:640px;width:100%}
-#sync-box h2{color:#e6edf3;margin-bottom:6px;font-size:1.1em}
-#sync-box .sub{color:#8b949e;font-size:0.84em;margin-bottom:14px;line-height:1.4}
-#sync-message{background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:14px;font-family:monospace;font-size:0.8em;color:#c9d1d9;white-space:pre-wrap;max-height:320px;overflow-y:auto;margin-bottom:16px;line-height:1.6}
-.sync-actions{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
-.btn{padding:8px 18px;border-radius:8px;border:none;cursor:pointer;font-size:0.88em;font-weight:600;transition:all 0.2s}
-.btn-primary{background:#388bfd;color:#fff}
-.btn-primary:hover{background:#58a6ff}
-.btn-danger{background:rgba(248,81,73,0.12);color:#f85149;border:1px solid rgba(248,81,73,0.4)}
-.btn-danger:hover{background:rgba(248,81,73,0.22)}
-.btn-ghost{background:#21262d;color:#c9d1d9;border:1px solid #30363d}
+.item-text{color:var(--text-bright);font-weight:500}
+.context-text{color:#b0b8c1;font-size:0.9em;margin-top:4px;line-height:1.45}
+.item-stack{display:flex;flex-direction:column;gap:2px}
+.completed-section td{opacity:0.55}
+/* Progress control */
+.prog-cell{width:100px;text-align:center;padding:10px 10px;vertical-align:middle}
+.prog-wrap{display:flex;flex-direction:column;align-items:center;gap:5px}
+.prog-bar-bg{width:70px;height:7px;background:#21262d;border-radius:4px;overflow:hidden}
+.prog-bar-fill{height:100%;border-radius:4px;transition:width 0.2s}
+.prog-label{font-size:0.78em;font-weight:600;cursor:pointer;padding:2px 8px;border-radius:8px;border:1px solid var(--border);background:#21262d;color:var(--text-dim);transition:all 0.15s;user-select:none}
+.prog-label:hover{border-color:var(--accent-hover);color:var(--accent-hover)}
+.prog-controls{display:flex;gap:3px}
+.prog-btn{background:#21262d;border:1px solid var(--border);color:var(--text-dim);width:22px;height:22px;border-radius:5px;cursor:pointer;font-size:0.8em;display:flex;align-items:center;justify-content:center;transition:all 0.15s}
+.prog-btn:hover{background:var(--accent);border-color:var(--accent);color:#fff}
+/* Loading */
+#loading{text-align:center;padding:60px 20px;color:var(--text-dim);font-size:1.1em}
+#loading .spinner{display:inline-block;width:28px;height:28px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin 0.8s linear infinite;margin-bottom:12px}
+@keyframes spin{to{transform:rotate(360deg)}}
+#error-banner{display:none;background:rgba(248,81,73,0.1);border:1px solid rgba(248,81,73,0.4);color:#ff7b72;padding:14px 20px;border-radius:10px;margin:16px 0;text-align:center;font-size:0.92em}
+/* Toast */
+#toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:var(--card);border:1px solid var(--border);color:var(--text);padding:10px 20px;border-radius:10px;font-size:0.88em;display:none;z-index:3000;box-shadow:0 4px 20px rgba(0,0,0,0.4)}
+#toast.success{border-color:var(--green);color:var(--green)}
+#toast.error{border-color:var(--red);color:var(--red)}
+/* Token modal */
+#token-modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.75);z-index:2000;align-items:center;justify-content:center;padding:20px}
+#token-modal.open{display:flex}
+#token-box{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:28px;max-width:500px;width:100%}
+#token-box h2{color:var(--text-bright);margin-bottom:8px;font-size:1.15em}
+#token-box p{color:var(--text-dim);font-size:0.9em;margin-bottom:16px;line-height:1.5}
+#token-input{width:100%;background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:10px 14px;color:var(--text);font-family:monospace;font-size:0.9em;margin-bottom:14px}
+#token-input:focus{outline:none;border-color:var(--accent)}
+.btn{padding:10px 20px;border-radius:8px;border:none;cursor:pointer;font-size:0.92em;font-weight:600;transition:all 0.2s}
+.btn-primary{background:var(--accent);color:#fff}
+.btn-primary:hover{background:var(--accent-hover)}
+.btn-ghost{background:#21262d;color:var(--text);border:1px solid var(--border);margin-left:8px}
 .btn-ghost:hover{background:#2d333b}
-.copy-ok{color:#3fb950;font-size:0.82em;display:none;margin-left:6px}
-@media(max-width:700px){body{padding:10px}td,th{padding:6px 8px;font-size:0.82em}.header h1{font-size:1.4em}.prog-cell{display:none}.prog-cell-th{display:none}}
+/* Mobile */
+@media(max-width:700px){
+  body{padding:12px;font-size:14px}
+  td,th{padding:8px 10px}
+  .header h1{font-size:1.5em}
+  .prog-cell,.prog-cell-th{display:none}
+  .context-text{font-size:0.85em}
+  .section-header{padding:12px 14px;font-size:0.95em}
+}
 </style>
 </head>
 <body>
+
 <div class="header">
-  <h1>📋 Paul's Dashboard</h1>
-  <div class="updated">Last updated: Monday, April 6, 2026 — Auto-synced from brain/todo.md</div>
+  <div class="rqf-banner"><span class="rqf-badge">Real Quick Funds</span></div>
+  <h1 id="dash-title">📋 Paul's Dashboard</h1>
+  <div class="subtitle" id="dash-subtitle"></div>
+  <div class="updated" id="dash-updated">Loading...</div>
 </div>
+
 <div class="stats">
   <div class="stat high"><span class="count" id="cnt-high">0</span>High</div>
   <div class="stat med"><span class="count" id="cnt-med">0</span>Medium</div>
   <div class="stat low"><span class="count" id="cnt-low">0</span>Low</div>
-  <div class="stat done-stat"><span class="count" id="cnt-done">0</span>Done / In Progress</div>
+  <div class="stat done-stat"><span class="count" id="cnt-done">0</span>Done</div>
 </div>
-<div class="filters">
-  <button class="filter-btn active" onclick="filterCat('all',event)">All</button>
-  <button class="filter-btn" onclick="filterCat('deals',event)">💰 Deals</button>
-  <button class="filter-btn" onclick="filterCat('followups',event)">📞 Follow-Ups</button>
-  <button class="filter-btn" onclick="filterCat('personal',event)">🏠 Personal</button>
-  <button class="filter-btn" onclick="filterCat('health',event)">❤️ Health</button>
-  <button class="filter-btn" onclick="filterCat('calendar',event)">📅 Calendar</button>
-  <button class="filter-btn" onclick="filterCat('systems',event)">🤖 Systems/AI</button>
-  <button class="filter-btn" onclick="filterCat('projects',event)">🛠 Projects</button>
-  <button class="filter-btn" onclick="filterCat('waiting',event)">⏳ Waiting On</button>
-  <button class="filter-btn" onclick="filterCat('completed',event)">✅ Completed</button><button class="filter-btn" id="toggle-done-btn" onclick="toggleShowDone()" style="margin-left:auto">Show Completed</button>
-</div>
-<!-- DEALS / FUNDING -->
-<div class="section" data-cat="deals">
-  <div class="section-header"><span>💰 Deals / Funding</span><span class="section-count">5 items</span></div>
-  <table>
-    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
-    <tbody>
-            <tr data-id="capital-raise-250k" data-priority="high" data-label="Capital raise — $250K for deals (contact Curtis + others)">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Capital raise — $250K for deals</div></td>
-        <td><span class="badge badge-purple">Apr 7</span></td>
-        <td><div class="context-text">Need $250K by tomorrow for active deals. Primary: Curtis. Review other investors if needed.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-<tr data-id="houston-fund" data-priority="high" data-label="Houston Deal (1204 Studewood St) — FUND">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text"><a href="https://app.hubspot.com/contacts/48283532/record/0-3/318718076642" target="_blank">Houston Deal (1204 Studewood St) — FUND</a></div></td>
-        <td><span class="badge badge-yellow">TODAY</span></td>
-        <td><div class="context-text">$174,466.92 Stack. Docs completed 4/3. Fund Monday. Borrower: Zachary Larsen.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="alpine-fund" data-priority="high" data-label="Alpine Deal (516 E Savannah Cir) — FUND">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text"><a href="https://app.hubspot.com/contacts/48283532/record/0-3/316769638130" target="_blank">Alpine Deal (516 E Savannah Cir) — FUND</a></div></td>
-        <td><span class="badge badge-yellow">TODAY</span></td>
-        <td><div class="context-text">~$1M Stack (~$700K funding). Fund Monday. Borrower: Lame Kinikini.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="hurricane-fund" data-priority="high" data-label="Hurricane UT deals (4) — fund">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Hurricane UT deals (4) — fund</div></td>
-        <td><span class="badge badge-purple">Apr 7</span></td>
-        <td><div class="context-text">Fund Tue or Wed depending on funds returning from Monday closings.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="studewood-stack" data-priority="med" data-label="Studewood Stack vs Gap decision">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-med"></span></td>
-        <td><div class="item-text">Studewood Stack vs Gap decision</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><div class="context-text">Justin asked if it should move. He's out today — decide solo or table.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<!-- FOLLOW-UPS -->
-<div class="section" data-cat="followups">
-  <div class="section-header"><span>📞 Follow-Ups / Outreach</span><span class="section-count">6 items</span></div>
-  <table>
-    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
-    <tbody>
-      <tr data-id="tauna-marquee" data-priority="high" data-label="Tauna Ellis → Marquee intro">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Tauna Ellis → Marquee intro</div></td>
-        <td><span class="badge badge-red">ASAP</span></td>
-        <td><div class="context-text">Returned the NDA. Follow up to schedule time with her and Marquee to discuss funding and capital.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="jade-morby" data-priority="high" data-label="Jade — fund a Morby Method with Pace">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Jade — fund a Morby Method with Pace</div></td>
-        <td><span class="badge badge-red">ASAP</span></td>
-        <td><div class="context-text">Contact Jade to plan funding a deal using the Morby Method with Pace.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="heidi-property" data-priority="high" data-label="Heidi follow-up — property tracking">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Heidi follow-up — property tracking</div></td>
-        <td><span class="badge badge-red">OVERDUE Apr 4</span></td>
-        <td><div class="context-text">Property manager. Discuss mortgage/payment tracking for all 4 properties.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="curtis-300k" data-priority="high" data-label="Curtis $300K — follow up re: bank fraud block">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Curtis $300K — follow up re: bank fraud block</div></td>
-        <td><span class="badge badge-red">ASAP</span></td>
-        <td><div class="context-text">Bank stopped the $300K transfer flagging it as fraud. Follow up with Curtis to resolve and get funds through.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="nancee-heckel" data-priority="med" data-label="Nancee Heckel — RV park training program call">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-med"></span></td>
-        <td><div class="item-text">Nancee Heckel — RV park training program call</div></td>
-        <td><span class="badge badge-red">ASAP</span></td>
-        <td><div class="context-text">Still need to have the call. Re: training program for new RV park buyers.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="lance-emd" data-priority="med" data-label="Lance EMD deal — follow up with Kiefer">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-med"></span></td>
-        <td><div class="item-text">Lance EMD deal — follow up with Kiefer</div></td>
-        <td><span class="badge badge-red">ASAP</span></td>
-        <td><div class="context-text">~$50K stuck at title. Lance on a cattle ranch now. Watch for his email.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<!-- PERSONAL -->
-<div class="section" data-cat="personal">
-  <div class="section-header"><span>🏠 Personal / Standards</span><span class="section-count">3 items</span></div>
-  <table>
-    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
-    <tbody>
-      <tr data-id="date-akemi" data-priority="high" data-label="Schedule date with Akemi">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Schedule date with Akemi</div></td>
-        <td><span class="badge badge-red">OVERDUE</span></td>
-        <td><div class="context-text">Not yet scheduled. Was due this past weekend.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="temple-visit" data-priority="med" data-label="Schedule temple visit">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-med"></span></td>
-        <td><div class="item-text">Schedule temple visit</div></td>
-        <td><span class="badge badge-purple">April 2026</span></td>
-        <td><div class="context-text">Not yet scheduled for April.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="friday-workout" data-priority="med" data-label="Workouts — missed Friday workout">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-med"></span></td>
-        <td><div class="item-text">Workouts — missed Friday workout</div></td>
-        <td><span class="badge badge-red">OVERDUE Apr 4</span></td>
-        <td><div class="context-text">4/5 for the week. Friday workout did not happen. Make it up or recommit next week.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<!-- HEALTH -->
-<div class="section" data-cat="health">
-  <div class="section-header"><span>❤️ Health</span><span class="section-count">2 items</span></div>
-  <table>
-    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
-    <tbody>
-      <tr data-id="susan-byerly" data-priority="high" data-label="Schedule appointment with Susan Byerly">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Schedule appointment with Susan Byerly</div></td>
-        <td><span class="badge badge-purple">Apr 10</span></td>
-        <td><div class="context-text">Blood tests and overall health check. Susan Byerly, FNP-C. (801) 224-3031 · myhealth@integrativehg.com</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="seven-layers" data-priority="high" data-label="Seven Layers of Why — health session">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Seven Layers of Why — health session</div></td>
-        <td><span class="badge badge-red">OVERDUE Apr 4</span></td>
-        <td><div class="context-text">Saturday 9:00–11:40 AM (incl. 20 min travel). Recurring. Protect this time.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<!-- CALENDAR -->
-<div class="section" data-cat="calendar">
-  <div class="section-header"><span>📅 Calendar — This Week</span><span class="section-count">3 items</span></div>
-  <table>
-    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">When</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
-    <tbody>
-      <tr data-id="seven-layers-cal" data-priority="high" data-label="Seven Layers of Why (calendar)">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Seven Layers of Why</div></td>
-        <td><span class="badge badge-red">PAST Sat 4/4</span></td>
-        <td><div class="context-text">9:00–11:40 AM with travel</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="orem-roof" data-priority="high" data-label="Orem roof trip">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Orem roof trip</div></td>
-        <td><span class="badge badge-red">PAST Sat 4/4</span></td>
-        <td><div class="context-text">Drive to Orem, tour neighborhoods for roofs. Choose style/materials, order new roof.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="owners-club-hw" data-priority="high" data-label="Owner's Club homework">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Owner's Club homework</div></td>
-        <td><span class="badge badge-purple">Mon–Thu 7–8 PM</span></td>
-        <td><div class="context-text">4 weekly blocks, 1 hour each evening.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<!-- SYSTEMS / AI -->
-<div class="section" data-cat="systems">
-  <div class="section-header"><span>🤖 Systems / AI</span><span class="section-count">7 items</span></div>
-  <table>
-    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
-    <tbody>
-      <tr data-id="emd-alert-tool" data-priority="high" data-label="EMD cancel/return alert tool">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">EMD cancel/return alert tool</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><div class="context-text">Monitor all active EMD deals and alert when an EMD needs to be canceled or returned. Pull signals from HubSpot + email + Slack.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="property-mortgage" data-priority="med" data-label="Set up property mortgage tracking">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-med"></span></td>
-        <td><div class="item-text">Set up property mortgage tracking</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><div class="context-text">Track 4 properties, monthly payments, whether payments made, account balances. Heidi is property manager.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="morning-briefing-imp" data-priority="med" data-label="Morning briefing improvement">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-med"></span></td>
-        <td><div class="item-text">Morning briefing improvement</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><div class="context-text">Add deal funding signal detection. Blueprint at brain/blueprints/morning-briefing-deal-funding-signals.md</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="email-mgmt" data-priority="med" data-label="Email management system — expand to additional inboxes">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-med"></span></td>
-        <td><div class="item-text">Email management system — expand to additional inboxes</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><div class="context-text">Working well on first email address. Expand one inbox at a time.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="capital-planning" data-priority="med" data-label="Capital planning tool">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-med"></span></td>
-        <td><div class="item-text">Capital planning tool</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><div class="context-text">Build a tool to plan and track deployment of capital across deals.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="social-media-research" data-priority="med" data-label="Social media engagement research — bi-weekly">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-med"></span></td>
-        <td><div class="item-text">Social media engagement research — bi-weekly</div></td>
-        <td><span class="badge badge-purple">Bi-weekly</span></td>
-        <td><div class="context-text">Automated deep research: find most highly engaged posts on Facebook, Instagram, TikTok, LinkedIn, YouTube. Run every 2 weeks overnight.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="prediction-markets" data-priority="med" data-label="Prediction markets / stock market quick-bet tool">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-med"></span></td>
-        <td><div class="item-text">Prediction markets / stock market quick-bet tool</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><div class="context-text">Build a tool that can make quick bets in prediction markets or early-morning stock markets and track how they play out.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<!-- PROJECTS -->
-<div class="section" data-cat="projects">
-  <div class="section-header"><span>🛠 Projects — Build</span><span class="section-count">3 items</span></div>
-  <table>
-    <thead><tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th>Context</th><th class="prog-cell-th" style="width:90px;text-align:center">Progress</th></tr></thead>
-    <tbody>
-      <tr data-id="skool-launch" data-priority="high" data-label="Skool community — finish &amp; launch">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Skool community — finish &amp; launch</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><div class="context-text">Complete updates to all classroom material. Includes voice over work. Launch when done.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="dads-taxes" data-priority="high" data-label="Dad's taxes — finish filing">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-high"></span></td>
-        <td><div class="item-text">Dad's taxes — finish filing</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><div class="context-text">Started with Claude Cowork. Pick up where left off and complete.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-      <tr data-id="cryo-website" data-priority="med" data-label="Cryo business website (friend)">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td><span class="priority-dot p-med"></span></td>
-        <td><div class="item-text">Cryo business website (friend)</div></td>
-        <td><span class="badge badge-gray">—</span></td>
-        <td><div class="context-text">Build a website with calendaring + Instagram connectivity for a friend who runs a cryotherapy business.</div></td>
-        <td class="prog-cell"><div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">−</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<!-- WAITING ON -->
-<div class="section" data-cat="waiting">
-  <div class="section-header"><span>⏳ Waiting On (Others Owe You)</span><span class="section-count">2 items</span></div>
-  <table>
-    <thead><tr><th class="cb-cell"></th><th>Person</th><th>What They Owe</th><th>Context</th><th style="width:100px">Last Nudge</th></tr></thead>
-    <tbody>
-      <tr data-id="waiting-lance" data-priority="med" data-label="Waiting: Lance — EMD email">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td class="item-text">Lance</td>
-        <td>Email with EMD deal details (~$50K stuck at title)</td>
-        <td><div class="context-text">Needs to submit docs. Follow up with Kiefer once received.</div></td>
-        <td><span class="badge badge-gray">None</span></td>
-      </tr>
-      <tr data-id="waiting-jeramy" data-priority="high" data-label="Waiting: Jeramy (escrow) — Alpine deal docs">
-        <td class="cb-cell"><input type="checkbox" onchange="toggleDone(this)"></td>
-        <td class="item-text">Jeramy (escrow)</td>
-        <td>Alpine deal docs</td>
-        <td><div class="context-text">Bottleneck on closing docs for 516 E Savannah Cir.</div></td>
-        <td><span class="badge badge-gray">None</span></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<!-- COMPLETED -->
-<div class="section" data-cat="completed">
-  <div class="section-header"><span>✅ Completed (Last 30 Days)</span><span class="section-count">5 items</span></div>
-  <table>
-    <thead><tr><th style="width:90px">Date</th><th>Item</th></tr></thead>
-    <tbody class="completed">
-      <tr><td><span class="badge badge-gray">Apr 4</span></td><td>OC homework — completed and submitted</td></tr>
-      <tr><td><span class="badge badge-gray">Apr 3</span></td><td>Houston Deal (1204 Studewood St) — docs completed, promissory note signed</td></tr>
-      <tr><td><span class="badge badge-gray">Apr 2</span></td><td>Curtis $300K commitment secured</td></tr>
-      <tr><td><span class="badge badge-gray">Apr 2</span></td><td>Darin Heckel call — updated on Tauna, all good</td></tr>
-      <tr><td><span class="badge badge-gray">Apr 2</span></td><td>EMD Master Class for Skool community</td></tr>
-    </tbody>
-  </table>
-</div>
-<div id="sync-bar">
-  <button id="sync-btn" onclick="openSync()">🔄 Sync to Brain &nbsp;<span id="sync-count">0</span></button>
-</div>
-<div id="sync-modal" onclick="closeSyncOut(event)">
-  <div id="sync-box">
-    <h2>🔄 Sync Changes to Brain</h2>
-    <div class="sub">Copy the message below and paste it into Cowork. Claude will update <code>brain/todo.md</code> — marking completed items done and recording progress percentages.</div>
-    <div id="sync-message"></div>
-    <div class="sync-actions">
-      <button class="btn btn-primary" onclick="copySync()">📋 Copy Message<span class="copy-ok" id="copy-ok">✓ Copied!</span></button>
-      <button class="btn btn-danger" onclick="clearAll()">🗑 Clear All</button>
-      <button class="btn btn-ghost" onclick="closeSync()">Close</button>
+
+<div class="filters" id="filters"></div>
+
+<div id="loading"><div class="spinner"></div><br>Loading todo.md from GitHub...</div>
+<div id="error-banner"></div>
+<div id="content"></div>
+
+<!-- Toast notification -->
+<div id="toast"></div>
+
+<!-- Token setup modal -->
+<div id="token-modal">
+  <div id="token-box">
+    <h2>🔑 GitHub Token Required</h2>
+    <p>To save progress (checkboxes and progress bars), enter a GitHub Personal Access Token with <strong>repo</strong> scope for <code>pmartbrown/dashboard</code>.</p>
+    <input type="password" id="token-input" placeholder="ghp_xxxxxxxxxxxx">
+    <div>
+      <button class="btn btn-primary" onclick="saveToken()">Save Token</button>
+      <button class="btn btn-ghost" onclick="closeTokenModal()">Skip (read-only)</button>
     </div>
   </div>
 </div>
+
 <script>
-const SK = 'paul-dash-v2';
-function load() { try { return JSON.parse(localStorage.getItem(SK)||'{}'); } catch(e) { return {}; } }
-function save(s) { localStorage.setItem(SK, JSON.stringify(s)); }
-function progColor(pct) {
-  if (pct === 0) return '#30363d';
-  if (pct < 50) return '#388bfd';
-  if (pct < 90) return '#e3b341';
-  if (pct < 100) return '#f0883e';
-  return '#3fb950';
+// ── Configuration ──
+const OWNER = 'pmartbrown';
+const REPO = 'dashboard';
+const FILE_PATH = 'todo.md';
+const RAW_URL = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${FILE_PATH}`;
+const API_URL = `https://api.github.com/repos/${OWNER}/${REPO}/contents/${FILE_PATH}`;
+const TOKEN_KEY = 'gh-pat';
+
+// ── RQF mode detection ──
+const params = new URLSearchParams(window.location.search);
+const isRQF = params.get('view') === 'rqf';
+const RQF_CATS = ['deals', 'follow-ups', 'systems', 'waiting', 'completed'];
+
+if (isRQF) {
+  document.body.classList.add('rqf');
+  document.getElementById('dash-title').textContent = '🏦 Real Quick Funds';
+  document.getElementById('dash-subtitle').textContent = 'Deals · Capital · Lending · Team';
+  document.title = 'Real Quick Funds';
 }
+
+// ── Category mapping ──
+const SECTION_META = {
+  'deals / funding':        { icon: '💰', cat: 'deals',      label: 'Deals / Funding' },
+  'deals':                  { icon: '💰', cat: 'deals',      label: 'Deals / Funding' },
+  'follow-ups / outreach':  { icon: '📞', cat: 'follow-ups', label: 'Follow-Ups / Outreach' },
+  'follow-ups':             { icon: '📞', cat: 'follow-ups', label: 'Follow-Ups / Outreach' },
+  'personal / standards':   { icon: '🏠', cat: 'personal',   label: 'Personal / Standards' },
+  'personal':               { icon: '🏠', cat: 'personal',   label: 'Personal / Standards' },
+  'health':                 { icon: '❤️', cat: 'health',     label: 'Health' },
+  'calendar':               { icon: '📅', cat: 'calendar',   label: 'Calendar' },
+  'calendar - this weekend': { icon: '📅', cat: 'calendar',   label: 'Calendar — This Weekend' },
+  'systems / ai':           { icon: '🤖', cat: 'systems',    label: 'Systems / AI' },
+  'systems':                { icon: '🤖', cat: 'systems',    label: 'Systems / AI' },
+  'projects — build':       { icon: '🛠', cat: 'projects',   label: 'Projects — Build' },
+  'projects':               { icon: '🛠', cat: 'projects',   label: 'Projects — Build' },
+};
+
+// ── State ──
+let parsedSections = [];
+let waitingItems = [];
+let completedItems = [];
+let lastUpdated = '';
+let fileSHA = null;
+
+// ── Fetch & Parse ──
+async function init() {
+  try {
+    const resp = await fetch(RAW_URL + '?t=' + Date.now());
+    if (!resp.ok) throw new Error('Failed to fetch todo.md: ' + resp.status);
+    const md = await resp.text();
+    parseTodoMd(md);
+    render();
+    document.getElementById('loading').style.display = 'none';
+    // Get file SHA for future updates
+    fetchSHA();
+  } catch (e) {
+    document.getElementById('loading').style.display = 'none';
+    showError('Could not load todo.md: ' + e.message);
+  }
+}
+
+function parseTodoMd(md) {
+  const lines = md.split('\n');
+  parsedSections = [];
+  waitingItems = [];
+  completedItems = [];
+  lastUpdated = '';
+
+  let currentH2 = '';
+  let currentH3 = '';
+  let inTable = false;
+  let tableHeaders = [];
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+
+    // Extract last updated
+    const updMatch = line.match(/Last updated:\s*(.+)/);
+    if (updMatch) lastUpdated = updMatch[1].trim();
+
+    // H2 headings
+    if (line.startsWith('## ')) {
+      currentH2 = line.replace('## ', '').trim();
+      currentH3 = '';
+      inTable = false;
+      continue;
+    }
+
+    // H3 headings (sections under Active Items)
+    if (line.startsWith('### ')) {
+      currentH3 = line.replace('### ', '').trim();
+      inTable = false;
+
+      if (currentH2 === 'Active Items') {
+        const key = currentH3.toLowerCase().replace(/\u2014/g, '-').replace(/\s+/g, ' ').trim();
+        // Match against known patterns more flexibly
+        let meta = null;
+        for (const [pattern, m] of Object.entries(SECTION_META)) {
+          if (key.includes(pattern) || pattern.includes(key)) {
+            meta = m;
+            break;
+          }
+        }
+        if (!meta) {
+          // Try matching start of key
+          for (const [pattern, m] of Object.entries(SECTION_META)) {
+            if (key.startsWith(pattern.split(' ')[0])) {
+              meta = m;
+              break;
+            }
+          }
+        }
+        if (!meta) meta = { icon: '📌', cat: key.replace(/[^a-z0-9]/g, '-'), label: currentH3 };
+        parsedSections.push({ ...meta, heading: currentH3, items: [] });
+      }
+      continue;
+    }
+
+    // Table header detection
+    if (line.trim().startsWith('|') && line.includes('Item') && !inTable) {
+      tableHeaders = line.split('|').map(h => h.trim().toLowerCase()).filter(Boolean);
+      inTable = true;
+      continue;
+    }
+
+    // Skip separator row
+    if (inTable && line.trim().match(/^\|[\s\-|]+\|$/)) continue;
+
+    // Table data rows
+    if (inTable && line.trim().startsWith('|') && line.trim().endsWith('|')) {
+      const cells = line.split('|').map(c => c.trim()).filter(Boolean);
+
+      if (currentH2 === 'Active Items' && parsedSections.length > 0) {
+        const section = parsedSections[parsedSections.length - 1];
+        const item = {};
+        tableHeaders.forEach((h, idx) => { item[h] = cells[idx] || ''; });
+        section.items.push(item);
+      } else if (currentH2.toLowerCase().includes('waiting')) {
+        const item = {};
+        tableHeaders.forEach((h, idx) => { item[h] = cells[idx] || ''; });
+        waitingItems.push(item);
+      } else if (currentH2.toLowerCase().includes('completed')) {
+        const item = {};
+        tableHeaders.forEach((h, idx) => { item[h] = cells[idx] || ''; });
+        completedItems.push(item);
+      }
+      continue;
+    }
+
+    // End table on non-table line
+    if (inTable && !line.trim().startsWith('|') && line.trim() !== '') {
+      inTable = false;
+    }
+  }
+}
+
+// ── Rendering ──
+function render() {
+  document.getElementById('dash-updated').textContent =
+    `Last updated: ${lastUpdated} \u2014 Live from todo.md`;
+
+  // Build filter buttons
+  const cats = new Set();
+  parsedSections.forEach(s => cats.add(s.cat));
+  if (waitingItems.length) cats.add('waiting');
+  if (completedItems.length) cats.add('completed');
+
+  const filtersEl = document.getElementById('filters');
+  filtersEl.innerHTML = '';
+  const allBtn = el('button', { class: 'filter-btn active', onclick: (e) => filterCat('all', e) }, 'All');
+  filtersEl.appendChild(allBtn);
+
+  const catLabels = {
+    'deals': '💰 Deals', 'follow-ups': '📞 Follow-Ups', 'personal': '🏠 Personal',
+    'health': '❤️ Health', 'calendar': '📅 Calendar', 'systems': '🤖 Systems/AI',
+    'projects': '🛠 Projects', 'waiting': '⏳ Waiting On', 'completed': '✅ Completed'
+  };
+
+  for (const cat of cats) {
+    if (isRQF && !RQF_CATS.includes(cat)) continue;
+    const label = catLabels[cat] || cat;
+    const btn = el('button', { class: 'filter-btn', onclick: (e) => filterCat(cat, e) }, label);
+    filtersEl.appendChild(btn);
+  }
+
+  // Build sections
+  const contentEl = document.getElementById('content');
+  contentEl.innerHTML = '';
+
+  for (const section of parsedSections) {
+    if (isRQF && !RQF_CATS.includes(section.cat)) continue;
+    if (section.items.length === 0) continue;
+    contentEl.appendChild(renderSection(section));
+  }
+
+  // Waiting On
+  if (waitingItems.length > 0 && (!isRQF || RQF_CATS.includes('waiting'))) {
+    contentEl.appendChild(renderWaiting());
+  }
+
+  // Completed
+  if (completedItems.length > 0 && (!isRQF || RQF_CATS.includes('completed'))) {
+    contentEl.appendChild(renderCompleted());
+  }
+
+  // Restore saved progress from localStorage
+  restoreProgress();
+  updateCounts();
+}
+
+function renderSection(section) {
+  const div = el('div', { class: 'section', 'data-cat': section.cat });
+  const header = el('div', { class: 'section-header' });
+  header.innerHTML = `<span>${section.icon} ${section.label}</span><span class="section-count">${section.items.length} items</span>`;
+  div.appendChild(header);
+
+  const table = el('table');
+  const thead = el('thead');
+  thead.innerHTML = `<tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th class="prog-cell-th" style="width:100px;text-align:center">Progress</th></tr>`;
+  table.appendChild(thead);
+
+  const tbody = el('tbody');
+  section.items.forEach(item => {
+    const tr = renderItemRow(item);
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  div.appendChild(table);
+  return div;
+}
+
+function renderItemRow(item) {
+  const itemText = item.item || '';
+  const due = item.due || '';
+  const context = item.context || '';
+  const priorityRaw = item.priority || '';
+  const progressRaw = item.progress || '\u2014';
+
+  const priority = priorityRaw.includes('High') ? 'high' : priorityRaw.includes('Medium') ? 'med' : 'low';
+  const itemId = slugify(itemText);
+
+  const tr = el('tr', { 'data-id': itemId, 'data-priority': priority, 'data-label': itemText });
+
+  // Checkbox
+  const cbTd = el('td', { class: 'cb-cell' });
+  const cb = el('input', { type: 'checkbox' });
+  cb.addEventListener('change', function() { toggleDone(this); });
+  cbTd.appendChild(cb);
+  tr.appendChild(cbTd);
+
+  // Priority dot
+  const dotTd = el('td');
+  dotTd.innerHTML = `<span class="priority-dot p-${priority}"></span>`;
+  tr.appendChild(dotTd);
+
+  // Item + Context
+  const itemTd = el('td');
+  const stack = el('div', { class: 'item-stack' });
+  const textDiv = el('div', { class: 'item-text' });
+  textDiv.textContent = itemText;
+  stack.appendChild(textDiv);
+  if (context && context !== '\u2014') {
+    const ctxDiv = el('div', { class: 'context-text' });
+    ctxDiv.textContent = context;
+    stack.appendChild(ctxDiv);
+  }
+  itemTd.appendChild(stack);
+  tr.appendChild(itemTd);
+
+  // Due badge
+  const dueTd = el('td');
+  dueTd.innerHTML = renderDueBadge(due);
+  tr.appendChild(dueTd);
+
+  // Progress cell
+  const progTd = el('td', { class: 'prog-cell' });
+  progTd.innerHTML = `
+    <div class="prog-wrap">
+      <div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div>
+      <div class="prog-controls">
+        <button class="prog-btn" onclick="adjProg(this,-10)">−</button>
+        <span class="prog-label" onclick="cycleProg(this)">0%</span>
+        <button class="prog-btn" onclick="adjProg(this,10)">+</button>
+      </div>
+    </div>`;
+  tr.appendChild(progTd);
+
+  return tr;
+}
+
+function renderDueBadge(due) {
+  if (!due || due === '\u2014') return `<span class="badge badge-gray">\u2014</span>`;
+  const lower = due.toLowerCase();
+  if (lower === 'asap') return `<span class="badge badge-red">ASAP</span>`;
+  if (lower.includes('overdue') || lower.includes('past')) return `<span class="badge badge-red">${due}</span>`;
+
+  const dateMatch = due.match(/(\d{4}-\d{2}-\d{2})/);
+  if (dateMatch) {
+    const d = new Date(dateMatch[1] + 'T12:00:00');
+    const today = new Date();
+    today.setHours(12,0,0,0);
+    if (d < today) {
+      const month = d.toLocaleString('en', { month: 'short' });
+      const day = d.getDate();
+      return `<span class="badge badge-red">OVERDUE ${month} ${day}</span>`;
+    }
+    const month = d.toLocaleString('en', { month: 'short' });
+    const day = d.getDate();
+    return `<span class="badge badge-purple">${month} ${day}</span>`;
+  }
+
+  if (lower.includes('week')) return `<span class="badge badge-yellow">${due}</span>`;
+  if (lower.includes('bi-weekly') || lower.includes('monthly')) return `<span class="badge badge-purple">${due}</span>`;
+  return `<span class="badge badge-purple">${due}</span>`;
+}
+
+function renderWaiting() {
+  const div = el('div', { class: 'section', 'data-cat': 'waiting' });
+  const header = el('div', { class: 'section-header' });
+  header.innerHTML = `<span>⏳ Waiting On (Others Owe You)</span><span class="section-count">${waitingItems.length} items</span>`;
+  div.appendChild(header);
+
+  const table = el('table');
+  const thead = el('thead');
+  thead.innerHTML = `<tr><th class="cb-cell"></th><th style="width:140px">Person</th><th>What They Owe</th><th>Context</th><th style="width:100px">Expected</th></tr>`;
+  table.appendChild(thead);
+
+  const tbody = el('tbody');
+  waitingItems.forEach(item => {
+    const person = item.person || '';
+    const owe = item['what they owe'] || '';
+    const context = item.context || '';
+    const expected = item.expected || '\u2014';
+    const id = slugify('waiting-' + person);
+
+    const tr = el('tr', { 'data-id': id, 'data-priority': 'med', 'data-label': `Waiting: ${person} \u2014 ${owe}` });
+    const cbTd = el('td', { class: 'cb-cell' });
+    const cb = el('input', { type: 'checkbox' });
+    cb.addEventListener('change', function() { toggleDone(this); });
+    cbTd.appendChild(cb);
+    tr.appendChild(cbTd);
+
+    const personTd = el('td', { class: 'item-text' });
+    personTd.textContent = person;
+    tr.appendChild(personTd);
+
+    const oweTd = el('td');
+    oweTd.textContent = owe;
+    tr.appendChild(oweTd);
+
+    const ctxTd = el('td');
+    ctxTd.innerHTML = `<div class="context-text">${escHtml(context)}</div>`;
+    tr.appendChild(ctxTd);
+
+    const expTd = el('td');
+    expTd.innerHTML = `<span class="badge badge-gray">${escHtml(expected) || 'None'}</span>`;
+    tr.appendChild(expTd);
+
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  div.appendChild(table);
+  return div;
+}
+
+function renderCompleted() {
+  const div = el('div', { class: 'section', 'data-cat': 'completed' });
+  const header = el('div', { class: 'section-header' });
+  header.innerHTML = `<span>✅ Completed (Last 30 Days)</span><span class="section-count">${completedItems.length} items</span>`;
+  div.appendChild(header);
+
+  const table = el('table');
+  const thead = el('thead');
+  thead.innerHTML = `<tr><th style="width:100px">Date</th><th>Item</th></tr>`;
+  table.appendChild(thead);
+
+  const tbody = el('tbody', { class: 'completed-section' });
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 30);
+
+  completedItems.forEach(item => {
+    const completed = item.completed || '';
+    const text = item.item || '';
+    const tr = el('tr');
+    const dateTd = el('td');
+    const dateMatch = completed.match(/(\d{4})-(\d{2})-(\d{2})/);
+    let dateLabel = completed;
+    if (dateMatch) {
+      const d = new Date(completed + 'T12:00:00');
+      dateLabel = d.toLocaleDateString('en', { month: 'short', day: 'numeric' });
+    }
+    dateTd.innerHTML = `<span class="badge badge-teal">${escHtml(dateLabel)}</span>`;
+    tr.appendChild(dateTd);
+
+    const itemTd = el('td');
+    itemTd.textContent = text;
+    tr.appendChild(itemTd);
+
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  div.appendChild(table);
+  return div;
+}
+
+// ── Progress & Checkbox Logic ──
+const PROGRESS_KEY = 'dash-progress-v3';
+function loadProgress() { try { return JSON.parse(localStorage.getItem(PROGRESS_KEY) || '{}'); } catch { return {}; } }
+function saveProgress(s) { localStorage.setItem(PROGRESS_KEY, JSON.stringify(s)); }
+
+function progColor(pct) {
+  if (pct === 0) return 'var(--border)';
+  if (pct < 50) return 'var(--accent)';
+  if (pct < 90) return 'var(--yellow)';
+  if (pct < 100) return '#f0883e';
+  return 'var(--green)';
+}
+
 function setProgUI(row, pct) {
   const fill = row.querySelector('.prog-bar-fill');
   const label = row.querySelector('.prog-label');
@@ -468,63 +562,164 @@ function setProgUI(row, pct) {
   fill.style.background = progColor(pct);
   label.textContent = pct + '%';
   label.style.color = progColor(pct);
-  label.style.borderColor = pct > 0 ? progColor(pct) : '#30363d';
+  label.style.borderColor = pct > 0 ? progColor(pct) : 'var(--border)';
   if (pct === 100) {
     row.classList.add('done');
     const cb = row.querySelector('input[type=checkbox]');
     if (cb) cb.checked = true;
-  } else {
-    if (!row.querySelector('input[type=checkbox]')?.checked) {
-      row.classList.remove('done');
-    }
+    label.textContent = '100% ✓';
+    label.style.color = 'var(--green)';
+    label.style.borderColor = 'var(--green)';
+  } else if (!row.querySelector('input[type=checkbox]')?.checked) {
+    row.classList.remove('done');
   }
 }
+
 function adjProg(btn, delta) {
   const row = btn.closest('tr');
   const id = row.dataset.id;
-  const st = load();
+  const st = loadProgress();
   const cur = st[id]?.prog || 0;
   const nv = Math.max(0, Math.min(100, cur + delta));
   st[id] = st[id] || {};
   st[id].prog = nv;
   if (nv === 100) st[id].done = true;
-  save(st);
+  saveProgress(st);
   setProgUI(row, nv);
-  updateUI();
+  updateCounts();
+  scheduleSync();
 }
+
 function cycleProg(label) {
   const row = label.closest('tr');
   const id = row.dataset.id;
-  const st = load();
+  const st = loadProgress();
   const cur = st[id]?.prog || 0;
   const nv = cur >= 100 ? 0 : cur + 10;
   st[id] = st[id] || {};
   st[id].prog = nv;
   if (nv === 100) st[id].done = true;
   else if (nv === 0) st[id].done = false;
-  save(st);
+  saveProgress(st);
   setProgUI(row, nv);
   const cb = row.querySelector('input[type=checkbox]');
   if (cb) cb.checked = st[id].done || false;
   if (!st[id].done) row.classList.remove('done');
-  updateUI();
+  updateCounts();
+  scheduleSync();
 }
+
 function toggleDone(cb) {
   const row = cb.closest('tr');
   const id = row.dataset.id;
-  const st = load();
+  const st = loadProgress();
   st[id] = st[id] || {};
   st[id].done = cb.checked;
   if (cb.checked && (st[id].prog || 0) < 100) st[id].prog = 100;
   if (!cb.checked) st[id].prog = 0;
-  save(st);
+  saveProgress(st);
   setProgUI(row, st[id].prog || 0);
-  if (cb.checked) row.classList.add('done');
-  else row.classList.remove('done');
-  updateUI();
+  if (cb.checked) {
+    row.classList.add('done');
+    setTimeout(() => moveToCompleted(row), 600);
+  } else {
+    row.classList.remove('done');
+  }
+  updateCounts();
+  scheduleSync();
 }
-function restoreAll() {
-  const st = load();
+
+function moveToCompleted(row) {
+  const label = row.dataset.label || row.querySelector('.item-text')?.textContent || '';
+  const today = new Date().toISOString().split('T')[0];
+  const d = new Date(today + 'T12:00:00');
+  const dateLabel = d.toLocaleDateString('en', { month: 'short', day: 'numeric' });
+
+  let sessionSection = document.querySelector('.section[data-cat="completed-session"]');
+  if (!sessionSection) {
+    sessionSection = el('div', { class: 'section', 'data-cat': 'completed-session' });
+    const header = el('div', { class: 'section-header' });
+    header.innerHTML = `<span>✅ Completed This Session</span><span class="section-count completed-session-count">0 items</span>`;
+    sessionSection.appendChild(header);
+    const table = el('table');
+    const thead = el('thead');
+    thead.innerHTML = `<tr><th style="width:100px">Date</th><th>Item</th><th style="width:80px;text-align:center">Undo</th></tr>`;
+    table.appendChild(thead);
+    const tbody = el('tbody', { class: 'completed-session-body' });
+    table.appendChild(tbody);
+    sessionSection.appendChild(table);
+    const existingCompleted = document.querySelector('.section[data-cat="completed"]');
+    const contentEl = document.getElementById('content');
+    if (existingCompleted) contentEl.insertBefore(sessionSection, existingCompleted);
+    else contentEl.appendChild(sessionSection);
+  }
+
+  const tbody = sessionSection.querySelector('.completed-session-body');
+  const tr = el('tr');
+  const dateTd = el('td');
+  dateTd.innerHTML = `<span class="badge badge-teal">${escHtml(dateLabel)}</span>`;
+  tr.appendChild(dateTd);
+
+  const itemTd = el('td', { class: 'item-text' });
+  itemTd.style.color = 'var(--green)';
+  itemTd.textContent = label;
+  tr.appendChild(itemTd);
+
+  const undoTd = el('td', { style: 'text-align:center' });
+  const undoBtn = el('button', { class: 'prog-btn', style: 'width:auto;padding:2px 10px;font-size:0.78em' }, 'Undo');
+  const rowId = row.dataset.id;
+  undoBtn.addEventListener('click', () => undoComplete(rowId, tr, row));
+  undoTd.appendChild(undoBtn);
+  tr.appendChild(undoTd);
+
+  tbody.appendChild(tr);
+
+  const countEl = sessionSection.querySelector('.completed-session-count');
+  const count = tbody.querySelectorAll('tr').length;
+  countEl.textContent = count + ' item' + (count !== 1 ? 's' : '');
+
+  row.style.transition = 'opacity 0.3s, max-height 0.3s';
+  row.style.opacity = '0';
+  setTimeout(() => { row.style.display = 'none'; }, 300);
+
+  updateCounts();
+}
+
+function undoComplete(itemId, completedRow, originalRow) {
+  originalRow.style.display = '';
+  originalRow.style.opacity = '1';
+  originalRow.classList.remove('done');
+  const cb = originalRow.querySelector('input[type=checkbox]');
+  if (cb) cb.checked = false;
+
+  const st = loadProgress();
+  if (st[itemId]) {
+    st[itemId].done = false;
+    st[itemId].prog = 0;
+    saveProgress(st);
+  }
+  setProgUI(originalRow, 0);
+
+  completedRow.remove();
+
+  const sessionSection = document.querySelector('.section[data-cat="completed-session"]');
+  if (sessionSection) {
+    const tbody = sessionSection.querySelector('.completed-session-body');
+    const remaining = tbody.querySelectorAll('tr').length;
+    if (remaining === 0) {
+      sessionSection.remove();
+    } else {
+      const countEl = sessionSection.querySelector('.completed-session-count');
+      countEl.textContent = remaining + ' item' + (remaining !== 1 ? 's' : '');
+    }
+  }
+
+  updateCounts();
+  scheduleSync();
+}
+
+function restoreProgress() {
+  const st = loadProgress();
   document.querySelectorAll('tr[data-id]').forEach(row => {
     const id = row.dataset.id;
     if (!st[id]) return;
@@ -535,98 +730,293 @@ function restoreAll() {
     if (cb) cb.checked = done;
     if (done) row.classList.add('done');
   });
-  updateUI();
 }
-function updateUI() {
-  const st = load();
-  let high=0, med=0, low=0, changed=0;
+
+function updateCounts() {
+  const st = loadProgress();
+  let high = 0, med = 0, low = 0, doneCount = 0;
   document.querySelectorAll('tr[data-priority]').forEach(row => {
     const id = row.dataset.id;
-    const isDone = row.classList.contains('done');
-    const pct = st[id]?.prog || 0;
-    if (pct > 0 || isDone) changed++;
-    if (isDone) return;
+    const isDone = row.classList.contains('done') || row.style.display === 'none';
+    if (isDone) { doneCount++; return; }
     const p = row.dataset.priority;
-    if (p==='high') high++;
-    else if (p==='med') med++;
+    if (p === 'high') high++;
+    else if (p === 'med') med++;
     else low++;
   });
+  const sessionBody = document.querySelector('.completed-session-body');
+  if (sessionBody) doneCount += sessionBody.querySelectorAll('tr').length;
+  doneCount += completedItems.length;
+
   document.getElementById('cnt-high').textContent = high;
   document.getElementById('cnt-med').textContent = med;
   document.getElementById('cnt-low').textContent = low;
-  document.getElementById('cnt-done').textContent = changed;
-  document.getElementById('sync-count').textContent = changed;
-  document.getElementById('sync-bar').style.display = changed > 0 ? 'flex' : 'none';
+  document.getElementById('cnt-done').textContent = doneCount;
 }
-function openSync() {
-  const st = load();
-  const today = new Date().toISOString().split('T')[0];
-  const completed = [], inProgress = [];
+
+// ── Direct sync to todo.md ──
+let syncTimer = null;
+function scheduleSync() {
+  if (syncTimer) clearTimeout(syncTimer);
+  syncTimer = setTimeout(() => syncToGitHub(), 3000);
+}
+
+async function syncToGitHub() {
+  const token = localStorage.getItem(TOKEN_KEY);
+  if (!token) {
+    document.getElementById('token-modal').classList.add('open');
+    return;
+  }
+
+  const st = loadProgress();
+  const changes = {};
+  let hasChanges = false;
   document.querySelectorAll('tr[data-id]').forEach(row => {
     const id = row.dataset.id;
-    const label = row.dataset.label || id;
-    const pct = st[id]?.prog || 0;
-    const done = st[id]?.done || false;
-    if (done || pct === 100) completed.push(label);
-    else if (pct > 0) inProgress.push({label, pct});
+    if (st[id] && (st[id].done || st[id].prog > 0)) {
+      changes[id] = { label: row.dataset.label, ...st[id] };
+      hasChanges = true;
+    }
   });
-  let msg = 'Update brain/todo.md with the following changes (date: ' + today + '):
-';
-  if (completed.length) {
-    msg += '
-COMPLETED — mark done and move to Completed section:
-';
-    completed.forEach(l => { msg += '  - ' + l + '
-'; });
+  if (!hasChanges) return;
+
+  try {
+    const getResp = await fetch(API_URL, {
+      headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' }
+    });
+    if (!getResp.ok) {
+      if (getResp.status === 401) {
+        localStorage.removeItem(TOKEN_KEY);
+        showToast('Token expired \u2014 please re-enter', 'error');
+        document.getElementById('token-modal').classList.add('open');
+      } else {
+        showToast('GitHub error: ' + getResp.status, 'error');
+      }
+      return;
+    }
+    const fileData = await getResp.json();
+    fileSHA = fileData.sha;
+
+    const currentContent = decodeBase64(fileData.content);
+    const updatedContent = applyProgressToMd(currentContent, changes);
+
+    if (updatedContent === currentContent) return;
+
+    const putResp = await fetch(API_URL, {
+      method: 'PUT',
+      headers: {
+        'Authorization': 'token ' + token,
+        'Accept': 'application/vnd.github.v3+json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        message: 'Dashboard progress update ' + new Date().toISOString().split('T')[0],
+        content: btoa(unescape(encodeURIComponent(updatedContent))),
+        sha: fileSHA
+      })
+    });
+
+    if (putResp.ok) {
+      const result = await putResp.json();
+      fileSHA = result.content.sha;
+      const clearedSt = loadProgress();
+      for (const [id, data] of Object.entries(changes)) {
+        if (data.done) delete clearedSt[id];
+      }
+      saveProgress(clearedSt);
+      showToast('✅ Synced to todo.md', 'success');
+    } else if (putResp.status === 409) {
+      showToast('Conflict \u2014 refreshing...', 'error');
+      setTimeout(() => location.reload(), 1500);
+    } else {
+      const err = await putResp.json().catch(() => ({}));
+      showToast('Sync failed: ' + (err.message || putResp.status), 'error');
+    }
+  } catch (e) {
+    showToast('Network error: ' + e.message, 'error');
   }
-  if (inProgress.length) {
-    msg += '
-PROGRESS UPDATES — update or add Progress column:
-';
-    inProgress.forEach(({label,pct}) => { msg += '  - ' + label + ': ' + pct + '%
-'; });
+}
+
+function applyProgressToMd(md, changes) {
+  const lines = md.split('\n');
+  const newLines = [];
+  let inActiveTable = false;
+  let tableHeaders = [];
+  let currentH2 = '';
+  const today = new Date().toISOString().split('T')[0];
+  const completedToAdd = [];
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+
+    if (line.startsWith('## ')) {
+      currentH2 = line.replace('## ', '').trim();
+      inActiveTable = false;
+    }
+
+    if (line.startsWith('### ') && currentH2 === 'Active Items') {
+      inActiveTable = false;
+    }
+
+    if (line.trim().startsWith('|') && line.includes('Item') && currentH2 === 'Active Items') {
+      tableHeaders = line.split('|').map(h => h.trim().toLowerCase()).filter(Boolean);
+      inActiveTable = true;
+      newLines.push(line);
+      continue;
+    }
+
+    if (inActiveTable && line.trim().match(/^\|[\s\-|]+\|$/)) {
+      newLines.push(line);
+      continue;
+    }
+
+    if (inActiveTable && line.trim().startsWith('|') && line.trim().endsWith('|')) {
+      const cells = line.split('|').map(c => c.trim()).filter(Boolean);
+      const itemIdx = tableHeaders.indexOf('item');
+      const progIdx = tableHeaders.indexOf('progress');
+
+      if (itemIdx >= 0 && cells[itemIdx]) {
+        const itemText = cells[itemIdx];
+        const itemId = slugify(itemText);
+
+        if (changes[itemId]) {
+          const change = changes[itemId];
+          if (change.done) {
+            completedToAdd.push({ date: today, item: itemText });
+            continue;
+          } else if (change.prog > 0 && progIdx >= 0) {
+            cells[progIdx] = change.prog + '%';
+            const newLine = '| ' + cells.join(' | ') + ' |';
+            newLines.push(newLine);
+            continue;
+          }
+        }
+      }
+    }
+
+    if (inActiveTable && !line.trim().startsWith('|') && line.trim() !== '' && !line.trim().match(/^\|[\s\-|]+\|$/)) {
+      inActiveTable = false;
+    }
+
+    newLines.push(line);
   }
-  if (!completed.length && !inProgress.length) msg += '
-(No changes to sync)';
-  document.getElementById('sync-message').textContent = msg;
-  document.getElementById('sync-modal').classList.add('open');
-  document.getElementById('copy-ok').style.display='none';
+
+  if (completedToAdd.length > 0) {
+    let insertIdx = -1;
+    for (let i = 0; i < newLines.length; i++) {
+      if (newLines[i].startsWith('## ') && newLines[i].toLowerCase().includes('completed')) {
+        for (let j = i + 1; j < newLines.length; j++) {
+          if (newLines[j].trim().startsWith('|') && !newLines[j].includes('Completed') && !newLines[j].includes('Item') && !newLines[j].trim().match(/^\|[\s\-|]+\|$/)) {
+            insertIdx = j;
+            break;
+          }
+          if (newLines[j].startsWith('---') || newLines[j].startsWith('## ')) {
+            insertIdx = j;
+            break;
+          }
+        }
+        break;
+      }
+    }
+
+    if (insertIdx >= 0) {
+      const newRows = completedToAdd.map(c => `| ${c.date} | ${c.item} |`);
+      newLines.splice(insertIdx, 0, ...newRows);
+    }
+  }
+
+  const result = newLines.join('\n').replace(
+    /Last updated:\s*.+/,
+    'Last updated: ' + today
+  );
+
+  return result;
 }
-function copySync() {
-  navigator.clipboard.writeText(document.getElementById('sync-message').textContent).then(()=>{
-    const ok = document.getElementById('copy-ok');
-    ok.style.display='inline';
-    setTimeout(()=>{ok.style.display='none';},2500);
+
+// ── Utility ──
+function slugify(text) {
+  return text.toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .substring(0, 60)
+    .replace(/-$/, '');
+}
+
+function el(tag, attrs, text) {
+  const e = document.createElement(tag);
+  if (attrs) Object.entries(attrs).forEach(([k, v]) => {
+    if (k === 'onclick') e.onclick = v;
+    else e.setAttribute(k, v);
+  });
+  if (text) e.textContent = text;
+  return e;
+}
+
+function escHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+function decodeBase64(encoded) {
+  const cleaned = encoded.replace(/\n/g, '');
+  return decodeURIComponent(escape(atob(cleaned)));
+}
+
+async function fetchSHA() {
+  const token = localStorage.getItem(TOKEN_KEY);
+  if (!token) return;
+  try {
+    const resp = await fetch(API_URL, {
+      headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' }
+    });
+    if (resp.ok) {
+      const data = await resp.json();
+      fileSHA = data.sha;
+    }
+  } catch {}
+}
+
+function filterCat(cat, evt) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  if (evt && evt.currentTarget) evt.currentTarget.classList.add('active');
+  else if (evt && evt.target) evt.target.classList.add('active');
+  document.querySelectorAll('.section').forEach(s => {
+    s.style.display = (cat === 'all' || s.dataset.cat === cat) ? '' : 'none';
   });
 }
-function closeSync() { document.getElementById('sync-modal').classList.remove('open'); }
-function closeSyncOut(e) { if(e.target===document.getElementById('sync-modal')) closeSync(); }
-function clearAll() {
-  save({});
-  document.querySelectorAll('tr[data-id]').forEach(row => {
-    row.classList.remove('done');
-    const cb = row.querySelector('input[type=checkbox]');
-    if (cb) cb.checked = false;
-    setProgUI(row, 0);
-  });
-  closeSync();
-  updateUI();
+
+function showError(msg) {
+  const banner = document.getElementById('error-banner');
+  banner.textContent = msg;
+  banner.style.display = 'block';
 }
-function filterCat(cat, e) {
-  document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
-  if(e&&e.target) e.target.classList.add('active');
-  document.querySelectorAll('.section').forEach(s=>{
-    s.style.display = (cat==='all'||s.dataset.cat===cat) ? '' : 'none';
-  });
+
+function showToast(msg, type) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.className = type || '';
+  t.style.display = 'block';
+  setTimeout(() => { t.style.display = 'none'; }, 3000);
 }
-function toggleShowDone() {
-  document.body.classList.toggle('show-completed');
-  const btn = document.getElementById('toggle-done-btn');
-  const showing = document.body.classList.contains('show-completed');
-  btn.textContent = showing ? 'Hide Completed' : 'Show Completed';
-  btn.classList.toggle('active', showing);
+
+function saveToken() {
+  const val = document.getElementById('token-input').value.trim();
+  if (val) {
+    localStorage.setItem(TOKEN_KEY, val);
+    closeTokenModal();
+    showToast('Token saved \u2014 syncing...', 'success');
+    syncToGitHub();
+  }
 }
-restoreAll();
+
+function closeTokenModal() {
+  document.getElementById('token-modal').classList.remove('open');
+}
+
+// ── Init ──
+init();
 </script>
 </body>
 </html>
