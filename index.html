@@ -764,7 +764,7 @@ function scheduleSync() {
 async function syncToGitHub() {
   const token = localStorage.getItem(TOKEN_KEY);
   if (!token) {
-    document.getElementById('token-modal').classList.add('open');
+    // No token — just save locally, don't block with modal
     return;
   }
 
