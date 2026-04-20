@@ -54,6 +54,7 @@ a:hover{text-decoration:underline}
 .context-text{color:#b0b8c1;font-size:0.9em;margin-top:4px;line-height:1.45}
 .item-stack{display:flex;flex-direction:column;gap:2px}
 .completed-section td{opacity:0.55}
+/* Progress control */
 .prog-cell{width:100px;text-align:center;padding:10px 10px;vertical-align:middle}
 .prog-wrap{display:flex;flex-direction:column;align-items:center;gap:5px}
 .prog-bar-bg{width:70px;height:7px;background:#21262d;border-radius:4px;overflow:hidden}
@@ -63,13 +64,16 @@ a:hover{text-decoration:underline}
 .prog-controls{display:flex;gap:3px}
 .prog-btn{background:#21262d;border:1px solid var(--border);color:var(--text-dim);width:22px;height:22px;border-radius:5px;cursor:pointer;font-size:0.8em;display:flex;align-items:center;justify-content:center;transition:all 0.15s}
 .prog-btn:hover{background:var(--accent);border-color:var(--accent);color:#fff}
+/* Loading */
 #loading{text-align:center;padding:60px 20px;color:var(--text-dim);font-size:1.1em}
 #loading .spinner{display:inline-block;width:28px;height:28px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin 0.8s linear infinite;margin-bottom:12px}
 @keyframes spin{to{transform:rotate(360deg)}}
 #error-banner{display:none;background:rgba(248,81,73,0.1);border:1px solid rgba(248,81,73,0.4);color:#ff7b72;padding:14px 20px;border-radius:10px;margin:16px 0;text-align:center;font-size:0.92em}
+/* Toast */
 #toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:var(--card);border:1px solid var(--border);color:var(--text);padding:10px 20px;border-radius:10px;font-size:0.88em;display:none;z-index:3000;box-shadow:0 4px 20px rgba(0,0,0,0.4)}
 #toast.success{border-color:var(--green);color:var(--green)}
 #toast.error{border-color:var(--red);color:var(--red)}
+/* Token modal */
 #token-modal{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.75);z-index:2000;align-items:center;justify-content:center;padding:20px}
 #token-modal.open{display:flex}
 #token-box{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:28px;max-width:500px;width:100%}
@@ -82,27 +86,43 @@ a:hover{text-decoration:underline}
 .btn-primary:hover{background:var(--accent-hover)}
 .btn-ghost{background:#21262d;color:var(--text);border:1px solid var(--border);margin-left:8px}
 .btn-ghost:hover{background:#2d333b}
-@media(max-width:700px){body{padding:12px;font-size:14px}td,th{padding:8px 10px}.header h1{font-size:1.5em}.prog-cell,.prog-cell-th{display:none}.context-text{font-size:0.85em}.section-header{padding:12px 14px;font-size:0.95em}}
+/* Mobile */
+@media(max-width:700px){
+  body{padding:12px;font-size:14px}
+  td,th{padding:8px 10px}
+  .header h1{font-size:1.5em}
+  .prog-cell,.prog-cell-th{display:none}
+  .context-text{font-size:0.85em}
+  .section-header{padding:12px 14px;font-size:0.95em}
+}
 </style>
 </head>
 <body>
+
 <div class="header">
   <div class="rqf-banner"><span class="rqf-badge">Real Quick Funds</span></div>
   <h1 id="dash-title">📋 Paul's Dashboard</h1>
   <div class="subtitle" id="dash-subtitle"></div>
   <div class="updated" id="dash-updated">Loading...</div>
 </div>
+
 <div class="stats">
   <div class="stat high"><span class="count" id="cnt-high">0</span>High</div>
   <div class="stat med"><span class="count" id="cnt-med">0</span>Medium</div>
   <div class="stat low"><span class="count" id="cnt-low">0</span>Low</div>
-  <div class="stat done-stat"><span class="count" id="cnt-done">0</span>In Progress</div>
+  <div class="stat done-stat"><span class="count" id="cnt-done">0</span>Done</div>
 </div>
+
 <div class="filters" id="filters"></div>
+
 <div id="loading"><div class="spinner"></div><br>Loading todo.md from GitHub...</div>
 <div id="error-banner"></div>
 <div id="content"></div>
+
+<!-- Toast notification -->
 <div id="toast"></div>
+
+<!-- Token setup modal -->
 <div id="token-modal">
   <div id="token-box">
     <h2>🔑 GitHub Token Required</h2>
@@ -114,46 +134,926 @@ a:hover{text-decoration:underline}
     </div>
   </div>
 </div>
+
 <script>
-const OWNER='pmartbrown',REPO='dashboard',FILE_PATH='todo.md';
-const RAW_URL=`https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${FILE_PATH}`;
-const API_URL=`https://api.github.com/repos/${OWNER}/${REPO}/contents/${FILE_PATH}`;
-const TOKEN_KEY='gh-pat';
-const params=new URLSearchParams(window.location.search);
-const isRQF=params.get('view')==='rqf';
-const RQF_CATS=['deals','follow-ups','systems','waiting','completed'];
-if(isRQF){document.body.classList.add('rqf');document.getElementById('dash-title').textContent='🏦 Real Quick Funds';document.getElementById('dash-subtitle').textContent='Deals · Capital · Lending · Team';document.title='Real Quick Funds';}
-const SECTION_META={'deals / funding':{icon:'💰',cat:'deals',label:'Deals / Funding'},'deals':{icon:'💰',cat:'deals',label:'Deals / Funding'},'follow-ups / outreach':{icon:'📞',cat:'follow-ups',label:'Follow-Ups / Outreach'},'follow-ups':{icon:'📞',cat:'follow-ups',label:'Follow-Ups / Outreach'},'personal / standards':{icon:'🏠',cat:'personal',label:'Personal / Standards'},'personal':{icon:'🏠',cat:'personal',label:'Personal / Standards'},'health':{icon:'❤️',cat:'health',label:'Health'},'calendar':{icon:'📅',cat:'calendar',label:'Calendar'},'systems / ai':{icon:'🤖',cat:'systems',label:'Systems / AI'},'systems':{icon:'🤖',cat:'systems',label:'Systems / AI'},'projects - build':{icon:'🛠',cat:'projects',label:'Projects — Build'},'projects':{icon:'🛠',cat:'projects',label:'Projects — Build'}};
-let parsedSections=[],waitingItems=[],completedItems=[],lastUpdated='',fileSHA=null;
-async function init(){try{const resp=await fetch(RAW_URL+'?t='+Date.now());if(!resp.ok)throw new Error('Failed to fetch todo.md: '+resp.status);const md=await resp.text();parseTodoMd(md);render();document.getElementById('loading').style.display='none';fetchSHA();}catch(e){document.getElementById('loading').style.display='none';showError('Could not load todo.md: '+e.message);}}
-function parseTodoMd(md){const lines=md.split('\n');parsedSections=[];waitingItems=[];completedItems=[];lastUpdated='';let currentH2='',currentH3='',inTable=false,tableHeaders=[];for(let i=0;i<lines.length;i++){const line=lines[i];const updMatch=line.match(/Last updated:\s*(.+)/);if(updMatch)lastUpdated=updMatch[1].trim();if(line.startsWith('## ')){currentH2=line.replace('## ','').trim();currentH3='';inTable=false;continue;}if(line.startsWith('### ')){currentH3=line.replace('### ','').trim();inTable=false;if(currentH2==='Active Items'){const key=currentH3.toLowerCase().replace(/\u2014/g,'-').replace(/\s+/g,' ').trim();let meta=null;for(const[pattern,m]of Object.entries(SECTION_META)){if(key.includes(pattern)||pattern.includes(key)){meta=m;break;}}if(!meta){for(const[pattern,m]of Object.entries(SECTION_META)){if(key.startsWith(pattern.split(' ')[0])){meta=m;break;}}}if(!meta)meta={icon:'📌',cat:key.replace(/[^a-z0-9]/g,'-'),label:currentH3};parsedSections.push({...meta,heading:currentH3,items:[]});}continue;}if(line.trim().startsWith('|')&&line.includes('Item')&&!inTable){tableHeaders=line.split('|').map(h=>h.trim().toLowerCase()).filter(Boolean);inTable=true;continue;}if(inTable&&line.trim().match(/^\|[\s\-|]+\|$/))continue;if(inTable&&line.trim().startsWith('|')&&line.trim().endsWith('|')){const cells=line.split('|').map(c=>c.trim()).filter(Boolean);if(currentH2==='Active Items'&&parsedSections.length>0){const section=parsedSections[parsedSections.length-1];const item={};tableHeaders.forEach((h,idx)=>{item[h]=cells[idx]||'';});section.items.push(item);}else if(currentH2.toLowerCase().includes('waiting')){const item={};tableHeaders.forEach((h,idx)=>{item[h]=cells[idx]||'';});waitingItems.push(item);}else if(currentH2.toLowerCase().includes('completed')){const item={};tableHeaders.forEach((h,idx)=>{item[h]=cells[idx]||'';});completedItems.push(item);}continue;}if(inTable&&!line.trim().startsWith('|')&&line.trim()!==''){inTable=false;}}}
-function render(){document.getElementById('dash-updated').textContent=`Last updated: ${lastUpdated} \u2014 Live from todo.md`;const cats=new Set();parsedSections.forEach(s=>cats.add(s.cat));if(waitingItems.length)cats.add('waiting');if(completedItems.length)cats.add('completed');const filtersEl=document.getElementById('filters');filtersEl.innerHTML='';const allBtn=el('button',{class:'filter-btn active',onclick:()=>filterCat('all')},'All');filtersEl.appendChild(allBtn);const catLabels={'deals':'💰 Deals','follow-ups':'📞 Follow-Ups','personal':'🏠 Personal','health':'❤️ Health','calendar':'📅 Calendar','systems':'🤖 Systems/AI','projects':'🛠 Projects','waiting':'⏳ Waiting On','completed':'✅ Completed'};for(const cat of cats){if(isRQF&&!RQF_CATS.includes(cat))continue;const label=catLabels[cat]||cat;const btn=el('button',{class:'filter-btn',onclick:()=>filterCat(cat)},label);filtersEl.appendChild(btn);}const contentEl=document.getElementById('content');contentEl.innerHTML='';for(const section of parsedSections){if(isRQF&&!RQF_CATS.includes(section.cat))continue;if(section.items.length===0)continue;contentEl.appendChild(renderSection(section));}if(waitingItems.length>0&&(!isRQF||RQF_CATS.includes('waiting'))){contentEl.appendChild(renderWaiting());}if(completedItems.length>0&&(!isRQF||RQF_CATS.includes('completed'))){contentEl.appendChild(renderCompleted());}restoreProgress();updateCounts();}
-function renderSection(section){const div=el('div',{class:'section','data-cat':section.cat});const header=el('div',{class:'section-header'});header.innerHTML=`<span>${section.icon} ${section.label}</span><span class="section-count">${section.items.length} items</span>`;div.appendChild(header);const table=el('table');const thead=el('thead');thead.innerHTML='<tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th class="prog-cell-th" style="width:100px;text-align:center">Progress</th></tr>';table.appendChild(thead);const tbody=el('tbody');section.items.forEach(item=>{tbody.appendChild(renderItemRow(item));});table.appendChild(tbody);div.appendChild(table);return div;}
-function renderItemRow(item){const itemText=item.item||'';const due=item.due||'';const context=item.context||'';const priorityRaw=item.priority||'';const priority=priorityRaw.includes('High')?'high':priorityRaw.includes('Medium')?'med':'low';const itemId=slugify(itemText);const tr=el('tr',{'data-id':itemId,'data-priority':priority,'data-label':itemText});const cbTd=el('td',{class:'cb-cell'});const cb=el('input',{type:'checkbox'});cb.addEventListener('change',function(){toggleDone(this);});cbTd.appendChild(cb);tr.appendChild(cbTd);const dotTd=el('td');dotTd.innerHTML=`<span class="priority-dot p-${priority}"></span>`;tr.appendChild(dotTd);const itemTd=el('td');const stack=el('div',{class:'item-stack'});const textDiv=el('div',{class:'item-text'});textDiv.textContent=itemText;stack.appendChild(textDiv);if(context&&context!=='\u2014'){const ctxDiv=el('div',{class:'context-text'});ctxDiv.textContent=context;stack.appendChild(ctxDiv);}itemTd.appendChild(stack);tr.appendChild(itemTd);const dueTd=el('td');dueTd.innerHTML=renderDueBadge(due);tr.appendChild(dueTd);const progTd=el('td',{class:'prog-cell'});progTd.innerHTML='<div class="prog-wrap"><div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div><div class="prog-controls"><button class="prog-btn" onclick="adjProg(this,-10)">\u2212</button><span class="prog-label" onclick="cycleProg(this)">0%</span><button class="prog-btn" onclick="adjProg(this,10)">+</button></div></div>';tr.appendChild(progTd);return tr;}
-function renderDueBadge(due){if(!due||due==='\u2014')return'<span class="badge badge-gray">\u2014</span>';const lower=due.toLowerCase();if(lower==='asap')return'<span class="badge badge-red">ASAP</span>';if(lower.includes('overdue')||lower.includes('past'))return`<span class="badge badge-red">${due}</span>`;const dateMatch=due.match(/(\d{4}-\d{2}-\d{2})/);if(dateMatch){const d=new Date(dateMatch[1]+'T12:00:00');const today=new Date();today.setHours(12,0,0,0);if(d<today){const month=d.toLocaleString('en',{month:'short'});const day=d.getDate();return`<span class="badge badge-red">OVERDUE ${month} ${day}</span>`;}const month=d.toLocaleString('en',{month:'short'});const day=d.getDate();return`<span class="badge badge-purple">${month} ${day}</span>`;}if(lower.includes('week'))return`<span class="badge badge-yellow">${due}</span>`;return`<span class="badge badge-purple">${due}</span>`;}
-function renderWaiting(){const div=el('div',{class:'section','data-cat':'waiting'});const header=el('div',{class:'section-header'});header.innerHTML=`<span>\u23f3 Waiting On (Others Owe You)</span><span class="section-count">${waitingItems.length} items</span>`;div.appendChild(header);const table=el('table');const thead=el('thead');thead.innerHTML='<tr><th class="cb-cell"></th><th style="width:140px">Person</th><th>What They Owe</th><th>Context</th><th style="width:100px">Expected</th></tr>';table.appendChild(thead);const tbody=el('tbody');waitingItems.forEach(item=>{const person=item.person||'';const owe=item['what they owe']||'';const context=item.context||'';const expected=item.expected||'\u2014';const id=slugify('waiting-'+person);const tr=el('tr',{'data-id':id,'data-priority':'med','data-label':`Waiting: ${person} \u2014 ${owe}`});const cbTd=el('td',{class:'cb-cell'});const cb=el('input',{type:'checkbox'});cb.addEventListener('change',function(){toggleDone(this);});cbTd.appendChild(cb);tr.appendChild(cbTd);const personTd=el('td',{class:'item-text'});personTd.textContent=person;tr.appendChild(personTd);const oweTd=el('td');oweTd.textContent=owe;tr.appendChild(oweTd);const ctxTd=el('td');ctxTd.innerHTML=`<div class="context-text">${escHtml(context)}</div>`;tr.appendChild(ctxTd);const expTd=el('td');expTd.innerHTML=`<span class="badge badge-gray">${escHtml(expected)||'None'}</span>`;tr.appendChild(expTd);tbody.appendChild(tr);});table.appendChild(tbody);div.appendChild(table);return div;}
-function renderCompleted(){const div=el('div',{class:'section','data-cat':'completed'});const header=el('div',{class:'section-header'});header.innerHTML=`<span>\u2705 Completed (Last 30 Days)</span><span class="section-count">${completedItems.length} items</span>`;div.appendChild(header);const table=el('table');const thead=el('thead');thead.innerHTML='<tr><th style="width:100px">Date</th><th>Item</th></tr>';table.appendChild(thead);const tbody=el('tbody',{class:'completed-section'});completedItems.forEach(item=>{const completed=item.completed||'';const text=item.item||'';const tr=el('tr');const dateTd=el('td');const dateMatch=completed.match(/(\d{4})-(\d{2})-(\d{2})/);let dateLabel=completed;if(dateMatch){const d=new Date(completed+'T12:00:00');dateLabel=d.toLocaleDateString('en',{month:'short',day:'numeric'});}dateTd.innerHTML=`<span class="badge badge-teal">${escHtml(dateLabel)}</span>`;tr.appendChild(dateTd);const itemTd=el('td');itemTd.textContent=text;tr.appendChild(itemTd);tbody.appendChild(tr);});table.appendChild(tbody);div.appendChild(table);return div;}
-const PROGRESS_KEY='dash-progress-v3';function loadProgress(){try{return JSON.parse(localStorage.getItem(PROGRESS_KEY)||'{}');}catch{return{};}}function saveProgress(s){localStorage.setItem(PROGRESS_KEY,JSON.stringify(s));}
-function progColor(pct){if(pct===0)return'var(--border)';if(pct<50)return'var(--accent)';if(pct<90)return'var(--yellow)';if(pct<100)return'#f0883e';return'var(--green)';}
-function setProgUI(row,pct){const fill=row.querySelector('.prog-bar-fill');const label=row.querySelector('.prog-label');if(!fill||!label)return;fill.style.width=pct+'%';fill.style.background=progColor(pct);label.textContent=pct+'%';label.style.color=progColor(pct);label.style.borderColor=pct>0?progColor(pct):'var(--border)';if(pct===100){row.classList.add('done');const cb=row.querySelector('input[type=checkbox]');if(cb)cb.checked=true;}else if(!row.querySelector('input[type=checkbox]')?.checked){row.classList.remove('done');}}
-function adjProg(btn,delta){const row=btn.closest('tr');const id=row.dataset.id;const st=loadProgress();const cur=st[id]?.prog||0;const nv=Math.max(0,Math.min(100,cur+delta));st[id]=st[id]||{};st[id].prog=nv;if(nv===100)st[id].done=true;saveProgress(st);setProgUI(row,nv);updateCounts();scheduleSync();}
-function cycleProg(label){const row=label.closest('tr');const id=row.dataset.id;const st=loadProgress();const cur=st[id]?.prog||0;const nv=cur>=100?0:cur+10;st[id]=st[id]||{};st[id].prog=nv;if(nv===100)st[id].done=true;else if(nv===0)st[id].done=false;saveProgress(st);setProgUI(row,nv);const cb=row.querySelector('input[type=checkbox]');if(cb)cb.checked=st[id].done||false;if(!st[id].done)row.classList.remove('done');updateCounts();scheduleSync();}
-function toggleDone(cb){const row=cb.closest('tr');const id=row.dataset.id;const st=loadProgress();st[id]=st[id]||{};st[id].done=cb.checked;if(cb.checked&&(st[id].prog||0)<100)st[id].prog=100;if(!cb.checked)st[id].prog=0;saveProgress(st);setProgUI(row,st[id].prog||0);if(cb.checked)row.classList.add('done');else row.classList.remove('done');updateCounts();scheduleSync();}
-function restoreProgress(){const st=loadProgress();document.querySelectorAll('tr[data-id]').forEach(row=>{const id=row.dataset.id;if(!st[id])return;const pct=st[id].prog||0;const done=st[id].done||false;setProgUI(row,pct);const cb=row.querySelector('input[type=checkbox]');if(cb)cb.checked=done;if(done)row.classList.add('done');});}
-function updateCounts(){const st=loadProgress();let high=0,med=0,low=0,changed=0;document.querySelectorAll('tr[data-priority]').forEach(row=>{const id=row.dataset.id;const isDone=row.classList.contains('done');const pct=st[id]?.prog||0;if(pct>0||isDone)changed++;if(isDone)return;const p=row.dataset.priority;if(p==='high')high++;else if(p==='med')med++;else low++;});document.getElementById('cnt-high').textContent=high;document.getElementById('cnt-med').textContent=med;document.getElementById('cnt-low').textContent=low;document.getElementById('cnt-done').textContent=changed;}
-let syncTimer=null;function scheduleSync(){if(syncTimer)clearTimeout(syncTimer);syncTimer=setTimeout(()=>syncToGitHub(),3000);}
-async function syncToGitHub(){const token=localStorage.getItem(TOKEN_KEY);if(!token){document.getElementById('token-modal').classList.add('open');return;}const st=loadProgress();const changes={};let hasChanges=false;document.querySelectorAll('tr[data-id]').forEach(row=>{const id=row.dataset.id;if(st[id]&&(st[id].done||st[id].prog>0)){changes[id]={label:row.dataset.label,...st[id]};hasChanges=true;}});if(!hasChanges)return;try{const getResp=await fetch(API_URL,{headers:{'Authorization':'token '+token,'Accept':'application/vnd.github.v3+json'}});if(!getResp.ok){if(getResp.status===401){localStorage.removeItem(TOKEN_KEY);showToast('Token expired \u2014 please re-enter','error');document.getElementById('token-modal').classList.add('open');}else{showToast('GitHub error: '+getResp.status,'error');}return;}const fileData=await getResp.json();fileSHA=fileData.sha;const currentContent=decodeBase64(fileData.content);const updatedContent=applyProgressToMd(currentContent,changes);if(updatedContent===currentContent)return;const putResp=await fetch(API_URL,{method:'PUT',headers:{'Authorization':'token '+token,'Accept':'application/vnd.github.v3+json','Content-Type':'application/json'},body:JSON.stringify({message:'Dashboard progress update '+new Date().toISOString().split('T')[0],content:btoa(unescape(encodeURIComponent(updatedContent))),sha:fileSHA})});if(putResp.ok){const result=await putResp.json();fileSHA=result.content.sha;const clearedSt=loadProgress();for(const[id,data]of Object.entries(changes)){if(data.done)delete clearedSt[id];}saveProgress(clearedSt);showToast('\u2705 Synced to todo.md','success');}else if(putResp.status===409){showToast('Conflict \u2014 refreshing...','error');setTimeout(()=>location.reload(),1500);}else{const err=await putResp.json().catch(()=>({}));showToast('Sync failed: '+(err.message||putResp.status),'error');}}catch(e){showToast('Network error: '+e.message,'error');}}
-function applyProgressToMd(md,changes){const lines=md.split('\n');const newLines=[];let inActiveTable=false;let tableHeaders=[];let currentH2='';const today=new Date().toISOString().split('T')[0];const completedToAdd=[];for(let i=0;i<lines.length;i++){const line=lines[i];if(line.startsWith('## ')){currentH2=line.replace('## ','').trim();inActiveTable=false;}if(line.startsWith('### ')&&currentH2==='Active Items'){inActiveTable=false;}if(line.trim().startsWith('|')&&line.includes('Item')&&currentH2==='Active Items'){tableHeaders=line.split('|').map(h=>h.trim().toLowerCase()).filter(Boolean);inActiveTable=true;newLines.push(line);continue;}if(inActiveTable&&line.trim().match(/^\|[\s\-|]+\|$/)){newLines.push(line);continue;}if(inActiveTable&&line.trim().startsWith('|')&&line.trim().endsWith('|')){const cells=line.split('|').map(c=>c.trim()).filter(Boolean);const itemIdx=tableHeaders.indexOf('item');const progIdx=tableHeaders.indexOf('progress');if(itemIdx>=0&&cells[itemIdx]){const itemText=cells[itemIdx];const itemId=slugify(itemText);if(changes[itemId]){const change=changes[itemId];if(change.done){completedToAdd.push({date:today,item:itemText});continue;}else if(change.prog>0&&progIdx>=0){cells[progIdx]=change.prog+'%';const newLine='| '+cells.join(' | ')+' |';newLines.push(newLine);continue;}}}}if(inActiveTable&&!line.trim().startsWith('|')&&line.trim()!==''&&!line.trim().match(/^\|[\s\-|]+\|$/)){inActiveTable=false;}newLines.push(line);}if(completedToAdd.length>0){let insertIdx=-1;for(let i=0;i<newLines.length;i++){if(newLines[i].startsWith('## ')&&newLines[i].toLowerCase().includes('completed')){for(let j=i+1;j<newLines.length;j++){if(newLines[j].trim().startsWith('|')&&!newLines[j].includes('Completed')&&!newLines[j].includes('Item')&&!newLines[j].trim().match(/^\|[\s\-|]+\|$/)){insertIdx=j;break;}if(newLines[j].startsWith('---')||newLines[j].startsWith('## ')){insertIdx=j;break;}}break;}}if(insertIdx>=0){const newRows=completedToAdd.map(c=>`| ${c.date} | ${c.item} |`);newLines.splice(insertIdx,0,...newRows);}}const result=newLines.join('\n').replace(/Last updated:\s*.+/,'Last updated: '+today);return result;}
-function slugify(text){return text.toLowerCase().replace(/[^a-z0-9\s-]/g,'').replace(/\s+/g,'-').replace(/-+/g,'-').substring(0,60).replace(/-$/,'');}
-function el(tag,attrs,text){const e=document.createElement(tag);if(attrs)Object.entries(attrs).forEach(([k,v])=>{if(k==='onclick')e.onclick=v;else e.setAttribute(k,v);});if(text)e.textContent=text;return e;}
-function escHtml(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML;}
-function decodeBase64(encoded){const cleaned=encoded.replace(/\n/g,'');return decodeURIComponent(escape(atob(cleaned)));}
-async function fetchSHA(){const token=localStorage.getItem(TOKEN_KEY);if(!token)return;try{const resp=await fetch(API_URL,{headers:{'Authorization':'token '+token,'Accept':'application/vnd.github.v3+json'}});if(resp.ok){const data=await resp.json();fileSHA=data.sha;}}catch{}}
-function filterCat(cat){document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));event.target.classList.add('active');document.querySelectorAll('.section').forEach(s=>{s.style.display=(cat==='all'||s.dataset.cat===cat)?'':'none';});}
-function showError(msg){const banner=document.getElementById('error-banner');banner.textContent=msg;banner.style.display='block';}
-function showToast(msg,type){const t=document.getElementById('toast');t.textContent=msg;t.className=type||'';t.style.display='block';setTimeout(()=>{t.style.display='none';},3000);}
-function saveToken(){const val=document.getElementById('token-input').value.trim();if(val){localStorage.setItem(TOKEN_KEY,val);closeTokenModal();showToast('Token saved \u2014 syncing...','success');syncToGitHub();}}
-function closeTokenModal(){document.getElementById('token-modal').classList.remove('open');}
+// ── Configuration ──
+const OWNER = 'pmartbrown';
+const REPO = 'dashboard';
+const FILE_PATH = 'todo.md';
+const RAW_URL = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/${FILE_PATH}`;
+const API_URL = `https://api.github.com/repos/${OWNER}/${REPO}/contents/${FILE_PATH}`;
+const TOKEN_KEY = 'gh-pat';
+
+// ── RQF mode detection ──
+const params = new URLSearchParams(window.location.search);
+const isRQF = params.get('view') === 'rqf';
+const RQF_CATS = ['deals', 'follow-ups', 'systems', 'waiting', 'completed'];
+
+if (isRQF) {
+  document.body.classList.add('rqf');
+  document.getElementById('dash-title').textContent = '🏦 Real Quick Funds';
+  document.getElementById('dash-subtitle').textContent = 'Deals · Capital · Lending · Team';
+  document.title = 'Real Quick Funds';
+}
+
+// ── Category mapping ──
+const SECTION_META = {
+  'deals / funding':        { icon: '💰', cat: 'deals',      label: 'Deals / Funding' },
+  'deals':                  { icon: '💰', cat: 'deals',      label: 'Deals / Funding' },
+  'follow-ups / outreach':  { icon: '📞', cat: 'follow-ups', label: 'Follow-Ups / Outreach' },
+  'follow-ups':             { icon: '📞', cat: 'follow-ups', label: 'Follow-Ups / Outreach' },
+  'personal / standards':   { icon: '🏠', cat: 'personal',   label: 'Personal / Standards' },
+  'personal':               { icon: '🏠', cat: 'personal',   label: 'Personal / Standards' },
+  'health':                 { icon: '❤️', cat: 'health',     label: 'Health' },
+  'calendar':               { icon: '📅', cat: 'calendar',   label: 'Calendar' },
+  'calendar - this weekend': { icon: '📅', cat: 'calendar',   label: 'Calendar — This Weekend' },
+  'systems / ai':           { icon: '🤖', cat: 'systems',    label: 'Systems / AI' },
+  'systems':                { icon: '🤖', cat: 'systems',    label: 'Systems / AI' },
+  'projects — build':       { icon: '🛠', cat: 'projects',   label: 'Projects — Build' },
+  'projects':               { icon: '🛠', cat: 'projects',   label: 'Projects — Build' },
+};
+
+// ── State ──
+let parsedSections = [];
+let waitingItems = [];
+let completedItems = [];
+let lastUpdated = '';
+let fileSHA = null;
+
+// ── Fetch & Parse ──
+async function init() {
+  try {
+    const resp = await fetch(RAW_URL + '?t=' + Date.now());
+    if (!resp.ok) throw new Error('Failed to fetch todo.md: ' + resp.status);
+    const md = await resp.text();
+    parseTodoMd(md);
+    render();
+    document.getElementById('loading').style.display = 'none';
+    // Get file SHA for future updates
+    fetchSHA();
+  } catch (e) {
+    document.getElementById('loading').style.display = 'none';
+    showError('Could not load todo.md: ' + e.message);
+  }
+}
+
+function parseTodoMd(md) {
+  const lines = md.split('\n');
+  parsedSections = [];
+  waitingItems = [];
+  completedItems = [];
+  lastUpdated = '';
+
+  let currentH2 = '';
+  let currentH3 = '';
+  let inTable = false;
+  let tableHeaders = [];
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+
+    // Extract last updated
+    const updMatch = line.match(/Last updated:\s*(.+)/);
+    if (updMatch) lastUpdated = updMatch[1].trim();
+
+    // H2 headings
+    if (line.startsWith('## ')) {
+      currentH2 = line.replace('## ', '').trim();
+      currentH3 = '';
+      inTable = false;
+      continue;
+    }
+
+    // H3 headings (sections under Active Items)
+    if (line.startsWith('### ')) {
+      currentH3 = line.replace('### ', '').trim();
+      inTable = false;
+
+      if (currentH2 === 'Active Items') {
+        const key = currentH3.toLowerCase().replace(/\u2014/g, '-').replace(/\s+/g, ' ').trim();
+        // Match against known patterns more flexibly
+        let meta = null;
+        for (const [pattern, m] of Object.entries(SECTION_META)) {
+          if (key.includes(pattern) || pattern.includes(key)) {
+            meta = m;
+            break;
+          }
+        }
+        if (!meta) {
+          // Try matching start of key
+          for (const [pattern, m] of Object.entries(SECTION_META)) {
+            if (key.startsWith(pattern.split(' ')[0])) {
+              meta = m;
+              break;
+            }
+          }
+        }
+        if (!meta) meta = { icon: '📌', cat: key.replace(/[^a-z0-9]/g, '-'), label: currentH3 };
+        parsedSections.push({ ...meta, heading: currentH3, items: [] });
+      }
+      continue;
+    }
+
+    // Table header detection
+    if (line.trim().startsWith('|') && line.includes('Item') && !inTable) {
+      tableHeaders = line.split('|').map(h => h.trim().toLowerCase()).filter(Boolean);
+      inTable = true;
+      continue;
+    }
+
+    // Skip separator row
+    if (inTable && line.trim().match(/^\|[\s\-|]+\|$/)) continue;
+
+    // Table data rows
+    if (inTable && line.trim().startsWith('|') && line.trim().endsWith('|')) {
+      const cells = line.split('|').map(c => c.trim()).filter(Boolean);
+
+      if (currentH2 === 'Active Items' && parsedSections.length > 0) {
+        const section = parsedSections[parsedSections.length - 1];
+        const item = {};
+        tableHeaders.forEach((h, idx) => { item[h] = cells[idx] || ''; });
+        section.items.push(item);
+      } else if (currentH2.toLowerCase().includes('waiting')) {
+        const item = {};
+        tableHeaders.forEach((h, idx) => { item[h] = cells[idx] || ''; });
+        waitingItems.push(item);
+      } else if (currentH2.toLowerCase().includes('completed')) {
+        const item = {};
+        tableHeaders.forEach((h, idx) => { item[h] = cells[idx] || ''; });
+        completedItems.push(item);
+      }
+      continue;
+    }
+
+    // End table on non-table line
+    if (inTable && !line.trim().startsWith('|') && line.trim() !== '') {
+      inTable = false;
+    }
+  }
+}
+
+// ── Rendering ──
+function render() {
+  document.getElementById('dash-updated').textContent =
+    `Last updated: ${lastUpdated} \u2014 Live from todo.md`;
+
+  // Build filter buttons
+  const cats = new Set();
+  parsedSections.forEach(s => cats.add(s.cat));
+  if (waitingItems.length) cats.add('waiting');
+  if (completedItems.length) cats.add('completed');
+
+  const filtersEl = document.getElementById('filters');
+  filtersEl.innerHTML = '';
+  const allBtn = el('button', { class: 'filter-btn active', onclick: (e) => filterCat('all', e) }, 'All');
+  filtersEl.appendChild(allBtn);
+
+  const catLabels = {
+    'deals': '💰 Deals', 'follow-ups': '📞 Follow-Ups', 'personal': '🏠 Personal',
+    'health': '❤️ Health', 'calendar': '📅 Calendar', 'systems': '🤖 Systems/AI',
+    'projects': '🛠 Projects', 'waiting': '⏳ Waiting On', 'completed': '✅ Completed'
+  };
+
+  for (const cat of cats) {
+    if (isRQF && !RQF_CATS.includes(cat)) continue;
+    const label = catLabels[cat] || cat;
+    const btn = el('button', { class: 'filter-btn', onclick: (e) => filterCat(cat, e) }, label);
+    filtersEl.appendChild(btn);
+  }
+
+  // Build sections
+  const contentEl = document.getElementById('content');
+  contentEl.innerHTML = '';
+
+  for (const section of parsedSections) {
+    if (isRQF && !RQF_CATS.includes(section.cat)) continue;
+    if (section.items.length === 0) continue;
+    contentEl.appendChild(renderSection(section));
+  }
+
+  // Waiting On
+  if (waitingItems.length > 0 && (!isRQF || RQF_CATS.includes('waiting'))) {
+    contentEl.appendChild(renderWaiting());
+  }
+
+  // Completed
+  if (completedItems.length > 0 && (!isRQF || RQF_CATS.includes('completed'))) {
+    contentEl.appendChild(renderCompleted());
+  }
+
+  // Restore saved progress from localStorage
+  restoreProgress();
+  updateCounts();
+}
+
+function renderSection(section) {
+  const div = el('div', { class: 'section', 'data-cat': section.cat });
+  const header = el('div', { class: 'section-header' });
+  header.innerHTML = `<span>${section.icon} ${section.label}</span><span class="section-count">${section.items.length} items</span>`;
+  div.appendChild(header);
+
+  const table = el('table');
+  const thead = el('thead');
+  thead.innerHTML = `<tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th class="prog-cell-th" style="width:100px;text-align:center">Progress</th></tr>`;
+  table.appendChild(thead);
+
+  const tbody = el('tbody');
+  section.items.forEach(item => {
+    const tr = renderItemRow(item);
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  div.appendChild(table);
+  return div;
+}
+
+function renderItemRow(item) {
+  const itemText = item.item || '';
+  const due = item.due || '';
+  const context = item.context || '';
+  const priorityRaw = item.priority || '';
+  const progressRaw = item.progress || '\u2014';
+
+  const priority = priorityRaw.includes('High') ? 'high' : priorityRaw.includes('Medium') ? 'med' : 'low';
+  const itemId = slugify(itemText);
+
+  const tr = el('tr', { 'data-id': itemId, 'data-priority': priority, 'data-label': itemText });
+
+  // Checkbox
+  const cbTd = el('td', { class: 'cb-cell' });
+  const cb = el('input', { type: 'checkbox' });
+  cb.addEventListener('change', function() { toggleDone(this); });
+  cbTd.appendChild(cb);
+  tr.appendChild(cbTd);
+
+  // Priority dot
+  const dotTd = el('td');
+  dotTd.innerHTML = `<span class="priority-dot p-${priority}"></span>`;
+  tr.appendChild(dotTd);
+
+  // Item + Context
+  const itemTd = el('td');
+  const stack = el('div', { class: 'item-stack' });
+  const textDiv = el('div', { class: 'item-text' });
+  textDiv.textContent = itemText;
+  stack.appendChild(textDiv);
+  if (context && context !== '\u2014') {
+    const ctxDiv = el('div', { class: 'context-text' });
+    ctxDiv.textContent = context;
+    stack.appendChild(ctxDiv);
+  }
+  itemTd.appendChild(stack);
+  tr.appendChild(itemTd);
+
+  // Due badge
+  const dueTd = el('td');
+  dueTd.innerHTML = renderDueBadge(due);
+  tr.appendChild(dueTd);
+
+  // Progress cell
+  const progTd = el('td', { class: 'prog-cell' });
+  progTd.innerHTML = `
+    <div class="prog-wrap">
+      <div class="prog-bar-bg"><div class="prog-bar-fill" style="width:0%"></div></div>
+      <div class="prog-controls">
+        <button class="prog-btn" onclick="adjProg(this,-10)">−</button>
+        <span class="prog-label" onclick="cycleProg(this)">0%</span>
+        <button class="prog-btn" onclick="adjProg(this,10)">+</button>
+      </div>
+    </div>`;
+  tr.appendChild(progTd);
+
+  return tr;
+}
+
+function renderDueBadge(due) {
+  if (!due || due === '\u2014') return `<span class="badge badge-gray">\u2014</span>`;
+  const lower = due.toLowerCase();
+  if (lower === 'asap') return `<span class="badge badge-red">ASAP</span>`;
+  if (lower.includes('overdue') || lower.includes('past')) return `<span class="badge badge-red">${due}</span>`;
+
+  // Check if it's a date and if it's overdue
+  const dateMatch = due.match(/(\d{4}-\d{2}-\d{2})/);
+  if (dateMatch) {
+    const d = new Date(dateMatch[1] + 'T12:00:00');
+    const today = new Date();
+    today.setHours(12,0,0,0);
+    if (d < today) {
+      const month = d.toLocaleString('en', { month: 'short' });
+      const day = d.getDate();
+      return `<span class="badge badge-red">OVERDUE ${month} ${day}</span>`;
+    }
+    const month = d.toLocaleString('en', { month: 'short' });
+    const day = d.getDate();
+    return `<span class="badge badge-purple">${month} ${day}</span>`;
+  }
+
+  // Keyword-based
+  if (lower.includes('week')) return `<span class="badge badge-yellow">${due}</span>`;
+  if (lower.includes('bi-weekly') || lower.includes('monthly')) return `<span class="badge badge-purple">${due}</span>`;
+  return `<span class="badge badge-purple">${due}</span>`;
+}
+
+function renderWaiting() {
+  const div = el('div', { class: 'section', 'data-cat': 'waiting' });
+  const header = el('div', { class: 'section-header' });
+  header.innerHTML = `<span>⏳ Waiting On (Others Owe You)</span><span class="section-count">${waitingItems.length} items</span>`;
+  div.appendChild(header);
+
+  const table = el('table');
+  const thead = el('thead');
+  thead.innerHTML = `<tr><th class="cb-cell"></th><th style="width:140px">Person</th><th>What They Owe</th><th>Context</th><th style="width:100px">Expected</th></tr>`;
+  table.appendChild(thead);
+
+  const tbody = el('tbody');
+  waitingItems.forEach(item => {
+    const person = item.person || '';
+    const owe = item['what they owe'] || '';
+    const context = item.context || '';
+    const expected = item.expected || '\u2014';
+    const id = slugify('waiting-' + person);
+
+    const tr = el('tr', { 'data-id': id, 'data-priority': 'med', 'data-label': `Waiting: ${person} \u2014 ${owe}` });
+    const cbTd = el('td', { class: 'cb-cell' });
+    const cb = el('input', { type: 'checkbox' });
+    cb.addEventListener('change', function() { toggleDone(this); });
+    cbTd.appendChild(cb);
+    tr.appendChild(cbTd);
+
+    const personTd = el('td', { class: 'item-text' });
+    personTd.textContent = person;
+    tr.appendChild(personTd);
+
+    const oweTd = el('td');
+    oweTd.textContent = owe;
+    tr.appendChild(oweTd);
+
+    const ctxTd = el('td');
+    ctxTd.innerHTML = `<div class="context-text">${escHtml(context)}</div>`;
+    tr.appendChild(ctxTd);
+
+    const expTd = el('td');
+    expTd.innerHTML = `<span class="badge badge-gray">${escHtml(expected) || 'None'}</span>`;
+    tr.appendChild(expTd);
+
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  div.appendChild(table);
+  return div;
+}
+
+function renderCompleted() {
+  const div = el('div', { class: 'section', 'data-cat': 'completed' });
+  const header = el('div', { class: 'section-header' });
+  header.innerHTML = `<span>✅ Completed (Last 30 Days)</span><span class="section-count">${completedItems.length} items</span>`;
+  div.appendChild(header);
+
+  const table = el('table');
+  const thead = el('thead');
+  thead.innerHTML = `<tr><th style="width:100px">Date</th><th>Item</th></tr>`;
+  table.appendChild(thead);
+
+  const tbody = el('tbody', { class: 'completed-section' });
+  // Filter to last 30 days
+  const cutoff = new Date();
+  cutoff.setDate(cutoff.getDate() - 30);
+
+  completedItems.forEach(item => {
+    const completed = item.completed || '';
+    const text = item.item || '';
+    const tr = el('tr');
+    const dateTd = el('td');
+    // Format date nicely
+    const dateMatch = completed.match(/(\d{4})-(\d{2})-(\d{2})/);
+    let dateLabel = completed;
+    if (dateMatch) {
+      const d = new Date(completed + 'T12:00:00');
+      dateLabel = d.toLocaleDateString('en', { month: 'short', day: 'numeric' });
+    }
+    dateTd.innerHTML = `<span class="badge badge-teal">${escHtml(dateLabel)}</span>`;
+    tr.appendChild(dateTd);
+
+    const itemTd = el('td');
+    itemTd.textContent = text;
+    tr.appendChild(itemTd);
+
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+  div.appendChild(table);
+  return div;
+}
+
+// ── Progress & Checkbox Logic ──
+const PROGRESS_KEY = 'dash-progress-v3';
+function loadProgress() { try { return JSON.parse(localStorage.getItem(PROGRESS_KEY) || '{}'); } catch { return {}; } }
+function saveProgress(s) { localStorage.setItem(PROGRESS_KEY, JSON.stringify(s)); }
+
+function progColor(pct) {
+  if (pct === 0) return 'var(--border)';
+  if (pct < 50) return 'var(--accent)';
+  if (pct < 90) return 'var(--yellow)';
+  if (pct < 100) return '#f0883e';
+  return 'var(--green)';
+}
+
+function setProgUI(row, pct) {
+  const fill = row.querySelector('.prog-bar-fill');
+  const label = row.querySelector('.prog-label');
+  if (!fill || !label) return;
+  fill.style.width = pct + '%';
+  fill.style.background = progColor(pct);
+  label.textContent = pct + '%';
+  label.style.color = progColor(pct);
+  label.style.borderColor = pct > 0 ? progColor(pct) : 'var(--border)';
+  if (pct === 100) {
+    row.classList.add('done');
+    const cb = row.querySelector('input[type=checkbox]');
+    if (cb) cb.checked = true;
+    // Add a green checkmark visual to the progress label
+    label.textContent = '100% ✓';
+    label.style.color = 'var(--green)';
+    label.style.borderColor = 'var(--green)';
+  } else if (!row.querySelector('input[type=checkbox]')?.checked) {
+    row.classList.remove('done');
+  }
+}
+
+function adjProg(btn, delta) {
+  const row = btn.closest('tr');
+  const id = row.dataset.id;
+  const st = loadProgress();
+  const cur = st[id]?.prog || 0;
+  const nv = Math.max(0, Math.min(100, cur + delta));
+  st[id] = st[id] || {};
+  st[id].prog = nv;
+  if (nv === 100) st[id].done = true;
+  saveProgress(st);
+  setProgUI(row, nv);
+  updateCounts();
+  scheduleSync();
+}
+
+function cycleProg(label) {
+  const row = label.closest('tr');
+  const id = row.dataset.id;
+  const st = loadProgress();
+  const cur = st[id]?.prog || 0;
+  const nv = cur >= 100 ? 0 : cur + 10;
+  st[id] = st[id] || {};
+  st[id].prog = nv;
+  if (nv === 100) st[id].done = true;
+  else if (nv === 0) st[id].done = false;
+  saveProgress(st);
+  setProgUI(row, nv);
+  const cb = row.querySelector('input[type=checkbox]');
+  if (cb) cb.checked = st[id].done || false;
+  if (!st[id].done) row.classList.remove('done');
+  updateCounts();
+  scheduleSync();
+}
+
+function toggleDone(cb) {
+  const row = cb.closest('tr');
+  const id = row.dataset.id;
+  const st = loadProgress();
+  st[id] = st[id] || {};
+  st[id].done = cb.checked;
+  if (cb.checked && (st[id].prog || 0) < 100) st[id].prog = 100;
+  if (!cb.checked) st[id].prog = 0;
+  saveProgress(st);
+  setProgUI(row, st[id].prog || 0);
+  if (cb.checked) {
+    row.classList.add('done');
+    // Animate move to completed section after a short delay
+    setTimeout(() => moveToCompleted(row), 600);
+  } else {
+    row.classList.remove('done');
+  }
+  updateCounts();
+  scheduleSync();
+}
+
+function moveToCompleted(row) {
+  const label = row.dataset.label || row.querySelector('.item-text')?.textContent || '';
+  const today = new Date().toISOString().split('T')[0];
+  const d = new Date(today + 'T12:00:00');
+  const dateLabel = d.toLocaleDateString('en', { month: 'short', day: 'numeric' });
+
+  // Find or create the "Completed This Session" section
+  let sessionSection = document.querySelector('.section[data-cat="completed-session"]');
+  if (!sessionSection) {
+    sessionSection = el('div', { class: 'section', 'data-cat': 'completed-session' });
+    const header = el('div', { class: 'section-header' });
+    header.innerHTML = `<span>✅ Completed This Session</span><span class="section-count completed-session-count">0 items</span>`;
+    sessionSection.appendChild(header);
+    const table = el('table');
+    const thead = el('thead');
+    thead.innerHTML = `<tr><th style="width:100px">Date</th><th>Item</th><th style="width:80px;text-align:center">Undo</th></tr>`;
+    table.appendChild(thead);
+    const tbody = el('tbody', { class: 'completed-session-body' });
+    table.appendChild(tbody);
+    sessionSection.appendChild(table);
+    // Insert before the existing completed section or at end
+    const existingCompleted = document.querySelector('.section[data-cat="completed"]');
+    const contentEl = document.getElementById('content');
+    if (existingCompleted) contentEl.insertBefore(sessionSection, existingCompleted);
+    else contentEl.appendChild(sessionSection);
+  }
+
+  // Add row to completed session
+  const tbody = sessionSection.querySelector('.completed-session-body');
+  const tr = el('tr');
+  const dateTd = el('td');
+  dateTd.innerHTML = `<span class="badge badge-teal">${escHtml(dateLabel)}</span>`;
+  tr.appendChild(dateTd);
+
+  const itemTd = el('td', { class: 'item-text' });
+  itemTd.style.color = 'var(--green)';
+  itemTd.textContent = label;
+  tr.appendChild(itemTd);
+
+  const undoTd = el('td', { style: 'text-align:center' });
+  const undoBtn = el('button', { class: 'prog-btn', style: 'width:auto;padding:2px 10px;font-size:0.78em' }, 'Undo');
+  const rowId = row.dataset.id;
+  undoBtn.addEventListener('click', () => undoComplete(rowId, tr, row));
+  undoTd.appendChild(undoBtn);
+  tr.appendChild(undoTd);
+
+  tbody.appendChild(tr);
+
+  // Update session completed count
+  const countEl = sessionSection.querySelector('.completed-session-count');
+  const count = tbody.querySelectorAll('tr').length;
+  countEl.textContent = count + ' item' + (count !== 1 ? 's' : '');
+
+  // Fade out original row
+  row.style.transition = 'opacity 0.3s, max-height 0.3s';
+  row.style.opacity = '0';
+  setTimeout(() => { row.style.display = 'none'; }, 300);
+
+  updateCounts();
+}
+
+function undoComplete(itemId, completedRow, originalRow) {
+  // Restore original row
+  originalRow.style.display = '';
+  originalRow.style.opacity = '1';
+  originalRow.classList.remove('done');
+  const cb = originalRow.querySelector('input[type=checkbox]');
+  if (cb) cb.checked = false;
+
+  // Reset progress
+  const st = loadProgress();
+  if (st[itemId]) {
+    st[itemId].done = false;
+    st[itemId].prog = 0;
+    saveProgress(st);
+  }
+  setProgUI(originalRow, 0);
+
+  // Remove from completed session
+  completedRow.remove();
+
+  // Clean up empty session section
+  const sessionSection = document.querySelector('.section[data-cat="completed-session"]');
+  if (sessionSection) {
+    const tbody = sessionSection.querySelector('.completed-session-body');
+    const remaining = tbody.querySelectorAll('tr').length;
+    if (remaining === 0) {
+      sessionSection.remove();
+    } else {
+      const countEl = sessionSection.querySelector('.completed-session-count');
+      countEl.textContent = remaining + ' item' + (remaining !== 1 ? 's' : '');
+    }
+  }
+
+  updateCounts();
+  scheduleSync();
+}
+
+function restoreProgress() {
+  const st = loadProgress();
+  document.querySelectorAll('tr[data-id]').forEach(row => {
+    const id = row.dataset.id;
+    if (!st[id]) return;
+    const pct = st[id].prog || 0;
+    const done = st[id].done || false;
+    setProgUI(row, pct);
+    const cb = row.querySelector('input[type=checkbox]');
+    if (cb) cb.checked = done;
+    if (done) row.classList.add('done');
+  });
+}
+
+function updateCounts() {
+  const st = loadProgress();
+  let high = 0, med = 0, low = 0, doneCount = 0;
+  document.querySelectorAll('tr[data-priority]').forEach(row => {
+    const id = row.dataset.id;
+    const isDone = row.classList.contains('done') || row.style.display === 'none';
+    if (isDone) { doneCount++; return; }
+    const p = row.dataset.priority;
+    if (p === 'high') high++;
+    else if (p === 'med') med++;
+    else low++;
+  });
+  // Also count items in the "Completed This Session" section
+  const sessionBody = document.querySelector('.completed-session-body');
+  if (sessionBody) doneCount += sessionBody.querySelectorAll('tr').length;
+  // Plus items already in the completed table from todo.md
+  doneCount += completedItems.length;
+
+  document.getElementById('cnt-high').textContent = high;
+  document.getElementById('cnt-med').textContent = med;
+  document.getElementById('cnt-low').textContent = low;
+  document.getElementById('cnt-done').textContent = doneCount;
+}
+
+// ── Direct sync to todo.md ──
+let syncTimer = null;
+function scheduleSync() {
+  if (syncTimer) clearTimeout(syncTimer);
+  syncTimer = setTimeout(() => syncToGitHub(), 3000); // debounce 3s
+}
+
+async function syncToGitHub() {
+  const token = localStorage.getItem(TOKEN_KEY);
+  if (!token) {
+    document.getElementById('token-modal').classList.add('open');
+    return;
+  }
+
+  const st = loadProgress();
+  const changes = {};
+  let hasChanges = false;
+  document.querySelectorAll('tr[data-id]').forEach(row => {
+    const id = row.dataset.id;
+    if (st[id] && (st[id].done || st[id].prog > 0)) {
+      changes[id] = { label: row.dataset.label, ...st[id] };
+      hasChanges = true;
+    }
+  });
+  if (!hasChanges) return;
+
+  try {
+    // Fetch current file to get SHA and content
+    const getResp = await fetch(API_URL, {
+      headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' }
+    });
+    if (!getResp.ok) {
+      if (getResp.status === 401) {
+        localStorage.removeItem(TOKEN_KEY);
+        showToast('Token expired \u2014 please re-enter', 'error');
+        document.getElementById('token-modal').classList.add('open');
+      } else {
+        showToast('GitHub error: ' + getResp.status, 'error');
+      }
+      return;
+    }
+    const fileData = await getResp.json();
+    fileSHA = fileData.sha;
+
+    // Decode current content
+    const currentContent = decodeBase64(fileData.content);
+
+    // Apply progress updates to the markdown
+    const updatedContent = applyProgressToMd(currentContent, changes);
+
+    if (updatedContent === currentContent) {
+      // Nothing actually changed in the markdown
+      return;
+    }
+
+    // Push updated file
+    const putResp = await fetch(API_URL, {
+      method: 'PUT',
+      headers: {
+        'Authorization': 'token ' + token,
+        'Accept': 'application/vnd.github.v3+json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        message: 'Dashboard progress update ' + new Date().toISOString().split('T')[0],
+        content: btoa(unescape(encodeURIComponent(updatedContent))),
+        sha: fileSHA
+      })
+    });
+
+    if (putResp.ok) {
+      const result = await putResp.json();
+      fileSHA = result.content.sha;
+
+      // Move completed items: clear their local progress since they're now in the md
+      const clearedSt = loadProgress();
+      for (const [id, data] of Object.entries(changes)) {
+        if (data.done) delete clearedSt[id];
+      }
+      saveProgress(clearedSt);
+
+      showToast('✅ Synced to todo.md', 'success');
+    } else if (putResp.status === 409) {
+      showToast('Conflict \u2014 refreshing...', 'error');
+      setTimeout(() => location.reload(), 1500);
+    } else {
+      const err = await putResp.json().catch(() => ({}));
+      showToast('Sync failed: ' + (err.message || putResp.status), 'error');
+    }
+  } catch (e) {
+    showToast('Network error: ' + e.message, 'error');
+  }
+}
+
+function applyProgressToMd(md, changes) {
+  const lines = md.split('\n');
+  const newLines = [];
+  let inActiveTable = false;
+  let tableHeaders = [];
+  let currentH2 = '';
+  const today = new Date().toISOString().split('T')[0];
+  const completedToAdd = [];
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+
+    if (line.startsWith('## ')) {
+      currentH2 = line.replace('## ', '').trim();
+      inActiveTable = false;
+    }
+
+    if (line.startsWith('### ') && currentH2 === 'Active Items') {
+      inActiveTable = false;
+    }
+
+    // Detect table header
+    if (line.trim().startsWith('|') && line.includes('Item') && currentH2 === 'Active Items') {
+      tableHeaders = line.split('|').map(h => h.trim().toLowerCase()).filter(Boolean);
+      inActiveTable = true;
+      newLines.push(line);
+      continue;
+    }
+
+    // Skip separator
+    if (inActiveTable && line.trim().match(/^\|[\s\-|]+\|$/)) {
+      newLines.push(line);
+      continue;
+    }
+
+    // Process data rows
+    if (inActiveTable && line.trim().startsWith('|') && line.trim().endsWith('|')) {
+      const cells = line.split('|').map(c => c.trim()).filter(Boolean);
+      const itemIdx = tableHeaders.indexOf('item');
+      const progIdx = tableHeaders.indexOf('progress');
+
+      if (itemIdx >= 0 && cells[itemIdx]) {
+        const itemText = cells[itemIdx];
+        const itemId = slugify(itemText);
+
+        if (changes[itemId]) {
+          const change = changes[itemId];
+
+          if (change.done) {
+            // Item completed \u2014 skip this row (will add to completed section)
+            completedToAdd.push({ date: today, item: itemText });
+            continue;
+          } else if (change.prog > 0 && progIdx >= 0) {
+            // Update progress column
+            cells[progIdx] = change.prog + '%';
+            const newLine = '| ' + cells.join(' | ') + ' |';
+            newLines.push(newLine);
+            continue;
+          }
+        }
+      }
+    }
+
+    // End active table on non-table content
+    if (inActiveTable && !line.trim().startsWith('|') && line.trim() !== '' && !line.trim().match(/^\|[\s\-|]+\|$/)) {
+      inActiveTable = false;
+    }
+
+    newLines.push(line);
+  }
+
+  // Add completed items to the Completed section
+  if (completedToAdd.length > 0) {
+    let insertIdx = -1;
+    for (let i = 0; i < newLines.length; i++) {
+      if (newLines[i].startsWith('## ') && newLines[i].toLowerCase().includes('completed')) {
+        // Find the first data row after the header
+        for (let j = i + 1; j < newLines.length; j++) {
+          if (newLines[j].trim().startsWith('|') && !newLines[j].includes('Completed') && !newLines[j].includes('Item') && !newLines[j].trim().match(/^\|[\s\-|]+\|$/)) {
+            insertIdx = j;
+            break;
+          }
+          if (newLines[j].startsWith('---') || newLines[j].startsWith('## ')) {
+            insertIdx = j;
+            break;
+          }
+        }
+        break;
+      }
+    }
+
+    if (insertIdx >= 0) {
+      const newRows = completedToAdd.map(c => `| ${c.date} | ${c.item} |`);
+      newLines.splice(insertIdx, 0, ...newRows);
+    }
+  }
+
+  // Update the "Last updated" line
+  const result = newLines.join('\n').replace(
+    /Last updated:\s*.+/,
+    'Last updated: ' + today
+  );
+
+  return result;
+}
+
+// ── Utility ──
+function slugify(text) {
+  return text.toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .substring(0, 60)
+    .replace(/-$/, '');
+}
+
+function el(tag, attrs, text) {
+  const e = document.createElement(tag);
+  if (attrs) Object.entries(attrs).forEach(([k, v]) => {
+    if (k === 'onclick') e.onclick = v;
+    else e.setAttribute(k, v);
+  });
+  if (text) e.textContent = text;
+  return e;
+}
+
+function escHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+function decodeBase64(encoded) {
+  const cleaned = encoded.replace(/\n/g, '');
+  return decodeURIComponent(escape(atob(cleaned)));
+}
+
+async function fetchSHA() {
+  const token = localStorage.getItem(TOKEN_KEY);
+  if (!token) return;
+  try {
+    const resp = await fetch(API_URL, {
+      headers: { 'Authorization': 'token ' + token, 'Accept': 'application/vnd.github.v3+json' }
+    });
+    if (resp.ok) {
+      const data = await resp.json();
+      fileSHA = data.sha;
+    }
+  } catch {}
+}
+
+function filterCat(cat, evt) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  if (evt && evt.currentTarget) evt.currentTarget.classList.add('active');
+  else if (evt && evt.target) evt.target.classList.add('active');
+  document.querySelectorAll('.section').forEach(s => {
+    s.style.display = (cat === 'all' || s.dataset.cat === cat) ? '' : 'none';
+  });
+}
+
+function showError(msg) {
+  const banner = document.getElementById('error-banner');
+  banner.textContent = msg;
+  banner.style.display = 'block';
+}
+
+function showToast(msg, type) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.className = type || '';
+  t.style.display = 'block';
+  setTimeout(() => { t.style.display = 'none'; }, 3000);
+}
+
+function saveToken() {
+  const val = document.getElementById('token-input').value.trim();
+  if (val) {
+    localStorage.setItem(TOKEN_KEY, val);
+    closeTokenModal();
+    showToast('Token saved \u2014 syncing...', 'success');
+    syncToGitHub();
+  }
+}
+
+function closeTokenModal() {
+  document.getElementById('token-modal').classList.remove('open');
+}
+
+// ── Init ──
 init();
 </script>
 </body>
