@@ -2,7 +2,7 @@
 > Single source of truth for all action items, follow-ups, and commitments.
 > Persistent across all Cowork sessions. Any skill or task that creates, completes, or modifies action items updates THIS file.
 > Refer to this file when Paul says: "to-do list", "follow-ups", "what's pending", "what do I need to do", "check my items", "open loops", etc.
-> Last updated: 2026-04-17
+> Last updated: 2026-04-20
 
 ---
 
@@ -23,7 +23,7 @@
 | Jade — fund a Morby Method with Pace | ASAP | Contact Jade to plan funding a deal using the Morby Method with Pace. | 🔴 High | — |
 | Lance EMD deal — follow up with Kiefer | ASAP | ~$50K stuck at title. Lance on a cattle ranch now. Watch for his email. | 🟡 Medium | — |
 | Heidi follow-up — property tracking | 2026-04-04 | Property manager. Discuss mortgage/payment tracking for all 4 properties. | 🔴 High | — |
-| Curtis $300K — follow up re: bank fraud block | ASAP | Bank stopped the $300K transfer flagging it as fraud. Follow up with Curtis to resolve and get funds through. | 🔴 High | — |
+| Pay Curtis back $500 | ASAP | $300K bank fraud block issue is RESOLVED. Owe Curtis $500 repayment. | 🟡 Medium | — |
 | Pace Morby 1:1 follow-up | ASAP | Jenny has the Mt. Everest statement — no response yet. Follow up to get 1:1 time with Pace. | 🔴 High | — |
 
 ### Personal / Standards
