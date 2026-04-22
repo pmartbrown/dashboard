@@ -230,7 +230,7 @@ function parseTodoMd(md) {
       inTable = false;
 
       if (currentH2 === 'Active Items') {
-        const key = currentH3.toLowerCase().replace(/\u2014/g, '-').replace(/\s+/g, ' ').trim();
+        const key = currentH3.toLowerCase().replace(/—/g, '-').replace(/\s+/g, ' ').trim();
         // Match against known patterns more flexibly
         let meta = null;
         for (const [pattern, m] of Object.entries(SECTION_META)) {
@@ -295,7 +295,7 @@ function parseTodoMd(md) {
 // ── Rendering ──
 function render() {
   document.getElementById('dash-updated').textContent =
-    `Last updated: ${lastUpdated} \u2014 Live from todo.md`;
+    `Last updated: ${lastUpdated} — Live from todo.md`;
 
   // Build filter buttons
   const cats = new Set();
@@ -372,7 +372,7 @@ function renderItemRow(item) {
   const due = item.due || '';
   const context = item.context || '';
   const priorityRaw = item.priority || '';
-  const progressRaw = item.progress || '\u2014';
+  const progressRaw = item.progress || '—';
 
   const priority = priorityRaw.includes('High') ? 'high' : priorityRaw.includes('Medium') ? 'med' : 'low';
   const itemId = slugify(itemText);
@@ -397,7 +397,7 @@ function renderItemRow(item) {
   const textDiv = el('div', { class: 'item-text' });
   textDiv.textContent = itemText;
   stack.appendChild(textDiv);
-  if (context && context !== '\u2014') {
+  if (context && context !== '—') {
     const ctxDiv = el('div', { class: 'context-text' });
     ctxDiv.textContent = context;
     stack.appendChild(ctxDiv);
@@ -427,7 +427,7 @@ function renderItemRow(item) {
 }
 
 function renderDueBadge(due) {
-  if (!due || due === '\u2014') return `<span class="badge badge-gray">\u2014</span>`;
+  if (!due || due === '—') return `<span class="badge badge-gray">—</span>`;
   const lower = due.toLowerCase();
   if (lower === 'asap') return `<span class="badge badge-red">ASAP</span>`;
   if (lower.includes('overdue') || lower.includes('past')) return `<span class="badge badge-red">${due}</span>`;
@@ -470,10 +470,10 @@ function renderWaiting() {
     const person = item.person || '';
     const owe = item['what they owe'] || '';
     const context = item.context || '';
-    const expected = item.expected || '\u2014';
+    const expected = item.expected || '—';
     const id = slugify('waiting-' + person);
 
-    const tr = el('tr', { 'data-id': id, 'data-priority': 'med', 'data-label': `Waiting: ${person} \u2014 ${owe}` });
+    const tr = el('tr', { 'data-id': id, 'data-priority': 'med', 'data-label': `Waiting: ${person} — ${owe}` });
     const cbTd = el('td', { class: 'cb-cell' });
     const cb = el('input', { type: 'checkbox' });
     cb.addEventListener('change', function() { toggleDone(this); });
@@ -781,7 +781,7 @@ function scheduleSync() {
 async function syncToGitHub() {
   const token = localStorage.getItem(TOKEN_KEY);
   if (!token) {
-    // No token \u2014 just save locally, don't block with modal
+    // No token — just save locally, don't block with modal
     return;
   }
 
@@ -805,7 +805,7 @@ async function syncToGitHub() {
     if (!getResp.ok) {
       if (getResp.status === 401) {
         localStorage.removeItem(TOKEN_KEY);
-        showToast('Token expired \u2014 please re-enter', 'error');
+        showToast('Token expired — please re-enter', 'error');
         document.getElementById('token-modal').classList.add('open');
       } else {
         showToast('GitHub error: ' + getResp.status, 'error');
@@ -854,7 +854,7 @@ async function syncToGitHub() {
 
       showToast('✅ Synced to todo.md', 'success');
     } else if (putResp.status === 409) {
-      showToast('Conflict \u2014 refreshing...', 'error');
+      showToast('Conflict — refreshing...', 'error');
       setTimeout(() => location.reload(), 1500);
     } else {
       const err = await putResp.json().catch(() => ({}));
@@ -914,7 +914,7 @@ function applyProgressToMd(md, changes) {
           const change = changes[itemId];
 
           if (change.done) {
-            // Item completed \u2014 skip this row (will add to completed section)
+            // Item completed — skip this row (will add to completed section)
             completedToAdd.push({ date: today, item: itemText });
             continue;
           } else if (change.prog > 0 && progIdx >= 0) {
@@ -1044,7 +1044,7 @@ function saveToken() {
   if (val) {
     localStorage.setItem(TOKEN_KEY, val);
     closeTokenModal();
-    showToast('Token saved \u2014 syncing...', 'success');
+    showToast('Token saved — syncing...', 'success');
     syncToGitHub();
   }
 }
