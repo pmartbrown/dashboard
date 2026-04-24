@@ -2,7 +2,7 @@
 > Single source of truth for all action items, follow-ups, and commitments.
 > Persistent across all Cowork sessions. Any skill or task that creates, completes, or modifies action items updates THIS file.
 > Refer to this file when Paul says: "to-do list", "follow-ups", "what's pending", "what do I need to do", "check my items", "open loops", etc.
-> Last updated: 2026-04-20
+> Last updated: 2026-04-23
 
 ---
 
@@ -11,9 +11,7 @@
 ### Deals / Funding
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
-| Capital raise — $250K for deals (contact Curtis + others) | 2026-04-07 | Need to raise $250,000 by tomorrow for active deals. Primary contact: Curtis. Review other investors if Curtis is unavailable. | 🔴 High | — |
 | Studewood Stack vs Gap decision | — | Justin asked if it should move. He's out today — decide solo or table. | 🟡 Medium | — |
-| Ensure investors have been paid, including Adam's ad hoc funds | ASAP | Reconcile with Adam — calculate return amount + rate fees owed. | 🔴 High | — |
 
 ### Follow-Ups / Outreach
 | Item | Due | Context | Priority | Progress |
@@ -82,6 +80,8 @@
 
 | Completed | Item |
 |-----------|------|
+| 2026-04-23 | Capital raise — $140K secured for today's deals |
+| 2026-04-23 | Adam fully paid — all money owed through today reconciled and paid |
 | 2026-04-17 | RezGap Plus Fund — PPM, LPA, subscription docs uploaded to Cash Flow Portal |
 | 2026-04-17 | RezGap Plus Fund — bank account connected for ACH |
 | 2026-04-17 | RezGap Plus Fund — deal-level KPIs configured |
