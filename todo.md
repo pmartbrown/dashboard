@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated:** 2026-04-30
+**Last updated:** 2026-05-02
 
 ---
 
@@ -19,6 +19,8 @@
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
 | Make hiring decision on client-facing PM role (Jose / Alana / Juliana) — confer with Justin Pilakka; notify Ivan so he can inform candidates | ASAP | 04-30 interview — 3 candidates interviewed; Ivan waiting on decision; all 3 have relevant backgrounds; Alana has 20+ yrs customer support + PM + realtor; Juliana has AT&T PM + property mgmt BD experience | 🟡 | ⬜ |
+| Forward progress report summary to Amber | ASAP | 05-01 voice memo during Morbi Method session — Paul dictated "note the summary of that progress report, then forward it to Amber" | 🟡 | ⬜ |
+| Connect contact with memorandum filing expert — Paul offered to help someone with filing a memorandum to cloud title | This week | 05-01 brief call about using memorandums to block a sale; Paul said "I might have somebody that can help you with that" | 🟢 | ⬜ |
 | Send DocuSign subscription docs to investor (from 04-25 call) to move them into restructured fund | This week | 04-25 call — investor getting manual monthly payments; moving to quarterly fund distributions | 🟡 | ⬜ |
 | Research legal structure for Japanese investors to participate in fund without US tax impact | TBD | Multiple calls — Japan capital interest high; legal/regulatory hurdle needs solving | 🟡 | ⬜ |
 | Figure out FX hedging strategy (JPY/USD) for Japanese investors | TBD | 04-25 call — 12% return could be wiped out by FX loss if no hedge; research options | 🟡 | ⬜ |
@@ -61,6 +63,8 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| Contact AT&T and Verizon re: rate plan change — Paul explicitly flagged as urgent during recording | ASAP | 05-01 voice memo — Paul said "add this as an urgent item on my to-do list to contact AT&T and Verizon" | 🔴 | ⬜ |
+| Decide on Travelers pension disposition — DEADLINE May 17 to initiate for July 1 payout. Options: rollover to IRA (no tax hit), cash out ~$18,452 (20% federal withheld + possible 10% penalty), or annuity ($104/mo). Initiate at travelers.ehr.com | By May 17 | 05-01 call to Travelers EFU — pension balance $18,253.13 from former Travelers employment; July 1 payout requires May 17 initiation | 🔴 | ⬜ |
 | Address late-night eating/sugar habit — identified as self-sabotage pattern affecting long-term health | Ongoing | 04-28 reflection — knows this will shorten life; immediate emotional regulation overriding long-term health | 🟢 | ⬜ |
 
 ---
@@ -72,4 +76,4 @@
 | Lender confirmation on JV acceptability for Mike's construction refi — determines entire POF path | ASAP | 04-28 meeting — brokers (Tomer/Jeffrey) to clarify with lender; outcome drives next steps | 🔴 | ⬜ |
 
 ---
-*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Afternoon run 2026-04-30.*
+*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Afternoon run 2026-05-02.*
