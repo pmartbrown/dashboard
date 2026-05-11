@@ -1,43 +1,40 @@
-# Morning Briefing — Monday, May 4, 2026
+# Morning Briefing — Saturday, May 9, 2026
 
 ## The One Thing
-Call Naohiro Mouri and collect the subdoc signature — every day this sits unsigned is a day the fund stays at $0. He agreed ~$100K on Apr 25-26. Day 8+ of silence. CALL HIM.
+Get Naohiro Mouri's subdoc signed via the RezGap Plus Fund portal — then initiate the 3D Capital → RezGap Plus Fund transfer. Fund at $0. Mouri committed ~$100K. Do this before OC Retreat.
 
 ## Top 3 Priorities
-1. Capital raising — Call Mouri (subdoc, Day 8+) + unblock Dylan (send referral summary + pitch deck). Fund at $0.
-2. Houston TX deal closes TODAY — 6305 Antoine Dr, $10K EMD. Confirm with Justin/Manoela.
-3. OC Retreat final prep — 10 days out. Confirm Airbnb headcount, OC homework current.
+1. Mouri subdoc — Get signed via RezGap Plus Fund portal, route funds 3D Capital → RezGap Plus. Fund at $0.
+2. Unblock Dylan Stewart — Send referral agreement summary + pitch deck + one-pager. Capital introducer BLOCKED.
+3. OC Retreat final prep — Confirm Airbnb guest count, verify not overbooked. 5 days out. Flight Wed May 13 1:20 PM MT (DL 2680).
 
 ## Follow-Ups & Open Loops
-🔴 Mouri — subdoc signature → move funds 3D Capital → RezGap Plus | ASAP | CALL TODAY
-🟠 Move Paul own funds through RezGap Plus Fund | ASAP
-🟠 Dylan Stewart — send referral summary + pitch deck + one-pager | ASAP
-🟠 Mouri — referrals ask (separate from subdoc) | After subdoc signed
-🔴 Dad life insurance — connect with Pipe, hand off | ASAP
-🟠 Travelers Pension Case 679281 — create account travelers.ehr.com | ASAP
-🔴 OC Retreat Airbnb San Antonio — confirm guest count, verify no overbooking | ASAP
-🟠 14 RV Parks (Karina/Jaime) — send names/emails for data room | ASAP
-🟠 Tauna Ellis Marquee intro — 30+ days overdue | ASAP
+🔴 Naohiro Mouri — subdoc outstanding → get signed via RezGap Plus portal → route 3D Capital → RezGap Plus | ASAP
+🔴 Move Paul's own funds through RezGap Plus Fund | ASAP
+🔴 Naohiro Mouri — referrals ask (separate from subdoc) | After subdoc signed
+🟠 Dylan Stewart — BLOCKED: send referral summary + pitch deck + one-pager | ASAP
+🟠 OC Retreat Airbnb San Antonio — confirm guest count, verify not overbooked | 5 days out
 🟠 Pace Morby 1:1 follow-up | ASAP
-🟠 RezGap Plus Fund — set up electronic sub docs | ASAP
-🔴 Emma — Interior Design 2 grade drop (teacher alert May 3) | Review today
-🟠 Emma HXP — purchase domestic flight (90 days to trip) | This week
-🟠 YW Camp — reply to s_probst@yahoo.com: attendance + sweatshirt size | ASAP
-🟠 Schedule date with Akemi | This week
-🟡 Norm — call re seller carry dates | ASAP
+🟠 Tauna Ellis → Marquee intro | ASAP - 30+ days overdue
+🟠 Lance EMD Deal — follow up with Kiefer | ASAP
+🟠 Heidi — property tracking follow-up | Overdue since Apr 4
+🟠 Dad's life insurance — connect with Pipe, hand off | ASAP
+🟠 Schedule date with Akemi | This weekend - overdue
+🟠 Schedule appointment with Susan Byerly (health) | Overdue since Apr 10
 🟡 Ed — follow up capital partner | ASAP
+🟡 Norm — call re seller carry dates | ASAP
 🟡 Pay Curtis back $500 | ASAP
-🟡 Book Writing Private Lending — schedule session | ASAP
-🟡 Skool community (TxFHub) — finish & launch
-🟡 Dad taxes — finish filing
+🟡 Tax prep with Ernst & Young | Was due week of May 1 - delayed
+🟡 Bruce Williams (Rescu Equity) — reach out re overage/surplus recovery | bruce@rescuequity.com
+🟡 Nancee Heckel — RV park training program call | ASAP
+🟡 Skool Community (TxFHub) — finish & launch | Monthly May focus
+🟡 Dad's taxes — finish filing | Monthly May focus
+🟡 Book Writing — Private Lending | 3+ days missed, needs scheduling
 
-## Today Schedule
-- No calendar events
-- 7-8 PM: Owner Club homework (Mon-Thu standing)
+## Today's Schedule
+No calendar events (Saturday, May 9)
 
 ## Email Action Items
-- [URGENT] Emma Interior Design 2 grade drop — teacher Kahna Cutler alert May 3
-- [ACTION] Emma HXP domestic flight — purchase now, international posted, 90 days out
-- [ACTION] YW Camp — reply to s_probst: attendance + sweatshirt size (updated packing list sent May 4)
-- [ACTION] ChatGPT Business renews May 10 — verify 4 seats still needed
-- [FYI] Schwab eStatement Account 789 available
+- [ACTION] DRIEHAUS FUND — Proxy vote notice. Review and vote if required.
+- [FYI] Alpine School District — Canvas/Instructure security incident (grades 7-12). Emma may be affected.
+- [FYI] Chase Mortgage — Statement ready. Auto-pay scheduled $1,425.10 on 06/06/2026.
