@@ -1,39 +1,44 @@
-# Morning Briefing — Monday, May 11, 2026
+# Morning Briefing — Tuesday, May 12, 2026
 
 ## The One Thing
-Drive the first dollar into the RezGap Plus Fund — follow up with Naohiro Mouri to get his subdoc signed via the fund portal today. Fund at $0. Mouri committed ~$100K. Do this before OC Retreat.
+Confirm Chambersburg $1.125M closed yesterday and lock in Homosassa FL $130K for today — two closes in two days sets the tone for the entire week.
 
 ## Top 3 Priorities
-1. Mouri subdoc — get signed via RezGap Plus Fund portal, route funds 3D Capital → RezGap Plus. Fund at $0.
-2. OC Retreat prep — Confirm Airbnb guest count, verify not overbooked. 3 days out. Flight Wed May 13 1:20 PM MT (DL 2680).
-3. Unblock Dylan Stewart — Send referral agreement summary + pitch deck + one-pager. Capital introducer BLOCKED.
+1. Confirm 1095 Wayne Ave, Chambersburg PA $1.125M closed — collect wire confirmation
+2. Verify 1520 S Suncoast Blvd, Homosassa FL $130K funded and ready to close TODAY 5/12
+3. Touch base on all 9 deals closing 5/15 — confirm each is on track
 
 ## Follow-Ups & Open Loops
-🔴 Naohiro Mouri — subdoc outstanding → get signed via RezGap Plus portal → route 3D Capital → RezGap Plus | ASAP
-🔴 Dad's life insurance — connect with Pipe, hand off (sisters reached) | ASAP
-🔴 OC Retreat Airbnb — confirm guest count, verify not overbooked | 3 days out
-🟠 Naohiro Mouri — referrals ask (separate from subdoc) | After subdoc signed
-🟠 Paul's own funds → move through RezGap Plus Fund | ASAP
-🟠 Dylan Stewart — BLOCKED: send referral summary + pitch deck + one-pager | ASAP
-🟠 Pace Morby 1:1 follow-up | ASAP
+🔴 Naohiro Mouri — subdoc signing via RezGap Plus Fund portal → 3D Capital → RezGap Plus | ASAP
+🔴 Move Paul's own funds through RezGap Plus Fund | ASAP
+🔴 Dad's life insurance — connect with Pipe, complete handoff | ASAP
+🔴 Airbnb San Antonio (May 14-17) — confirm guest count, no overbooking | ASAP
+🟠 Dylan Stewart — send referral summary + pitch deck + one-pager | ASAP
+🟠 Norm — call re seller carry dates + amounts | ASAP
+🟠 Mouri — referrals ask (separate from subdoc) | After subdoc signed
 🟠 Tauna Ellis → Marquee intro | ASAP
-🟠 Norm — call re seller carry dates | ASAP
+🟠 Pace Morby 1:1 follow-up | ASAP
+🟠 Dad's taxes — finish filing | ASAP
+🟠 Reply to Toby's missionary letter Week 36 | Today
 🟠 Schedule date with Akemi | ASAP
 🟠 Schedule appointment with Susan Byerly (health) | Overdue since Apr 10
+🟠 RezGap Plus Fund — set up electronic sub docs | ASAP
+🟠 Lance EMD deal — follow up with Kiefer | ASAP
+🟠 Heidi — property tracking follow-up | Overdue
+🟠 EMD cancel/return alert tool (build) | High priority
 🟡 Ed — follow up capital partner | ASAP
 🟡 Pay Curtis back $500 | ASAP
-🟡 Tax prep with Ernst & Young | Delayed
-🟡 Bruce Williams (Rescu Equity) — bruce@rescuequity.com | (213) 718-1128
+🟡 Bruce Williams (Rescu Equity) — bruce@rescuequity.com | Medium
 🟡 Nancee Heckel — RV park training call | ASAP
-🟡 Skool Community (TxFHub) — finish & launch
-🟡 Dad's taxes — finish filing
-🟡 Lance EMD Deal — follow up with Kiefer | ASAP
+🟡 Kam — check if wife can help with Reyes | ASAP
+🟡 Skool Community (TxFHub) — finish & launch | High build
+🟡 Jordan Davis — AI agents/websites collaboration | Medium
 
 ## Today's Schedule
-• 12:30 PM — Local Entrepreneurs Networking Lunch @ The Social, Provo UT
-• 7:00 PM — Owner's Club Homework (Mon-Thu)
+• All Day — Zero to Hero training
+• No calendar events — focus/prep day before OC Retreat departure Wed
 
 ## Email Action Items
-- [ACTION] Alpine District — Instructure/Canvas security breach — review for kids grades 7-12
-- [FYI] Toby Brown missionary email — Week 36
-- [FYI] Chase mortgage statement — $1,425.10 due 07/01/2026, auto-pay set
+- [URGENT] Delta — select meal for May 13 flight TODAY (Conf# JJW9RW)
+- [ACTION] Reply to Toby Brown missionary letter Week 36
+- [HEADS UP] Skyridge school property due May 13 — coordinate with family
