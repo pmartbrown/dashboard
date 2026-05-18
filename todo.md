@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated:** 2026-05-17
+**Last updated:** 2026-05-18
 
 ---
 
@@ -37,6 +37,8 @@
 | Explore Japanese capital raising structure: local Japanese company with minority Japanese partner to legally raise capital in Japan | TBD | 04-27 meeting — Japan govt restricts foreign entities raising capital; friend solved via local partnership | 🟡 | ⬜ |
 | Fix VA compensation structure: address flaw where private LinkedIn posts don't credit VA performance bonus | This week | 04-28 reflection — post got 2-3K unique viewers; VA missed out; bonus structure needs rethinking | 🟡 | ⬜ |
 | Connect Darren and Adam Anderson for deal collaboration | This week | 05-14 OC networking — mutual connection flagged as valuable | 🟢 | ⬜ |
+| Follow up with Mundo re: his API-connected software tool and potential V-Me method deal funding — if not already logged, add; if already logged, ignore | TBD | 05-17 airport voice memo — Mundo building Claude-integrated tool with API access; explore software discussion and V-Me method deal collaboration | 🟢 | ⬜ |
+| Follow up periodically with OC multifamily investor (announced June 1 engagement) — does multifamily with Chase and Methodist deals; explore funding opportunities for his projects | Ongoing | 05-17 OC airport conversation — met at Owners Club retreat; does multifamily with Chase and Methodist; follow up re: RQF funding | 🟢 | ⬜ |
 | Email Nisha (nisha@pacemorgan.com) for community highlights placement and Taya (taya@pacemorgan.com) for podcast coordination | This week | 05-15 OC Retreat — Pace team contacts for stage/visibility opportunities | 🟡 | ⬜ |
 | Connect with Heather (Pace team) for deal review and capital raising options | This week | 05-15 OC Retreat — Heather handles acquisitions and deal support; reviews, buys, and helps raise capital | 🟡 | ⬜ |
 | Sign up for "Pace and Jerry Prison" small-group Q&A (05-16 ranch day) — signup via text message; 30-40 attendees, curated questions via Molly | ASAP | 05-15 OC Retreat logistics — running today; don't miss window | 🔴 | ⬜ |
@@ -104,6 +106,7 @@
 | Define 12-month "new normal" with measurable performance metrics (deals/month, training discipline, capital targets) | By end of May | 05-15 OC Retreat — Pace's core assignment; farmer mindset with capital buffers at 1.5–2x need | 🟡 | ⬜ |
 | Take Enneagram assessment; study your type and all nine types; practice the "sacred pause" for real-time stress regulation | This week | 05-15 OC Retreat — Ian Morgan Cron keynote; apply time-orientation strategies to team communication | 🟡 | ⬜ |
 | Audit current commitments/relationships for "weeds" (distractions, biases, non-core opportunities); practice saying No | Ongoing | 05-15 OC Retreat — Pace's farmer mindset framework; remove what hinders; protect focus | 🟢 | ⬜ |
+| Review all contacts downloaded from OC retreat — ensure each is saved in phone contacts app with a note attached | ASAP | 05-17 airport voice memo — contacts from OC weekend downloaded to contacts app; each needs a descriptive note | 🟡 | ⬜ |
 
 ---
 
@@ -114,4 +117,4 @@
 | Lender confirmation on JV acceptability for Mike's construction refi — determines entire POF path | ASAP | 04-28 meeting — brokers (Tomer/Jeffrey) to clarify with lender; outcome drives next steps | 🔴 | ⬜ |
 
 ---
-*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Afternoon run 2026-05-17.*
+*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-18.*
