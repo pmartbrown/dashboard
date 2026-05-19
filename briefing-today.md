@@ -1,65 +1,58 @@
-# Morning Briefing — Monday, May 18, 2026
+# Morning Briefing — Tuesday, May 19, 2026
 
 ## The One Thing
-Make the Skool post about the OC Retreat and promote Gator. Time-decaying value — post today while retreat energy is fresh.
+Complete your own LP investment in the RezGap Plus Fund portal. This confirms the portal works end-to-end and directly unblocks Mouri's $100K — the first external dollar toward the $2M goal.
 
 ## Top 3 Priorities
-1. **Skool post — OC Retreat + Gator promo** — Critical, time-sensitive (Item #65)
-2. **EOS intro conversation with Justin** — Introduce framework, gauge bandwidth honestly (Item #45)
-3. **Contact Owen Meacham for Claude master scripts** — High leverage AI systems (Item #57)
+1. **Be first LP in RezGap Plus Fund portal** — gates all LP onboarding (#42 Standing)
+2. **Naohiro Mouri: subdoc + funding** — ~$100K, first external dollar (#31)
+3. **EOS Phase 1: Intro conversation with Justin** — framework intro, bandwidth check-in (#45)
 
 ## Follow-Ups & Open Loops
-🔴 Naohiro Mouri — Subdoc signed via RezGap portal → funds 3D Capital → RezGap Plus (#31)
-🔴 Be first LP in RezGap Plus Fund portal — own investment first (#42 Standing)
-🔴 Delaware Franchise Tax — Due June 1 both entities (#43)
-🔴 Skool post — OC Retreat + Gator promo — TODAY (#65)
-🔴 EOS Phase 1 — initial session with Justin this week (#45)
-🔴 Finish book: Traction (#43 Standing)
-🟠 Move Paul's own funds through RezGap Plus Fund (#33)
-🟠 Mouri — ask for referrals (#32)
-🟠 Dylan Stewart — send referral summary + pitch deck + one-pager BLOCKED (#34)
-🟠 Ed — follow up capital partner (#35)
-🟠 Norm — call re: dates + seller carry amounts (#36)
-🟠 Retrieve URA scanned mail (#44)
-🟠 Pay Curtis back $500 (#7)
-🟠 Dad's taxes — finish filing (#26)
-🟠 Dave Lisi — $7.5M Alaska lodge deal structure (#55)
-🟠 Alaska fishing trip Kenai Peninsula Sep 6-10 — confirm + book (#54)
-🟠 Jaden & Heather — overflow deals from Pace's team (#63)
-🟠 Review EMD contract — double-release language (#64)
-🟠 Anne-Marie — Tallahassee airport project + TIF financing (#56)
-🟠 Ella Ray — Orbit Challenge Transactional Funding Planet (#41)
-🟠 Apply — OC Semesters Instructor Jenny Ridenour (#40)
-🟠 Surplus Recovery — Kiefer + North Peak Recovery (#42 outreach)
-🟠 Bruce Williams (Rescu Equity) — bruce@rescuequity.com (#38)
-🟠 Follow up Mundo — software + Morby deals (#62)
-🟠 Pace Morby 1:1 follow-up (#8)
-🟠 Tauna Ellis → Marquee intro (#2)
-🟠 Dad's life insurance — connect with Pipe (#37)
-🟠 Schedule date with Akemi (#12)
-🟠 EOS Phase 2 — Scorecard + Accountability Chart week of May 26 (#46)
-🟠 EOS Phase 2 — Set Q2 Rocks week of May 26 (#47)
-🟠 EOS Phase 2 — Issues List week of May 26 (#48)
-🟠 Contact Owen Meacham — Claude master scripts (#57)
-🟠 Skool community TxFHub — finish & launch (#25)
-🟠 Update briefing skills with daily mindset prompt (#59)
-🟡 Mouri — follow up additional capital + warm intros (#11)
-🟡 Noa's FAFSA parent section (~July 2026) (#14)
-🟡 Watch Pace capital raising recording by Thu May 22 (#61)
-🟡 Lance EMD deal — follow up Kiefer (#5)
-🟡 Schedule temple visit (#13)
-🟡 Reply Kyle Ronchak — Utah Mammoth suites (#17)
+🔴 #42 Be first LP in RezGap Plus Fund portal · ASAP · Standing Priority
+🔴 #31 Naohiro Mouri: subdoc signed via portal → 3D Capital → RezGap Plus · ASAP
+🔴 #77 Fraudulent $50K: file police report, escalate to DA · ASAP
+🔴 #43 Delaware Franchise Tax — Due June 1 (both entities)
+🔴 #64 Review EMD contract: no double-release language · ASAP
+🔴 #45 EOS Phase 1: Intro with Justin · This week
+🟠 #33 Move Paul's own funds through RezGap Plus Fund
+🟠 #32 Mouri: ask for referrals (separate conversation)
+🟠 #34 Dylan Stewart: send referral summary + pitch deck + one-pager
+🟠 #35 Ed: follow up capital partner
+🟠 #36 Norm: call re dates + seller carry amounts
+🟠 #44 Retrieve URA scanned mail
+🟠 #26 Dad's taxes: finish filing
+🟠 #37 Dad's life insurance: connect with Pipe
+🟠 #55 Dave Lisi $7.5M Alaska lodge deal structure
+🟠 #54 Alaska fishing trip Sep 6–10: confirm + book
+🟠 #56 Anne-Marie: Tallahassee airport + TIF research
+🟠 #63 Jaden & Heather: overflow deals from Pace's team
+🟠 #76 Jeramy Ennis referral addendum: 0.5% retroactive
+🟠 #75 Meet Zach Larson (Kenny Lamee's CEO)
+🟠 #57 Contact Owen Meacham: master Claude scripts
+🟠 #43 (Standing) Finish book: Traction
+🟠 #69 Check on Akemi's work situation
+🟠 #12 Schedule date with Akemi · This weekend
+🟡 #61 Watch Pace Morby capital raising recording · by Thu 5/22
+🟡 #7 Pay Curtis back $500
+🟡 #41 Contact Ella Ray: Orbit Challenge Planet
+🟡 #73 Congratulate person getting engaged June 1
+🟡 Multiple EOS Phase 2 items (week of 5/26)
 
 ## Today's Schedule
-- All Day — Home in Lehi, UT (back from OC Retreat)
-- 7-8 PM — Owner's Club Homework (standing)
-- Evening — Weekly Family Meeting (standing)
+(No calendar events today)
 
 ## Email Action Items
-- ACTION: Bryce Canyon Final RSVP — Elders Quorum
-- FYI: Toby Brown — Week 37 missionary letter (read & reply)
-- HEADS UP: Skyridge graduation walk-through TOMORROW Tue May 19 at 8:30 AM
-- FYI: Wells Fargo FICO score ready
+- ACTION: Bryce Canyon Final RSVP (Lehi 28th Ward) — respond
+- READ: Toby Brown Missionary Email Week 37 — read and reply
+- ADD CRM: 5 new Blinq contacts from OC Retreat (Lenore Curtis, Bree Hartman, Jeff Brewer, Nita Patel, Matthew Kominiak)
+- FYI: Skyridge last week of school schedule
 
 ## Pipeline Snapshot
-No deals explicitly flagged in COD May 17 or confirmed by Justin/Manoela. 7 deals with close dates May 18-22 in HubSpot — verify with Justin & Manoela.
+No deals flagged by Justin/Manoela. HubSpot shows 9 deals closing May 19–24 (~$2.6M) — none confirmed for funding. Check with Justin & Manoela.
+
+## Rest of Week
+- Wed May 20: YM/YW Activity 7–8 PM
+- Thu May 21: Third Thursday @ Three Pitch Event, 3–5 PM, Silicon Slopes Lehi
+- Fri May 22: 5 HubSpot deals with May 22 close dates
+- Sun May 24: Family Church 1:00–1:45 PM
