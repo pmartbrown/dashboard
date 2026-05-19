@@ -26,7 +26,7 @@
 |------|-----|---------|----------|----------|
 | Clarify with Orbit/Pace leadership whether School/Skool is approved for bird-dog management and referral tracking | ASAP | 05-04 strategy session — Pace Morby video triggered compliance concern; Paul needs official clarity before week of 05-11 drip campaign launch | 🔴 | ⬜ |
 | Send draft EMD breach letters (Steps 1 & 2) to requesting party | ASAP | 05-01 briefing — Pace's response on EMD as liquidated damages; Paul offered draft letters outlining remedy steps | 🟡 | ⬜ |
-| Define and communicate JV/finder's-fee policy for Orbit cluster lead sourcers | This week | 05-12 pod meeting — deal sourcers expecting JV paperwork post-launch; group consensus: pay finder's fee at close; define "complete deal" criteria (P&Ls, more than a Crexi listing) | 🟡 | ⬜ |
+| Define and communicate JV/finder's fee policy for Orbit cluster lead sourcers | This week | 05-12 pod meeting — deal sourcers expecting JV paperwork post-launch; group consensus: pay finder's fee at close; define "complete deal" criteria (P&Ls, more than a Crexi listing) | 🟡 | ⬜ |
 | Verify $299 InvestNext 'Get Started' charge processed on card — contact InvestNext billing for refund or proration toward first month | ASAP | 05-04 InvestNext demo — Paul clicked 'Get Started', was charged $299, received no email or access; Julian promised to rectify | 🔴 | ⬜ |
 | Send investor portal links to 2-3 people already waiting once InvestNext portal is live | This week | 05-04 InvestNext demo — "I've got a couple people waiting on me to send them a link" | 🟡 | ⬜ |
 | Make hiring decision on client-facing PM role (Jose / Alana / Juliana) — confer with Justin Pilakka; notify Ivan so he can inform candidates | ASAP | 04-30 interview — 3 candidates interviewed; Ivan waiting on decision; all 3 have relevant backgrounds; Alana has 20+ yrs customer support + PM + realtor; Juliana has AT&T PM + property mgmt BD experience | 🟡 | ⬜ |
@@ -125,4 +125,4 @@
 | Josh Trujillo to send status text ("where you are with everything") and 15–20 page PDF for Paul's review | ASAP | 05-18 DSCR call — Josh also preparing slides for DSCR presentation tonight; awaiting both deliverables | 🟡 | ⬜ |
 
 ---
-*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-19.*
+*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-19. Afternoon run 2026-05-19: no new transcripts.*
