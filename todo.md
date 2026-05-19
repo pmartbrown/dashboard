@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated:** 2026-05-18
+**Last updated:** 2026-05-19
 
 ---
 
@@ -16,6 +16,7 @@
 | Investigate "Raintree" BYU student housing lead — 30K students, $45–55K/mo revenue, incumbent owner (Grant) overextended with LPs calling notes; contact broker re: acquiring assets at 15% cap rate | This week | 05-14 OC networking — described as "golden nugget"; Grant owns 70% of market and is being liquidated | 🟡 | ⬜ |
 | Secure partner signature to enable more DSCR deal flow to that partner | This week | 05-14 OC networking — deal flow blocked pending signature | 🟡 | ⬜ |
 | Evaluate Kiefer's surplus funds/overage recovery business opportunity — verify it can reach $2M/yr gross revenue (30% fee on recoveries); system costs ~$20-30K/mo; if viable, deploy $100K into ~35 closings in own overage pipeline rather than outside project | This week | 05-14 OC side conversation — group consensus: don't dilute focus; only diversify once making $1M/yr with $300K excess | 🟡 | ⬜ |
+| Finalize DSCR referral partnership terms with Josh Trujillo — structure: 50 bps gross fee / 40 bps to referrer; configure white-label round-robin lead distribution app with performance sliders; exclude loans below ~$200K | This week | 05-18 DSCR strategy call — agreed in principle; intake form, app configuration, and referral agreement still outstanding | 🟡 | ⬜ |
 
 ---
 
@@ -44,6 +45,9 @@
 | Sign up for "Pace and Jerry Prison" small-group Q&A (05-16 ranch day) — signup via text message; 30-40 attendees, curated questions via Molly | ASAP | 05-15 OC Retreat logistics — running today; don't miss window | 🔴 | ⬜ |
 | Apply to Ashley Mason's team for Morbi Method semester/stage program participation — application required | This week | 05-15 OC Retreat — Ashley manages semesters; applications required for participation; Paul mentioned teaching as lender | 🟡 | ⬜ |
 | Schedule regular check-ins with pod captain and Level 1/2 leaders — verify direction and outcomes early to avoid "digging the wrong trench" | This week | 05-15 OC Retreat — core accountability structure; Pace's Francisco story; submit deals through team channels (Heather, Jay), never directly to Pace | 🟡 | ⬜ |
+| Follow up with Justin re: May 19 second-round interviews — finalize hire decision; make offer at $9/hr with 3-month review to $10 (keep comp close to Manuela's); confirm new hire start date | By 2026-05-20 | 05-18 team meeting — two candidates at $10/$11 asking; Elena mentioned as stronger fit; interviews happening today | 🟡 | ⬜ |
+| Send gap-funding alternatives to consulting client — refer money@pacemorby.com for low-LTV second-position deals; schedule review call this week to walk through live deal's capital stack | This week | 05-18 transactional funding consultation — client needs gap/subordinate funding RQF no longer provides; paths: seller second + RQF transactional, or Pace Morby referral based on total LTV | 🟡 | ⬜ |
+| Have Justin take the Enneagram personality assessment — apply framework to team and client communication; debrief together | This week | 05-18 call with Josh Trujillo — Paul learned Enneagram at OC; wants Justin to understand type dynamics for client interactions and deal negotiations | 🟢 | ⬜ |
 
 ---
 
@@ -79,6 +83,9 @@
 | Complete Molly Pro onboarding (AskMolly AI): connect apps, provide knowledge base inputs, integrate into deal flow — attend Friday training sessions | ASAP | 05-15 OC Retreat + Molly Pro lecture — required for all Owners Club attendees; digitize processes first | 🟡 | ⬜ |
 | Map capital buffers to 1.5–2x expected deal need — outline contingency plan for last-minute non-wires and deal failures | This week | 05-15 OC Retreat — Pace's farmer mindset: overcommit to mitigate seasonal failures; results over hours | 🟡 | ⬜ |
 | Set up screen-annotation workflow for training recordings (on-screen drawing/writing tool) | TBD | 05-14 OC networking discussion — visual annotation for trainings | 🟢 | ⬜ |
+| Draft SOP for RQF VA daily cadence: 9:30 AM stand-up, EMD deal follow-up every 24 hours (not 5 days), downtime activity checklist; implement with new hire from day 1 | By 2026-05-25 | 05-18 team meeting — Manuela's 5-day EMD follow-up delay flagged as unacceptable; new hire needs structured daily rhythm from start | 🟡 | ⬜ |
+| Restart 2-3x weekly Justin/Paul meeting cadence starting week of May 25 (~8 PM evenings); resume shared Excel tracking sheet for deals and action items | By 2026-05-25 | 05-18 team meeting — "we were on a roll when doing twice-weekly"; fell off; time to restart with structured agenda | 🟡 | ⬜ |
+| Finalize DSCR referral intake form with Josh Trujillo — collect his required question inputs; set basic lead filters (credit score threshold, exclude sub-$200K loans); keep form light to avoid killing deals | This week | 05-18 DSCR call with Josh — white-label app uses round-robin assignment; light form preferred but needs basic exclusions | 🟡 | ⬜ |
 
 ---
 
@@ -115,6 +122,7 @@
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
 | Lender confirmation on JV acceptability for Mike's construction refi — determines entire POF path | ASAP | 04-28 meeting — brokers (Tomer/Jeffrey) to clarify with lender; outcome drives next steps | 🔴 | ⬜ |
+| Josh Trujillo to send status text ("where you are with everything") and 15–20 page PDF for Paul's review | ASAP | 05-18 DSCR call — Josh also preparing slides for DSCR presentation tonight; awaiting both deliverables | 🟡 | ⬜ |
 
 ---
-*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-18.*
+*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-19.*
