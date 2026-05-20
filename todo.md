@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated:** 2026-05-19
+**Last updated:** 2026-05-20
 
 ---
 
@@ -86,6 +86,7 @@
 | Draft SOP for RQF VA daily cadence: 9:30 AM stand-up, EMD deal follow-up every 24 hours (not 5 days), downtime activity checklist; implement with new hire from day 1 | By 2026-05-25 | 05-18 team meeting — Manuela's 5-day EMD follow-up delay flagged as unacceptable; new hire needs structured daily rhythm from start | 🟡 | ⬜ |
 | Restart 2-3x weekly Justin/Paul meeting cadence starting week of May 25 (~8 PM evenings); resume shared Excel tracking sheet for deals and action items | By 2026-05-25 | 05-18 team meeting — "we were on a roll when doing twice-weekly"; fell off; time to restart with structured agenda | 🟡 | ⬜ |
 | Finalize DSCR referral intake form with Josh Trujillo — collect his required question inputs; set basic lead filters (credit score threshold, exclude sub-$200K loans); keep form light to avoid killing deals | This week | 05-18 DSCR call with Josh — white-label app uses round-robin assignment; light form preferred but needs basic exclusions | 🟡 | ⬜ |
+| Document email inbox sorting SOP: Square emails → all deals folder; Pace Morby/ownership emails → OC folder (delete if marketing); Uber receipts → travel folder; all other marketing → delete | This week | 05-19 voice memo — Paul dictated email routing rules verbally; formalize as permanent SOP for Manoella inbox management | 🟢 | ⬜ |
 
 ---
 
@@ -114,6 +115,7 @@
 | Take Enneagram assessment; study your type and all nine types; practice the "sacred pause" for real-time stress regulation | This week | 05-15 OC Retreat — Ian Morgan Cron keynote; apply time-orientation strategies to team communication | 🟡 | ⬜ |
 | Audit current commitments/relationships for "weeds" (distractions, biases, non-core opportunities); practice saying No | Ongoing | 05-15 OC Retreat — Pace's farmer mindset framework; remove what hinders; protect focus | 🟢 | ⬜ |
 | Review all contacts downloaded from OC retreat — ensure each is saved in phone contacts app with a note attached | ASAP | 05-17 airport voice memo — contacts from OC weekend downloaded to contacts app; each needs a descriptive note | 🟡 | ⬜ |
+| Submit OC retreat survey feedback — Level 2 EOS sessions were too lecture-heavy (book read verbatim in session); preferred format: pre-reading assigned, session time reserved for Q&A and application | ASAP | 05-19 OC pod meeting — pod captain explicitly encouraged feedback; Pace team reads and acts on it | 🟢 | ⬜ |
 
 ---
 
@@ -125,4 +127,4 @@
 | Josh Trujillo to send status text ("where you are with everything") and 15–20 page PDF for Paul's review | ASAP | 05-18 DSCR call — Josh also preparing slides for DSCR presentation tonight; awaiting both deliverables | 🟡 | ⬜ |
 
 ---
-*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-19. Afternoon run 2026-05-19: no new transcripts.*
+*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-20: 4 new transcripts, 2 action items added.*
