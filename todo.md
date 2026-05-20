@@ -17,6 +17,7 @@
 | Secure partner signature to enable more DSCR deal flow to that partner | This week | 05-14 OC networking — deal flow blocked pending signature | 🟡 | ⬜ |
 | Evaluate Kiefer's surplus funds/overage recovery business opportunity — verify it can reach $2M/yr gross revenue (30% fee on recoveries); system costs ~$20-30K/mo; if viable, deploy $100K into ~35 closings in own overage pipeline rather than outside project | This week | 05-14 OC side conversation — group consensus: don't dilute focus; only diversify once making $1M/yr with $300K excess | 🟡 | ⬜ |
 | Finalize DSCR referral partnership terms with Josh Trujillo — structure: 50 bps gross fee / 40 bps to referrer; configure white-label round-robin lead distribution app with performance sliders; exclude loans below ~$200K | This week | 05-18 DSCR strategy call — agreed in principle; intake form, app configuration, and referral agreement still outstanding | 🟡 | ⬜ |
+| Evaluate table-funding opportunity: Marlin Hotel (Miami, ~$25K EMD) + The Ivey's Hotel (Charlotte, ~$50K EMD) — Tyler Greene acquisitions via Sekou Shabazz/Great Lakes Commercial Mortgage; two-close structure under Ohio law with overnight recording; title at Chicago Title (seller-locked); ~30 days LOI to close | ASAP | 05-20 hotel deal call — proof of funds required within 5 days of LOI; RQF as table funder bringing capital partners; each funding piece (EMD, down payment) treated as separate transaction; need to assess capital partner availability for ~$75K total EMD + down payments | 🟡 | ⬜ |
 
 ---
 
@@ -26,7 +27,7 @@
 |------|-----|---------|----------|----------|
 | Clarify with Orbit/Pace leadership whether School/Skool is approved for bird-dog management and referral tracking | ASAP | 05-04 strategy session — Pace Morby video triggered compliance concern; Paul needs official clarity before week of 05-11 drip campaign launch | 🔴 | ⬜ |
 | Send draft EMD breach letters (Steps 1 & 2) to requesting party | ASAP | 05-01 briefing — Pace's response on EMD as liquidated damages; Paul offered draft letters outlining remedy steps | 🟡 | ⬜ |
-| Define and communicate JV/finder's fee policy for Orbit cluster lead sourcers | This week | 05-12 pod meeting — deal sourcers expecting JV paperwork post-launch; group consensus: pay finder's fee at close; define "complete deal" criteria (P&Ls, more than a Crexi listing) | 🟡 | ⬜ |
+| Define and communicate JV/finder's-fee policy for Orbit cluster lead sourcers | This week | 05-12 pod meeting — deal sourcers expecting JV paperwork post-launch; group consensus: pay finder's fee at close; define "complete deal" criteria (P&Ls, more than a Crexi listing) | 🟡 | ⬜ |
 | Verify $299 InvestNext 'Get Started' charge processed on card — contact InvestNext billing for refund or proration toward first month | ASAP | 05-04 InvestNext demo — Paul clicked 'Get Started', was charged $299, received no email or access; Julian promised to rectify | 🔴 | ⬜ |
 | Send investor portal links to 2-3 people already waiting once InvestNext portal is live | This week | 05-04 InvestNext demo — "I've got a couple people waiting on me to send them a link" | 🟡 | ⬜ |
 | Make hiring decision on client-facing PM role (Jose / Alana / Juliana) — confer with Justin Pilakka; notify Ivan so he can inform candidates | ASAP | 04-30 interview — 3 candidates interviewed; Ivan waiting on decision; all 3 have relevant backgrounds; Alana has 20+ yrs customer support + PM + realtor; Juliana has AT&T PM + property mgmt BD experience | 🟡 | ⬜ |
@@ -48,6 +49,11 @@
 | Follow up with Justin re: May 19 second-round interviews — finalize hire decision; make offer at $9/hr with 3-month review to $10 (keep comp close to Manuela's); confirm new hire start date | By 2026-05-20 | 05-18 team meeting — two candidates at $10/$11 asking; Elena mentioned as stronger fit; interviews happening today | 🟡 | ⬜ |
 | Send gap-funding alternatives to consulting client — refer money@pacemorby.com for low-LTV second-position deals; schedule review call this week to walk through live deal's capital stack | This week | 05-18 transactional funding consultation — client needs gap/subordinate funding RQF no longer provides; paths: seller second + RQF transactional, or Pace Morby referral based on total LTV | 🟡 | ⬜ |
 | Have Justin take the Enneagram personality assessment — apply framework to team and client communication; debrief together | This week | 05-18 call with Josh Trujillo — Paul learned Enneagram at OC; wants Justin to understand type dynamics for client interactions and deal negotiations | 🟢 | ⬜ |
+| Get Chicago Title escrow officer name from Tyler Greene — capital partners require a specific named officer; Tyler to identify; needed before capital partners will commit | ASAP | 05-20 hotel deal call — seller locked into Chicago Title; capital partners won't commit without officer confirmation | 🟡 | ⬜ |
+| Give go/no-go to Tyler Greene on hotel table-funding deal — assess capital partner availability for ~$75K EMD + down payment across both hotels before Tyler finalizes funder lineup; Tyler evaluating all funders before PSA | This week | 05-20 hotel deal call — Tyler needs decision so he can finalize his funder stack; RQF bringing capital partners, not deploying own capital | 🟡 | ⬜ |
+| Connect with Jesse Keener (Tucson, AZ) re: referring pre-foreclosure leads headed to auction — Paul to pay Jesse per referral for his overage/surplus recovery pipeline | This week | 05-20 OC weekly call — Jesse (K-I-E-N-E-R) sources pre-foreclosure properties going to auction; feeds North Peak Recovery overage business | 🟢 | ⬜ |
+| Check with DSCR lender re: pro forma lending on Reza's mobile home park deal — Reza (Phoenix, 801-598-7171) texting deal details; assess whether pro forma income qualifies | This week | 05-20 OC weekly call — Reza has MHP deal; needs DSCR lender who lends on pro forma; Paul to evaluate fit | 🟡 | ⬜ |
+| Schedule intro call with Vin (San Antonio) — lender offering first, second, gap, DSCR, and 100% financing; 30+ years collective lending experience; explore for capital stack solutions | This week | 05-20 OC weekly call — Vin introduced as versatile lender; strong fit for creative finance stack | 🟢 | ⬜ |
 
 ---
 
@@ -127,4 +133,4 @@
 | Josh Trujillo to send status text ("where you are with everything") and 15–20 page PDF for Paul's review | ASAP | 05-18 DSCR call — Josh also preparing slides for DSCR presentation tonight; awaiting both deliverables | 🟡 | ⬜ |
 
 ---
-*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-20: 4 new transcripts, 2 action items added.*
+*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Afternoon run 2026-05-20: 2 new transcripts, 6 action items added.*
