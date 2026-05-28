@@ -783,6 +783,7 @@ function undoComplete(itemId, completedRow, originalRow) {
 
 function restoreProgress() {
   const st = loadProgress();
+  // First pass: restore progress %, checked state, done class, priority dot
   document.querySelectorAll('tr[data-id]').forEach(row => {
     const id = row.dataset.id;
     if (!st[id]) return;
@@ -792,7 +793,6 @@ function restoreProgress() {
     const cb = row.querySelector('input[type=checkbox]');
     if (cb) cb.checked = done;
     if (done) row.classList.add('done');
-    // Restore manually-set priority
     if (st[id].prio) {
       const dot = row.querySelector('.priority-dot');
       if (dot) {
@@ -802,6 +802,10 @@ function restoreProgress() {
       }
       row.dataset.priority = st[id].prio;
     }
+  });
+  // Second pass: any items that were previously marked done — move them into the "Completed This Session" card so they don't pollute the active sections
+  document.querySelectorAll('tr[data-id].done').forEach(row => {
+    moveToCompleted(row);
   });
 }
 
