@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated:** 2026-05-22 (Afternoon — 2 new transcripts processed from 05-22 morning: bookkeeping standard directive (5419 Palmer), Curtis repayment voice note; 2 action items added)
+**Last updated:** 2026-05-28 (Migration pass — merged 16 live items from legacy brain/todo.md after consolidation decision; brain/todo.md retired)
 
 ---
 
@@ -74,6 +74,11 @@
 | **Advance collection on Ryan's $39,750 unpaid note** — via title (Christina hinted favorable timing); payoff letter already sent; partial repayment received; evaluate NOI filing strategy if no further payment | This week | 05-21 Paul+Justin meeting — active collection in motion | 🟡 | ⬜ |
 | **Reschedule lost DSCR call with Josh Trujillo** to recapture content — Fathom recording failed on two platforms; original session rated 10/10 by attendees (8 "boxes" Josh checks for best rate, points buy-down mechanics) | This week | 05-21 DSCR debrief — group highly values that content; also follow up with Fathom on missing recording | 🟡 | ⬜ |
 
+| **Tauna Ellis → Marquee intro** — Tauna returned the NDA. Follow up to remind her and book a calendar block with her + Marquee re: funding and capital partnership. | ASAP | Carried over from legacy brain/todo.md (last touched 2026-05-11) | 🔴 | ⬜ |
+| **Pace Morby 1:1 follow-up** — Jenny has the Mt. Everest statement, no response yet. Push for 1:1 time with Pace. | ASAP | Carried over from legacy brain/todo.md (last touched 2026-05-11) | 🔴 | ⬜ |
+| **Heidi (Property Manager) — set up mortgage/payment tracking across all 4 properties** — monthly payments, payment status, account balances. | OVERDUE (was 2026-04-04) | Carried over from legacy brain/todo.md; pair with the property mortgage-tracking system build | 🔴 | ⬜ |
+| **Lance EMD — follow up with Kiefer** — ~$50K stuck at title; Lance on the cattle ranch. Watch for his email and reopen with Kiefer. | This week | Carried over from legacy brain/todo.md | 🟡 | ⬜ |
+| **Nancee Heckel — RV park training program call** — still need to take the call re: training program for new RV park buyers. Learn before judging. | This week | Carried over from legacy brain/todo.md | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -90,6 +95,11 @@
 | **White-label platform relaunch** — eliminate free tier → 7-day free trial + $8-9 basic tier; consolidate recorded calls as premium-only; launch 12-email automated drip campaign (EMD, double-close topics) for cold leads with reply-to-member routing; share draft drip emails with premium cohort for A/B test feedback | **By 2026-05-29** | 05-21 DSCR debrief — relaunch behind schedule but target date holds; admin shows 39 users (some test accounts to remove) | 🔴 | ⬜ |
 | Build configurable extra button/section on white-label site for partner-selected services (gap funding, construction loans) — draft to share in ~1 month | By 2026-06-21 | 05-21 DSCR debrief + Paul+Justin meeting — gives partners revenue flexibility | 🟢 | ⬜ |
 
+| **Skool community — finish & launch** — complete updates to all classroom material, including voice-over work (needs external software). Launch when done. | This month | Carried over from legacy brain/todo.md | 🔴 | ⬜ |
+| **Dad's taxes — finish filing** — pick up from where Claude Cowork session left off and finish. | This month | Carried over from legacy brain/todo.md | 🔴 | ⬜ |
+| **RezGap Plus Fund — set up electronic subscription docs** — PPM/LPA/sub docs uploaded, bank connected, KPIs done. Only remaining: configure e-sign templates for subscription docs in Cash Flow Portal. | This week | Carried over from legacy brain/todo.md; separate from InvestNext portal setup | 🔴 | ⬜ |
+| **Cryo business website (friend)** — build site with calendaring + Instagram connectivity for friend's cryotherapy business. | TBD | Carried over from legacy brain/todo.md | 🟡 | ⬜ |
+| **Jordan Davis collaboration — AI agents / websites / apps** — schedule working session with neighbor Jordan (discussed 04-12 walk home from church). | This month | Carried over from legacy brain/todo.md | 🟡 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -126,6 +136,12 @@
 | **Codify "edit-the-source" bookkeeping protocol as formal SOP** — no correcting journal entries; bookkeeper must edit the original entry directly so the ledger reads cleanly for non-accounting execs. Bake into QBO AI bookkeeper rules and Heather/Manuela review checklist. | This week | 05-22 voice directive to bookkeeper — first-principle codified using `5419 Palmer` as the teaching case | 🟡 | ⬜ |
 | **Get 5419 Palmer transaction walkthrough from bookkeeper** — analysis of every transaction + corrections applied via edit-the-source method, framed for a non-accounting executive audience | This week | 05-22 voice directive — explicit assignment given to bookkeeper (Speaker 1); pair with broader QBO AI cleanup work | 🟡 | ⬜ |
 
+| **EMD cancel/return alert tool** — monitor all active EMD deals, alert when an EMD needs to be canceled or returned. Pull signals from HubSpot deal stages + email + Slack. Track each deal vs. Go/No-Go. | TBD | Carried over from legacy brain/todo.md | 🔴 | ⬜ |
+| **Property mortgage tracking system** — track 4 properties, monthly payments, payment status, account balances. Heidi is PM. | TBD | Carried over from legacy brain/todo.md; pair with Heidi follow-up | 🟡 | ⬜ |
+| **Morning briefing — add deal funding signal detection** — blueprint at `brain/blueprints/morning-briefing-deal-funding-signals.md`. | TBD | Carried over from legacy brain/todo.md | 🟡 | ⬜ |
+| **Capital planning tool** — plan and track deployment of capital across deals. | TBD | Carried over from legacy brain/todo.md | 🟡 | ⬜ |
+| **Social media engagement research — bi-weekly automation** — automated deep research finding highest-engagement posts across FB/IG/TikTok/LI/YouTube. Report with examples to mimic. Run overnight every 2 weeks. | Bi-weekly | Carried over from legacy brain/todo.md; feeds content creation | 🟡 | ⬜ |
+| **Prediction markets / stock market quick-bet tool** — quick bets in prediction markets / early-morning stock markets with track-record logging. | TBD | Carried over from legacy brain/todo.md | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -175,3 +191,6 @@
 
 ---
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added.*
+
+## 📦 Migration Note — 2026-05-28
+Legacy `brain/todo.md` (last updated 2026-05-11, "Master To-Do / Follow-Up Tracker") was consolidated into this dashboard. 16 still-live items were merged into the sections above. The original file was archived to `brain/archive/todo-pre-2026-05-28.md`. The dashboard repo's `todo.md` is now the single source of truth for all action items.
