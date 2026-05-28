@@ -171,6 +171,8 @@ const SECTION_META = {
   'systems':                { icon: '🤖', cat: 'systems',    label: 'Systems / AI' },
   'projects — build':       { icon: '🛠', cat: 'projects',   label: 'Projects — Build' },
   'projects':               { icon: '🛠', cat: 'projects',   label: 'Projects — Build' },
+  'marketing / capital raising': { icon: '📣', cat: 'marketing',  label: 'Marketing / Capital Raising' },
+  'marketing':              { icon: '📣', cat: 'marketing',  label: 'Marketing / Capital Raising' },
 };
 
 // ── State ──
@@ -209,85 +211,87 @@ function parseTodoMd(md) {
   let inTable = false;
   let tableHeaders = [];
 
+  function metaFromName(name) {
+    const clean = name.replace(/^[\s\W]+/u, '').trim();
+    const key = clean.toLowerCase().replace(/—/g, '-').replace(/\s+/g, ' ').trim();
+    let meta = null;
+    for (const [pattern, m] of Object.entries(SECTION_META)) {
+      if (key === pattern || key.includes(pattern) || pattern.includes(key)) { meta = m; break; }
+    }
+    if (!meta) {
+      for (const [pattern, m] of Object.entries(SECTION_META)) {
+        if (key.startsWith(pattern.split(' ')[0])) { meta = m; break; }
+      }
+    }
+    if (!meta) meta = { icon: '📌', cat: key.replace(/[^a-z0-9]/g, '-') || 'misc', label: clean || 'Other' };
+    return meta;
+  }
+
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
 
-    // Extract last updated
-    const updMatch = line.match(/Last updated:\s*(.+)/);
-    if (updMatch) lastUpdated = updMatch[1].trim();
+    const updMatch = line.match(/Last updated:\*{0,2}\s*(.+)/);
+    if (updMatch) lastUpdated = updMatch[1].trim().replace(/\*+$/, '');
 
-    // H2 headings
     if (line.startsWith('## ')) {
       currentH2 = line.replace('## ', '').trim();
       currentH3 = '';
       inTable = false;
+      tableHeaders = [];
+
+      const h2Lower = currentH2.toLowerCase();
+      const isLegacyActive = h2Lower === 'active items';
+      const isWaiting = h2Lower.includes('waiting');
+      const isCompleted = h2Lower.includes('completed');
+      const isMigration = h2Lower.includes('migration');
+      const isLastUpdated = h2Lower.includes('last updated');
+
+      if (!isLegacyActive && !isWaiting && !isCompleted && !isMigration && !isLastUpdated) {
+        const meta = metaFromName(currentH2);
+        parsedSections.push({ ...meta, heading: currentH2, items: [] });
+      }
       continue;
     }
 
-    // H3 headings (sections under Active Items)
     if (line.startsWith('### ')) {
       currentH3 = line.replace('### ', '').trim();
       inTable = false;
+      tableHeaders = [];
 
       if (currentH2 === 'Active Items') {
-        const key = currentH3.toLowerCase().replace(/—/g, '-').replace(/\s+/g, ' ').trim();
-        // Match against known patterns more flexibly
-        let meta = null;
-        for (const [pattern, m] of Object.entries(SECTION_META)) {
-          if (key.includes(pattern) || pattern.includes(key)) {
-            meta = m;
-            break;
-          }
-        }
-        if (!meta) {
-          // Try matching start of key
-          for (const [pattern, m] of Object.entries(SECTION_META)) {
-            if (key.startsWith(pattern.split(' ')[0])) {
-              meta = m;
-              break;
-            }
-          }
-        }
-        if (!meta) meta = { icon: '📌', cat: key.replace(/[^a-z0-9]/g, '-'), label: currentH3 };
+        const meta = metaFromName(currentH3);
         parsedSections.push({ ...meta, heading: currentH3, items: [] });
       }
       continue;
     }
 
-    // Table header detection
     if (line.trim().startsWith('|') && line.includes('Item') && !inTable) {
       tableHeaders = line.split('|').map(h => h.trim().toLowerCase()).filter(Boolean);
       inTable = true;
       continue;
     }
 
-    // Skip separator row
     if (inTable && line.trim().match(/^\|[\s\-|]+\|$/)) continue;
 
-    // Table data rows
     if (inTable && line.trim().startsWith('|') && line.trim().endsWith('|')) {
       const cells = line.split('|').map(c => c.trim()).filter(Boolean);
+      const h2Lower = currentH2.toLowerCase();
+      const item = {};
+      tableHeaders.forEach((h, idx) => { item[h] = cells[idx] || ''; });
 
-      if (currentH2 === 'Active Items' && parsedSections.length > 0) {
-        const section = parsedSections[parsedSections.length - 1];
-        const item = {};
-        tableHeaders.forEach((h, idx) => { item[h] = cells[idx] || ''; });
-        section.items.push(item);
-      } else if (currentH2.toLowerCase().includes('waiting')) {
-        const item = {};
-        tableHeaders.forEach((h, idx) => { item[h] = cells[idx] || ''; });
+      if (h2Lower.includes('waiting')) {
         waitingItems.push(item);
-      } else if (currentH2.toLowerCase().includes('completed')) {
-        const item = {};
-        tableHeaders.forEach((h, idx) => { item[h] = cells[idx] || ''; });
+      } else if (h2Lower.includes('completed')) {
         completedItems.push(item);
+      } else if (parsedSections.length > 0) {
+        parsedSections[parsedSections.length - 1].items.push(item);
       }
       continue;
     }
 
-    // End table on non-table line
     if (inTable && !line.trim().startsWith('|') && line.trim() !== '') {
       inTable = false;
+      tableHeaders = [];
     }
   }
 }
@@ -887,7 +891,7 @@ function applyProgressToMd(md, changes) {
     }
 
     // Detect table header
-    if (line.trim().startsWith('|') && line.includes('Item') && currentH2 === 'Active Items') {
+    if (line.trim().startsWith('|') && line.includes('Item') && currentH2 && !currentH2.toLowerCase().includes('waiting') && !currentH2.toLowerCase().includes('completed') && !currentH2.toLowerCase().includes('migration') && !currentH2.toLowerCase().includes('last updated')) {
       tableHeaders = line.split('|').map(h => h.trim().toLowerCase()).filter(Boolean);
       inActiveTable = true;
       newLines.push(line);
