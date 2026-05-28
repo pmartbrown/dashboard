@@ -158,24 +158,25 @@ if (isRQF) {
 
 // ── Category mapping ──
 const SECTION_META = {
-  'deals / funding':        { icon: '💰', cat: 'deals',      label: 'Deals / Funding' },
-  'deals':                  { icon: '💰', cat: 'deals',      label: 'Deals / Funding' },
-  'follow-ups / outreach':  { icon: '📞', cat: 'follow-ups', label: 'Follow-Ups / Outreach' },
-  'follow-ups':             { icon: '📞', cat: 'follow-ups', label: 'Follow-Ups / Outreach' },
-  'personal / standards':   { icon: '🏠', cat: 'personal',   label: 'Personal / Standards' },
-  'personal':               { icon: '🏠', cat: 'personal',   label: 'Personal / Standards' },
-  'health':                 { icon: '❤️', cat: 'health',     label: 'Health' },
-  'calendar':               { icon: '📅', cat: 'calendar',   label: 'Calendar' },
-  'calendar - this weekend': { icon: '📅', cat: 'calendar',   label: 'Calendar — This Weekend' },
-  'systems / ai':           { icon: '🤖', cat: 'systems',    label: 'Systems / AI' },
-  'systems':                { icon: '🤖', cat: 'systems',    label: 'Systems / AI' },
-  'projects — build':       { icon: '🛠', cat: 'projects',   label: 'Projects — Build' },
-  'projects':               { icon: '🛠', cat: 'projects',   label: 'Projects — Build' },
-  'marketing / capital raising': { icon: '📣', cat: 'marketing',  label: 'Marketing / Capital Raising' },
-  'marketing':              { icon: '📣', cat: 'marketing',  label: 'Marketing / Capital Raising' },
+  // Specific patterns FIRST (longer matches take priority over generic ones)
   'deals — acquisition review': { icon: '🏘️', cat: 'acquisitions', label: 'Deals — Acquisition Review' },
   'acquisition review':     { icon: '🏘️', cat: 'acquisitions', label: 'Deals — Acquisition Review' },
   'acquisitions':           { icon: '🏘️', cat: 'acquisitions', label: 'Deals — Acquisition Review' },
+  'marketing / capital raising': { icon: '📣', cat: 'marketing',  label: 'Marketing / Capital Raising' },
+  'follow-ups / outreach':  { icon: '📞', cat: 'follow-ups', label: 'Follow-Ups / Outreach' },
+  'personal / standards':   { icon: '🏠', cat: 'personal',   label: 'Personal / Standards' },
+  'projects — build':       { icon: '🛠', cat: 'projects',   label: 'Projects — Build' },
+  'systems / ai':           { icon: '🤖', cat: 'systems',    label: 'Systems / AI' },
+  'deals / funding':        { icon: '💰', cat: 'deals',      label: 'Deals / Funding' },
+  // Short fallbacks
+  'deals':                  { icon: '💰', cat: 'deals',      label: 'Deals / Funding' },
+  'marketing':              { icon: '📣', cat: 'marketing',  label: 'Marketing / Capital Raising' },
+  'follow-ups':             { icon: '📞', cat: 'follow-ups', label: 'Follow-Ups / Outreach' },
+  'personal':               { icon: '🏠', cat: 'personal',   label: 'Personal / Standards' },
+  'projects':               { icon: '🛠', cat: 'projects',   label: 'Projects — Build' },
+  'systems':                { icon: '🤖', cat: 'systems',    label: 'Systems / AI' },
+  'health':                 { icon: '❤️', cat: 'health',     label: 'Health' },
+  'calendar':               { icon: '📅', cat: 'calendar',   label: 'Calendar' },
 };
 
 // ── State ──
