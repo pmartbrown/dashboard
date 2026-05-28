@@ -38,7 +38,7 @@ tr.done td{opacity:0.4}
 tr.done .item-text{text-decoration:line-through;color:#6e7681}
 .cb-cell{width:32px;padding:12px 6px 12px 12px;text-align:center;vertical-align:middle}
 input[type=checkbox]{width:18px;height:18px;cursor:pointer;accent-color:var(--accent)}
-.priority-dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:6px;vertical-align:middle;flex-shrink:0}
+.priority-dot{display:inline-block;width:14px;height:14px;border-radius:50%;margin-right:6px;vertical-align:middle;flex-shrink:0;cursor:pointer;border:2px solid transparent;transition:transform .12s,box-shadow .12s} .priority-dot:hover{transform:scale(1.25);box-shadow:0 0 0 2px var(--border)}
 .p-high{background:var(--red);box-shadow:0 0 6px var(--red)}
 .p-med{background:var(--yellow)}
 .p-low{background:var(--green)}
@@ -147,7 +147,7 @@ const TOKEN_KEY = 'gh-pat';
 // ── RQF mode detection ──
 const params = new URLSearchParams(window.location.search);
 const isRQF = params.get('view') === 'rqf';
-const RQF_CATS = ['deals', 'follow-ups', 'systems', 'waiting', 'completed'];
+const RQF_CATS = ['deals', 'acquisitions', 'follow-ups', 'systems', 'waiting', 'completed'];
 
 if (isRQF) {
   document.body.classList.add('rqf');
@@ -173,6 +173,9 @@ const SECTION_META = {
   'projects':               { icon: '🛠', cat: 'projects',   label: 'Projects — Build' },
   'marketing / capital raising': { icon: '📣', cat: 'marketing',  label: 'Marketing / Capital Raising' },
   'marketing':              { icon: '📣', cat: 'marketing',  label: 'Marketing / Capital Raising' },
+  'deals — acquisition review': { icon: '🏘️', cat: 'acquisitions', label: 'Deals — Acquisition Review' },
+  'acquisition review':     { icon: '🏘️', cat: 'acquisitions', label: 'Deals — Acquisition Review' },
+  'acquisitions':           { icon: '🏘️', cat: 'acquisitions', label: 'Deals — Acquisition Review' },
 };
 
 // ── State ──
@@ -322,9 +325,10 @@ function render() {
   filtersEl.appendChild(allBtn);
 
   const catLabels = {
-    'deals': '💰 Deals', 'follow-ups': '📞 Follow-Ups', 'personal': '🏠 Personal',
-    'health': '❤️ Health', 'calendar': '📅 Calendar', 'systems': '🤖 Systems/AI',
-    'projects': '🛠 Projects', 'waiting': '⏳ Waiting On', 'completed': '✅ Completed'
+    'deals': '💰 Deals', 'acquisitions': '🏘️ Acquisitions', 'follow-ups': '📞 Follow-Ups',
+    'personal': '🏠 Personal', 'health': '❤️ Health', 'calendar': '📅 Calendar',
+    'systems': '🤖 Systems/AI', 'projects': '🛠 Projects', 'marketing': '📣 Marketing',
+    'waiting': '⏳ Waiting On', 'completed': '✅ Completed'
   };
 
   for (const cat of cats) {
@@ -370,9 +374,28 @@ function renderSection(section) {
   thead.innerHTML = `<tr><th class="cb-cell"></th><th style="width:26px"></th><th>Item</th><th style="width:110px">Due</th><th class="prog-cell-th" style="width:100px;text-align:center">Progress</th></tr>`;
   table.appendChild(thead);
 
+  // Determine effective priority per item (markdown emoji + localStorage override)
+  const stState = loadProgress();
+  function effPrio(item) {
+    const id = slugify(item.item || '');
+    if (stState[id] && stState[id].prio) return stState[id].prio;
+    const raw = item.priority || '';
+    if (raw.includes('🔴') || raw.toLowerCase().includes('high')) return 'high';
+    if (raw.includes('🟡') || raw.toLowerCase().includes('med')) return 'med';
+    return 'low';
+  }
+  const rank = { high: 0, med: 1, low: 2 };
+  // Stable sort: preserve original order within the same priority bucket
+  const indexed = section.items.map((it, idx) => ({ it, idx }));
+  indexed.sort((a, b) => {
+    const dp = rank[effPrio(a.it)] - rank[effPrio(b.it)];
+    if (dp !== 0) return dp;
+    return a.idx - b.idx;
+  });
+
   const tbody = el('tbody');
-  section.items.forEach(item => {
-    const tr = renderItemRow(item);
+  indexed.forEach(({ it }) => {
+    const tr = renderItemRow(it);
     tbody.appendChild(tr);
   });
   table.appendChild(tbody);
@@ -385,10 +408,19 @@ function renderItemRow(item) {
   const due = item.due || '';
   const context = item.context || '';
   const priorityRaw = item.priority || '';
-  const progressRaw = item.progress || '\u2014';
+  const progressRaw = item.progress || '—';
 
-  const priority = priorityRaw.includes('High') ? 'high' : priorityRaw.includes('Medium') ? 'med' : 'low';
+  // Emoji-aware priority detection (markdown uses 🔴 / 🟡 / 🟢)
+  let priority = 'low';
+  if (priorityRaw.includes('🔴') || priorityRaw.toLowerCase().includes('high')) priority = 'high';
+  else if (priorityRaw.includes('🟡') || priorityRaw.toLowerCase().includes('med')) priority = 'med';
+  else if (priorityRaw.includes('🟢') || priorityRaw.toLowerCase().includes('low')) priority = 'low';
+
   const itemId = slugify(itemText);
+
+  // Apply localStorage override if Paul has manually adjusted priority
+  const stState = loadProgress();
+  if (stState[itemId] && stState[itemId].prio) priority = stState[itemId].prio;
 
   const tr = el('tr', { 'data-id': itemId, 'data-priority': priority, 'data-label': itemText });
 
@@ -399,9 +431,9 @@ function renderItemRow(item) {
   cbTd.appendChild(cb);
   tr.appendChild(cbTd);
 
-  // Priority dot
+  // Priority dot — clickable, cycles high → med → low → high
   const dotTd = el('td');
-  dotTd.innerHTML = `<span class="priority-dot p-${priority}"></span>`;
+  dotTd.innerHTML = `<span class="priority-dot p-${priority}" onclick="cyclePriority(this)" title="Click to change priority (currently ${priority}). High → Med → Low → High."></span>`;
   tr.appendChild(dotTd);
 
   // Item + Context
@@ -410,7 +442,7 @@ function renderItemRow(item) {
   const textDiv = el('div', { class: 'item-text' });
   textDiv.textContent = itemText;
   stack.appendChild(textDiv);
-  if (context && context !== '\u2014') {
+  if (context && context !== '—') {
     const ctxDiv = el('div', { class: 'context-text' });
     ctxDiv.textContent = context;
     stack.appendChild(ctxDiv);
@@ -603,6 +635,23 @@ function adjProg(btn, delta) {
   scheduleSync();
 }
 
+function cyclePriority(dot) {
+  const row = dot.closest('tr');
+  const id = row.dataset.id;
+  const cur = row.dataset.priority || 'low';
+  const next = cur === 'low' ? 'high' : cur === 'high' ? 'med' : 'low';
+  const st = loadProgress();
+  st[id] = st[id] || {};
+  st[id].prio = next;
+  saveProgress(st);
+  row.dataset.priority = next;
+  dot.classList.remove('p-high','p-med','p-low');
+  dot.classList.add('p-' + next);
+  dot.title = `Click to change priority (currently ${next}). High → Med → Low → High.`;
+  updateCounts();
+  scheduleSync();
+}
+
 function cycleProg(label) {
   const row = label.closest('tr');
   const id = row.dataset.id;
@@ -742,6 +791,16 @@ function restoreProgress() {
     const cb = row.querySelector('input[type=checkbox]');
     if (cb) cb.checked = done;
     if (done) row.classList.add('done');
+    // Restore manually-set priority
+    if (st[id].prio) {
+      const dot = row.querySelector('.priority-dot');
+      if (dot) {
+        dot.classList.remove('p-high','p-med','p-low');
+        dot.classList.add('p-' + st[id].prio);
+        dot.title = `Click to change priority (currently ${st[id].prio}). High → Med → Low → High.`;
+      }
+      row.dataset.priority = st[id].prio;
+    }
   });
 }
 
@@ -786,7 +845,7 @@ async function syncToGitHub() {
   let hasChanges = false;
   document.querySelectorAll('tr[data-id]').forEach(row => {
     const id = row.dataset.id;
-    if (st[id] && (st[id].done || st[id].prog > 0)) {
+    if (st[id] && (st[id].done || st[id].prog > 0 || st[id].prio)) {
       changes[id] = { label: row.dataset.label, ...st[id] };
       hasChanges = true;
     }
@@ -897,8 +956,22 @@ function applyProgressToMd(md, changes) {
           if (change.done) {
             completedToAdd.push({ date: today, item: itemText });
             continue;
-          } else if (change.prog > 0 && progIdx >= 0) {
+          }
+          let modified = false;
+          if (change.prog > 0 && progIdx >= 0) {
             cells[progIdx] = change.prog + '%';
+            modified = true;
+          }
+          // Apply priority change
+          if (change.prio) {
+            const prioIdx = tableHeaders.indexOf('priority');
+            if (prioIdx >= 0) {
+              const emoji = change.prio === 'high' ? '🔴' : change.prio === 'med' ? '🟡' : '🟢';
+              cells[prioIdx] = emoji;
+              modified = true;
+            }
+          }
+          if (modified) {
             const newLine = '| ' + cells.join(' | ') + ' |';
             newLines.push(newLine);
             continue;
