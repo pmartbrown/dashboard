@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-05-28
+**Last updated: 2026-05-29 — Morning transcript review: +44 items from 05-21 to 05-28 recordings**
 
 ---
 
@@ -34,6 +34,12 @@
 | **Source/share property details — Walterboro SC motel (40+ units)** — near Charleston/Hilton Head; owner open to selling but heavy primary loan limits creative finance to Sub2 structures. Send full package + structuring notes to Baldwin OC partner. | This week | 05-22 OC partner sync — same hospitality-operator partnership thesis as Susanville | 🟡 | ⬜ |
 | **Hunt for 30–50 unit hotel/multifamily value-add deals** — target "dead owners" who haven't raised rents; structures of interest: seller carry in 2nd at 40%, or 40% participation in operating agreement to conserve equity for renovations. Capital + hospitality operator stack ready via Baldwin OC partner. | Ongoing | 05-22 OC partner sync — agreed entry size 30–40 (up to 50) units | 🟢 | ⬜ |
 | **Send Pinecone Capital fund info to Brandon (capital raiser, GP of industrial + multifamily funds)** — Brandon focuses on commercial/industrial RE and Section 8/workforce multifamily in Sioux Falls + Rapid City SD (military base expansion); raises equity for SBA business buyers needing post-close liquidity ($500K liquidity req on $2.5M deals). Mutual interest in connecting HNW capital with secure managed opportunities — Paul's escrow-protected, 12%/qtr 3%, $100K min fund fits his investor base. | This week | 05-22 networking call (1:1, ~90 min); explicit Brandon action item "Send Brandon information about the fund" | 🟡 | ⬜ |
+| **Pre-confirm liquidity windows with Adam** for upcoming deals ($400k and ~$1.3-1.4M); establish backup funders | This week | 05-21 RQF ops — Adam is primary funder; confirm availability windows; pursue TBL + Ed's contact | 🔴 | ⬜ |
+| **Execute $50k internal test through new investor portal**; update fund accounting procedures; move $50k from Relay to facilitate | This week | 05-21 RQF ops — portal ready; need fund accounting workflow | 🟡 | ⬜ |
+| **Repay D Capital $85k; consolidate investor's $100k**; leverage Adam's network changes to raise capital | This week | 05-21 RQF ops — capital structure cleanup | 🟡 | ⬜ |
+| **Verify Brenda's $100k capital raise terms in writing** — 2% per month for ~60 days; document variance thresholds in reconciliation rules | This week | 05-21 RQF ops — verbal terms only | 🟡 | ⬜ |
+| **Advance collection on Ryan's unpaid note (~$39,750)** via title company (Christina); consider NOI filing to compel payment | Ongoing | 05-21 RQF ops — partial repayment received; payoff letter sent | 🟡 | ⬜ |
+| **Process $12k owner draw** per ownership percentages; ensure deal liquidity guardrails; Paul pays personal card with identified business amount | This week | 05-21 RQF ops — company may be negative YTD; document owner equity impacts | 🟡 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -100,6 +106,13 @@
 | **Start attending Family Office Club events as an investor (not capital raiser)** — peer-positioning unlocks capped/invite-only events for free, removes pitch optics, generates inbound interest. Target the next L.A.-area event via familyoffices.com; coordinate with Baldwin OC partner who hosts Milken-adjacent dinners. | This month | 05-22 OC partner sync — partner explicitly recommended this approach; aligns with "connector, not broker" positioning | 🟡 | ⬜ |
 | **Send Paul's creative-multifamily buy box to Bruce (Oregon-based OC member, son in South Weber UT)** — Bruce sources Utah deals with his eldest son between Ogden and Layton; explicitly asked for buy box to scout creative multifamily for Paul. Other kids scattered across northern Utah; cousin in Alpine (near Paul's Lehi base). | This week | 05-22 OC Weekly Reconnections call — Bruce volunteered Utah deal-finding capacity; Paul confirmed Lehi base + interest | 🟢 | ⬜ |
 | **Send team intro email announcing Alana (new hire) + her company email alana@realquickfunds.com** — send from admin@; loop in Manuela and Justin so everyone has her address; Alana works primarily with Justin/Manuela on lending ops. | ASAP | 05-27 Alana onboarding session — Paul committed to send the team intro; email setup, Slack, and HubSpot seat completed during call | 🟡 | ⬜ |
+| **Send buy box to Bruce (OC)** for Utah creative multifamily opportunities — he has real estate connections in South Weber/Ogden area | This week | 05-22 OC weekly meeting — Bruce offered to source deals; Paul expressed interest | 🟡 | ⬜ |
+| **Schedule in-person meeting with Zach Larson** (Lame Kinikini team); stabilize lender relationship | This week | 05-21 RQF ops — Manuela coordinates with Zach; relationship needs in-person nurturing | 🟡 | ⬜ |
+| **Offer Mandy 3-month free white label** to encourage regular deal flow; align on process-first conversation | This week | 05-21 RQF ops — she self-funds smaller deals; strong pipeline potential | 🟡 | ⬜ |
+| **Complete Zero Down JotForm** with 1-3 specific $100K learning outcomes for speaker curation | ASAP | 05-26 Zero Down briefing — Pace needs responses to select 3 speakers from ~20; required for Oct event | 🔴 | ⬜ |
+| **Join Zero Down Discord + WhatsApp** groups; book hotel using official room-block link when received | By end of this week | 05-26 Zero Down briefing — Discord live this week; hotel link coming end of week | 🟡 | ⬜ |
+| **Attend Zero Down pre-event Zoom with Matt Sorensen** — 2 hours, weekend, 7AM AZ time; complete homework, pair for accountability | ~June 6-7, 2026 | 05-26 Zero Down briefing — within ~10 days of 05-26; Oct 14-17 event prep | 🟡 | ⬜ |
+| **Explore Khalil as part-time community manager** for School platform — ~50 referrals in 2 months, strong engagement | This week | 05-28 ops meeting — community energy low; Khalil shows traits of a good seed admin | 🟢 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -123,6 +136,18 @@
 | **Host Monday drip campaign launch call + run limited site test** — select 2-3 test sites or a test environment; use new "Drip" tab (CSV upload, metrics: sent/opened/clicked/replies); shared templates across premium users; replies route to each partner's inbox via white-label setup; plan AI-assisted triage for reply volume; schedule call for Mon ~2026-06-02 | **By 2026-06-02** | 05-26 community call — drip campaign nearly ready; launch may slip a few days but Monday target holds; email-only for now; .com domains preferred for deliverability | 🔴 | ⬜ |
 | **Build echo/Morby/double close deal calculators and publish on GitHub** — inputs: purchase price, A-to-B closing costs, appraisal scenarios, funder fees, echo down payment amount, B-to-C price; outputs: fee splits, profitability per party, echo viability check; share link with community once live | TBD | 05-26 community call — plan to publish openly so community can self-analyze deals; echo calculator most urgently needed | 🟢 | ⬜ |
 | **Complete Zero Down founding-cohort onboarding** — (1) fill out the JotForm with 1–3 "$100K" takeaways (shapes which 3 of ~20 speakers attend); (2) join the Zero Down Discord (live this week) + WhatsApp group; (3) watch for the pre-event Matt Sorensen Zoom (~next 10 days, Sat 7AM AZ) with homework. **Note:** as Owners Club, Paul gets the Oct 14–17 AZ event by **livestream only** — OC in-person is **January in Miami**. Post-Oct-15 there's a separate 30-day virtual car wash training (Vic Keller's team). | This week | 05-26 Zero Down founding cohort briefing (Pace replay) — Paul gifted founding status via Owners Club | 🟢 | ⬜ |
+| **Set up Payoneer for Alana** (alana@realquickfunds.com) weekly payments; evaluate Deel as alternative — Wise not available in Trinidad | ASAP | 05-27 Alana onboarding — she starts immediately; payment delay would be a bad look | 🔴 | ⬜ |
+| **Send team intro email introducing Alana** to Manuela + Justin with her company email (alana@realquickfunds.com) | Today | 05-27 Alana onboarding — Manuela needs to add Alana to active Slack deal channels | 🔴 | ⬜ |
+| **Send Alana's offer letter** (AI-drafted Word doc) with completed role details and start time (9AM) | ASAP | 05-21 RQF ops — Paul to finalize and send; define compensation and hours | 🔴 | ⬜ |
+| **Develop phased training plan for Alana** — 4 weeks, one deal type per week (EMD, double close, Morby, platform ops); target operational independence in ~60 days | This week | 05-28 ops meeting — Manuela moving to US; Alana is continuity plan | 🔴 | ⬜ |
+| **Organize/clean Training Materials Google Drive folder** — remove outdated items, consolidate versions, highlight "EMD review and approval process" | This week | 05-28 ops meeting — Alana needs clean onboarding resources | 🟡 | ⬜ |
+| **Ask Manuela to add Alana to active Slack deal channels** and schedule daily morning/evening training touchpoints (15 min each) | This week | 05-28 ops — no automated way to add new user; manual as deals update | 🟡 | ⬜ |
+| **Add "Start Here" instructions to School platform** clarifying users must manually check off completed modules | This week | 05-27 Alana onboarding — Alana's progress showing 0% despite completion; UX gap | 🟢 | ⬜ |
+| **Run EOS master prompt in Claude** end-to-end (4-5 page prompt in RQF EOS scorecard folder); share generated summary back | This week | 05-28 ops meeting — Justin to run it; Paul to synthesize for EOS artifacts | 🟡 | ⬜ |
+| **Design weekly EOS L10 meeting cadence** + additional strategic call; block time for both | This week | 05-28 ops meeting — EOS implementation underway | 🟡 | ⬜ |
+| **Set up Straty company teams** (secret setting) for each business; test for 90 days before internal rollout | This month | 05-28 Straty/Stride meeting — OC pod requiring Straty; separate teams per business entity | 🟢 | ⬜ |
+| **Implement native white label drip campaign** for RQF; add consent checkbox on Contact Us page; assess auto-enrollment of deal submitters | This week | 05-21 ops / 05-26 drip meeting — launch test Monday; coordinate with Roz | 🟡 | ⬜ |
+| **Standardize referral tracking and payments** for Jeremy and Manuela; maintain DSCR 50/50 split Jeremy/Josh; document rules for link-based vs manual distribution | This week | 05-21 RQF ops — attribution needs to be locked down | 🟡 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -169,6 +194,18 @@
 | **Draft HUD instructions for echo double close structures** — written SOP for title companies: (1) do NOT net "funds in" vs. "funds out" to same entity; (2) use distinct entities — "Real Quick Funds" for inbound A-to-B wire, "Brown, Palaka and Associates" for outbound repayment; (3) explicitly label each HUD line with entity name and purpose; share with regular title partners | This week | 05-26 community call — title companies incorrectly netting same-entity wires is a recurring execution risk in echo deals | 🟡 | ⬜ |
 | **Set up Payoneer for Alana's weekly payments (evaluate Deel as alternative)** — Wise is unavailable in Trinidad where Alana is based; Payoneer took longer to configure last time, so start now. Worth documenting the process as a reusable SOP for future international hires. | This week | 05-27 Alana onboarding — payment method is the critical open blocker to paying her on time | 🟡 | ⬜ |
 | **Add a "Start Here" instruction (and short video) in School clarifying that modules must be manually checked off** — School does not auto-track progress, so new members (Alana) see 0% after completing content. Quick fix that improves onboarding for every new user. | When possible | 05-27 Alana onboarding — Alana flagged the confusion; Paul agreed it's a good catch | 🟢 | ⬜ |
+| **Fix "capital deployed" anomaly in RQF AI scorecard** — funded 1, deployed 0 showing; attribute approvals/funding to original submission week | This week | 05-28 ops meeting — scorecard accuracy needed for forecasting | 🔴 | ⬜ |
+| **Double-check AI scorecard metrics** for 2-3 random weeks; provide correction feedback | This week | 05-28 ops meeting — ~20 submissions/wk, ~5 approvals, ~2 funded; verify cohort logic | 🟡 | ⬜ |
+| **Configure email rule to forward Chase account 0286 notices to Manuela** for deal cash flow logging | This week | 05-28 ops meeting — wire alerts lack address detail; Manuela can match to invoices | 🟡 | ⬜ |
+| **Ensure QuickBooks updates nightly/weekly with AI categorization**; reduce "Ask Paul" entries | Ongoing | 05-28 ops meeting — 90% accuracy on ~100 txns; wire metadata (address) needs improvement | 🟡 | ⬜ |
+| **Explore automated monthly QuickBooks PDF report distribution** post-close | This month | 05-28 ops meeting — year-to-date monthly P&L available; automate distribution | 🟢 | ⬜ |
+| **Remove personal phone number from RQF website** to reduce non-deal calls | This week | 05-28 ops meeting — 9 of 10 inbound deal calls not viable; protect time | 🟡 | ⬜ |
+| **Update QuickBooks: reconcile April/May postings**; correct misclassified "Ask Paul" and loan entries; train AI for nightly journal entries | This week | 05-21 RQF ops — bookkeeper noting increased journal volume | 🟡 | ⬜ |
+| **Research and select reliable meeting recording tool** (alternatives to Fathom — repeated failures) | This week | 05-21 RQF ops — guest DSCR call not recorded; critical deliverables missed | 🟡 | ⬜ |
+| **Get Composio connected to QuickBooks via Claude Cowork** | This week | 05-28 voice memo — Paul captured this as a system integration goal | 🟡 | ⬜ |
+| **Debug Cowork access errors** — Cowork can access directly but getting errors | This week | 05-28 voice memo — need to identify root cause | 🟡 | ⬜ |
+| **Add personal emails to drip preview** to test user experience; set up AI-assisted triage for reply volume | This week | 05-26 drip meeting — recommendation before full launch | 🟢 | ⬜ |
+| **Reinstall Whisper Flow on Mac Mini** | When convenient | 05-21 voice memo — current install has issues | 🟢 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -183,6 +220,9 @@
 | Draft and publish ultra-short social post with clear CTA to promote ESCR lending group call with Josh Trujillo | By 2026-05-20 | 05-16 OC Planning Meeting — high-energy post, schedule reminders across channels; collect RSVPs | 🟡 | ⬜ |
 | Be more deliberate and strategic about marketing — not reactive; treat it as the Archimedes lever | TBD | 04-27 meeting — marketing changes everything; currently not systematic about it | 🟡 | ⬜ |
 
+| **Add "Transactional Hunt Funding Hub" calendar to Google Calendar** for community meeting reminders | ASAP | 05-26 drip/echo meeting — community calendar to receive invites | 🟢 | ⬜ |
+| **Reorganize School classroom into 3 blocks** (Start Here, Standard, Premium); create Vaults + Replays Vault for Premium | This month | 05-28 ops meeting — community energy low; Ryan raised price to $4,800; position at ~$2,000 | 🟡 | ⬜ |
+| **Add SEO content around "Morby method" and "Gator lending" keywords** on RQF website/content | This month | 05-28 ops meeting — Ryan strategically used these phrases for discoverability | 🟢 | ⬜ |
 ---
 
 ## 🏃 Personal / Standards
@@ -211,6 +251,8 @@
 | **Joe Hudson newsletter (5/23) — read by 5/24 4:14pm or it auto-deletes** | 2026-05-24 | 5/23 pmartbrown triage — 24h reading window per pmartbrown skill rule for Joe Hudson newsletters. | 🟢 | ⬜ |
 | **Block calendar for car wash follow-up training (tentative week of June 1, 2026)** — Pace Morby car wash program will hold a follow-up Zoom training that week per 05-26 lecture; weekly Q&A cadence going forward, plus state-specific group meetings being scheduled. Hold the slot pending official invite. | Week of 2026-06-01 | 05-26 Car Wash Land Acquisition lecture — instructors Ria, Jade, Ryan confirmed next session tentative for that week | 🟢 | ⬜ |
 | **Pull daughter's full immunization records + confirm Malawi/Kenya trip vaccinations** — 17-yr-old daughter leaving on a ~3-week Malawi volunteer trip (stops in Kenya half a day). Childhood shots were recorded in Midvale, UT — request the full record. Yellow fever shot scheduled/done; malaria pills lined up; confirm with travel clinic whether anything else is needed before departure. | This week | 05-27 voice notes (3 short captures) — surfaced during Alana call (Paul leaving early for daughter's yellow fever shot) | 🟡 | ⬜ |
+| **Daughter's yellow fever vaccination appointment** — she's going to Malawi for 3-week volunteer work | ASAP | 05-27 Alana onboarding — Paul mentioned needing to take daughter for shot; required for Malawi travel | 🔴 | ⬜ |
+| **Look up Delaware Business ID** for entity search (corp.delaware.gov) | This week | 05-26 voice memo — brief note about searching for business ID | 🟡 | ⬜ |
 ---
 
 ## ⏳ Waiting On
@@ -222,6 +264,8 @@
 
 | **Baldwin OC partner to send data center info packet** — fast-read family-office bullets (founder access, history/track record) + formal pitch deck for forwarding to Paul's CIO contact. Also potentially share Castilian (world's largest missile manufacturer) PE opportunity if relevant. | This week | 05-22 OC partner sync — packet enables peer-to-peer intro to Japan-introduced CIO | 🟡 | ⬜ |
 | **Baldwin OC partner to text familyoffices.com (Family Office Club) link** + report any "bites" after sharing data center info with his other contacts. | This week | 05-22 OC partner sync — partner committed verbally | 🟢 | ⬜ |
+| **Waiting on Zero Down hotel room-block link** + Discord server access + WhatsApp group invite | End of this week | 05-26 Zero Down briefing — Pace promised by end of week of 05-26 | 🟡 | ⬜ |
+| **Waiting on Justin: reschedule Alana call; complete EOS master prompt** | This week | 05-27 onboarding / 05-28 ops — Justin deferred both due to urgent issue | 🟡 | ⬜ |
 ---
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added.*
 
