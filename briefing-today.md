@@ -1,1 +1,55 @@
-IyBNb3JuaW5nIEJyaWVmaW5nIOKAlCBGcmlkYXksIE1heSAyOSwgMjAyNgoKIyMgVGhlIE9uZSBUaGluZwpFT1MgTGlmZWN5Y2xlIERvY3MgKCM1MSArICM1Mikg4oCUIFdyaXRlIHRoZW0gVE9EQVkgZnJvbSBCcnljZSBDYW55b24uIEludmVzdG9yIExpZmVjeWNsZSArIENvbW11bml0eSBMaWZlY3ljbGUgYm90aCBkdWUgVE9NT1JST1cgTWF5IDMwLiAyMCUgbGV2ZWwgb25seS4KCiMjIFRvcCAzIFByaW9yaXRpZXMKMS4gRU9TIExpZmVjeWNsZSBEb2NzIOKAlCBJbnZlc3RvciArIENvbW11bml0eSAoRFVFIFRPTU9SUk9XIE1heSAzMCkKMi4gSmVzc2ljYSBkZWFsIGNvbnRyYWN0IOKAlCBjb25maXJtIGV4ZWN1dGlvbiAoJDcwSyByZXR1cm4gKyAkMTktMjBLIGZlZXMpCjMuIE1vdXJpIHN1YmRvYyDigJQgcHVzaCBmcm9tIHdoZXJldmVyIHlvdSBhcmUuIE9uZSB0ZXh0IGZyb20gJDEwMEsgYXQgNy41JS4KCiMjIEZ1bmQgU3RhdHVzCiQ1MCwwMDAgLyAkMiwwMDAsMDAwIHRhcmdldCAvIDIuNSUgwrcgUGF1bCAkNTBLIGludmVzdGVkIMK3IE1vdXJpIH4kMTAwSyBzdWJkb2Mgb3V0c3RhbmRpbmcgwrcgRHlsYW4gYWN0aXZlIMK3IERvbiBEYXZpcyBub3QgeWV0IGNvbnRhY3RlZCDCtyBUcmFja2VyIHVwZGF0ZWQgMjAyNi0wNS0yNQoKIyMgRm9sbG93LVVwcyAmIE9wZW4gTG9vcHMK8J+UtCAjMzEgTW91cmkgc3ViZG9jIOKAlCBTVUJET0MgT1VUU1RBTkRJTkcg4oaSIGdldCBzaWduZWQsIG1vdmUgM0QgQ2FwaXRhbCDihpIgUmV6R2FwIFBsdXMK8J+UtCAjNzcgRnJhdWR1bGVudCAkNTBLIOKAlCBwb2xpY2UgcmVwb3J0ICsgREEgZXNjYWxhdGlvbgr8J+UtCAjNzkgU2NoZWR1bGUgMyBsaXN0aW5nIGFnZW50cyAob3ZlcmR1ZSBNYXkgMjcpCvCflLQgIzgwIENoYXNlIHNpc3RlcnMgZXhwZW5zZSBsaXN0cyDigJQgUnVieSwgUHlwZXIsIEhlaWRpIChvdmVyZHVlIE1heSAyNykK8J+UtCAjODEgUGF1bCAmIEFrZW1pIGV4cGVuc2UgbGlzdCAob3ZlcmR1ZSBNYXkgMjcpCvCflLQgIzgyIEVsbGEgUmF5ICsgSnVzdGluICsgUGF1bCBjYWxsIChvdmVyZHVlIE1vbiA1LzI2KQrwn5+gICM4NCBFbW1hIOKAlCBwaHlzaWNpYW4gc2lnbi1vZmYgQWZyaWNhIHRyaXAK8J+foCAjMzcgRGFkIGxpZmUgaW5zdXJhbmNlIOKGkiBQaXBlCvCfn6AgIzQ1IEVPUyBQaGFzZSAxIOKAlCBKdXN0aW4gYWxpZ25tZW50IChvdmVyZHVlKQrwn5+gICM0Ni8jNDcgRU9TIFBoYXNlIDIg4oCUIFNjb3JlY2FyZCArIFEyIFJvY2tzIChvdmVyZHVlKQrwn5+hICM1MSBJbnZlc3RvciBMaWZlY3ljbGUgZG9jIOKAlCBEVUUgTUFZIDMwCvCfn6EgIzUyIENvbW11bml0eSBMaWZlY3ljbGUgZG9jIOKAlCBEVUUgTUFZIDMwCvCfn6AgIzU1IERhdmUgTGlzaSDigJQgJDcuNU0gQWxhc2thIGxvZGdlICsgU2VwdCA2LTEwIHRyaXAK8J+foCAjNTYgQW5uZS1NYXJpZSDihpIgVGFsbGFoYXNzZWUgYWlycG9ydCBwcm9qZWN0CvCfn6AgIzQwIE9DIFNlbWVzdGVycyBJbnN0cnVjdG9yIChKZW5ueSBSaWRlbm91cikK8J+foCAjNDEgRWxsYSBSYXkg4oCUIFBsYW5ldC9PcmJpdCBDaGFsbGVuZ2UK8J+foCAjNTcgT3dlbiBNZWFjaGFtIOKAlCBDbGF1ZGUgc2NyaXB0cwrwn5+gICMyNSBTa29vbCAoVHhGSHViKSDigJQgZmluaXNoICYgbGF1bmNoCvCfn6AgIzEyIERhdGUgd2l0aCBBa2VtaSDigJQgYXQgQnJ5Y2UgQ2FueW9uIHRoaXMgd2Vla2VuZAr8J+foSAjNzMgQ29uZ3JhdHVsYXRlIGNvbGxlYWd1ZSBnZXR0aW5nIGVuZ2FnZWQgKGJlZm9yZSBKdW5lIDEpCvCfn6EgIzM0IER5bGFuIFN0ZXdhcnQgcGVyaW9kaWMgdG91Y2gK8J+foSAjMzUgRWQg4oaSIERvbiBEYXZpcyBmb2xsb3ctdXAK8J+foSAjMzYgTm9ybSDihpIgc2VsbGVyIGNhcnJ5IGRhdGVzCvCfn6EgIzQ0IFVSQSBzY2FubmVkIG1haWwK8J+foSAjODMgTWFydHkgZGVhbCDigJQgbG9hbiBwb3NpdGlvbiArIHRpdGxlIGluc3VyYW5jZQr8J+foSAjNTMgVi9UTyBkcmFmdCDigJQgSnVuZSAxNQrwn5+hICM0OS8jNTAgRmlyc3QgTDEwICsgcmVjdXJyaW5nIOKAlCB3ZWVrIG9mIEp1bmUgMgoKIyMgVG9kYXkgU2NoZWR1bGUKLSBBbGwgRGF5OiBTdGF5IGF0IEJyeWNlIENhbnlvbiBSZXNvcnQgKDEzNTAwIEUgVXRhaCAxMiwgQnJ5Y2UgQ2FueW9uIENpdHkgVVQpCi0gOUFNLTEyUE06IERhZCBob3VzZSBkZWVwIGNsZWFuIGluIExlaGkgKGhhcHBlbmluZyB3aXRob3V0IHlvdSDigJQgYm9va2VkICYgcGFpZCkKLSBTdGFuZGluZzogQnJpYW4gYWNjb3VudGFiaWxpdHkgY2hlY2sgKEZyaWRheSByaHl0aG0pCgojIyBFbWFpbCBBY3Rpb24gSXRlbXMKLSBVUkdFTlQ6IENoYXNlIHNpc3RlcnMgZXhwZW5zZSBsaXN0cyAoIzgwKQotIEFDVElPTjogQ29uZmlybSBNb3VyaSBzdWJkb2MgcG9ydGFsIGxpbmsgc2VudCAoIzMxKQotIE5PVEU6IERlbGF3YXJlIEZyYW5jaGlzZSBUYXggKCM0MykgUEFJRCDigJQgdXBkYXRlIE1hc3RlciBUb2RvCg==
+# Morning Briefing — Saturday, May 30, 2026
+
+📍 Bryce Canyon, UT
+
+## The One Thing
+Paper the Garden Rd deal — written confirmation to Jessica Lamont of 5/28 phone terms before refi escrow closes. Full capital at close + $20K in 60 days.
+
+## Top 3 Priorities
+1. Garden Rd — Paper the verbal with Jessica Lamont (DUE TODAY before refi closes)
+2. Verify Plaud UAE banking change — possible fraud signal on paul@rqf
+3. Trumble Creek close confirmation — watch for wire from Fidelity Title
+
+⚠️ DEADLINE OVERRIDE: EOS Lifecycle docs #51 + #52 DUE TODAY (May 30). 20% level, ~30 min each.
+
+## Fund Status
+$50,000 raised · $2,000,000 target · 2.5% · Paul Brown $50K ✅ · Naohiro Mouri ~$100K ⏳ subdoc outstanding · Dylan Stewart active · Don Davis not yet contacted
+
+## Follow-Ups & Open Loops
+🔴 #31 Mouri subdoc — OUTSTANDING → signed + 3D Capital → RezGap Plus
+🔴 #77 Fraudulent $50K — police report + DA escalation
+🔴 #79 Schedule 3 listing agents (OVERDUE May 27)
+🔴 #80 Sisters expense lists — Ruby, Pyper, Heidi (OVERDUE May 27)
+🔴 #81 Paul & Akemi expense list (OVERDUE May 27)
+🔴 #82 Ella Ray + Justin + Paul call (OVERDUE Mon 5/26)
+🔴 #51 Investor Lifecycle doc — DUE TODAY
+🔴 #52 Community Lifecycle doc — DUE TODAY
+🔴 #73 Congratulate colleague getting engaged — DUE BEFORE JUNE 1
+🟠 #11/#32 Mouri referrals + additional capital
+🟠 #34 Dylan Stewart — periodic touch
+🟠 #84 Emma — physician sign-off Africa trip
+🟠 #37 Dad's life insurance → Pipe
+🟠 #55 Dave Lisi — Alaska lodge + Sept 6–10 trip
+🟠 #56 Anne-Marie — Tallahassee airport project
+🟠 #40 OC Semesters Instructor (Jenny Ridenour)
+🟠 #41 Ella Ray — Planet/Orbit Challenge
+🟠 #45 EOS Phase 1 — Justin (OVERDUE)
+🟠 #46/#47 EOS Phase 2 — Scorecard + Q2 Rocks (OVERDUE)
+🟠 #12 Date with Akemi — DO IT AT BRYCE CANYON
+🟡 #35 Ed → Don Davis · #36 Norm · #44 URA mail · #83 Marty deal
+🟡 #48 Issues List · #53 V/TO (June 15)
+🟡 #26 Dad's taxes · #57 Owen Meacham · #25 Skool launch
+
+## Today's Schedule
+• All Day — Stay at Bryce Canyon Resort
+• No set time — Brian accountability check
+
+## Email Action Items
+• URGENT: Plaud UAE banking change (paul@rqf) — fraud signal — verify now
+• OVERDUE: EY Mobility questionnaire — globalone.ey.com (25-BD clock not started)
+• OVERDUE: Travelers HR Pension Case 679281 — travelers.ehr.com
+• OVERDUE: Dad's estate expenses compile (Pyper done, Ruby outstanding)
+• ACTION: Garden Rd — paper verbal with Jessica Lamont TODAY
+• ACTION: Maeda ACH — $2,555.82/mo + $132.93 catch-up (Andrew Nielson)
+• ACTION: Cameron Alvey (KeyBank) — 1-line reply on RQF banking
+• IMPORTANT: Trumble Creek wire — monitor confirmation from Fidelity Title
