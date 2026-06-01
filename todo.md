@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-05-29 — Afternoon transcript review — +52 items from 12 Plaud transcripts (Buena Vista cabins, Reginald Brown EMD, Asset Recovery, EOS automation, Alana onboarding)**
+**Last updated: 2026-06-01 — Afternoon transcript review — +6 items from 2 new Plaud transcripts (Josh Trakalo referral process call + Pace RV Park initiative w/ Hanks Ventures wire prep)**
 
 ---
 
@@ -45,6 +45,7 @@
 | **Reginald Brown — 520 Old Cobblestone Rd, Sandy Springs ($20K EMD)** — Resend mutual release + payment instructions email from office (was sent 5/22 + 5/25, hit his spam); confirm receipt; ask him to whitelist sender | Next business morning (2026-05-29) | 05-28 consultation — Reginald (beko.investments@gmail.com) missed earlier emails; team onboarding + high deal flow | 🔴 | ⬜ |
 | **Marina + RV park ($1.5M Oklahoma) inquiries declined** — log as no-fit: no DSCR lender for marina; SBA's 365-day seasoning incompatible with Morbi exit. Document criteria so referrers don't keep sending these | Logged | 05-28 call — Dakota's marina, OK RV park morbi attempt | 🟢 | ⬜ |
 | **Kirk debt — refuse to sign release form** — require a new, legally-binding affirmation agreement (Utah-enforceable) before Paul signs anything; Speaker 3 to communicate non-negotiable stance to Kirk | When Kirk responds | 05-20 Asset Recovery — Kirk's wife is physician; Paul resolute on documented enforceable arrangement | 🟡 | ⬜ |
+| **Hanks Ventures purchase agreement — set effective date 2026-06-01; placeholder closing agent; pull payoff statement + wiring instructions from Google folder; draft separate Release of Lien (Arlene) document** | ASAP | 05-29 Plaud voice memo — buyer-side wire and lien-release prep called out explicitly | 🔴 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -124,6 +125,7 @@
 | **Christina — confirm whether her company files NOIs and what they charge** — needed for Ryan Medlock pressure tactic | This week | 05-20 Asset Recovery — alternative to $250–400/NOI third-party services | 🟡 | ⬜ |
 | **Matt — confirm meeting Wednesday or later next week** to kick off 3D Capital wind-down strategy | This week | 05-20 Asset Recovery — close out 3D Capital after recovering ~$40K from Ryan Medlock | 🟡 | ⬜ |
 | **Confirm Jay's role on 2026-05-28 inbound** — clarify what he called about and any commission/role implications (Justin floated clawing back $1K of Jay's commission half-jokingly) | This week | 05-29 Buena Vista debrief; Justin's voice memo | 🟢 | ⬜ |
+| **Align with Josh Trujillo on improved shared submission form** — handle cases where there's already an existing conversation thread; replaces Paul's deferred standalone form | This week | 05-29 Josh Trakalo call — Paul held back his own form pending alignment | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -246,6 +248,8 @@
 | **Document Lending Box for BD use** — pull canonical version from core memory and post in BD playbook alongside Buy Box for use in standardized outbound replies | This week | 05-22 ops — BD currently can't reliably access; emails generic without it | 🟡 | ⬜ |
 | **Treat Real Quick Funds vs Jones Block & Associates as separate entities** — segregate referral-income tracking by referring party in QBO; resolve outstanding general issues on each | This week | 05-22 ops dictation | 🟡 | ⬜ |
 | **Test new email-drip rollout on 3–4 named accounts for ~1 week** — Paul to text Roz the names; verify emoji rendering + body formatting before broader rollout | This week | 05-28 Roz call | 🟡 | ⬜ |
+| **Roz — build submission routing control on white-label** so submitter can select recipient when multiple potential recipients exist; default-shortcut routes to Josh as interim solution. Workaround until live: submit via realquickfunds.com (CRM-only) and write Manuela to flag it | This week | 05-29 Josh Trakalo call — white-label auto-routes via preset rules; CRM path forces manual assignment | 🟡 | ⬜ |
+| **Build referrer-association lookup table** — when a client comes in without a referrer, auto-check existing records and re-link them to their original referrer; enforces community policy that referrers stay attached for all future deals from that client | This month | 05-29 Josh Trakalo call — Paul described this as already in build; programmatically preserves referral-fee policy | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -300,6 +304,8 @@
 | **Build hard non-work breaks into schedule** — current 8AM–9/10PM (occasionally 1–2AM) producing burnout; commit to weekly off-block | Ongoing | 05-28 Roz call — 'eighty percent is my max today' for three days | 🟡 | ⬜ |
 | **Owners Club next-year renewal decision** — value present but participation overhead unsustainable at current scale; New Reach increasingly restrictive on self-promotion + branding. Defer decision until after classroom restructure stabilizes | Decide before renewal date | 05-28 Roz call + 05-28 double-close call — recurring fatigue signal | 🟡 | ⬜ |
 | **Plan Japan trip with Akemi** — target after school-year start (daughter coverage gap is the blocker); Tokyo summers miserable, prefer Hokkaido/Sapporo; long-term aim to spend half-year there once daughter is out | TBD | 05-28 Roz call — Akemi pushing; coverage logistics outstanding | 🟢 | ⬜ |
+| **Attend Pace Morby RV Park breakdown webinar (4 parks: 2 MT seasonal + 2 TX worker camps)** — open to OC/Sub2/Gator/TC/Zero Down; Pace highlighting OC RV park owners and driving lead/capital flow to OC | 2026-06-01 3PM | 05-29 Pace RV Park Initiative lecture — kickoff of 2-yr RV park dominance program with weekly OC underwriting, content cascading down to Sub2/Zero Down/YouTube | 🔴 | ⬜ |
+| **Contact marketplace health insurance issuer directly re: refund for canceled policy (fraudulent broker enrollment)** — multiple payments made; refunds processed via plan issuer, not marketplace | This week | 05-29 marketplace call — discovered policy was canceled before start due to fraudulent enrollment by agent/broker; Paul received insurance card despite cancellation; covered by employer plan now | 🔴 | ⬜ |
 ---
 
 ## ⏳ Waiting On
