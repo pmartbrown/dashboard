@@ -1,57 +1,69 @@
-# Morning Briefing — Monday, June 1, 2026
+# Morning Briefing — Tuesday, June 2, 2026
 
 ## The One Thing
-EOS Phase 1 alignment call with Justin — TODAY. Phase 2 is overdue, Scorecard + Rocks need building, and the First L10 is targeted for Wednesday June 3. One call unlocks the entire flywheel.
+EOS Phase 1 with Justin — one call unlocks the entire EOS flywheel. First L10 targets Wednesday June 3. Make it happen before noon.
 
 ## Top 3 Priorities
-1. EOS Phase 1 with Justin — schedule + run today (Phase 2 overdue, L10 target = June 3)
-2. Mouri subdoc — push to sign via RezGap Plus portal ($100K = next 5% of fund)
-3. Delaware franchise tax #43 — verify paid TODAY · DUE TODAY · COD 5/27 says PAID · Call URA (855-236-9172)
+1. **EOS Phase 1 with Justin** — run today; First L10 is Wednesday; whole flywheel blocked on this call
+2. **Maeda Chase autopay failure** — 3 consecutive failures (5/29, 5/30, 6/1); sign in to Chase, identify failing payee, fix NOW
+3. **EY Mobility questionnaire** — globalone.ey.com; 25-BD clock not started since 5/27; biggest regulatory timer on the board
 
 ## Fund Status
-$50,000 · $2,000,000 target · 2.5% · Tracker updated 2026-05-25
-Paul Brown ✅ $50K · Naohiro Mouri ⏳ ~$100K SUBDOC OUTSTANDING · Dylan Stewart 🔵 Active · Don Davis ⬜ Not yet contacted
+$50,000 · $2,000,000 target · 2.5% · Tracker last updated 2026-05-25 (STALE)
+Paul Brown ✅ $50K invested · Naohiro Mouri ⏳ ~$100K SUBDOC OUTSTANDING — #1 PRIORITY
 
 ## Follow-Ups & Open Loops
-🔴 #31 Mouri subdoc — OUTSTANDING (sign portal → 3D Capital → RezGap Plus)
-🟠 #11/#32 Mouri — additional capital + intros (after subdoc)
-🟠 #34 Dylan Stewart — periodic touch
-🟡 #35 Ed → Don Davis · #36 Norm — seller carry dates
-⚠️ #43 Delaware Franchise Tax — DUE TODAY (likely paid per COD 5/27 — verify URA 855-236-9172)
-🔴 #77 Fraudulent $50K — police report + DA escalation
-🔴 #79 Schedule 3 listing agents for Dad's house (OVERDUE — was due 5/27)
-🔴 #80 Sisters expense lists (OVERDUE — Ruby outstanding)
-🔴 #81 Paul & Akemi expense list (OVERDUE — was due 5/27)
-🟠 #84 Emma — physician clearance Africa trip
-🟠 #37 Dad's life insurance → Pipe
-🟡 #44 URA scanned mail · #83 Marty deal (loan position + title insurance)
-🔴 #82 Ella Ray + Justin + Paul call (OVERDUE — was Mon 5/26)
-🟠 #55 Dave Lisi — $7.5M Alaska lodge + Sept 6–10 fishing trip
-🟠 #56 Anne-Marie — Tallahassee airport project ($4M, TIF)
-🟠 #40 OC Semesters Instructor · #41 Ella Ray Planet/Orbit Challenge
-🟠 #63 Jaden & Heather MF/RV deal flow · #64 EMD double-release language
-🟠 #75 Zach Larson · #76 Jeramy Ennis addendum (0.5% retro April 1) · #8 Pace 1:1 · #2 Tauna Ellis
-🔴 #45 EOS Phase 1 with Justin (OVERDUE + THE ONE THING)
-🔴 #46/#47 EOS Phase 2 — Scorecard + Q2 Rocks (OVERDUE week of 5/26)
-🔴 #51 Investor Lifecycle doc (OVERDUE — was due 5/30)
-🔴 #52 Community Lifecycle doc (OVERDUE — was due 5/30)
-🟠 #49/#50 First L10 + L10 agenda — THIS WEEK (target Wed June 3)
-🟡 #48 Issues List · #53 V/TO (June 15)
-🟠 #57 Owen Meacham scripts · #25 Skool launch · #61 OC recording · #29 sub docs
-🟠 #69 Akemi's work situation · #54 Alaska fishing (David Lisi) · #12 Date with Akemi
-🟠 #23 EMD alert tool
+🔴 Mouri subdoc — sign portal → 3D Capital → RezGap Plus (been pending since late April)
+🔴 Delaware franchise tax #43 — DUE 6/1 (YESTERDAY), UNCONFIRMED — URA 855-236-9172
+🔴 Fraudulent $50K — file police report + DA escalation
+🔴 EOS Phase 1 with Justin — alignment call TODAY (THE ONE THING)
+🔴 EOS Phase 3 — First L10 meeting (target Wed 6/3, only after Phase 1 done)
+🔴 3D Capital lien release — 3761 S Spinnaker Bay — sign by 6/3
+🔴 Marty deal — investigate both loans, confirm position + title insurance
+🔴 EY Mobility questionnaire — globalone.ey.com (OVERDUE since 5/27)
+🔴 Travelers HR Help Desk — Case 679281 — travelers.ehr.com (30+ days pinned)
+🔴 Dad's house — schedule 3 agents for CMA (OVERDUE — was due 5/27)
+🔴 All sisters — Dad's expense lists (OVERDUE — was due 5/27)
+🔴 Paul & Akemi — own expense list for Dad (OVERDUE — was due 5/27)
+🟠 Naohiro Mouri referrals (after subdoc closes)
+🟠 Dylan Stewart — periodic check-in with capital partners
+🟠 Ed / Don Davis — capital partner follow-up
+🟠 Norm — confirm dates + seller carry amounts
+🟠 EOS Phase 2 — Scorecard + Accountability Chart + Q2 Rocks (OVERDUE week of 5/26)
+🟠 Ella Ray + Justin + Paul alignment call (Morby method deals, was Mon 5/26)
+🟠 Cobblestone EMD — Manoela to call 404-693-5263
+🟠 Jeramy Ennis referral — convert to 0.5% retroactive April 1
+🟠 Zach Larson — meet in person (Kenny Lamee ops/CEO)
+🟠 OC Semesters Instructor — apply (jenny@onlyfortheambitious.com)
+🟠 Ella Ray — Orbit Challenge Planet for Transactional Funding
+🟠 Anne-Marie — Tallahassee airport project + TIF research
+🟠 Alaska fishing trip — David Lisi, Sept 6-10 (confirm + book)
+🟠 Dave Lisi — $7.5M Alaska fishing lodge deal structure
+🟠 Dad's life insurance — connect with Pipe
+🟠 Emma — physician clearance for Africa trip (immunizations done ✅)
+🟠 Cameron Alvey (KeyBank) — wire pricing decision
+🟠 Akemi — check on her work situation
+🟡 EOS: Investor Lifecycle doc (OVERDUE, was 5/30)
+🟡 EOS: Community Lifecycle doc (OVERDUE, was 5/30)
+🟡 EOS: V/TO — 10-year target, 3-year picture, 1-year plan (due 6/15)
+🟡 Skool community (TxFHub) — finish & launch
+🟡 Dad's taxes — finish filing
+🟡 RezGap Plus Fund — set up electronic sub docs
+🟡 Schedule appointment with Susan Byerly (OVERDUE since 4/10)
+🟡 Owen Meacham — master Claude scripts/system prompts
+🟡 Pace Morby 1:1 follow-up
+🟡 URA — retrieve scanned mail from portal
 
 ## Today's Schedule
-9:00–9:30 AM — Monthly: Pay Noa's Rent + Pull 529 Funds (pmartbrown)
-All Day — First full work day back in Lehi
+9:00–9:30 AM — Pinecone → RQF: collect $661.16 reimbursement (Cincinnati Black Card charges)
+TODAY — Delaware franchise tax #43 — RESOLVE (was due 6/1)
+TODAY — Brandt Gibson — Lehi Roundup decision (calendar by 6/2)
 
 ## Email Action Items
-URGENT: Plaud UAE banking change (paul@rqf) — verify or block immediately
-OVERDUE: EY Mobility questionnaire — globalone.ey.com (25-BD clock NOT started, since 5/27)
-OVERDUE: Travelers HR Pension Case 679281 — travelers.ehr.com (since 5/1)
-ACTION: Garden Rd — paper verbal with Jessica Lamont (was due 5/30)
-ACTION: Maeda ACH — $2,555.82/mo + $132.93 catch-up to Andrew Nielson
-ACTION: Cameron Alvey (KeyBank) — 1-line reply on RQF banking
-IMPORTANT: Trumble Creek — confirm wire with Manoela
-IMPORTANT: Ruby Poe-Brown — Dad's house lockup question
-IMPORTANT: Justin Pilakka — Morning Huddles RSVP (accept or counter)
+🔴 URGENT: Maeda Chase autopay failure — 3 failures (5/29, 5/30, 6/1) — fix NOW
+🔴 URGENT: 3D Capital lien release — 3761 S Spinnaker Bay — sign by 6/3 (admin@rqf)
+🔴 URGENT: Andrew Nielson — Island Park ACH at Zions — call 801-376-3456
+🔴 OVERDUE: EY Mobility questionnaire — globalone.ey.com
+🟠 ACTION: Kamalesh Jha — Rez Gap Plus fund personal reply (admin@pineconegp.com)
+🟠 ACTION: Jessica Lamont/Pillowfort — Garden Rd docs review by 6/3
+🟠 ACTION: Wyoming LLC — North Peak Recovery State Filing Notice (legal/compliance)
