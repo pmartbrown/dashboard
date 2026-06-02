@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-01 — Afternoon transcript review — +6 items from 2 new Plaud transcripts (Josh Trakalo referral process call + Pace RV Park initiative w/ Hanks Ventures wire prep)**
+**Last updated: 2026-06-02 — Afternoon transcript review — +1 item from 1 new Plaud transcript (cap table pro rata reallocation memo)**
 
 ---
 
@@ -46,6 +46,7 @@
 | **Marina + RV park ($1.5M Oklahoma) inquiries declined** — log as no-fit: no DSCR lender for marina; SBA's 365-day seasoning incompatible with Morbi exit. Document criteria so referrers don't keep sending these | Logged | 05-28 call — Dakota's marina, OK RV park morbi attempt | 🟢 | ⬜ |
 | **Kirk debt — refuse to sign release form** — require a new, legally-binding affirmation agreement (Utah-enforceable) before Paul signs anything; Speaker 3 to communicate non-negotiable stance to Kirk | When Kirk responds | 05-20 Asset Recovery — Kirk's wife is physician; Paul resolute on documented enforceable arrangement | 🟡 | ⬜ |
 | **Hanks Ventures purchase agreement — set effective date 2026-06-01; placeholder closing agent; pull payoff statement + wiring instructions from Google folder; draft separate Release of Lien (Arlene) document** | ASAP | 05-29 Plaud voice memo — buyer-side wire and lien-release prep called out explicitly | 🔴 | ⬜ |
+| **Cap table action — retire 10% unused employee option pool, reallocate pro rata to existing members (final 60.5% / 38.5%)** — amend operating agreement + update cap table model and waterfall; confirm which entity this applies to | This week | 06-02 Plaud memo — Pro Rata Reallocation analysis (Member A 55% + 5.5% = 60.5%; Member B 35% + 3.5% = 38.5%) | 🟡 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
