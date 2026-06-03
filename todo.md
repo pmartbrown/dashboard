@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-03 — Morning transcript review — +18 items from 18 new Plaud transcripts (deals, follow-ups, systems, marketing)**
+**Last updated: 2026-06-03 — Afternoon transcript review — +4 items from 4 new substantive Plaud transcripts (RQF scorecard fix, 506(b)/PML accounting, intercompany wire rules)**
 
 ---
 
@@ -47,6 +47,8 @@
 | **Kirk debt — refuse to sign release form** — require a new, legally-binding affirmation agreement (Utah-enforceable) before Paul signs anything; Speaker 3 to communicate non-negotiable stance to Kirk | When Kirk responds | 05-20 Asset Recovery — Kirk's wife is physician; Paul resolute on documented enforceable arrangement | 🟡 | ⬜ |
 | **Hanks Ventures purchase agreement — set effective date 2026-06-01; placeholder closing agent; pull payoff statement + wiring instructions from Google folder; draft separate Release of Lien (Arlene) document** | ASAP | 05-29 Plaud voice memo — buyer-side wire and lien-release prep called out explicitly | 🔴 | ⬜ |
 | **Cap table action — retire 10% unused employee option pool, reallocate pro rata to existing members (final 60.5% / 38.5%)** — amend operating agreement + update cap table model and waterfall; confirm which entity this applies to | This week | 06-02 Plaud memo — Pro Rata Reallocation analysis (Member A 55% + 5.5% = 60.5%; Member B 35% + 3.5% = 38.5%) | 🟡 | ⬜ |
+| **Get CPA guidance — 506(b) fund → PML lending biz accounting structure** — capital invested into PML's account for short-term lending; 1-year minimum hold; quarterly distributions back to fund. Confirm GAAP-aligned bookkeeping treatment for Pinecone Capital → RQF flow. | This week | Plaud — 06-02 voice memo (Paul thinking out loud) | 🟡 | ⬜ |
+
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -268,6 +270,10 @@
 | **Test email drip feature** with 3–4 accounts before full rollout — also find the batch of email drafts sent to self (check deleted/junk folders across email accounts) | This week | 05-28 Plaud — burnout conversation with Roz; drip system testing; drafts were prepared then emailed to self and now lost | 🟢 | ⬜ |
 | **Refresh RQF SOPs with Alana** — walk through one deal type at a time (start with on-hold deals/EMD); ensure HubSpot pipeline phase discipline (populate 'today' date field; move one phase at a time, wait 10–20s for automations) | Next week | 05-28 Plaud — Alana onboarding meeting; Manuela OOO June 11–12; also: confirm admin@realquickfunds.com calendar shared with all team members | 🟡 | ⬜ |
 | **Implement email delivery confirmation process** — CRM workflow or client portal to post docs and trigger portal notifications; reduces missed emails for EMD/mutual release communications | Within 2 weeks | 05-28 Plaud — Reginald Brown consultation; emails to beko.investments@gmail.com going to spam; same-day response standard must be maintained during high deal flow | 🟢 | ⬜ |
+| **Fix RQF scorecard 4-week & 12-week average calculation** — must EXCLUDE current week. Recent submissions 23/15/23/19 returning impossible 15.3 four-week avg. Same fix needed for 12-week metric. GitHub site + subsidiary site. | This week | Plaud — 06-03 Zero Down Q&A (Paul flagged at top of call) | 🟡 | ⬜ |
+| **Bookkeeping rule: intercompany wires (Brown Polacca ↔ RQF, etc.) carry NO class** — class fields (GAP/EMD/Stack) are deal-funding-only, not internal cash moves. Document in QBO maintenance SOP so AI bookkeeper mirrors going forward. | This week | Plaud — 06-02 Relay fraud-alert call (Paul's note at end of recording) | 🟡 | ⬜ |
+| **Pre-notify Relay for large intercompany wires ($380k+)** — false-positive fraud holds on Brown Polacca → Chase/RQF transfers cost manual verification time. Ask Relay if there's a whitelist or note-in-advance option for recurring internal moves. | When possible | Plaud — 06-02 Relay fraud-alert call ($380k internal wire flagged) | 🟢 | ⬜ |
+
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -345,7 +351,7 @@
 | **Kate Nielsen — pull insurance declaration page for Yellowstone Lookout Lodge (Island Park)** — verify STR coverage adequacy; Shane/Ted should have policy | Early next week | 05-22 Kate call — STR claim-denial risk if policy not appropriate | 🟡 | ⬜ |
 | **Bookkeeper — document standard categorization treatment of recurring 'school deposits'** so AI can mirror it going forward | This week | 05-22 ops dictation | 🟢 | ⬜ |
 ---
-*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added.*
+*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Afternoon run 2026-06-03: 5 new transcripts processed, 4 action items added; 1 fraud-alert call recorded as no-action (resolved on call).*
 
 ## 📦 Migration Note — 2026-05-28
 Legacy `brain/todo.md` (last updated 2026-05-11, "Master To-Do / Follow-Up Tracker") was consolidated into this dashboard. 16 still-live items were merged into the sections above. The original file was archived to `brain/archive/todo-pre-2026-05-28.md`. The dashboard repo's `todo.md` is now the single source of truth for all action items.
