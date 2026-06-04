@@ -1,66 +1,86 @@
-# Morning Briefing — Wednesday, June 3, 2026
+# Morning Briefing — Thursday, June 4, 2026
 
 ## The One Thing
-Garden Road — get both documents notarized TODAY (hard deadline, must be done this morning)
+Get Mouri's subdoc signed and funds moving — one action takes fund from $50K to $150K (2.5% → 7.5% of $2M goal).
 
 ## Top 3 Priorities
-1. Garden Road notarization — Item #85, DUE TODAY. Two settlement docs. Get to a notary before noon.
-2. 3D Capital lien release — 3761 S Spinnaker Bay — Paul personal sign-off DUE TODAY 6/3.
-3. EOS Phase 1 with Justin — OVERDUE (targeted 6/1, 6/2). First L10 targeted today. Flywheel key.
+1. Naohiro Mouri — subdoc signed + funds in (3D Capital → RezGap Plus portal)
+2. EOS Phase 1 with Justin — alignment call OVERDUE (targeted 6/1, 6/2, 6/3 — cannot slip again)
+3. Garden Road notarization + 3D Capital lien release — carry-forward from 6/3 — confirm or finish today
 
 ## Fund Status
-$50,000 · $2,000,000 target · 2.5% · Paul Brown $50K ✅ · Naohiro Mouri ~$100K ⏳ SUBDOC OUTSTANDING
-⚠️ Tracker stale (last updated 2026-05-25)
+$50,000 · Target $2,000,000 · 2.5% · Paul Brown $50K ✅ · Mouri ~$100K ⏳ subdoc outstanding · Tracker stale (last updated 2026-05-25)
 
 ## Follow-Ups & Open Loops
-🔴 Naohiro Mouri — subdoc signed + funds in (3D Capital → RezGap Plus portal)
-🔴 Garden Road — notarization TODAY (2 docs)
-🔴 3D Capital lien release — 3761 S Spinnaker Bay — sign by 6/3
+🔴 Naohiro Mouri — subdoc signed + funds moved
+🔴 Garden Road notarization (carry-forward 6/3)
+🔴 3D Capital lien release — 3761 S Spinnaker Bay (carry-forward 6/3)
 🔴 Fraudulent $50K — file police report + DA escalation
-🔴 Marty deal — investigate both loans, confirm position + title insurance
+🔴 Marty deal — investigate both loans (position + title insurance)
 🔴 EOS Phase 1 — alignment call with Justin (OVERDUE)
-🔴 Hanks Ventures — wiring action (NEW — June 3 transcript)
-🔴 Luxury hotel EMD (NEW — June 3 transcript)
-🔴 Buena Vista Cabins — Rochelle bridge eval (NEW)
-🔴 Ryan Medlock — NOI documents (NEW)
-🔴 EY Mobility questionnaire — globalone.ey.com (OVERDUE since 5/27)
-🔴 Travelers HR Help Desk — Case 679281 — create portal at travelers.ehr.com
-🔴 Dad's house — schedule 3 agents for CMA (OVERDUE)
-🔴 All sisters — Dad's expense lists since passing (OVERDUE)
+🔴 Hanks Ventures — wiring action
+🔴 Luxury Hotel EMD — Tyler Greene/Sekou
+🔴 Buena Vista Cabins — Rochelle bridge eval
+🔴 Ryan Medlock — NOI documents
+🔴 EY Mobility questionnaire — globalone.ey.com (OVERDUE 5/27)
+🔴 Travelers HR Help Desk — Case 679281
+🔴 Dad's house — schedule 3 agents for CMA (OVERDUE 5/27)
+🔴 All sisters — Dad's expense lists (OVERDUE)
 🔴 Paul & Akemi — own expense list for Dad (OVERDUE)
 🔴 Dad's life insurance — connect with Pipe
-🟠 Naohiro Mouri — referrals (after subdoc closes)
+🟠 Naohiro Mouri — referrals (after subdoc)
 🟠 Dylan Stewart — follow up with capital partners
-🟠 Ed / Don Davis — capital partner intro follow-up
-🟠 Norm — call to confirm dates + seller carry amounts
-🟠 EOS Phase 3 — First L10 meeting (targeted today 6/3)
-🟠 EOS Phase 2 — Weekly Scorecard + Accountability Chart
-🟠 EOS Phase 2 — Set Q2 Rocks (due June 30)
-🟠 Maeda Chase autopay failure — fix recurring payment (3 consecutive failures)
-🟠 Andrew Nielson — Island Park ACH at Zions — call 801-376-3456
-🟠 Kamalesh Jha — Rez Gap Plus fund thread — personal reply
+🟠 Ed / Don Davis — capital partner intro
+🟠 Norm — dates + seller carry amounts
+🟠 Gator fireside chat follow-up
+🟠 EOS Phase 3 — First L10 meeting
+🟠 EOS Phase 2 — Scorecard + Accountability Chart
+🟠 EOS Phase 2 — Q2 Rocks (due June 30)
+🟠 Maeda Chase autopay failure
+🟠 Andrew Nielson — Island Park ACH at Zions (801-376-3456)
+🟠 Kamalesh Jha — Rez Gap Plus fund reply
 🟠 Ella Ray + Justin + Paul — 1-hour alignment call
-🟠 Jeramy Ennis referral — convert to 0.5% retroactive April 1
+🟠 Reginald Brown — Cobblestone EMD resend
+🟠 Jeramy Ennis — 0.5% retroactive April 1
+🟠 Zach Larson — meet in person
+🟠 OC Semesters Instructor — apply
+🟠 Ella Ray — Orbit Challenge Planet for TF
+🟠 Surplus Recovery (North Peak Recovery)
+🟠 Jaden & Heather — deals below threshold
+🟠 EMD contract — double-release protection
+🟠 Anne-Marie — Tallahassee airport project
+🟠 Alaska fishing trip — David Lisi, Sept 6-10
+🟠 Dave Lisi — $7.5M Alaska fishing lodge deal
+🟠 Community restructure
 🟠 Emma — doctor sign-off for Africa trip
-🟠 Cameron Alvey (KeyBank) — wire pricing decision
-🟠 Akemi — check on her work situation
-🟠 Skool community (TxFHub) — finish & launch
-🟠 Dad's taxes — finish filing
-🟠 RezGap Plus Fund — set up electronic sub docs
-🟡 EOS: Start V/TO (due 6/15)
-🟡 EOS: Investor Lifecycle 20% doc (OVERDUE — was 5/30)
-🟡 EOS: Community Lifecycle 20% doc (OVERDUE — was 5/30)
+🟠 Cameron Alvey (KeyBank) — wire pricing
+🟠 Akemi — work situation
+🟡 EOS Phase 2 — Issues List
+🟡 EOS: Investor Lifecycle doc (OVERDUE 5/30)
+🟡 EOS: Community Lifecycle doc (OVERDUE 5/30)
+🟡 EOS: V/TO draft (due June 15)
+🟡 URA — retrieve scanned mail
+🟡 Owen Meacham — master Claude scripts
+🟡 Roz — routing control setup
+🟡 BD email template
+🟡 Schedule date with Akemi
+🟡 Schedule appointment with Susan Byerly
+🟡 Lose 12 lbs — track workouts 5x/week
 
 ## Today's Schedule
-• Morning — Garden Road notarization (hard deadline)
-• Business hours — 3D Capital lien release sign-off
-• Today — EOS Phase 1 with Justin
-• 7:00–8:00 PM — YM/YW Activity (Family Calendar)
+All day — Open desk (no fixed calendar events)
+ASAP — Garden Road notarization (carry-forward)
+ASAP — 3D Capital lien release (carry-forward)
 
 ## Email Action Items
-• URGENT Maeda Chase autopay failure — 3 consecutive failures (5/29, 5/30, 6/1)
-• URGENT Andrew Nielson — Island Park ACH at Zions Bank (call 801-376-3456)
-• ACTION Cameron Alvey (KeyBank) — wire pricing decision pending
-• ACTION Wyoming LLC — North Peak Recovery State Filing Notice
-• ACTION Kamalesh Jha — Rez Gap Plus fund thread (personal reply)
-• ACTION Jessica Lamont / Pillowfort — Garden Rd docs review
+🔴 Maeda Chase autopay failure — 3 consecutive failures — fix recurring payment
+🔴 Andrew Nielson — Island Park ACH at Zions — call 801-376-3456
+🟠 Cameron Alvey (KeyBank) — wire pricing decision
+🟠 Wyoming LLC — North Peak Recovery State Filing Notice
+
+## Pipeline — COD 6/1 Confirmed
+• 520 Old Cobblestone Dr, Atlanta GA — $20K EMD — In Progress
+• 1551 Bears Den Way, Sevierville TN — $271K — Active TF
+• Tulsa TF Cluster (6 deals) — $80K–$87K each — Active
+• 701 S Garfield Ave, Monterey Park CA — TBD — Active
+• ✅ 2624 Trumble Creek Rd, Kalispell MT — $209K — CLOSED 6/1
