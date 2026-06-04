@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-03 — Afternoon transcript review — +4 items from 4 new substantive Plaud transcripts (RQF scorecard fix, 506(b)/PML accounting, intercompany wire rules)**
+**Last updated: 2026-06-04 — Morning transcript review — +6 items from 2 new transcripts (North Peak Recovery onboarding, SubTo community meeting)**
 
 ---
 
@@ -273,6 +273,10 @@
 | **Fix RQF scorecard 4-week & 12-week average calculation** — must EXCLUDE current week. Recent submissions 23/15/23/19 returning impossible 15.3 four-week avg. Same fix needed for 12-week metric. GitHub site + subsidiary site. | This week | Plaud — 06-03 Zero Down Q&A (Paul flagged at top of call) | 🟡 | ⬜ |
 | **Bookkeeping rule: intercompany wires (Brown Polacca ↔ RQF, etc.) carry NO class** — class fields (GAP/EMD/Stack) are deal-funding-only, not internal cash moves. Document in QBO maintenance SOP so AI bookkeeper mirrors going forward. | This week | Plaud — 06-02 Relay fraud-alert call (Paul's note at end of recording) | 🟡 | ⬜ |
 | **Pre-notify Relay for large intercompany wires ($380k+)** — false-positive fraud holds on Brown Polacca → Chase/RQF transfers cost manual verification time. Ask Relay if there's a whitelist or note-in-advance option for recurring internal moves. | When possible | Plaud — 06-02 Relay fraud-alert call ($380k internal wire flagged) | 🟢 | ⬜ |
+| **Attend North Peak Recovery first onboarding call with Matt's surplus funds team** — June 4 at 4 PM ET; get login to surplusfundssecrets.com (pw: surplus funds pass) + Pumble community | 2026-06-04 | Plaud — 06-03 North Peak Recovery onboarding; paid $5K for program incl 6 coaching sessions, verified leads, nationwide legal docs; individual logins for Paul + Kiefer | 🔴 | ⬜ |
+| **Fix scorecard calculation: exclude current week from 4-week and 12-week rolling averages** — affects both main GitHub dashboard site and subsidiary site | This week | Plaud — 06-03 ZeroDown/SubTo weekly call; Paul flagged directly: 4-wk avg = prior 4 wks, 12-wk = prior 12 wks, not including current week | 🟡 | ⬜ |
+| **Evaluate Follow Up Boss to replace Zoho CRM for North Peak Recovery** — confirm API compatibility with Make/n8n/Composio before switching | This week | Plaud — 06-03 North Peak onboarding; need automation-ready CRM to minimize headcount; Matt's team uses Make integrations | 🟡 | ⬜ |
+| **Define North Peak Recovery deal pipeline** — select initial target states from Matt's verified lead inventory (Ohio, Delaware, Maryland, Florida, Texas); set up for fast first deal vs. waiting for Utah/Idaho curation | This week | Plaud — 06-03 North Peak onboarding; Matt has ~60 cases in Texas; lead-first approach to get first claimant signed quickly | 🟡 | ⬜ |
 
 ---
 
@@ -331,6 +335,8 @@
 | **Plan Japan trip with Akemi** — target after school-year start (daughter coverage gap is the blocker); Tokyo summers miserable, prefer Hokkaido/Sapporo; long-term aim to spend half-year there once daughter is out | TBD | 05-28 Roz call — Akemi pushing; coverage logistics outstanding | 🟢 | ⬜ |
 | **Attend Pace Morby RV Park breakdown webinar (4 parks: 2 MT seasonal + 2 TX worker camps)** — open to OC/Sub2/Gator/TC/Zero Down; Pace highlighting OC RV park owners and driving lead/capital flow to OC | 2026-06-01 3PM | 05-29 Pace RV Park Initiative lecture — kickoff of 2-yr RV park dominance program with weekly OC underwriting, content cascading down to Sub2/Zero Down/YouTube | 🔴 | ⬜ |
 | **Contact marketplace health insurance issuer directly re: refund for canceled policy (fraudulent broker enrollment)** — multiple payments made; refunds processed via plan issuer, not marketplace | This week | 05-29 marketplace call — discovered policy was canceled before start due to fraudulent enrollment by agent/broker; Paul received insurance card despite cancellation; covered by employer plan now | 🔴 | ⬜ |
+| **Watch for RV Parks Zero to Hero event email** — event moved to Tempe, AZ (fly into PHX), new dates Aug 24–27, 2026; email from media@pacemorby.com coming week of June 8 | 2026-06-08 | Plaud — 06-03 SubTo/ZeroDown weekly meeting; date/location change may open waitlist spots; possible live-stream | 🟢 | ⬜ |
+| **Watch for Gator community sprint announcement** — starting mid-to-late June; monitor Pace's social media + newsletter for official start date and quiz link | Mid-June | Plaud — 06-03 SubTo/ZeroDown weekly meeting; sprint tailored to Gator lender roles | 🟢 | ⬜ |
 ---
 
 ## ⏳ Waiting On
