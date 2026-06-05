@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-05 — Morning transcript review — +9 items from 7 new transcripts (North Peak Recovery launch, scorecard fix, QBO rules)**
+**Last updated: 2026-06-05 — Afternoon transcript review — +4 items from 1 new transcript (06-04 community drip / nurturing email campaign: test + launch plan)**
 
 ---
 
@@ -138,6 +138,7 @@
 | **Route select DSCR deals to Josh Trujillo** (alongside Jeremy) to balance volume when Jeremy is overloaded — Josh gives conservative timelines and quick no; does not do RV parks | Ongoing | 05-29 Plaud — Paul + Rochelle DSCR broker discussion; Josh is engineer-style vs Jeremy's sales-style; 50bps referral fee already agreed | 🟡 | ⬜ |
 | **LandWise Fund / DirtFunder.com** — follow up on advisor/partner role commitments; confirm forward-facing presence on website; define specific contribution expectations with Cam Burnett and John LeClaire | This week | 05-20 Plaud — Paul joined as advisor/partner; Pearson Equity Group (Paul's entity?) committed exclusively to debt fund; fund has ~$4.5M originated, ~50 loans, 0 defaults; product: 2% origination + 2%/month | 🟡 | ⬜ |
 | **Set up WhatsApp group with Matt + Avo** (Matt's surplus funds team) for North Peak Recovery — Avo handles tech/portal questions; Matt for deal strategy; share phone numbers to establish direct comm channel | ASAP | Plaud — 2026-06-03 NP Recovery onboarding; Avo sent his number during call | 🟡 | ⬜ |
+| **Share Google Drive folder of first 3–4 sample nurturing emails with premium test volunteers for feedback** + send meeting recording/link to volunteers who couldn't attend (Alex, Cheryl, others) | By 2026-06-07 | Plaud — 06-04 Email Campaign Test & Launch Plan meeting | 🟡 | ⬜ |
 
 ---
 
@@ -187,6 +188,8 @@
 | **North Peak Recovery: Complete portal setup** — log into surplusfundssecrets.com (credentials sent to admin@northpeakrecovery.com); join Pumble community; review turnkey packet, SOPs, and training videos before second call with Matt | ASAP | Plaud — 2026-06-03 onboarding call with Matt (surplus funds); $5K paid; first call was June 4 | 🔴 | ⬜ |
 | **North Peak Recovery: Select initial state(s) + request free verified lead list** — recommend Ohio (easy research) or Delaware (fast payouts, only 3 counties); Matt providing a free verified list as part of $5K package; avoid Texas initially (strict deceased-owner rules) | ASAP | Plaud — 2026-06-03 NP Recovery onboarding | 🔴 | ⬜ |
 | North Peak Recovery: Build claimant outreach script using Matt's templates — overcome "scam" perception with facts + Robin Hood framing; run mock calls with Kiefer to refine before live outreach | By end of June | Plaud — 2026-06-03 NP Recovery onboarding | 🟡 | ⬜ |
+| **Enable drip option in premium white-label accounts + finalize ~16 nurturing email templates & sequence order** before test day | By 2026-06-07 | Plaud — 06-04 Email Campaign Test & Launch Plan meeting | 🔴 | ⬜ |
+| **Run controlled drip-campaign test (Mon 6/8)** — testers add 3–5 real non-client contacts across varied email domains; cadence +1hr then every 2hrs to exercise first 4–5 emails; verify reply routing + deliverability; set go/no-go criteria | 2026-06-08 | Plaud — 06-04 Email Campaign Test & Launch Plan meeting | 🟡 | ⬜ |
 
 ---
 
@@ -310,6 +313,7 @@
 | **Push white-label benefit more deliberately in classroom Start Here box** — multiple touchpoints + premium links; today's call confirmed members don't know white-label exists | Tie to classroom restructure launch | 05-28 Roz call | 🟡 | ⬜ |
 | **Continue direct capital-raise outreach to 3–4 named contacts** — note: licensed advisors generally can't recommend private placements, so direct-rich network building is the only viable path. ~$50K rotated through fund so far | Ongoing | 05-28 ops — emphasis on protecting Paul's time for relationship building | 🟡 | ⬜ |
 | **Follow up on Gator fireside chat conversions** (~$500/member) — Impact.com referral account issue now resolved; ~$5K in pending referral fees should process; check if Gator team plans to continue monthly webinars | This week | 05-28 Plaud — Impact.com had EIN/bank account name mismatch, now fixed; 30–36 attendees per webinar, 1–2 convert; Paul earns $500 and keeps $50, refers $450; April Jeremy referrals: $21K | 🟡 | ⬜ |
+| **Launch community-wide drip / nurturing email campaign to all premium members** — ~16-template sequence sent via each member's white-label; replies route to the member who added the contact; aggregate open/click stats drive iteration. Contingent on successful Mon 6/8 test | By 2026-06-12 | Plaud — 06-04 Email Campaign Test & Launch Plan meeting | 🔴 | ⬜ |
 ---
 
 ## 🏃 Personal / Standards
