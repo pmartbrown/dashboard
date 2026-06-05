@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-04 — Morning transcript review — +6 items from 2 new transcripts (North Peak Recovery onboarding, SubTo community meeting)**
+**Last updated: 2026-06-05 — Morning transcript review — +9 items from 7 new transcripts (North Peak Recovery launch, scorecard fix, QBO rules)**
 
 ---
 
@@ -137,6 +137,8 @@
 | **Contact insurance marketplace/company to recover payments** for fraudulently enrolled health plan (broker enrolled without consent; plan was canceled before start; payments were made and a card was issued) | This week | 05-29 Plaud — Marketplace confirmed plan was canceled due to agent/broker fraud; call insurance company directly for refund | 🟡 | ⬜ |
 | **Route select DSCR deals to Josh Trujillo** (alongside Jeremy) to balance volume when Jeremy is overloaded — Josh gives conservative timelines and quick no; does not do RV parks | Ongoing | 05-29 Plaud — Paul + Rochelle DSCR broker discussion; Josh is engineer-style vs Jeremy's sales-style; 50bps referral fee already agreed | 🟡 | ⬜ |
 | **LandWise Fund / DirtFunder.com** — follow up on advisor/partner role commitments; confirm forward-facing presence on website; define specific contribution expectations with Cam Burnett and John LeClaire | This week | 05-20 Plaud — Paul joined as advisor/partner; Pearson Equity Group (Paul's entity?) committed exclusively to debt fund; fund has ~$4.5M originated, ~50 loans, 0 defaults; product: 2% origination + 2%/month | 🟡 | ⬜ |
+| **Set up WhatsApp group with Matt + Avo** (Matt's surplus funds team) for North Peak Recovery — Avo handles tech/portal questions; Matt for deal strategy; share phone numbers to establish direct comm channel | ASAP | Plaud — 2026-06-03 NP Recovery onboarding; Avo sent his number during call | 🟡 | ⬜ |
+
 ---
 
 ## 🏗️ Projects — Build
@@ -182,6 +184,10 @@
 | **Roz — build submission routing control** for RQF white label: button/dropdown to select which team member receives a submitted deal; set Josh (Trakalo) as default shortcut in interim | This week | 05-29 Plaud — Paul + Josh Trakalo call; white label auto-routes per rules; realquickfunds.com routes to CRM for manual assignment; interim fix: have clients write Manuela and note it's coming | 🟡 | ⬜ |
 | **Restructure RQF community (School)** — introduce $8–9/month entry fee to shrink to focused group; revamp 'Start Here' section to deliberately promote white-label/premium offering multiple times with links | This month | 05-28 Plaud — burnout conversation with Roz; members not finding premium because it's not surfaced; Ryan's competing offering now at $4,800/year; referral income from Jeremy: $21K in April (50bps + referrers get 40bps) | 🟡 | ⬜ |
 | **Create standardized BD outbound email template** for RQF/Pinecone Capital: 'We run an escrow-protected private credit fund and recovery business'; include lending box, buy box (multifamily 15+ units, RV/MHP 40+ pads), investor CTA (~12% yield) | This week | 05-22 Plaud — formalizing outbound BD procedures; modular sections so BD can swap per inquiry; also personal expense reimbursement process: book 15–20 items as 'Due to Owner,' offset with single lump-sum payment from RQF | 🟡 | ⬜ |
+| **North Peak Recovery: Complete portal setup** — log into surplusfundssecrets.com (credentials sent to admin@northpeakrecovery.com); join Pumble community; review turnkey packet, SOPs, and training videos before second call with Matt | ASAP | Plaud — 2026-06-03 onboarding call with Matt (surplus funds); $5K paid; first call was June 4 | 🔴 | ⬜ |
+| **North Peak Recovery: Select initial state(s) + request free verified lead list** — recommend Ohio (easy research) or Delaware (fast payouts, only 3 counties); Matt providing a free verified list as part of $5K package; avoid Texas initially (strict deceased-owner rules) | ASAP | Plaud — 2026-06-03 NP Recovery onboarding | 🔴 | ⬜ |
+| North Peak Recovery: Build claimant outreach script using Matt's templates — overcome "scam" perception with facts + Robin Hood framing; run mock calls with Kiefer to refine before live outreach | By end of June | Plaud — 2026-06-03 NP Recovery onboarding | 🟡 | ⬜ |
+
 ---
 
 ## ⚙️ Systems / AI
@@ -278,6 +284,11 @@
 | **Evaluate Follow Up Boss to replace Zoho CRM for North Peak Recovery** — confirm API compatibility with Make/n8n/Composio before switching | This week | Plaud — 06-03 North Peak onboarding; need automation-ready CRM to minimize headcount; Matt's team uses Make integrations | 🟡 | ⬜ |
 | **Define North Peak Recovery deal pipeline** — select initial target states from Matt's verified lead inventory (Ohio, Delaware, Maryland, Florida, Texas); set up for fast first deal vs. waiting for Utah/Idaho curation | This week | Plaud — 06-03 North Peak onboarding; Matt has ~60 cases in Texas; lead-first approach to get first claimant signed quickly | 🟡 | ⬜ |
 
+| **Fix GitHub dashboard scorecard calculation** — 4-week and 12-week rolling averages must EXCLUDE the current week; use only the preceding 4 or 12 completed weeks. Paul flagged live with data: 23/15/23/19 yields implausible 15.3 avg | This week | Plaud — 2026-06-03 Zero Down community session | 🟡 | ⬜ |
+| **QBO bookkeeping rule: intercompany wires have NO class** — BPA ↔ RQF ↔ own-account capital movements do not get a QBO class; class = deal type (EMD/Stack/Gap) only, not applicable to internal transfers | ASAP | Plaud — 2026-06-02 Relay verification call; Paul added note at end of recording | 🟢 | ⬜ |
+| Evaluate **Follow Up Boss CRM** for North Peak Recovery — Matt's team uses FUB 3+ years; confirmed API access; likely Composio-compatible (confirmed via Make); assess vs Zoho for surplus funds pipeline | This week | Plaud — 2026-06-03 North Peak Recovery onboarding call | 🟡 | ⬜ |
+| Set up QBO accounting structure for **Pinecone Capital → RQF investment**: 506(b) fund invests in lending biz account; 1-year minimum hold; quarterly distributions back to fund — confirm correct journal entry treatment | This week | Plaud — 2026-06-02 accounting query recording | 🟡 | ⬜ |
+
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -356,6 +367,8 @@
 | **Rochelle Lame — send Buena Vista cabin deal package to admin@rqf cc Justin** so Paul/Justin can give rapid yes/no on $1.3M short-term bridge | ASAP | 05-29 call — confirmed she'd email same-day | 🔴 | ⬜ |
 | **Kate Nielsen — pull insurance declaration page for Yellowstone Lookout Lodge (Island Park)** — verify STR coverage adequacy; Shane/Ted should have policy | Early next week | 05-22 Kate call — STR claim-denial risk if policy not appropriate | 🟡 | ⬜ |
 | **Bookkeeper — document standard categorization treatment of recurring 'school deposits'** so AI can mirror it going forward | This week | 05-22 ops dictation | 🟢 | ⬜ |
+| **North Peak Recovery: Free verified lead list from Matt's team** (Ohio or Delaware) — to be delivered after June 4 onboarding call; follow up if not received by June 10 | By June 10 | Plaud — 2026-06-03 NP Recovery onboarding; included in $5K package | 🟡 | ⬜ |
+
 ---
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Afternoon run 2026-06-03: 5 new transcripts processed, 4 action items added; 1 fraud-alert call recorded as no-action (resolved on call).*
 
