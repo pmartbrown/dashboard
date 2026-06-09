@@ -1,76 +1,91 @@
-# Morning Briefing — Monday, June 8, 2026
+# Morning Briefing — Tuesday, June 9, 2026
 
 ## The One Thing
-Call Naohiro Mouri — get the subdoc signed and funds moving today (3D Capital → RezGap Plus portal · $50K → $150K · 2.5% → 7.5%)
+Call Naohiro Mouri — schedule it this morning, get the subdoc signed, and start the 3D Capital → RezGap Plus fund move today.
 
 ## Top 3 Priorities
-1. Naohiro Mouri — subdoc signed + funds in (do it before noon)
-2. EOS Phase 1 — alignment call with Justin (OVERDUE 7+ days — text him now)
-3. Skool/TxFHub — Email Campaign Test Day 1 TODAY (launch target June 12-13)
+1. Naohiro Mouri — subdoc signed + funds moving (#31)
+2. EOS V/TO draft — START TODAY, due June 15 (6 days) (#53)
+3. Dad's house — schedule 3 CMA agents NOW (OVERDUE 13 days) (#79)
 
 ## Fund Status
-$50,000 · $2,000,000 target · 2.5% | Paul Brown: ✅ $50K invested · Naohiro Mouri: ⏳ ~$100K SUBDOC OUTSTANDING
-⚠️ Capital Raising Tracker stale 14 days (last updated 2026-05-25)
+$50,000 · $2,000,000 target · 2.5% · LP: Paul Brown $50K ✅, Mouri ~$100K ⏳ SUBDOC OUTSTANDING
+⚠️ Tracker stale (15 days since 2026-05-25)
 
 ## Follow-Ups & Open Loops
 
 ### 💰 Capital Raising
-🔴 Naohiro Mouri — subdoc + fund move (3D Capital → RezGap Plus) · #31
-🟠 Naohiro Mouri — referrals (after subdoc closes) · #32
+🔴 Mouri — subdoc + fund move · ASAP · #31
+🟠 Mouri — referrals (after subdoc closes) · #32
 🟠 Dylan Stewart — capital partners follow-up · #34
-🟠 Ed / Don Davis — capital partner intro follow-up · #35
-🟠 Norm — confirm dates + seller carry amounts · #36
+🟠 Ed / Don Davis — capital intro follow-up · #35
+🟠 Norm — confirm dates + seller carry · #36
 🟠 Tauna Ellis → Marquee intro · #2
-🟠 RezGap Plus Fund — electronic sub docs setup · #29
+🟠 RezGap Plus — electronic sub docs setup · #29
 
-### 🏢 Business / Deals / Ops
-🔴 Fraudulent $50K — file police report + DA escalation · #77
-🔴 Marty deal — investigate both loans (position + title insurance) · #83
-🔴 EOS Phase 1 — alignment call with Justin (OVERDUE 7+ days) · #45
-🔴 EOS V/TO draft — due June 15 (7 days) · #53
+### 🏢 Business / Ops
+🔴 EOS V/TO draft — DUE JUNE 15 · #53
+🔴 Fraudulent $50K — police report + DA · #77
+🔴 Marty deal — investigate both loans · #83
+🔴 EOS Phase 1 — Justin alignment call (OVERDUE 7+ days) · #45
+🟠 EOS Phase 3 — First L10 meeting · #49 #50
 🟠 EOS Phase 2 — Scorecard + Accountability Chart · #46
-🟠 EOS Phase 2 — Q2 Rocks (due June 30) · #47
+🟠 EOS Phase 2 — Q2 Rocks (June 30) · #47
 🟠 EOS Phase 2 — Issues List · #48
+🟠 EOS Investor Lifecycle doc (OVERDUE 5/30) · #51
+🟠 EOS Community Lifecycle doc (OVERDUE 5/30) · #52
 🟠 Ella Ray + Justin + Paul — alignment call · #82
-🟠 OC Semesters — Apply as Instructor/Guest Speaker · #40
+🟠 OC Semesters — Apply as Instructor · #40
 🟠 Ella Ray — Orbit Challenge Planet for TF · #41
-🟠 Jaden & Heather (Pace's team) — below-threshold deals · #63
+🟠 Jaden & Heather — below-threshold Pace deals · #63
 🟠 EMD contract — double-release protection · #64
-🟠 Alaska fishing trip — David Lisi, Sept 6-10 · #54
-🟠 Dave Lisi — $7.5M Alaska fishing lodge deal · #55
+🟠 Anne-Marie — Tallahassee airport project · #56
+🟠 Alaska fishing trip — David Lisi Sept 6-10 · #54
+🟠 Dave Lisi — $7.5M fishing lodge deal · #55
 🟠 Pace Morby 1:1 follow-up · #8
-🟠 Bruce Williams (Rescu Equity) — surplus collaboration · #38
 🟠 Zach Larson — meet in person · #75
-🟠 Jeramy Ennis — convert referral to 0.5% retroactive April 1 · #76
+🟠 Jeramy Ennis — referral agreement 0.5% retroactive Apr 1 · #76
 🟠 URA — retrieve scanned mail · #44
-🟠 Check Steven's text — two health ideas · #86
-🟡 Skool (TxFHub) — finish & launch (email test June 8-9, launch June 12-13) · #25
-🟡 Watch Pace Morby OC Retreat capital recording · #61
-🟡 Owen Meacham — Claude master system prompts · #57
+🟠 Check Steven's text — two health ideas (overdue June 2) · #86
+🟠 North Peak Recovery — portal + states + scripts
+🟠 Bruce Williams (Rescu Equity) — surplus collab · #38
+🟠 Mundo — software + Morby method · #62
+🟡 Skool (TxFHub) — email test Day 2 today · #25
+🟡 Pace OC Retreat capital recording — check if posted · #61
+🟡 Owen Meacham — Claude system prompts · #57
+🟡 Island Park trip Thu June 12 · #87
 
 ### 🔑 Personal / Finance
-🔴 Dad's house — schedule 3 agents for CMA (OVERDUE 5/27) · #79
-🔴 All sisters — Dad's expense lists (OVERDUE 5/27) · #80
-🔴 Paul & Akemi — own expense list for Dad (OVERDUE 5/27) · #81
+🔴 Dad's house — 3 agents CMA (OVERDUE 13 days) · #79
+🔴 All sisters — Dad expense lists (OVERDUE) · #80
+🔴 Paul & Akemi — own Dad expense list (OVERDUE) · #81
 🔴 Dad's life insurance — connect with Pipe · #37
-🟠 Emma — doctor sign-off for Africa trip · #84
-🟠 Akemi — check on her work situation · #69
+🟠 Emma — doctor sign-off Africa trip · #84
+🟠 Akemi — check work situation · #69
 🟡 Schedule date with Akemi · #12
+🟡 Noa's FAFSA (~July 2026) · #14
 
 ### 📚 Build / Create
 🟠 Dad's taxes — finish filing · #26
-🟠 North Peak Recovery — portal setup + state selection + outreach scripts
-🟡 EMD cancel/return alert tool · #23
+🟠 Surplus Recovery — discuss with Kiefer for orbit/challenge · #42
+🟡 EMD alert tool · #23 | Cryo website · #27 | Jordan Davis AI · #28
 
 ### ❤️ Health
-🟠 Schedule appointment with Susan Byerly (OVERDUE 4/10) · #18
+🟠 Susan Byerly appointment (OVERDUE 4/10) · #18
 🟠 Lose 12 lbs — 5x workouts/week
 
+### ⚙️ Systems / AI
+🟡 Update briefing skills (mindset prompt) · #59
+🟡 Property mortgage tracking · #19
+🟡 Capital planning tool · #22
+🟡 Social media engagement research · #24
+
 ## Today's Schedule
-- All Day — First full desk day back in Lehi, UT
-- Morning — Email campaign test Day 1 (TxFHub / Skool)
-- Today — Mouri call · EOS Phase 1 call with Justin · Police report ($50K fraud)
-- 7-8 PM — Owner's Club homework (Daily Non-Negotiable)
+No calendar events — open desk day
+Email campaign test Day 2 (TxFHub/Skool) ongoing
 
 ## Email Action Items
-No EOD report available (outside connected folder) — check inboxes directly for overnight items not yet in Master Todo.
+EOD report outside connected folder — not read this run
+
+## Pipeline
+No deals flagged for funding this week — check with Justin & Manoela (strict rule applied)
