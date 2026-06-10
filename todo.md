@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-07 — Afternoon transcript review — +31 items from 8 new transcripts (RQF L10, hotel EMD deal, North Peak surplus-funds onboarding + legal foreclosure cases, BD/legal review, Paul podcast interview, Mike Davis AI call)**
+**Last updated: 2026-06-10 — Morning transcript review — +34 items from 9 new transcripts (RQF L10, hotel EMD, North Peak surplus-funds onboarding, troubled assets foreclosures, strategic BD, AI dev, podcast, casual convo, Pod 22)**
 
 ---
 
@@ -53,6 +53,12 @@
 | **Pay $5,000 Stripe program fee — North Peak surplus-funds recovery onboarding** (invoice to admin@northpeakrecovery.com) | ASAP | Plaud 06-03 North Peak onboarding | 🔴 | ⬜ |
 | **Pursue fund relationships to lower double-close cost of capital** | Ongoing | Plaud 06-05 BD review | 🟡 | ⬜ |
 
+| **Contact Shannon Farrell at Chicago Title (Charlotte, NC)** re: secure escrow for EMD on hotel deal (~$40-45M); need full control of funds without seller interference | ASAP | Plaud — 06-03 pre-foreclosure meeting; hotel deal Tyler/Stacey; CBRE appraisal ~2 wks; seller owes $24M | 🔴 | |
+| **Contact Jeff Rogers at Smith Debnam Law** to begin Jyoti Patel foreclosure (Charlotte, Cross Ridge Road; $55k loan; 3D Capital; $90k Paul + $50k partner exposed) | ASAP | Plaud — 06-03 troubled assets; previous attorney incorrect that bankruptcy blocked foreclosure | 🔴 | |
+| **Proceed with Awadallah foreclosure** (113 Northwestern Street, Fountain Inn SC); attorney needs current appraisal; Prominent Lending $300k senior mortgage not released | ASAP | Plaud — 06-03 troubled assets review | 🔴 | |
+| **Follow up on Garden Road** — potential $70k capital return (cognovit note); return ~$30k to Fernando Mendoza promptly when received | ASAP | Plaud — 06-04 L10 meeting | 🟡 | |
+| **Capital raise Q2 target: $500K by end of June**; initiate monthly W-2 distributions from retained earnings | 2026-06-30 | Plaud — 06-04 L10 meeting; full $1M Q2 target off pace | 🟡 | |
+| **Follow up with Marty (Schneider case)** — get purchase contract for refinery project to gauge viability or "dead in the water" | ASAP | Plaud — 06-03 troubled assets; asset research yielded very little; loan control/security needs attorney review | 🟡 | |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -153,6 +159,9 @@
 | **Schneider file — send update email + resolve 2nd-position lien & insurance issue** | This week | Plaud 06-03 troubled-assets review | 🟡 | ⬜ |
 | **Schedule podcast discovery call** — podcast team's AI to analyze Paul's business; plan episode 2 | When clips delivered | Plaud 06-03 Paul interview | 🟢 | ⬜ |
 
+| **Re-engage 5+ former colleagues (professionals 55+)** using Brian's reconnection framework — relationship-first, no RE pitch on first touch; compact pitch about growing money without being a landlord | This week | Plaud — 06-05 strategic business dev; Brian's methodology for capital raising | 🟡 | |
+| **Follow up with Lee Pierrot** (podcast "My Real Estate Story") — await long-form recording + short clips for redistribution on own channels | When received | Plaud — 06-03 podcast interview | 🟢 | |
+| **Connect with Nick Moyos** (Mike Davis AI community side chat) about AI for surplus funds recovery | This week | Plaud — 06-03 AI dev session; Mike Davis referenced him for surplus AI | 🟢 | |
 ---
 
 ## 🏗️ Projects — Build
@@ -208,6 +217,16 @@
 | **Stand up pre-foreclosure acquisition line** — define door-knocking pilot (UT/ID/MT: script, attire, metrics); build referral inlet ($1K/signed referral); review competitor portal; update operating agreement; separate bookkeeping for the two arms | Next few months | Plaud 06-03 partner strategy call | 🟡 | ⬜ |
 | **Assess standardized, formula-driven EMD recovery method for future cases** | Backlog | Plaud 06-05 legal case review | 🟢 | ⬜ |
 
+| **Design and test door-knocking pilot** for pre-foreclosure acquisitions (UT/ID/MT) — script, attire, metrics | This week | Plaud — 06-03 North Peak Recovery strategy meeting | 🟡 | |
+| **Draft referral inlet framework** — $1k per signed pre-foreclosure referral, payment options (now vs. later), signature requirements | This week | Plaud — 06-03 North Peak Recovery meeting | 🟡 | |
+| **Prepare documentation/packaging service outline** for complex sub-to cases (deliverables, pricing, timeline) | This week | Plaud — 06-03 meeting; client with $350k in messy sub-to loans | 🟡 | |
+| **Onboard Alana** — backfill Manuela, then shift to communications role | In progress | Plaud — 06-04 L10 meeting; rock is hired and onboarding underway | 🟡 | |
+| **Launch school nurturing campaign** | This week | Plaud — 06-04 L10 meeting; expected to launch ~06-11 | 🟡 | |
+| **Set up North Peak Recovery portal accounts** (Paul + Kiefer confirmed; create Janet's); review Turnkey Business Packet and training materials | ASAP | Plaud — 06-04 Surplus Funds onboarding; Abel confirmed accounts | 🟡 | |
+| **Decide target states for North Peak Recovery surplus funds**; get attorney contacts from Carl per state | This month | Plaud — 06-04 Surplus Funds onboarding | 🟡 | |
+| **Build North Peak Recovery CRM** for surplus funds case tracking (intake, verification, recovery monitoring) | This month | Plaud — 06-04 Surplus Funds onboarding | 🟡 | |
+| **Plan Justin full-time transition** — year-end timing | Year end | Plaud — 06-04 L10 meeting | 🟡 | |
+| **Finalize Tree Line MRCA consolidated agreement** (avoid one-off promissory notes) | ASAP | Plaud — 06-04 L10 meeting | 🟡 | |
 ---
 
 ## ⚙️ Systems / AI
@@ -318,6 +337,17 @@
 | **Evaluate broker's license pathway for compliant brokering as ops scale** | Backlog | Plaud 06-05 BD review | 🟢 | ⬜ |
 | **Enforce white-label referral protections — tag referred clients to original referrers across subsequent deals** | Ongoing | Plaud 06-05 BD review | 🟡 | ⬜ |
 
+| **Implement deal ownership in HubSpot CRM** for team visibility/accountability across all email threads | This week | Plaud — 06-04 L10; Manuela can't see emails without CC; HubSpot inbox cluttered | 🟡 | |
+| **Set and enforce response SLAs**: new submissions within 1 hour; post-initial comms within 4 hours; inter-team WhatsApp more urgent than email | ASAP | Plaud — 06-04 L10 meeting | 🟡 | |
+| **Fix DSCR routing** — implement form toggle (S/J) or mirrored /Josh pages so DSCR submissions route directly to Josh; Tim wants his DSCR deals split | ASAP | Plaud — 06-04 L10; Roz proposed solution | 🟡 | |
+| **Finalize standardized referral agreements** (non-circumvent, lifetime payments) — send to Justin for review; confirm Josh at 50 bps | This week | Plaud — 06-04 L10; Jeremy already at 50 bps | 🟡 | |
+| **Update North Peak Recovery operating agreement** to balance partner percentages | This month | Plaud — 06-03 pre-foreclosure meeting | 🟡 | |
+| **Set up bookkeeping to segregate North Peak Recovery cash flows** (collections arm vs. new acquisition arm); track intercompany loans | ASAP | Plaud — 06-03 meeting | 🟡 | |
+| **Research TLOxp access requirements** for North Peak Recovery skip tracing (compliance + specific business filings needed; SSN access requires more) | This week | Plaud — 06-04 Surplus Funds; TLOxp "night and day" better than free tools | 🟡 | |
+| **Evaluate Paxton.ai subscription** (~$2k/yr) for legal document QA | This month | Plaud — 06-09 Pod 22; offers to run queries for others | 🟢 | |
+| **Evaluate EOS/Stride tooling** ($13/user/month) for L10 agendas, rocks, milestones, to-dos | This month | Plaud — 06-04 L10; recommended by EOS implementer | 🟢 | |
+| **Connect QuickBooks directly to Claude's native connectors** (bypass Composio which always shows QB as down) | This week | Plaud — 06-03 AI dev session; Mike Davis recommended | 🟢 | |
+| **Subscribe to Carl's upstream API** for surplus funds lead queries when available (~2 weeks from 06-04) | ~2026-06-18 | Plaud — 06-04 Surplus Funds; 600-lead list ~$22M | 🟢 | |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -344,6 +374,8 @@
 | **Adopt Brian's reconnection model — text/call old contacts to re-engage, schedule value-first Zooms** | Ongoing | Plaud 06-05 BD review | 🟡 | ⬜ |
 | **Continue 1–2 meetups weekly to build pipeline (transactional lending, hard money, DSCR, credit)** | Ongoing | Plaud 06-05 BD review | 🟢 | ⬜ |
 | **Build nurturing campaigns with reply routing to referrers + referral fee tracking (DSCR 50 bps total / 40 bps referrer)** | This week | Plaud 06-05 BD review | 🟡 | ⬜ |
+| **Adopt Brian's reconnection methodology** for capital raising — relationship-first (no RE mention first touch); compact pitch: "make it simple for everyday people to grow money through RE without being a landlord"; target professionals 55+ (doctors, dentists) for 12% return | This week | Plaud — 06-05 strategic business dev; Brian reconnected with Jorge Zaya as model | 🟡 | |
+| **Redistribute podcast clips** on own channels after "My Real Estate Story" posts; await Lee's post-production | When received | Plaud — 06-03 podcast interview with Lee Pierrot | 🟢 | |
 ---
 
 ## 🏃 Personal / Standards
@@ -383,6 +415,7 @@
 | **Watch for RV Parks Zero to Hero event email** — event moved to Tempe, AZ (fly into PHX), new dates Aug 24–27, 2026; email from media@pacemorby.com coming week of June 8 | 2026-06-08 | Plaud — 06-03 SubTo/ZeroDown weekly meeting; date/location change may open waitlist spots; possible live-stream | 🟢 | ⬜ |
 | **Watch for Gator community sprint announcement** — starting mid-to-late June; monitor Pace's social media + newsletter for official start date and quiz link | Mid-June | Plaud — 06-03 SubTo/ZeroDown weekly meeting; sprint tailored to Gator lender roles | 🟢 | ⬜ |
 | **Attend Mike Davis's AI calls going forward** | Ongoing | Plaud 06-03 Mike Davis AI call — Paul found them helpful | 🟢 | ⬜ |
+| **Connect with Ron Cervi** (neighbor across Henry's Lake; GC from San Diego; cabin at Lakeview Estates/Red Rock) — exchange contact info, follow up next cabin visit | Next cabin visit | Plaud — 06-05 casual conversation Island Park | 🟢 | |
 ---
 
 ## ⏳ Waiting On
@@ -404,6 +437,7 @@
 | **Bookkeeper — document standard categorization treatment of recurring 'school deposits'** so AI can mirror it going forward | This week | 05-22 ops dictation | 🟢 | ⬜ |
 | **North Peak Recovery: Free verified lead list from Matt's team** (Ohio or Delaware) — to be delivered after June 4 onboarding call; follow up if not received by June 10 | By June 10 | Plaud — 2026-06-03 NP Recovery onboarding; included in $5K package | 🟡 | ⬜ |
 
+| **Text from Pod 22 member (Speaker 11)** with JV partnership question to run through Paxton.ai | When received | Plaud — 06-09 Pod 22 weekly meeting | 🟢 | |
 ---
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Afternoon run 2026-06-03: 5 new transcripts processed, 4 action items added; 1 fraud-alert call recorded as no-action (resolved on call).*
 
