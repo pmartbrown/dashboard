@@ -1,60 +1,65 @@
-# Morning Briefing — Thursday, June 11, 2026
+# Morning Briefing — Friday, June 12, 2026
 
 ## The One Thing
-Call Naohiro Mouri — close the subdoc today. You leave for Island Park tomorrow. One call moves the fund $50K → $150K (2.5% → 7.5%).
+Get EOS V/TO to 80% complete before the cabin window closes — Monday June 15 is the hard deadline.
 
 ## Top 3 Priorities
-1. Naohiro Mouri — subdoc signed + funds moving (call this morning) · #31
-2. EOS V/TO — HARD DEADLINE MONDAY JUNE 15 (4 days) · TODAY is last full desk day · Write it now · #53
-3. Island Park prep — pack today, leave tomorrow AM · Chainsaw, clippers, paint gear, curtains, shovel, level · #87
+1. EOS V/TO — write at cabin, due Monday June 15 (#53)
+2. Island Park tasks — cut branches, paint rail tops, rehang curtains, hot tub (#87)
+3. Mouri follow-up — subdoc + fund move if not done yesterday (#31)
 
 ## Fund Status
-$50,000 raised · $2,000,000 target · 2.5% · LPs: Paul Brown $50K ✅ · Mouri ~$100K ⏳ subdoc outstanding · ⚠️ Tracker stale 17 days
+$50,000 · $2,000,000 target · 2.5% · Paul Brown ($50K invested) · Mouri (~$100K subdoc outstanding — #1 priority) · ⚠️ Tracker stale 18 days
 
 ## Follow-Ups & Open Loops
-🔴 Mouri — subdoc + 3D Capital → RezGap Plus wire · #31
-🔴 EOS V/TO — DEADLINE MON JUN 15 · #53
-🔴 Fraudulent $50K — police report + DA escalation · #77
-🔴 Marty deal — lien position + title insurance · #83
-🔴 EOS Phase 1 — Justin alignment call (OVERDUE) · #45
-🔴 Dad's house — 3 CMA agents (14+ days overdue) · #79
-🔴 Sisters — Dad's expense lists (OVERDUE) · #80
-🔴 Paul & Akemi — own Dad expense list (OVERDUE) · #81
-🔴 Dad's life insurance — connect with Pipe · #37
-🔴 Dad's taxes — finish filing · #26
-🟠 Mouri — referrals (after subdoc) · #32
-🟠 RezGap Plus — electronic sub docs setup · #29
-🟠 Dylan Stewart — capital partners check-in · #34
-🟠 Ed / Don Davis — capital intro · #35
-🟠 Norm — confirm dates + seller carry · #36
-🟠 EOS Phase 2 — Scorecard + Acct Chart · #46
-🟠 EOS Q2 Rocks — due June 30 · #47
-🟠 EOS Investor Lifecycle doc (OVERDUE) · #51
-🟠 EOS Community Lifecycle doc (OVERDUE) · #52
-🟠 Ella Ray + Justin call · #82
-🟠 OC Semesters — apply as instructor · #40
-🟠 Jaden & Heather — below-threshold deals · #63
-🟠 URA mail retrieval · #44
-🟠 Check Steven's text (health ideas) · #86
-🟠 North Peak Recovery — portal + state selection + scripts
-🟠 Anne-Marie — Tallahassee airport project · #56
-🟠 Alaska trip — David Lisi Sept 6-10 · #54
-🟠 Dave Lisi — $7.5M fishing lodge deal · #55
-🟠 Emma — doctor sign-off Africa · #84
-🟠 Akemi — work situation check · #69
-🟠 Susan Byerly appt (OVERDUE since 4/10) · #18
-🟡 Skool (TxFHub) — finish & launch · #25
-🟡 Schedule date with Akemi · #12
+🔴 Naohiro Mouri — subdoc + fund move #31
+🔴 EOS V/TO — DEADLINE MON JUNE 15 #53
+🔴 Fraudulent $50K — police report + DA escalation #77
+🔴 Marty deal — investigate loans, lien position, title insurance #83
+🔴 EOS Phase 1 — Justin alignment call (OVERDUE) #45
+🔴 Dad's house — schedule 3 agents CMA (14+ days overdue) #79
+🔴 All sisters — Dad expense lists (OVERDUE) #80
+🔴 Paul & Akemi — own Dad expense list (OVERDUE) #81
+🔴 Dad's life insurance — connect with Pipe #37
+🔴 Dad's taxes — finish filing #26
+🟠 Mouri referrals (after subdoc) #32
+🟠 RezGap electronic sub docs #29
+🟠 Dylan Stewart capital follow-up #34
+🟠 Ed / Don Davis capital intro #35
+🟠 Norm — dates + seller carry amounts #36
+🟠 EOS Phase 2 — Scorecard + Accountability Chart #46
+🟠 EOS Phase 2 — Q2 Rocks (due June 30) #47
+🟠 EOS Phase 2 — Issues List #48
+🟠 EOS Phase 3 — First L10 meeting #49/#50
+🟠 EOS Investor Lifecycle doc (OVERDUE) #51
+🟠 EOS Community Lifecycle doc (OVERDUE) #52
+🟠 Ella Ray + Justin + Paul alignment call #82
+🟠 OC Semesters instructor application #40
+🟠 Ella Ray — Orbit Challenge TF planet #41
+🟠 North Peak Recovery — portal + states + scripts
+🟠 Jaden & Heather — below-threshold deals #63
+🟠 EMD contract double-release protection #64
+🟠 Anne-Marie — Tallahassee airport project #56
+🟠 Alaska trip — David Lisi Sept 6-10 #54
+🟠 Dave Lisi — $7.5M fishing lodge deal #55
+🟠 Pace Morby 1:1 follow-up #8
+🟠 Zach Larson — meet in person #75
+🟠 Jeramy Ennis referral agreement 0.5% #76
+🟠 URA scanned mail #44
+🟠 Emma — doctor sign-off Africa trip #84
+🟠 Akemi — work situation check #69
+🟠 Susan Byerly appt (OVERDUE 4/10) #18
+🟡 Schedule date with Akemi #12
+🟡 Skool launch #25
+⚠️ 34 action items from Jun 3-9 transcripts — PENDING Master Todo merge
 
 ## Today's Schedule
-10:40 AM — ⚡ Function Health lab at Quest (FASTING — water only)
-2:00 PM — EDGAR annual confirmation — Rez Gap Plus LP (CIK 0002068571)
-All morning — Mouri call + EOS V/TO writing
-Afternoon — Island Park packing
+All day — Island Park, ID (cabin)
+Morning — EOS V/TO writing (write FIRST before cabin tasks)
+During day — Cut branches · Repaint rail tops · Rehang curtains · Hot tub install
+As needed — Front door privacy solution · Mouri call
 
 ## Email Action Items
-🔴 URA physical mail — #16 #17 in admin@pineconegp.com — download + review
-🟠 EDGAR confirmation — do at 2 PM block today
-
----
-Generated: 2026-06-11 · Sources: Basic Memory, Google Calendar · ⚠️ Capital Raising Tracker stale (17 days)
+ACTION: 34 action items from Jun 3-9 transcripts pending Master Todo merge
+IMPORTANT: Brenda $100K — confirm late June repayment date
+OVERDUE: Dad estate tasks — agents, expense lists (#79-81)
