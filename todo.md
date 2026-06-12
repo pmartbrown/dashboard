@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-10 — Morning transcript review — +34 items from 9 new transcripts (RQF L10, hotel EMD, North Peak surplus-funds onboarding, troubled assets foreclosures, strategic BD, AI dev, podcast, casual convo, Pod 22)**
+**Last updated: 2026-06-12 — Morning transcript review — +14 items from 2 new transcripts (06-09 EMD/Lending meeting, 06-10 Sub2 community call)**
 
 ---
 
@@ -59,6 +59,9 @@
 | **Follow up on Garden Road** — potential $70k capital return (cognovit note); return ~$30k to Fernando Mendoza promptly when received | ASAP | Plaud — 06-04 L10 meeting | 🟡 | |
 | **Capital raise Q2 target: $500K by end of June**; initiate monthly W-2 distributions from retained earnings | 2026-06-30 | Plaud — 06-04 L10 meeting; full $1M Q2 target off pace | 🟡 | |
 | **Follow up with Marty (Schneider case)** — get purchase contract for refinery project to gauge viability or "dead in the water" | ASAP | Plaud — 06-03 troubled assets; asset research yielded very little; loan control/security needs attorney review | 🟡 | |
+| **Submit the four-property EMD deal details and required paperwork** before the June 15, 2026 deadline | 2026-06-15 | EMD Submissions & Timing - Paul handling $40k EMD for four-property portfolio | 🔴 | 🔲 |
+| **Submit any RV park opportunities** with detailed descriptions for team evaluation | This week | RV Park Lending - RV lending program development | 🟡 | 🔲 |
+| **Verify DSCR state coverage for Jeremy** to confirm all 50 states | ASAP | Lending Products - Jeremy state coverage not definitively confirmed | 🟡 | 🔲 |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -227,6 +230,8 @@
 | **Build North Peak Recovery CRM** for surplus funds case tracking (intake, verification, recovery monitoring) | This month | Plaud — 06-04 Surplus Funds onboarding | 🟡 | |
 | **Plan Justin full-time transition** — year-end timing | Year end | Plaud — 06-04 L10 meeting | 🟡 | |
 | **Finalize Tree Line MRCA consolidated agreement** (avoid one-off promissory notes) | ASAP | Plaud — 06-04 L10 meeting | 🟡 | |
+| **Add insertable white-label link to email templates** (CTA functionality) | ASAP | Drip Campaign - Missing CTA link in emails | 🔴 | 🔲 |
+| **Develop RV lending program parameters** (caps at $5-6M, underwriting criteria, submission requirements) | When possible | RV Park Lending - Program still in development | 🟡 | 🔲 |
 ---
 
 ## ⚙️ Systems / AI
@@ -348,6 +353,14 @@
 | **Evaluate EOS/Stride tooling** ($13/user/month) for L10 agendas, rocks, milestones, to-dos | This month | Plaud — 06-04 L10; recommended by EOS implementer | 🟢 | |
 | **Connect QuickBooks directly to Claude's native connectors** (bypass Composio which always shows QB as down) | This week | Plaud — 06-03 AI dev session; Mike Davis recommended | 🟢 | |
 | **Subscribe to Carl's upstream API** for surplus funds lead queries when available (~2 weeks from 06-04) | ~2026-06-18 | Plaud — 06-04 Surplus Funds; 600-lead list ~$22M | 🟢 | |
+| **Check and update the company name** in white-label settings | This week | Drip Campaign - All users must verify company name is correct | 🟢 | 🔲 |
+| **Investigate and resolve inconsistent email formatting (spacing issues)** in the drip campaign | This week | Drip Campaign Testing - Emails showing irregular spacing | 🟡 | 🔲 |
+| **Coordinate with tech team** to add ability for users to delete contacts from drip campaigns | ASAP | Drip Campaign - Deleting contacts identified as high priority | 🔴 | 🔲 |
+| **Identify root cause of drip system showing zero emails sent** for some enrollments | ASAP | Drip Campaign - Unresolved issue affecting campaign performance | 🔴 | 🔲 |
+| **Create plan to improve email deliverability** and reduce spam-folder placement | ASAP | Drip Campaign - Emails landing in spam is a risk | 🔴 | 🔲 |
+| **Update buy box profile** in the new Owners Club Kajabi directory (legacy Google Sheets replaced — verify listing is current) | This week | 06-10 Sub2/OC community call — Kajabi directory upgrade | 🟡 | 🔲 |
+| **Verify Gator Discord email** matches Sub2 login email to ensure directory cross-visibility access | When possible | 06-10 Sub2/OC community call — Gator Discord access requires matching emails | 🟢 | 🔲 |
+| **Access new community directories** in Kajabi: Sub2 → Resources → Directory; OC buy box visible there — note June 15 Top Tier TC revamp deadline | This week | 06-10 Sub2/OC community call — New directory paths replacing Google Sheets | 🟢 | 🔲 |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -416,6 +429,7 @@
 | **Watch for Gator community sprint announcement** — starting mid-to-late June; monitor Pace's social media + newsletter for official start date and quiz link | Mid-June | Plaud — 06-03 SubTo/ZeroDown weekly meeting; sprint tailored to Gator lender roles | 🟢 | ⬜ |
 | **Attend Mike Davis's AI calls going forward** | Ongoing | Plaud 06-03 Mike Davis AI call — Paul found them helpful | 🟢 | ⬜ |
 | **Connect with Ron Cervi** (neighbor across Henry's Lake; GC from San Diego; cabin at Lakeview Estates/Red Rock) — exchange contact info, follow up next cabin visit | Next cabin visit | Plaud — 06-05 casual conversation Island Park | 🟢 | |
+| **Document formal EMD funding policy** - refundable period only, post-refund 30-60 day fee window, cross-border risks | When possible | EMD Funding Policy - Formal documentation needed | 🟡 | 🔲 |
 ---
 
 ## ⏳ Waiting On
