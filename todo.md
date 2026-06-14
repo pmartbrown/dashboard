@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-12 — Morning transcript review — +14 items from 2 new transcripts (06-09 EMD/Lending meeting, 06-10 Sub2 community call)**
+**Last updated: 2026-06-14 — Morning transcript review — +32 items from 3 new transcripts (06-09 EMD/Lending, 06-09 RV Park/JV meeting, 06-04 L10 ops meeting)**
 
 ---
 
@@ -62,6 +62,11 @@
 | **Submit the four-property EMD deal details and required paperwork** before the June 15, 2026 deadline | 2026-06-15 | EMD Submissions & Timing - Paul handling $40k EMD for four-property portfolio | 🔴 | 🔲 |
 | **Submit any RV park opportunities** with detailed descriptions for team evaluation | This week | RV Park Lending - RV lending program development | 🟡 | 🔲 |
 | **Verify DSCR state coverage for Jeremy** to confirm all 50 states | ASAP | Lending Products - Jeremy state coverage not definitively confirmed | 🟡 | 🔲 |
+| **Submit the four‑property $40,000 EMD deal details and required paperwork** | 2026-06-15 | EMD Submissions & Timing – Paul is handling the $40k EMD for a four‑property portfolio due June 15 | 🔴 | ⬜ |
+| **Confirm the upper limit for hard‑money loan amounts (under $75k) and document it** | This week | AI Suggestions – Upper limit for hard‑money loan amounts unknown | 🟡 | ⬜ |
+| **Contact Adam to secure $200K–$300K for early-next-week funding and an additional ~$400K the following week** | This week | Capital needs outlined in Immediate Capital & Fraud Management section | 🔴 | ⬜ |
+| **Return $70,000 capital from Garden Road tomorrow as part of the $140,000 claim** | ASAP | Headliner update about capital return scheduled for next day | 🔴 | ⬜ |
+| **Return approximately $30,000 capital to Fernando Mendoza promptly** | ASAP | Commitment mentioned in operational updates to repay investor | 🟡 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -77,6 +82,7 @@
 | **Buena Vista Cabins (Ohio) bridge evaluation** — Rochelle Levi seeking ~$1.3M for ~1 month at 5–6%; 8 cabins (2/parcel); $1M already in escrow; refinancing with Jeremy DSCR | ASAP — time-sensitive | 05-29 Plaud — Rochelle call; deal details to be sent to admin@realquickfunds.com CC Justin; Justin to provide yes/no quickly | 🔴 | ⬜ |
 | **Ryan Medlock debt recovery (~$30–40K)** — file Notices of Interest (NOIs) on all his properties to disrupt his current closing; skip trace his property list first (IDI Core ~$500 or free via Speaker 3); inform Medlock of impending NOIs as leverage | ASAP | 05-20 Plaud — Medlock has been unresponsive ~1 yr; currently in new transaction per Christina tip; NOIs cost $11 + state fees each; goal: get paid on HUD at closing | 🔴 | ⬜ |
 
+| **Evaluate feasibility of funding the UK‑based double‑close scenario and provide a recommendation** | This month | Discussion – Paul raised a UK double‑close proposal; needs feasibility assessment | 🟢 | ⬜ |
 ---
 
 
@@ -165,6 +171,15 @@
 | **Re-engage 5+ former colleagues (professionals 55+)** using Brian's reconnection framework — relationship-first, no RE pitch on first touch; compact pitch about growing money without being a landlord | This week | Plaud — 06-05 strategic business dev; Brian's methodology for capital raising | 🟡 | |
 | **Follow up with Lee Pierrot** (podcast "My Real Estate Story") — await long-form recording + short clips for redistribution on own channels | When received | Plaud — 06-03 podcast interview | 🟢 | |
 | **Connect with Nick Moyos** (Mike Davis AI community side chat) about AI for surplus funds recovery | This week | Plaud — 06-03 AI dev session; Mike Davis referenced him for surplus AI | 🟢 | |
+| **Communicate to borrowers that EMD funding is limited to the refundable period and upfront fees are non‑refundable** | This week | Next Arrangements – Communicate clearly to borrowers about refundable‑period funding policy | 🟡 | ⬜ |
+| **Remind borrowers to monitor spam folders for Real Quick Funds emails and respond promptly with missing items** | This week | Next Arrangements – Ensure borrowers watch for Real Quick Funds emails and respond promptly | 🟡 | ⬜ |
+| **Perform a half‑hour of daily outreach consistently** | Daily | Next Arrangements – Perform a half‑hour of outreach every day consistently | 🟡 | ⬜ |
+| **Save Zoom chat transcripts from future “family” calls, run them through AI to identify prospects, and send BCC outreach emails** | This week | Next Arrangements – Save Zoom chat transcripts, use AI to filter for prospects, and send outreach emails | 🟡 | ⬜ |
+| **Clarify to borrowers that if a deal closes 30‑60 days after the refundable period ends, the HUD must include Real Quick Funds’ 20% fee** | This week | EMD Funding Policy – Need clear borrower communication about post‑refundable fee inclusion | 🟡 | ⬜ |
+| **Reinforce that Real Quick Funds does not fund non‑refundable EMDs and that upfront fees are non‑refundable** | This week | EMD Funding Policy – Borrower messaging about refundable vs non‑refundable periods | 🟡 | ⬜ |
+| **Provide attorney references in Hawaii and Texas to members who need state‑specific JV review** | ASAP | Paul said he could give references for attorneys in Hawaii and Texas when asked by other participants | 🔴 | ⬜ |
+| **Follow up with Kiefer on the $50,000 fraud case and file a police report if payment is not received** | ASAP | Fraud management action assigned to @Speaker 1 | 🔴 | ⬜ |
+| **Send three daily text follow-ups to the family-office contact until a response is received to advance the capital raise** | Ongoing | Paul noted he will text the family‑office contact multiple times per day | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -232,6 +247,10 @@
 | **Finalize Tree Line MRCA consolidated agreement** (avoid one-off promissory notes) | ASAP | Plaud — 06-04 L10 meeting | 🟡 | |
 | **Add insertable white-label link to email templates** (CTA functionality) | ASAP | Drip Campaign - Missing CTA link in emails | 🔴 | 🔲 |
 | **Develop RV lending program parameters** (caps at $5-6M, underwriting criteria, submission requirements) | When possible | RV Park Lending - Program still in development | 🟡 | 🔲 |
+| **Verify Jeremy’s DSCR state coverage and confirm he covers all 50 states** | This week | AI Suggestions – DSCR state coverage for Jeremy not definitively confirmed | 🟡 | ⬜ |
+| **Draft formal policy documents for cross‑border funding risks, DSCR‑based payoff policy, post‑refundable closing fee window, and an EMD checklist** | This month | AI Suggestions – Policy & Process Documentation needed | 🔴 | ⬜ |
+| **Create a formal checklist for RV lending program parameters (caps, underwriting criteria, submission format)** | This month | AI Suggestions – RV Lending Program parameters still in development | 🟡 | ⬜ |
+| **Communicate service-level expectations to the team: respond to new submissions within 1 hour and follow-ups within 4 hours, prioritize WhatsApp for urgent internal messages** | This week | Team SLA commitment listed under @Speaker 1 actions | 🔴 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -361,6 +380,16 @@
 | **Update buy box profile** in the new Owners Club Kajabi directory (legacy Google Sheets replaced — verify listing is current) | This week | 06-10 Sub2/OC community call — Kajabi directory upgrade | 🟡 | 🔲 |
 | **Verify Gator Discord email** matches Sub2 login email to ensure directory cross-visibility access | When possible | 06-10 Sub2/OC community call — Gator Discord access requires matching emails | 🟢 | 🔲 |
 | **Access new community directories** in Kajabi: Sub2 → Resources → Directory; OC buy box visible there — note June 15 Top Tier TC revamp deadline | This week | 06-10 Sub2/OC community call — New directory paths replacing Google Sheets | 🟢 | 🔲 |
+| **Update company name in white‑label site settings** | This week | Next Arrangements – All users to check and update their company name in white label settings | 🟢 | ⬜ |
+| **Review the email templates in Google Drive and provide feedback** | This month | Next Arrangements – Team members to review email templates and provide feedback | 🟢 | ⬜ |
+| **Implement a way for users to view and delete uploaded contacts in drip campaigns** | ASAP | AI Suggestions – Users cannot view or delete contacts; flagged as high priority | 🔴 | ⬜ |
+| **Add an insertable white‑label link to email templates for CTA tracking** | ASAP | Feature Requests – Tech request to add white‑label link to email templates | 🔴 | ⬜ |
+| **Run queries through Paxton.ai for Speaker 11's partnership question** | ASAP | Paul offered to run legal AI queries via his Paxton.ai account after Speaker 11 requested a question be texted to him | 🔴 | ⬜ |
+| **Assess subscription legal AI tools (e.g., Paxton.ai) for quality‑checking attorney‑drafted documents** | This week | Paul mentioned the paid legal AI tool and implied a need to evaluate its usefulness for the group | 🟡 | ⬜ |
+| **Implement CRM deal owner field and enable owner-based notifications for notes, emails, and status changes** | ASAP | Action item for @Speaker 1 to improve deal visibility and accountability | 🔴 | ⬜ |
+| **Assign a deal owner in the CRM for every new deal to ensure notifications and accountability** | ASAP | Part of the CRM deal ownership implementation discussed in the meeting | 🔴 | ⬜ |
+| **Coordinate with Roz to implement DSCR routing toggle (S/J) or mirrored “/Josh” pages and finalize the approach** | This month | CRM routing improvement discussed in issue resolution | 🟡 | ⬜ |
+| **Create a HubSpot rule to send notifications to deal owners when an email is received in the admin inbox** | This week | Technical fix for email visibility raised by Manuela | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -430,6 +459,9 @@
 | **Attend Mike Davis's AI calls going forward** | Ongoing | Plaud 06-03 Mike Davis AI call — Paul found them helpful | 🟢 | ⬜ |
 | **Connect with Ron Cervi** (neighbor across Henry's Lake; GC from San Diego; cabin at Lakeview Estates/Red Rock) — exchange contact info, follow up next cabin visit | Next cabin visit | Plaud — 06-05 casual conversation Island Park | 🟢 | |
 | **Document formal EMD funding policy** - refundable period only, post-refund 30-60 day fee window, cross-border risks | When possible | EMD Funding Policy - Formal documentation needed | 🟡 | 🔲 |
+| **Monitor budget impact of the tech installation at the Island Park cabin** | This month | Paul noted the cabin tech install affected the budget but was a positive outcome, suggesting follow‑up tracking | 🟢 | ⬜ |
+| **Begin monthly W-2 distributions at the start of each month using current ratios, and adjust to 45/45/10 after Justin goes full-time** | This month | Payroll distribution plan outlined in the operational updates | 🟡 | ⬜ |
+| **Add Justin to Chase payroll wires and set up monthly W-2 transfers** | ASAP | Needed for Justin's payroll as noted in the action items | 🔴 | ⬜ |
 ---
 
 ## ⏳ Waiting On
