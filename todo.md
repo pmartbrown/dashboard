@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-14 — Morning transcript review — +32 items from 3 new transcripts (06-09 EMD/Lending, 06-09 RV Park/JV meeting, 06-04 L10 ops meeting)**
+**Last updated: 2026-06-16 — Morning transcript review — +8 items from 28 new transcripts (Apr 25–May 19 backlog)**
 
 ---
 
@@ -7,6 +7,7 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| 🔴 **Raise $1,000,000 into ResGap Plus 506(b) fund by June 30, 2026** | Jun 30 | EOS 60-day rock — Jason's planning session (Plaud 05-16) | 🔴 | — |
 | **Create loan documents for Adam Anderson** — draft promissory note, security/collateral docs, personal guaranty if applicable; confirm loan terms (amount, rate, term, payment schedule) before drafting | **URGENT — ASAP** | Added 2026-05-29 — Paul flagged as urgent; entity (RQF / Hanks / Pinecone) and deal type TBD | 🔴 | ⬜ |
 | **File Delaware Annual Franchise Tax — Real Quick Funds, LLC** — **$300 flat by 6/1/2026** (LLC File Number: **005689630**). Pay online: corp.delaware.gov (8AM–11:45PM ET). Late = $507.50 by 7/1, $515 by 8/1, $522.50 by 9/1, then administrative dissolution. "THIS IS THE ONLY NOTICE YOU WILL RECEIVE" per Delaware. DIY (corp.delaware.gov) vs URA service (855-236-9172) | **By 2026-06-01** | Physical Delaware L.L.C. Tax Notice received 4/28 via URA; URA calendar alert 5/6; PDF in admin@pineconegp inbox + Registered Agent folder; one-week reminder scheduled for 2026-05-25 8AM MT | 🔴 | ⬜ |
 | Confirm with lender: will JV agreement (without OA changes) satisfy $2M liquidity verification for Mike's 46-lot construction refi? | ASAP | 04-28 meeting — Tomer/Jeffrey broker team; Mike liquidity-constrained post-permitting delays | 🔴 | ⬜ |
@@ -90,6 +91,7 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| 🟢 **Define and communicate JV/finder's-fee policy for inbound deal sourcers from Orbit program** | This month | 05-12 Orbit meeting — multiple members asking about deal-sourcing terms | 🟢 | — |
 | Clarify with Orbit/Pace leadership whether School/Skool is approved for bird-dog management and referral tracking | ASAP | 05-04 strategy session — Pace Morby video triggered compliance concern; Paul needs official clarity before week of 05-11 drip campaign launch | 🔴 | ⬜ |
 | Send draft EMD breach letters (Steps 1 & 2) to requesting party | ASAP | 05-01 briefing — Pace's response on EMD as liquidated damages; Paul offered draft letters outlining remedy steps | 🟡 | ⬜ |
 | Define and communicate JV/finder's-fee policy for Orbit cluster lead sourcers | This week | 05-12 pod meeting — deal sourcers expecting JV paperwork post-launch; group consensus: pay finder's fee at close; define "complete deal" criteria (P&Ls, more than a Crexi listing) | 🟡 | ⬜ |
@@ -186,6 +188,7 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| 🟢 **Develop new RQF teaching semester concept** aligned with lender realities (not debt recovery framing) | When possible | 04-27 strategic discussion — reframe the school curriculum | 🟢 | — |
 | Fix email targeting issue and relaunch No Pitch Path program ($5,000/seat) | By 2026-05-20 | 05-04 strategy session — launch stalled due to broken email targeting; high-revenue program paused | 🔴 | ⬜ |
 | Prepare bird-dog community guides for identifying Morby/stack method deal opportunities | By 2026-05-25 | 05-04 strategy session — newcomers need structured help recognizing deal types before they can submit quality deals | 🟡 | ⬜ |
 | Plan 30-day onboarding curriculum for new client-facing PM hire — cover RQF deal types (EMD, double close, creative financing), lending terminology, SOPs, and client communication standards so hire can speak confidently with clients within 30 days | Upon hire | 04-30 interview — Paul set explicit 30-day expectation; steep learning curve on deal structures; training wheels off at day 30 | 🟢 | ⬜ |
@@ -257,6 +260,8 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| 🟡 **Implement EOS Level 10 meeting weekly rhythm for RQF operations** | This month | 05-16 EOS planning session with Jason | 🟡 | — |
+| 🟡 **Step out of daily deal operations; redirect time to capital raising and asset acquisition** | Ongoing | 05-16 EOS planning — delegation priority | 🟡 | — |
 | Submit Investext data migration templates (contacts, accounts, activities) to migration team via Google Drive | This week | 05-05 Investext onboarding — 7–10 day import timeline; banking details excluded (investors add via Plaid); dedicated migration lead assigned | 🔴 | ⬜ |
 | Complete Dwolla/Investext Payments business verification — submit EIN, business classification, alternative address | This week | 05-05 Investext onboarding — 3–5 day verification required before capital raise can go active; must happen before inviting investors | 🔴 | ⬜ |
 | Set monthly bird-dog community production targets (~20 fundable deals/month) and build KPI tracker | TBD | 05-04 strategy session — currently under 10 deals/week; KPI funnel: leads → qualified borrowers → submissions → approvals → funded | 🟡 | ⬜ |
@@ -396,6 +401,9 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| 🟡 **Clarify Pace community compliance: confirm permissible capital-raising in Sub2/Gator/Owners Club channels with Pace admin** | ASAP | 05-04 strategy + 05-16 EOS — compliance risk flagged | 🟡 | — |
+| 🟢 **Update fund pitch messaging to explicitly state capacity to accept additional capital** (missed $400k allocation due to unclear messaging) | This week | 05-04 strategy session — fund capacity framing gap | 🟢 | — |
+| 🟢 **Explore Japan-side capital raising using local Japanese company partnership structure** for co-living equity raise | When possible | 04-27 strategic discussion — Japan LP relationship opportunity | 🟢 | — |
 | Update fund/community messaging to clearly state capacity to accept additional capital | ASAP | 05-04 strategy session — Paul missed $400k LP allocation because messaging didn't signal open capacity; 12% fixed return, escrow-protected model, target 50+ investors | 🔴 | ⬜ |
 | Launch drip campaign for paid bird-dog community members; schedule email copy review session with paid cohort | ASAP | 05-04 strategy session — centralized campaigns launching week of 05-11; collaborative copy review needed; white-label site/app stack going live | 🔴 | ⬜ |
 | Implement nominal $8–$10/month fee for bird-dog community to prune inactive members | By end of May 2026 | 05-04 strategy session — ~500 members total, only 30–50 active; fee improves engagement quality and reduces operational overhead | 🟡 | ⬜ |
