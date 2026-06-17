@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-16 — Morning transcript review — +8 items from 28 new transcripts (Apr 25–May 19 backlog)**
+**Last updated: 2026-06-17 — Morning transcript review — +7 items from 13 new transcripts (Jun 4–16)**
 
 ---
 
@@ -68,6 +68,8 @@
 | **Contact Adam to secure $200K–$300K for early-next-week funding and an additional ~$400K the following week** | This week | Capital needs outlined in Immediate Capital & Fraud Management section | 🔴 | ⬜ |
 | **Return $70,000 capital from Garden Road tomorrow as part of the $140,000 claim** | ASAP | Headliner update about capital return scheduled for next day | 🔴 | ⬜ |
 | **Return approximately $30,000 capital to Fernando Mendoza promptly** | ASAP | Commitment mentioned in operational updates to repay investor | 🟡 | ⬜ |
+| **Resolve EDGAR Next access for ResGAP Plus LP (CIK: 02068571)** — blocked from annual confirmation; has CIK, OMB, EF-DI-D but **missing CCC number**. Navigate EDGAR Filer Management → Account Settings to verify EDGAR Next linkage and permissions; obtain CCC to unblock filing. | ASAP | Plaud — 06-10 EDGAR voice memos (3 recordings) | 🔴 | ⬜ |
+| **InvestNext: force e-sign for registered-but-unsigned investor** — investor registered but hasn't signed LPA, PPM, or sub docs. Create/validate Commitment record → generate e-sign packet → send direct signing link. Monitor daily; send reminder if unsigned after 72 hrs. | ASAP | Plaud — 06-15 InvestNext e-sign gap note | 🔴 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -182,6 +184,9 @@
 | **Provide attorney references in Hawaii and Texas to members who need state‑specific JV review** | ASAP | Paul said he could give references for attorneys in Hawaii and Texas when asked by other participants | 🔴 | ⬜ |
 | **Follow up with Kiefer on the $50,000 fraud case and file a police report if payment is not received** | ASAP | Fraud management action assigned to @Speaker 1 | 🔴 | ⬜ |
 | **Send three daily text follow-ups to the family-office contact until a response is received to advance the capital raise** | Ongoing | Paul noted he will text the family‑office contact multiple times per day | 🟡 | ⬜ |
+| Text Dustin — Columbus, IN business contacts (commercial space needs tenant or sale) | This week | Plaud — 06-16 EOS Level 10 weekly meeting; Paul committed to connecting Dustin with IN contacts | 🟡 | ⬜ |
+| Contact Wayne Shepard — set up RQF white-label site so he earns referral fees (currently referring deals without a site; referred Ed's RV park group) | This week | Plaud — 06-16 Ed RV Park consultation | 🟡 | ⬜ |
+| Post humorous Mike Tyson "plans/punched in the face" announcement to RQF community about drip campaign launch delay; team targeting fix within days | ASAP | Plaud — 06-16 drip campaign postponed memo | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -395,6 +400,7 @@
 | **Assign a deal owner in the CRM for every new deal to ensure notifications and accountability** | ASAP | Part of the CRM deal ownership implementation discussed in the meeting | 🔴 | ⬜ |
 | **Coordinate with Roz to implement DSCR routing toggle (S/J) or mirrored “/Josh” pages and finalize the approach** | This month | CRM routing improvement discussed in issue resolution | 🟡 | ⬜ |
 | **Create a HubSpot rule to send notifications to deal owners when an email is received in the admin inbox** | This week | Technical fix for email visibility raised by Manuela | 🟡 | ⬜ |
+| **RQF CRM decision** — volume at 20+ new deals/week; evaluate upgrade HubSpot vs. build custom CRM (developer: Ross). Define eval criteria, timeline, and scope part-time community manager hire for School platform | This week | Plaud — 06-04 user testing & CRM decisions meeting | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -492,6 +498,7 @@
 | **North Peak Recovery: Free verified lead list from Matt's team** (Ohio or Delaware) — to be delivered after June 4 onboarding call; follow up if not received by June 10 | By June 10 | Plaud — 2026-06-03 NP Recovery onboarding; included in $5K package | 🟡 | ⬜ |
 
 | **Text from Pod 22 member (Speaker 11)** with JV partnership question to run through Paxton.ai | When received | Plaud — 06-09 Pod 22 weekly meeting | 🟢 | |
+| Email intro from Pod 22 member to Utah EA (IRS-credentialed CPA with RE attorney partnership, Rich Dad Poor Dad affiliation) | TBD | Plaud — 06-16 EOS Level 10 meeting; Paul requested strategic Utah CPA | 🟡 | — |
 ---
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Afternoon run 2026-06-03: 5 new transcripts processed, 4 action items added; 1 fraud-alert call recorded as no-action (resolved on call).*
 
