@@ -1,71 +1,62 @@
-# Morning Briefing — Tuesday, June 16, 2026
+# Morning Briefing — Wednesday, June 17, 2026
 
 ## The One Thing
-Finish the EOS V/TO — it was due yesterday (item #53, 1 day overdue). This is the blueprint for the company that funds your mission.
+Close Mouri's subdoc and route his $100K into RezGap Plus today — fund at 2.5%, $1M June 30 milestone is 13 days away.
 
 ## Top 3 Priorities
-1. EOS V/TO — ship it TODAY (1 day overdue)
-2. Naohiro Mouri — subdoc signed + funds routed 3D Capital → RezGap Plus
-3. Dad's house — schedule 3 agents for CMAs (20 days overdue, was due May 27)
+1. Mouri Subdoc — Get Signed & Funded Today ($100K agreed, blocking 5% of June 30 milestone)
+2. Capital Raising Blitz — 3+ Conversations Today (Ed/Don Davis, Norm, Dylan, warm network)
+3. EOS V/TO — Complete (2 days overdue — tonight after YM/YW or tomorrow AM)
 
 ## Fund Status
-$50,000 · $2,000,000 target · 2.5% · LP: Paul $50K ✅ · Mouri ~$100K pending subdoc · Dylan active · Ed/Don Davis follow-up
-⚠️ Tracker last updated 2026-05-25 (22 days stale)
+Balance $50,000 · Target $2,000,000 · 2.5% · $1M milestone June 30 (13 days) · LP: Paul $50K invested, Mouri ~$100K pending subdoc, Dylan active, Ed/Don Davis TBD
+⚠️ Capital Raising Tracker stale (last updated May 25 — 23 days)
 
 ## Follow-Ups & Open Loops
-🔴 #53 EOS V/TO — OVERDUE Jun 15
-🔴 #31 Mouri subdoc + funds routed — PRIORITY #1 fund action
-🔴 #11 Mouri additional capital + warm intros
-🔴 #77 Fraudulent $50K — file police report, escalate to DA
+🔴 #31 Mouri subdoc + fund transfer — HIGHEST PRIORITY
+🔴 #11 Mouri additional capital + intros (after subdoc)
+🔴 #77 Fraudulent $50K — file police report, DA escalation
+🔴 #53 EOS V/TO — OVERDUE (was due June 15)
 🔴 #83 Marty deal — investigate both loans, confirm lien position + title insurance
-🔴 #79 Schedule 3 agents for Dad's house — 20 DAYS OVERDUE
-🔴 #80 Contact sisters — Dad expense list — OVERDUE
-🔴 #81 Paul & Akemi expense list for Dad — OVERDUE
+🔴 #79 Schedule 3 agents for Dad's house (OVERDUE since May 27)
+🔴 #80 Contact sisters — Dad expense list (OVERDUE)
+🔴 #81 Paul & Akemi — Dad expense list (OVERDUE)
 🔴 #37 Dad's life insurance — hand off to Pipe
 🟠 #32 Mouri referrals (after subdoc)
-🟠 #34 Dylan Stewart capital follow-up
-🟠 #35 Ed/Don Davis capital intro
+🟠 #34 Dylan Stewart — follow up on capital contact
+🟠 #35 Ed / Don Davis — capital partner intro
 🟠 #45 EOS Phase 1 — Justin alignment session
-🟠 #46 EOS Phase 2 — Scorecard + Chart
-🟠 #47 EOS Phase 2 — Q2 Rocks (DUE JUN 30)
-🟠 #48 EOS Phase 2 — Issues List
-🟠 #49 EOS Phase 3 — First L10 meeting
-🟠 #50 EOS Phase 3 — L10 agenda
-🟠 #51 EOS Investor Lifecycle doc (OVERDUE May 30)
-🟠 #52 EOS Community Lifecycle doc (OVERDUE May 30)
-🟠 #40 OC Semesters Instructor application
-🟠 #41 Ella Ray — Orbit Challenge Planet
-🟠 #42 Surplus Recovery — Kiefer
-🟠 #55 Dave Lisi — $7.5M Alaska lodge deal
+🟠 #46-50 EOS Phases 2-3 — Scorecard, Rocks, Issues List, L10 meeting
+🟠 #51-52 EOS — Investor & Community Lifecycle docs (20%)
+🟠 #40 OC Semesters — Apply as Instructor (Jenny Ridenour)
+🟠 #41 Ella Ray — Orbit Challenge Planet role
+🟠 #42 Surplus Recovery — discuss with Kiefer
+🟠 #55 Dave Lisi — $7.5M Alaska fishing lodge deal
 🟠 #56 Anne-Marie — Tallahassee airport project
-🟠 #63 Jaden & Heather — overflow deals from Pace
-🟠 #64 EMD contract — double-release protection
+🟠 #63 Jaden & Heather — Pace's team overflow deals
+🟠 #64 Review EMD contract — double-release protection
 🟠 #75 Meet Zach Larson in person
-🟠 #76 Jeramy Ennis addendum (0.5% retroactive Apr 1)
-🟠 #82 1-hr call — Ella Ray, Justin Pilaka, Paul
-🟠 #84 Emma — Africa trip doctor sign-off
+🟠 #76 Jeramy Ennis referral addendum (0.5% retroactive Apr 1)
+🟠 #82 Call — Ella Ray, Justin Pilaka, Paul (1-hour)
+🟠 #84 Emma — doctor sign-off Africa trip
 🟠 #12 Schedule date with Akemi
-🟠 #54 Alaska fishing trip — David Lisi Sep 6-10
-🟠 #18 Schedule Susan Byerly appt (OVERDUE since Apr 10)
-🟡 #36 Norm — seller carry dates
-🟡 #44 URA scanned mail
-🟡 #86 Steven text — health ideas
+🟠 #54 Alaska fishing trip — confirm + book (Sep 6-10)
+🟡 #36 Norm — confirm seller carry dates
+🟡 #44 URA scanned mail — download PDFs
+🟡 #86 Check text from Steven (health ideas)
 🟡 #2 Tauna Ellis → Marquee intro
-🟡 #8 Pace Morby 1:1
-🟡 #25 Skool community launch
-🟡 #26 Dad's taxes
-🟡 #29 RezGap electronic subdocs
+🟡 #8 Pace Morby 1:1 follow-up
+🟡 #25 Skool community — finish & launch
+🟡 #26 Dad's taxes — finish filing
+🟡 #29 RezGap Plus — electronic sub docs
 🟡 #23 EMD cancel/return alert tool
+📬 NEW (from June 16 Plaud): Raise $1M by June 30 · EOS L10 rhythm · Step out of ops → capital raising · Pace compliance · Fund pitch update · Japan capital raising · RQF teaching semester · Orbit JV policy
 
 ## Today's Schedule
-Morning — First Things First + Workout
-All day — EOS V/TO · Mouri subdoc · Dad's house agents
-7–8 PM — Owner's Club Homework
+7:00–8:00 PM — YM/YW Activity (Family)
 
 ## Email Action Items
-EOD report outside folder scope — check admin@rqf and paul@rqf for urgent items
+EOD report not accessible — no email items to add.
 
 ## Pipeline — Closing This Week
-$650K deployed Jun 12 (Justin's deal — confirmed in COD)
-No deals flagged for funding this week — check with Justin & Manoela
-⚠️ Brenda $100K operational capital due back late June
+No deals flagged — check with Justin & Manoela. Last confirmed: $650K deployed June 12 (completed).
