@@ -70,6 +70,7 @@
 | **Return approximately $30,000 capital to Fernando Mendoza promptly** | ASAP | Commitment mentioned in operational updates to repay investor | 🟡 | ⬜ |
 | **Resolve EDGAR Next access for ResGAP Plus LP (CIK: 02068571)** — blocked from annual confirmation; has CIK, OMB, EF-DI-D but **missing CCC number**. Navigate EDGAR Filer Management → Account Settings to verify EDGAR Next linkage and permissions; obtain CCC to unblock filing. | ASAP | Plaud — 06-10 EDGAR voice memos (3 recordings) | 🔴 | ⬜ |
 | **InvestNext: force e-sign for registered-but-unsigned investor** — investor registered but hasn't signed LPA, PPM, or sub docs. Create/validate Commitment record → generate e-sign packet → send direct signing link. Monitor daily; send reminder if unsigned after 72 hrs. | ASAP | Plaud — 06-15 InvestNext e-sign gap note | 🔴 | ⬜ |
+| **Discuss and finalize logistics for the $800,000 proof of funds transfer for the Ohio deal with Justin** | ASAP | 06-17 meeting – proof of funds transfer | 🔴 | ⬜ Not started |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -187,6 +188,9 @@
 | Text Dustin — Columbus, IN business contacts (commercial space needs tenant or sale) | This week | Plaud — 06-16 EOS Level 10 weekly meeting; Paul committed to connecting Dustin with IN contacts | 🟡 | ⬜ |
 | Contact Wayne Shepard — set up RQF white-label site so he earns referral fees (currently referring deals without a site; referred Ed's RV park group) | This week | Plaud — 06-16 Ed RV Park consultation | 🟡 | ⬜ |
 | Post humorous Mike Tyson "plans/punched in the face" announcement to RQF community about drip campaign launch delay; team targeting fix within days | ASAP | Plaud — 06-16 drip campaign postponed memo | 🟡 | ⬜ |
+| **Connect Liz with the DSCR lender (Jeremy) upon receipt of a website-submitted DSCR deal to initiate underwriting conversations** | ASAP | 06-17 call w/ Liz — DSCR lender connection | 🔴 | ⬜ Not started |
+| **Send formal referral fee agreement for signature after Justin reviews it** | ASAP | 06-17 meeting – referral fee agreement | 🔴 | ⬜ Not started |
+| **Schedule monthly 15‑minute reconciliation calls (including Kay) to review the deal tracking spreadsheet** | This week | 06-17 meeting – reconciliation calls | 🟡 | ⬜ Not started |
 ---
 
 ## 🏗️ Projects — Build
@@ -259,6 +263,8 @@
 | **Draft formal policy documents for cross‑border funding risks, DSCR‑based payoff policy, post‑refundable closing fee window, and an EMD checklist** | This month | AI Suggestions – Policy & Process Documentation needed | 🔴 | ⬜ |
 | **Create a formal checklist for RV lending program parameters (caps, underwriting criteria, submission format)** | This month | AI Suggestions – RV Lending Program parameters still in development | 🟡 | ⬜ |
 | **Communicate service-level expectations to the team: respond to new submissions within 1 hour and follow-ups within 4 hours, prioritize WhatsApp for urgent internal messages** | This week | Team SLA commitment listed under @Speaker 1 actions | 🔴 | ⬜ |
+| **Set up master Google Sheet for deal tracking and grant admin access to all participants** | This week | 06-17 meeting – deal tracking spreadsheet | 🔴 | ⬜ Not started |
+| **Add an "estimated FICO score" question to the deal submission intake form** | When possible | 06-17 meeting – intake form update | 🟡 | ⬜ Not started |
 ---
 
 ## ⚙️ Systems / AI
@@ -401,6 +407,9 @@
 | **Coordinate with Roz to implement DSCR routing toggle (S/J) or mirrored “/Josh” pages and finalize the approach** | This month | CRM routing improvement discussed in issue resolution | 🟡 | ⬜ |
 | **Create a HubSpot rule to send notifications to deal owners when an email is received in the admin inbox** | This week | Technical fix for email visibility raised by Manuela | 🟡 | ⬜ |
 | **RQF CRM decision** — volume at 20+ new deals/week; evaluate upgrade HubSpot vs. build custom CRM (developer: Ross). Define eval criteria, timeline, and scope part-time community manager hire for School platform | This week | Plaud — 06-04 user testing & CRM decisions meeting | 🟡 | ⬜ |
+| **Provide recommended compliant documentation pathway (e.g., Fortra Law Lightning Docs) for two-location/creative closings and share any process tweaks needed for Tactical TC workflows** | ASAP | 06-17 call w/ Liz — compliance documentation | 🟡 | ⬜ Not started |
+| **Share the one-page seller disclosure template (purchase price, seller carry, borrowing amount, total debt, and buyer cash-out) for use whenever buyer cash is being extracted** | ASAP | 06-17 call w/ Liz — seller disclosure template | 🟡 | ⬜ Not started |
+| **Add "referral source" field to the CRM and configure clear‑to‑close notifications/chatbot for partners** | When possible | 06-17 meeting – CRM integration | 🟡 | ⬜ Not started |
 ---
 
 ## 📣 Marketing / Capital Raising
