@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-17 — Morning transcript review — +7 items from 13 new transcripts (Jun 4–16)**
+**Last updated: 2026-06-19 — Morning transcript review — +3 item(s) from 1 new transcript (06-18)**
 
 ---
 
@@ -87,6 +87,9 @@
 | **Ryan Medlock debt recovery (~$30–40K)** — file Notices of Interest (NOIs) on all his properties to disrupt his current closing; skip trace his property list first (IDI Core ~$500 or free via Speaker 3); inform Medlock of impending NOIs as leverage | ASAP | 05-20 Plaud — Medlock has been unresponsive ~1 yr; currently in new transaction per Christina tip; NOIs cost $11 + state fees each; goal: get paid on HUD at closing | 🔴 | ⬜ |
 
 | **Evaluate feasibility of funding the UK‑based double‑close scenario and provide a recommendation** | This month | Discussion – Paul raised a UK double‑close proposal; needs feasibility assessment | 🟢 | ⬜ |
+| **Attend RV Park Masterclass — Tuesday Zooms** (live underwriting with Big Bobby: calling brokers/sellers, reviewing P&L, writing offers on-screen) | Weekly Tuesdays | Plaud 06-18 — RV Park Masterclass session 2 with Heather; two Zooms/week (Tue = underwriting, Thu = Q&A) | 🟡 | ⬜ |
+| **Define RV park buy box** — set minimum $15K/month net after all debt service from day 1 post-close; decide basic amenity vs resort preference and operational model (owner-operator vs hired management) | This week | Plaud 06-18 — Heather's RV Park Masterclass; buy box is required homework for the program | 🟡 | ⬜ |
+| **Watch for RV Park Partnership/Wholesale Handbook** from Heather/Tricia — sign-up info for partnering on or wholesaling RV parks expected within ~1 week | By Jun 25 | Plaud 06-18 — Heather announced handbook coming within next week for partnership/wholesale program | 🟢 | ⬜ |
 ---
 
 
