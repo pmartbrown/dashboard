@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-19 — Morning transcript review — +3 item(s) from 1 new transcript (06-18)**
+**Last updated: 2026-06-20 — Morning transcript review — +48 item(s) from 6 section(s) (17 new transcripts Jun 8-19)**
 
 ---
 
@@ -71,6 +71,9 @@
 | **Resolve EDGAR Next access for ResGAP Plus LP (CIK: 02068571)** — blocked from annual confirmation; has CIK, OMB, EF-DI-D but **missing CCC number**. Navigate EDGAR Filer Management → Account Settings to verify EDGAR Next linkage and permissions; obtain CCC to unblock filing. | ASAP | Plaud — 06-10 EDGAR voice memos (3 recordings) | 🔴 | ⬜ |
 | **InvestNext: force e-sign for registered-but-unsigned investor** — investor registered but hasn't signed LPA, PPM, or sub docs. Create/validate Commitment record → generate e-sign packet → send direct signing link. Monitor daily; send reminder if unsigned after 72 hrs. | ASAP | Plaud — 06-15 InvestNext e-sign gap note | 🔴 | ⬜ |
 | **Discuss and finalize logistics for the $800,000 proof of funds transfer for the Ohio deal with Justin** | ASAP | 06-17 meeting – proof of funds transfer | 🔴 | ⬜ Not started |
+| 🔴 **Formal referral fee agreement** to be drafted and sent for signature after **Justin** reviews it | ASAP | Plaud — 06-17 Weekly Meeting: Transactional Funding, Deal Tracking, and Referral Process | 🔴 | ⬜ |
+| 🔴 **Discuss and finalize logistics** for the $800,000 proof‑of‑funds transfer with **Justin** | ASAP | Plaud — 06-17 Weekly Meeting: Transactional Funding, Deal Tracking, and Referral Process | 🔴 | ⬜ |
+| 🟡 Research and target **midterm renters** (e.g., traveling nurses) for the remote rental to diversify income | This week | Source: Property Management Strategies — midterm rental discussion | 🟡 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -90,6 +93,7 @@
 | **Attend RV Park Masterclass — Tuesday Zooms** (live underwriting with Big Bobby: calling brokers/sellers, reviewing P&L, writing offers on-screen) | Weekly Tuesdays | Plaud 06-18 — RV Park Masterclass session 2 with Heather; two Zooms/week (Tue = underwriting, Thu = Q&A) | 🟡 | ⬜ |
 | **Define RV park buy box** — set minimum $15K/month net after all debt service from day 1 post-close; decide basic amenity vs resort preference and operational model (owner-operator vs hired management) | This week | Plaud 06-18 — Heather's RV Park Masterclass; buy box is required homework for the program | 🟡 | ⬜ |
 | **Watch for RV Park Partnership/Wholesale Handbook** from Heather/Tricia — sign-up info for partnering on or wholesaling RV parks expected within ~1 week | By Jun 25 | Plaud 06-18 — Heather announced handbook coming within next week for partnership/wholesale program | 🟢 | ⬜ |
+| 🔴 **Assign ownership** for the >$7M RV park financing effort and set a follow‑up timeline. | This week | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — RV park financing discussion. | 🔴 | ⬜ |
 ---
 
 
@@ -194,6 +198,17 @@
 | **Connect Liz with the DSCR lender (Jeremy) upon receipt of a website-submitted DSCR deal to initiate underwriting conversations** | ASAP | 06-17 call w/ Liz — DSCR lender connection | 🔴 | ⬜ Not started |
 | **Send formal referral fee agreement for signature after Justin reviews it** | ASAP | 06-17 meeting – referral fee agreement | 🔴 | ⬜ Not started |
 | **Schedule monthly 15‑minute reconciliation calls (including Kay) to review the deal tracking spreadsheet** | This week | 06-17 meeting – reconciliation calls | 🟡 | ⬜ Not started |
+| 🔴 **Text** Dustin regarding Columbus, IN commercial space contacts | ASAP | Source: 06-16 Weekly Meeting — Paul noted he will text Dustin about the Columbus, IN commercial space contacts | 🔴 | ⬜ |
+| 🟡 **Follow up** on the Utah CPA introduction and schedule an initial strategy call | This week | Source: 06-16 Weekly Meeting — Speaker 4 will email‑introduce Paul to the recommended EA; Paul needs to act on that introduction | 🟡 | ⬜ |
+| 🟡 **Follow up** with **Ed** after he submits his **LOI** via txfhub.com to ensure review and next steps. | ASAP | Source: 06-16 Consultation: Ed - RV Park Acquisitions Financing — To‑Do List item | 🟡 | ⬜ |
+| 🟡 After each investor call, send a **business card** with a referral cue and schedule a follow‑up in roughly three months; keep the manual spreadsheet updated with new insurance contacts | ASAP | Source: Relationship‑First Investor Outreach — post‑call process | 🟡 | ⬜ |
+| 🔴 **Invite Tiffany** to a follow‑up call about the surplus and clarify required actions. | ASAP | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — Paul noted the need to follow up with Tiffany. | 🔴 | ⬜ |
+| 🟡 **Attend local meetups** with a clear “I’ll fund your deal” pitch, collect contacts, and add them to the drip campaign. | This week | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — practical outreach recommendations. | 🟡 | ⬜ |
+| 🟡 **Standardize partner CC practices** to include referrers; draft and circulate an SLA. | End of June | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — discussion on improving CC practices. | 🟡 | ⬜ |
+| 🟡 **Set daily outreach targets** focusing on high‑probability channels and ensure referral tagging is enforced. | This week | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — practical outreach guidance. | 🟡 | ⬜ |
+| 🔴 **Connect Liz** with the **DSCR lender Jeremy** upon receipt of a website‑submitted DSCR deal to start underwriting | ASAP | Plaud — 06-17 Real Estate Investment Strategies and Funding Mechanisms | 🔴 | ⬜ |
+| 🟡 **Review** the step‑by‑step guide and checklist that will be sent to confirm the **EDGAR Next** status | ASAP | Plaud — 06-10 Consultation: EDGAR Next Enrollment and Permissions | 🟡 | ⬜ |
+| 🟡 **Add Meredith RIES** to the appropriate group/platform. | ASAP | Plaud — 06-04 Meeting: User Testing, CRM Decisions, and Feature Requests | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -268,6 +283,24 @@
 | **Communicate service-level expectations to the team: respond to new submissions within 1 hour and follow-ups within 4 hours, prioritize WhatsApp for urgent internal messages** | This week | Team SLA commitment listed under @Speaker 1 actions | 🔴 | ⬜ |
 | **Set up master Google Sheet for deal tracking and grant admin access to all participants** | This week | 06-17 meeting – deal tracking spreadsheet | 🔴 | ⬜ Not started |
 | **Add an "estimated FICO score" question to the deal submission intake form** | When possible | 06-17 meeting – intake form update | 🟡 | ⬜ Not started |
+| 🟡 **Master deal‑tracking Google Sheet** to be created and admin access granted to all participants | This week | Plaud — 06-17 Weekly Meeting: Transactional Funding, Deal Tracking, and Referral Process | 🟡 | ⬜ |
+| 🟡 **Add estimated FICO score question** to the deal submission form | End of June | Plaud — 06-17 Weekly Meeting: Transactional Funding, Deal Tracking, and Referral Process | 🟡 | ⬜ |
+| 🔴 **Inform Wayne Shepard** to set up his **white‑label site** with RealQuickFunds for referral profit sharing. | ASAP | Source: 06-16 Consultation: Ed - RV Park Acquisitions Financing — To‑Do List item | 🔴 | ⬜ |
+| 🔴 Coordinate installation of the **remote keypad** and set up integration with Airbnb/Vrbo for automated code lifecycle management | ASAP | Source: Property Management Strategies — installing remote keypad | 🔴 | ⬜ |
+| 🔴 Decide whether to hire a short‑term rental **property manager** (25‑30% fee) and create calendar blocks for reserved periods | End of June | Source: Property Management Strategies — evaluating property manager option | 🔴 | ⬜ |
+| 🔴 Provide clear feedback to the **new hire** currently three weeks in and schedule a performance re‑evaluation in one week | This week | Source: Accountability Review and AI‑Driven Automation — performance concerns | 🔴 | ⬜ |
+| 🟡 Create a retention plan for **Manuela**, including wage adjustments and a long‑term contract, anticipating her potential move to Florida | End of June | Source: Accountability Review and AI‑Driven Automation — employee retention issue | 🟡 | ⬜ |
+| 🔴 Draft an implementation roadmap to reach a minimum of **10 deals/month** by leveraging AI automation and overseas paperwork support | This week | Source: Accountability Review and AI‑Driven Automation — scaling target | 🔴 | ⬜ |
+| 🔴 Create/validate the investor’s **Commitment** linked to the registered contract in InvestNext (allocation, class, investor profile). | ASAP | Source: 06-15 Closing the E-Sign Gap in InvestNext — need to link registered contracts to commitments. | 🔴 | ⬜ |
+| 🔴 Generate the **LPA/PPM/subscription e-sign packet** from the commitment and send the **direct signing link** to the investor via InvestNext. | ASAP | Source: 06-15 Closing the E-Sign Gap in InvestNext — send e‑sign packet to investors. | 🔴 | ⬜ |
+| 🔴 Monitor the packet status daily and issue a reminder if not signed within 72 hours; log all touchpoints in InvestNext. | ASAP | Source: 06-15 Closing the E-Sign Gap in InvestNext — ensure timely completion of e‑sign documents. | 🔴 | ⬜ |
+| 🔴 **Implement referral tagging** on realquickfunds.com before any white‑label adoption and communicate the requirement to the team. | This week | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — guidance on using main site for referrals. | 🔴 | ⬜ |
+| 🔴 **Post announcement** in the main community channel once white‑label features are stable. | End of June | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — next arrangements list. | 🔴 | ⬜ |
+| 🔴 **Outline a practical plan** to monetize **construction network** (HVAC, rehab services) and define immediate steps, in collaboration with **Speaker 2**. | End of June | Plaud — 06-16 Meeting: Real Estate Lending and Wholesaling Strategies | 🔴 | ⬜ |
+| 🔴 **Develop a concrete cash‑generation plan** leveraging his **construction and contractor relationships** (HVAC, rehab services). | End of June | Plaud — 06-16 Meeting: Real Estate Lending and Wholesaling Strategies | 🔴 | ⬜ |
+| 🟡 **Provide** the recommended compliant documentation pathway (e.g., **Fortra Law Lightning Docs**) for two‑location/creative closings and **share** any process tweaks needed for **Tactical TC** workflows | ASAP | Plaud — 06-17 Real Estate Investment Strategies and Funding Mechanisms | 🟡 | ⬜ |
+| 🟡 **Provide detailed specifications** for the **deal routing logic**. | 2026-06-05 | Plaud — 06-04 Meeting: User Testing, CRM Decisions, and Feature Requests | 🟡 | ⬜ |
+| 🔴 **Scope and initiate hiring** for a **part‑time community role** (School community) and plan backfill for **Manuel**. | This week | Plaud — 06-04 Meeting: User Testing, CRM Decisions, and Feature Requests | 🔴 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -413,6 +446,17 @@
 | **Provide recommended compliant documentation pathway (e.g., Fortra Law Lightning Docs) for two-location/creative closings and share any process tweaks needed for Tactical TC workflows** | ASAP | 06-17 call w/ Liz — compliance documentation | 🟡 | ⬜ Not started |
 | **Share the one-page seller disclosure template (purchase price, seller carry, borrowing amount, total debt, and buyer cash-out) for use whenever buyer cash is being extracted** | ASAP | 06-17 call w/ Liz — seller disclosure template | 🟡 | ⬜ Not started |
 | **Add "referral source" field to the CRM and configure clear‑to‑close notifications/chatbot for partners** | When possible | 06-17 meeting – CRM integration | 🟡 | ⬜ Not started |
+| 🟡 **Add referral source field** to the CRM and configure “clear to close” notifications/chatbot for partners | End of June | Plaud — 06-17 Weekly Meeting: Transactional Funding, Deal Tracking, and Referral Process | 🟡 | ⬜ |
+| 🔴 Set up **Go High Level** (or similar) to generate daily follow‑up lists for investor outreach | ASAP | Source: Systematizing Professional Networking via LinkedIn — need for daily lists | 🔴 | ⬜ |
+| 🔴 Evaluate AI/tech support agencies (e.g., Start Virtual) and decide on hiring a **part‑time agentic AI specialist** (20 hrs/week) to automate contract review and communications | End of June | Source: Accountability Review and AI‑Driven Automation — hiring AI support | 🔴 | ⬜ |
+| 🔴 Design and launch an automation workflow for **contract review** (detecting refundable vs non‑refundable terms), communications, and **QuickBooks** integration to cut bookkeeping costs | ASAP | Source: Accountability Review and AI‑Driven Automation — automation goals | 🔴 | ⬜ |
+| 🔴 **Approve addition** of recipient partner info to submission notification emails. | This week | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — email enhancement item. | 🔴 | ⬜ |
+| 🟡 **Finalize enhanced routing rules** (state, FICO, asset type such as RV parks) and ensure documentation is published. | End of June | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — routing rules enhancement item. | 🟡 | ⬜ |
+| 🟡 **Decide on feasibility** of a “proof of funds generated” notification and add it to the product roadmap. | End of June | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — AI suggestion item. | 🟡 | ⬜ |
+| 🔴 **Confirm bug fix** for incorrect DSCR lead routing with Raj and verify functionality. | ASAP | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — bug fixing item. | 🔴 | ⬜ |
+| 🟡 **Define automated unsubscribe alerts** and compliance‑friendly tracking, then implement the notification system. | End of June | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — unsubscribe automation item. | 🟡 | ⬜ |
+| 🔴 **Verify EDGAR Next** linkage and permissions by navigating from the EDGAR homepage to the Filer Management > Account Settings page | ASAP | Plaud — 06-10 Consultation: EDGAR Next Enrollment and Permissions | 🔴 | ⬜ |
+| 🔴 **Decide** whether to **upgrade HubSpot** or **build a custom CRM**; define evaluation criteria and timeline. | End of June | Plaud — 06-04 Meeting: User Testing, CRM Decisions, and Feature Requests | 🔴 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -444,6 +488,10 @@
 | **Build nurturing campaigns with reply routing to referrers + referral fee tracking (DSCR 50 bps total / 40 bps referrer)** | This week | Plaud 06-05 BD review | 🟡 | ⬜ |
 | **Adopt Brian's reconnection methodology** for capital raising — relationship-first (no RE mention first touch); compact pitch: "make it simple for everyday people to grow money through RE without being a landlord"; target professionals 55+ (doctors, dentists) for 12% return | This week | Plaud — 06-05 strategic business dev; Brian reconnected with Jorge Zaya as model | 🟡 | |
 | **Redistribute podcast clips** on own channels after "My Real Estate Story" posts; await Lee's post-production | When received | Plaud — 06-03 podcast interview with Lee Pierrot | 🟢 | |
+| 🔴 Consolidate duplicate **LinkedIn accounts** into a single professional profile | ASAP | Source: Systematizing Professional Networking via LinkedIn — duplicate accounts noted | 🔴 | ⬜ |
+| 🔴 Update the **LinkedIn profile** (background image, headline, About section) using AI recommendations | This week | Source: Systematizing Professional Networking via LinkedIn — profile improvement advice | 🔴 | ⬜ |
+| 🟡 Implement a recurring outreach routine: **LinkedIn Mondays** for posts and messaging five contacts, and **Allstate Tuesdays** for insurance‑peer outreach | ASAP | Source: Systematizing Professional Networking via LinkedIn — scheduling system | 🟡 | ⬜ |
+| 🟡 **Upload remaining nurturing email steps** to complete the ~12‑step sequence and share full content with Premium members via Google Drive. | This week | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — email drip campaign item. | 🟡 | ⬜ |
 ---
 
 ## 🏃 Personal / Standards
