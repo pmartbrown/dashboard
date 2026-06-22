@@ -10,6 +10,8 @@ and APPENDED to the "Completed (Last 30 Days)" table with today's date.
 
 Runs inside a GitHub Action — no tokens or network calls needed because
 both files live in the same repo checkout.
+
+Also supports full-file replacement via todo_b64_url in pending-sync.json.
 """
 
 import json, re, sys, datetime
@@ -17,20 +19,20 @@ from pathlib import Path
 
 PENDING = Path("pending-sync.json")
 TODO    = Path("todo.md")
-TODAY   = datetime.date.today().isoformat()       # e.g. 2026-04-07
+TODAY   = datetime.date.today().isoformat()
 
 # ── helpers ──────────────────────────────────────────────────────────
 
 def progress_label(pct: int, done: bool) -> str:
     if done or pct == 100:
-        return "✅ Done"
+        return "\u2705 Done"
     if pct == 0:
-        return "—"
+        return "\u2014"
     return f"{pct}%"
 
 
 def strip_markdown_links(text: str) -> str:
-    """[visible](url) → visible"""
+    """[visible](url) -> visible"""
     return re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text).strip().lower()
 
 
@@ -46,6 +48,28 @@ if not PENDING.exists():
 
 data = json.loads(PENDING.read_text("utf-8"))
 
+# ── full-file replace mode (todo_b64_url) ────────────────────────────
+
+if "todo_b64_url" in data:
+    import urllib.request, base64 as _b64
+    url = data["todo_b64_url"]
+    print(f"Full-file replace mode: fetching {url}")
+    with urllib.request.urlopen(url) as resp:
+        raw = resp.read().decode("utf-8").strip()
+    content = _b64.b64decode(raw).decode("utf-8")
+    TODO.write_text(content, encoding="utf-8")
+    print(f"Wrote todo.md ({len(content):,} chars)")
+    PENDING.write_text(json.dumps({
+        "cleared": True,
+        "clearedAt": datetime.datetime.utcnow().isoformat() + "Z",
+        "mode": "todo_b64_url",
+        "source": url,
+    }, indent=2) + "\n", encoding="utf-8")
+    print("Cleared pending-sync.json — done \u2705")
+    sys.exit(0)
+
+# ── standard progress-update mode ───────────────────────────────────
+
 if data.get("cleared") or not data.get("items"):
     print("pending-sync.json is already cleared or empty — nothing to do.")
     sys.exit(0)
@@ -53,7 +77,7 @@ if data.get("cleared") or not data.get("items"):
 items = data["items"]
 print(f'Found {len(items)} item(s) in pending-sync.json')
 
-# ── build label → progress lookup ────────────────────────────────────
+# ── build label -> progress lookup ────────────────────────────────────
 
 label_map: dict[str, dict] = {}
 for item_id, item in items.items():
@@ -64,7 +88,7 @@ for item_id, item in items.items():
         "is_done": item.get("done", False) or item.get("pct", 0) == 100,
     }
 
-# ── update todo.md ───────────────────────────────────────────────────
+# ── update todo.md ──────────────────────────────────────────────────
 
 if not TODO.exists():
     print("todo.md not found in repo root — skipping update.")
@@ -74,12 +98,11 @@ text = TODO.read_text("utf-8")
 lines = text.splitlines(keepends=True)
 
 new_lines: list[str] = []
-completed_entries: list[str] = []   # rows to append to Completed table
+completed_entries: list[str] = []
 updated = 0
 moved   = 0
 
 for line in lines:
-    # Match table rows (skip separator rows like |---|---|)
     if line.startswith("|") and not re.match(r"^\|[-| ]+\|", line):
         cols = [c.strip() for c in line.strip("|\n").split("|")]
         if len(cols) >= 5:
@@ -87,44 +110,34 @@ for line in lines:
             if row_label in label_map:
                 info = label_map[row_label]
                 if info["is_done"]:
-                    # Move to completed — don't keep the row here
                     item_name = extract_item_name(cols[0])
-                    completed_entries.append(
-                        f"| {TODAY} | {item_name} |\n"
-                    )
+                    completed_entries.append(f"| {TODAY} | {item_name} |\n")
                     moved += 1
-                    continue          # skip this line (remove from Active)
+                    continue
                 else:
-                    # Update progress in place
                     cols[4] = info["progress"]
                     new_lines.append("| " + " | ".join(cols[:5]) + " |\n")
                     updated += 1
                     continue
     new_lines.append(line)
 
-# ── insert completed entries into the Completed table ────────────────
-
 if completed_entries:
     final_lines: list[str] = []
     inserted = False
     for i, line in enumerate(new_lines):
         final_lines.append(line)
-        # Find the Completed section's table header row
         if (not inserted
             and re.match(r"^\|[-| ]+\|", line)
             and i > 0
             and "Completed" in new_lines[i - 1]
             and "Item" in new_lines[i - 1]):
-            # Insert new completed rows right after the separator
             for entry in completed_entries:
                 final_lines.append(entry)
             inserted = True
-
     if not inserted:
         final_lines.append("\n")
         for entry in completed_entries:
             final_lines.append(entry)
-
     new_lines = final_lines
 
 TODO.write_text("".join(new_lines), encoding="utf-8")
@@ -132,9 +145,8 @@ print(f'Updated {updated} row(s) in place, moved {moved} to Completed.')
 
 # ── clear pending-sync.json ──────────────────────────────────────────
 
-cleared_payload = {
+PENDING.write_text(json.dumps({
     "cleared": True,
     "clearedAt": datetime.datetime.utcnow().isoformat() + "Z",
-}
-PENDING.write_text(json.dumps(cleared_payload, indent=2) + "\n", encoding="utf-8")
-print("Cleared pending-sync.json — done ✅")
+}, indent=2) + "\n", encoding="utf-8")
+print("Cleared pending-sync.json — done \u2705")
