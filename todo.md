@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-20 — Morning transcript review — +48 item(s) from 6 section(s) (17 new transcripts Jun 8-19)**
+**Last updated: 2026-06-22 — Morning transcript review — +17 item(s) from 7 section(s) (15 new transcripts Jun 4-20)**
 
 ---
 
@@ -74,6 +74,8 @@
 | 🔴 **Formal referral fee agreement** to be drafted and sent for signature after **Justin** reviews it | ASAP | Plaud — 06-17 Weekly Meeting: Transactional Funding, Deal Tracking, and Referral Process | 🔴 | ⬜ |
 | 🔴 **Discuss and finalize logistics** for the $800,000 proof‑of‑funds transfer with **Justin** | ASAP | Plaud — 06-17 Weekly Meeting: Transactional Funding, Deal Tracking, and Referral Process | 🔴 | ⬜ |
 | 🟡 Research and target **midterm renters** (e.g., traveling nurses) for the remote rental to diversify income | This week | Source: Property Management Strategies — midterm rental discussion | 🟡 | ⬜ |
+| **Fix DSCR routing toggle bug** — reverses Josh/Jeremy destinations in platform | This week | From 06-16 Automation Meeting | 🔴 | 🔲 |
+| **Align Jeremy and Josh on primary lending referrals** — confirm who handles what | This week | From 06-16 Automation Meeting | 🔴 | 🔲 |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -209,6 +211,8 @@
 | 🔴 **Connect Liz** with the **DSCR lender Jeremy** upon receipt of a website‑submitted DSCR deal to start underwriting | ASAP | Plaud — 06-17 Real Estate Investment Strategies and Funding Mechanisms | 🔴 | ⬜ |
 | 🟡 **Review** the step‑by‑step guide and checklist that will be sent to confirm the **EDGAR Next** status | ASAP | Plaud — 06-10 Consultation: EDGAR Next Enrollment and Permissions | 🟡 | ⬜ |
 | 🟡 **Add Meredith RIES** to the appropriate group/platform. | ASAP | Plaud — 06-04 Meeting: User Testing, CRM Decisions, and Feature Requests | 🟡 | ⬜ |
+| **Check Hanks Ventures email for Ken's email** — draft response | ASAP | From 06-04 personal voice memo | 🟡 | 🔲 |
+| **Finalize referral agreement with Kaye and Josh** — set monthly reconciliation meeting (4th Thursday) | This week | From 06-16 Automation Meeting | 🟡 | 🔲 |
 ---
 
 ## 🏗️ Projects — Build
@@ -301,6 +305,10 @@
 | 🟡 **Provide** the recommended compliant documentation pathway (e.g., **Fortra Law Lightning Docs**) for two‑location/creative closings and **share** any process tweaks needed for **Tactical TC** workflows | ASAP | Plaud — 06-17 Real Estate Investment Strategies and Funding Mechanisms | 🟡 | ⬜ |
 | 🟡 **Provide detailed specifications** for the **deal routing logic**. | 2026-06-05 | Plaud — 06-04 Meeting: User Testing, CRM Decisions, and Feature Requests | 🟡 | ⬜ |
 | 🔴 **Scope and initiate hiring** for a **part‑time community role** (School community) and plan backfill for **Manuel**. | This week | Plaud — 06-04 Meeting: User Testing, CRM Decisions, and Feature Requests | 🔴 | ⬜ |
+| **Create EOS rock: hire tech/automation contractor** — hourly, committed hours, onboard by July 25 | Jul 25, 2026 | From 06-16 Automation Meeting | 🟡 | 🔲 |
+| **QA review of Raj's white label platform changes** — assign owner, timeline, acceptance criteria | This week | From 06-16 Automation Meeting | 🟡 | 🔲 |
+| **Community/school restructure** — $17 basic tier, 3 classroom blocks: Start Here / Learning / Outreach | This month | From 06-20 Social Media Consultation | 🟡 | 🔲 |
+| **Schedule 3–4 hr Saturday EOS vision review session** with accountability chart | Next weekend | From 06-16 Automation Meeting | 🟡 | 🔲 |
 ---
 
 ## ⚙️ Systems / AI
@@ -457,6 +465,9 @@
 | 🟡 **Define automated unsubscribe alerts** and compliance‑friendly tracking, then implement the notification system. | End of June | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — unsubscribe automation item. | 🟡 | ⬜ |
 | 🔴 **Verify EDGAR Next** linkage and permissions by navigating from the EDGAR homepage to the Filer Management > Account Settings page | ASAP | Plaud — 06-10 Consultation: EDGAR Next Enrollment and Permissions | 🔴 | ⬜ |
 | 🔴 **Decide** whether to **upgrade HubSpot** or **build a custom CRM**; define evaluation criteria and timeline. | End of June | Plaud — 06-04 Meeting: User Testing, CRM Decisions, and Feature Requests | 🔴 | ⬜ |
+| **Add automation rock to EOS** — define scope, success criteria, owner | This sprint | From 06-16 Automation Meeting | 🟡 | 🔲 |
+| **Hire part-time AI developer** for automations between business systems | This month | From 06-10 Financial Services call | 🟡 | 🔲 |
+| **POF digital verification portal** — secure page with unique code lookup to verify POF letter legitimacy | When possible | From 06-17 Nicholas Ruiz consultation | 🟢 | 🔲 |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -492,6 +503,7 @@
 | 🔴 Update the **LinkedIn profile** (background image, headline, About section) using AI recommendations | This week | Source: Systematizing Professional Networking via LinkedIn — profile improvement advice | 🔴 | ⬜ |
 | 🟡 Implement a recurring outreach routine: **LinkedIn Mondays** for posts and messaging five contacts, and **Allstate Tuesdays** for insurance‑peer outreach | ASAP | Source: Systematizing Professional Networking via LinkedIn — scheduling system | 🟡 | ⬜ |
 | 🟡 **Upload remaining nurturing email steps** to complete the ~12‑step sequence and share full content with Premium members via Google Drive. | This week | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — email drip campaign item. | 🟡 | ⬜ |
+| **Thursday community session: social media framework** for beginners in transactional funding | This Thursday | From 06-20 Social Media Consultation | 🟡 | 🔲 |
 ---
 
 ## 🏃 Personal / Standards
@@ -536,6 +548,9 @@
 | **Monitor budget impact of the tech installation at the Island Park cabin** | This month | Paul noted the cabin tech install affected the budget but was a positive outcome, suggesting follow‑up tracking | 🟢 | ⬜ |
 | **Begin monthly W-2 distributions at the start of each month using current ratios, and adjust to 45/45/10 after Justin goes full-time** | This month | Payroll distribution plan outlined in the operational updates | 🟡 | ⬜ |
 | **Add Justin to Chase payroll wires and set up monthly W-2 transfers** | ASAP | Needed for Justin's payroll as noted in the action items | 🔴 | ⬜ |
+| **CRITICAL: Get insurance on Lehigh seller-financed property** — $600K note currently unsecured after policy lapsed; wind damage occurred | ASAP | From 06-05 RE Strategies & Ops | 🔴 | 🔲 |
+| **Coordinate hot tub delivery for Island Park cabin** — crane rental ($400–500) + electrical box ($2,200) | This week | From 06-05 Business Ops & Personal Growth | 🟡 | 🔲 |
+| **Explore North Peak Recovery surplus business with Kiefer + Matt** — strong 2-hr call, viewed as most profitable long-term play | ASAP | From 06-04 Rodeo / Personal voice memo | 🟡 | 🔲 |
 ---
 
 ## ⏳ Waiting On
@@ -559,6 +574,8 @@
 
 | **Text from Pod 22 member (Speaker 11)** with JV partnership question to run through Paxton.ai | When received | Plaud — 06-09 Pod 22 weekly meeting | 🟢 | |
 | Email intro from Pod 22 member to Utah EA (IRS-credentialed CPA with RE attorney partnership, Rich Dad Poor Dad affiliation) | TBD | Plaud — 06-16 EOS Level 10 meeting; Paul requested strategic Utah CPA | 🟡 | — |
+| **Garden Road documents** — notarized and sent out, waiting for return | TBD | From 06-04 Rodeo / Personal voice memo | 🟡 | 🔲 |
+| **Kirk deal** — waiting for Kirk to sign amendment before proceeding; call Michael at US Home Buyers for offer range | TBD | From 06-10 RE Investment Failures | 🟡 | 🔲 |
 ---
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Afternoon run 2026-06-03: 5 new transcripts processed, 4 action items added; 1 fraud-alert call recorded as no-action (resolved on call).*
 
