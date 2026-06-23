@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-22 — Morning transcript review — +17 item(s) from 7 section(s) (15 new transcripts Jun 4-20)**
+**Last updated: 2026-06-23 — Morning transcript review — +20 item(s) from 7 section(s) (transcripts Jun 5-20)**
 
 ---
 
@@ -76,6 +76,9 @@
 | 🟡 Research and target **midterm renters** (e.g., traveling nurses) for the remote rental to diversify income | This week | Source: Property Management Strategies — midterm rental discussion | 🟡 | ⬜ |
 | **Fix DSCR routing toggle bug** — reverses Josh/Jeremy destinations in platform | This week | From 06-16 Automation Meeting | 🔴 | 🔲 |
 | **Align Jeremy and Josh on primary lending referrals** — confirm who handles what | This week | From 06-16 Automation Meeting | 🔴 | 🔲 |
+| **URGENT — Lehigh seller-financed property: homeowner's insurance lapsed — $600K note completely unsecured.** Servicer emailing seller (lender) contact to pmartbrown@gmail.com. Call seller immediately. Get insurance quote from Brandon Marshall / Farmers. Confirm property manager didn't add alternative policy. | ASAP | Plaud 06-05 — Paul discovered ~$5,861 sitting in escrow with no active policy; wind damage occurred; seller as lender bears major risk | 🔴 | ⬜ |
+| **Surplus opportunity with Kiefer and Janet** — follow up after 2-hr call with Matt and partners; Paul called it 'most profitable long-term' opportunity | This week | Plaud 06-04 — surplus/overage deal; 2-hr call with Matt, Kiefer, Janet | 🔴 | ⬜ |
+| Compile RQF loan files and provide to Speaker 3 (Janet/ops) for AI processing on Marty/Ron 4th-lien position issue; perform personal email search for any documentation referencing second-position representation | This week | Plaud 06-10 RE Failures — discovered RQF lien is 4th not 2nd on large deal; needs doc review + possible litigation prep | 🟡 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -96,6 +99,7 @@
 | **Define RV park buy box** — set minimum $15K/month net after all debt service from day 1 post-close; decide basic amenity vs resort preference and operational model (owner-operator vs hired management) | This week | Plaud 06-18 — Heather's RV Park Masterclass; buy box is required homework for the program | 🟡 | ⬜ |
 | **Watch for RV Park Partnership/Wholesale Handbook** from Heather/Tricia — sign-up info for partnering on or wholesaling RV parks expected within ~1 week | By Jun 25 | Plaud 06-18 — Heather announced handbook coming within next week for partnership/wholesale program | 🟢 | ⬜ |
 | 🔴 **Assign ownership** for the >$7M RV park financing effort and set a follow‑up timeline. | This week | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — RV park financing discussion. | 🔴 | ⬜ |
+| Bobby Souza RV park (TX, 2024 build, 50-space): draft broker question list — Nov/Dec occupancy dip explanation, missing expense line items (taxes, internet, trash, propane), PM wage rate, full rent roll | This week | Plaud 06-16 Bobby Souza consultation — Paul flagged as acquisition review candidate; needs answers before proceeding | 🟡 | ⬜ |
 ---
 
 
@@ -213,6 +217,10 @@
 | 🟡 **Add Meredith RIES** to the appropriate group/platform. | ASAP | Plaud — 06-04 Meeting: User Testing, CRM Decisions, and Feature Requests | 🟡 | ⬜ |
 | **Check Hanks Ventures email for Ken's email** — draft response | ASAP | From 06-04 personal voice memo | 🟡 | 🔲 |
 | **Finalize referral agreement with Kaye and Josh** — set monthly reconciliation meeting (4th Thursday) | This week | From 06-16 Automation Meeting | 🟡 | 🔲 |
+| Check Hanks Ventures email from Ken and draft response | ASAP | Plaud 06-04 — voice memo; Ken emailed re: unknown topic | 🟡 | ⬜ |
+| Follow up with Doug (3D Capital Management) re: concerns resolved — update him on deal status | This week | Plaud 06-04 — productive call noted; Doug had concerns that were addressed | 🟢 | ⬜ |
+| Connect Gilbert (CA investor) with RQF white-label form + ping Jeremy re: CA hard money eligibility | This week | Plaud 06-05 — Gilbert (Bakersfield, Morby method, fix-and-flip); promised to send link + ask Jeremy | 🟢 | ⬜ |
+| Share referral agreement document with Brian McMullen for his lending business model | This week | Plaud 06-05 Business Session — Paul offered to share personal referral agreement doc | 🟢 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -309,6 +317,11 @@
 | **QA review of Raj's white label platform changes** — assign owner, timeline, acceptance criteria | This week | From 06-16 Automation Meeting | 🟡 | 🔲 |
 | **Community/school restructure** — $17 basic tier, 3 classroom blocks: Start Here / Learning / Outreach | This month | From 06-20 Social Media Consultation | 🟡 | 🔲 |
 | **Schedule 3–4 hr Saturday EOS vision review session** with accountability chart | Next weekend | From 06-16 Automation Meeting | 🟡 | 🔲 |
+| Build POF letter verification portal — unique code per letter, QR code lookup, serial number validation so counterparties can verify POF letters are RQF-issued | When possible | Plaud 06-17 Nicholas Ruiz call + 06-12 POF inquiry — prevents forged POF letters; AI suggested during call | 🟢 | ⬜ |
+| Finalize and sign DSCR referral agreement — include Kaye (KL) and Josh Trujillo; their partners must sign too; set recurring monthly reconciliation meeting (4th Thursday) | This week | Plaud 06-16 L10 — ~$30K+ outstanding referral fees with no signed agreement; root cause of reconciliation gap | 🟡 | ⬜ |
+| Create shared DSCR referral reconciliation Google Sheet — funding dates, borrower-referrer mapping, agreed/checked columns, invoicing/payment terms; confirm authoritative data source with Jeremy and Josh | This week | Plaud 06-16 L10 — ~$54,947 owed at 0.50% on ~$10.95M; only ~$21K received; ~$30K+ outstanding with no tracker | 🟡 | ⬜ |
+| Create Q3 rock: onboard part-time tech/automation hire (20 hrs/week, ~$4K/month from LATAM) — define role scope, skills, budget, sourcing plan; target onboarding by 2026-07-25 | By Jul 25 | Plaud 06-16 L10 + 06-19 — Paul spending ~30 hrs/week on tech; hire frees capacity for capital raising; Start Virtual or equivalent | 🟡 | ⬜ |
+| Update LinkedIn profile using AI — refresh background image, headline, About section, experience; establish posting schedule (deals, investor paydays, positive framing) | When possible | Plaud 06-19 accountability session — Paul hasn't used LinkedIn meaningfully; peer showed 2,499 connections as contrast | 🟢 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -468,6 +481,11 @@
 | **Add automation rock to EOS** — define scope, success criteria, owner | This sprint | From 06-16 Automation Meeting | 🟡 | 🔲 |
 | **Hire part-time AI developer** for automations between business systems | This month | From 06-10 Financial Services call | 🟡 | 🔲 |
 | **POF digital verification portal** — secure page with unique code lookup to verify POF letter legitimacy | When possible | From 06-17 Nicholas Ruiz consultation | 🟢 | 🔲 |
+| Fix DSCR routing bug on white-label platform — DSCR toggle currently reverses Josh/Jeremy destinations; must send to correct lender | ASAP | Plaud 06-16 L10 — Raj implemented toggle but destinations are reversed; needs QA correction immediately | 🔴 | ⬜ |
+| Structured QA pass on all Raj's white-label platform changes — assign QA owner, define acceptance criteria, establish timeline; verify each feature before marking complete | This week | Plaud 06-16 L10 — multiple Raj items shipped without formal QA; contact visibility, nurturing glitches, DSCR routing all needed fixes | 🟡 | ⬜ |
+| Conduct one-on-one with Alana — deliver clear performance feedback, define measurable criteria, set one-week re-evaluation timeline; also one-on-one with Manuela re: long-term goals and compensation pathway to $15/hr | ASAP | Plaud 06-16 + 06-19 — Alana 3 weeks in, fit concerns from Justin; Manuela may move to FL, retention risk | 🟡 | ⬜ |
+| Manuela retention plan — if she relocates to Florida, US wages (~$20/hr min) make retention impossible; develop contingency staffing plan and document her processes now | This week | Plaud 06-19 — Manuela (8 months, rock star) husband is American based in Miami; departure risk if she moves | 🟡 | ⬜ |
+| Design AI automation workflows for RQF: (1) contract review for refundable/non-refundable wording, (2) missing-document outreach for deals on hold, (3) email response monitoring, (4) QuickBooks management across all 5 businesses | When possible | Plaud 06-19 — Paul processing 15-20 deals/week; 15 on hold for missing docs; AI can automate outreach + QB saves ~$800/mo bookkeeping | 🟢 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -551,6 +569,8 @@
 | **CRITICAL: Get insurance on Lehigh seller-financed property** — $600K note currently unsecured after policy lapsed; wind damage occurred | ASAP | From 06-05 RE Strategies & Ops | 🔴 | 🔲 |
 | **Coordinate hot tub delivery for Island Park cabin** — crane rental ($400–500) + electrical box ($2,200) | This week | From 06-05 Business Ops & Personal Growth | 🟡 | 🔲 |
 | **Explore North Peak Recovery surplus business with Kiefer + Matt** — strong 2-hr call, viewed as most profitable long-term play | ASAP | From 06-04 Rodeo / Personal voice memo | 🟡 | 🔲 |
+| Contact Kent re: local crane operator for Island Park cabin hot tub delivery (Twilight 8x8, $8K, next Thursday 5-6pm) — crane estimated $400-500 extra | ASAP | Plaud 06-05 — hot tub purchased; financed at 1.99% APR 6 months; remote Idaho cabin needs crane to lift onto deck | 🟡 | ⬜ |
+| Obtain second realtor comp for late father's property; share both comps with sisters; hold group consultation — recommended strategy: list at $595K as-is (ARV ~$800K, reno cost ~$150K not worth it on 4-way split) | When possible | Plaud 06-10 Financial — realtor comp shows $600K as-is / $800K ARV; listing at $595K targets 1-3 week under-contract timeline | 🟢 | ⬜ |
 ---
 
 ## ⏳ Waiting On
