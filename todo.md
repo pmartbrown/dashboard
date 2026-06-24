@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-23 — Morning transcript review — +20 item(s) from 7 section(s) (transcripts Jun 5-20)**
+**Last updated: 2026-06-24 — Morning transcript review — +6 item(s) from 4 section(s) (transcripts Jun 23)**
 
 ---
 
@@ -221,6 +221,7 @@
 | Follow up with Doug (3D Capital Management) re: concerns resolved — update him on deal status | This week | Plaud 06-04 — productive call noted; Doug had concerns that were addressed | 🟢 | ⬜ |
 | Connect Gilbert (CA investor) with RQF white-label form + ping Jeremy re: CA hard money eligibility | This week | Plaud 06-05 — Gilbert (Bakersfield, Morby method, fix-and-flip); promised to send link + ask Jeremy | 🟢 | ⬜ |
 | Share referral agreement document with Brian McMullen for his lending business model | This week | Plaud 06-05 Business Session — Paul offered to share personal referral agreement doc | 🟢 | ⬜ |
+| **Be available for call from Amira's California seller** — seller may call Paul directly to verify 100% financing and lender legitimacy; avoid mentioning double close | On-demand | 06-23 RQF call — Amira (Amira/Adam's partner) California deal | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -322,6 +323,8 @@
 | Create shared DSCR referral reconciliation Google Sheet — funding dates, borrower-referrer mapping, agreed/checked columns, invoicing/payment terms; confirm authoritative data source with Jeremy and Josh | This week | Plaud 06-16 L10 — ~$54,947 owed at 0.50% on ~$10.95M; only ~$21K received; ~$30K+ outstanding with no tracker | 🟡 | ⬜ |
 | Create Q3 rock: onboard part-time tech/automation hire (20 hrs/week, ~$4K/month from LATAM) — define role scope, skills, budget, sourcing plan; target onboarding by 2026-07-25 | By Jul 25 | Plaud 06-16 L10 + 06-19 — Paul spending ~30 hrs/week on tech; hire frees capacity for capital raising; Start Virtual or equivalent | 🟡 | ⬜ |
 | Update LinkedIn profile using AI — refresh background image, headline, About section, experience; establish posting schedule (deals, investor paydays, positive framing) | When possible | Plaud 06-19 accountability session — Paul hasn't used LinkedIn meaningfully; peer showed 2,499 connections as contrast | 🟢 | ⬜ |
+| **Relaunch RQF classroom** — redesigned 7-block structure (Start Here, Know Your Game, Go Get Deals, Run It Up + white label/nurture/Morbi/Echo blocks), AI avatar videos on every page, plays consolidated in one place | Jun 25 | 06-23 RQF community call — launching next Wednesday; 2 months of manual video work replaced by AI | 🔴 | ⬜ |
+| **Implement RQF community new pricing tiers** — Premium ~$100/mo ($970/yr = 10 months); Standard paid after free trial; grandfather all existing premium members at current rate (~$69) | Jun 25 | 06-23 RQF community call — pricing moving with classroom relaunch | 🔴 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -486,6 +489,8 @@
 | Conduct one-on-one with Alana — deliver clear performance feedback, define measurable criteria, set one-week re-evaluation timeline; also one-on-one with Manuela re: long-term goals and compensation pathway to $15/hr | ASAP | Plaud 06-16 + 06-19 — Alana 3 weeks in, fit concerns from Justin; Manuela may move to FL, retention risk | 🟡 | ⬜ |
 | Manuela retention plan — if she relocates to Florida, US wages (~$20/hr min) make retention impossible; develop contingency staffing plan and document her processes now | This week | Plaud 06-19 — Manuela (8 months, rock star) husband is American based in Miami; departure risk if she moves | 🟡 | ⬜ |
 | Design AI automation workflows for RQF: (1) contract review for refundable/non-refundable wording, (2) missing-document outreach for deals on hold, (3) email response monitoring, (4) QuickBooks management across all 5 businesses | When possible | Plaud 06-19 — Paul processing 15-20 deals/week; 15 on hold for missing docs; AI can automate outreach + QB saves ~$800/mo bookkeeping | 🟢 | ⬜ |
+| **Add AI avatar disclosure to RQF classroom pages** — add note clarifying AI-generated videos so members don't feel misled | Pre-launch | 06-23 RQF community call — Paul's own action item before classroom goes live | 🟡 | ⬜ |
+| **Evaluate AI receptionist + lead gen tool** (from podcast interview) — test whether it can qualify transactional lending inbounds; explore enterprise/white-label pricing for RQF community members; could replace role currently being trained | TBD | 06-23 podcast interview | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -522,6 +527,7 @@
 | 🟡 Implement a recurring outreach routine: **LinkedIn Mondays** for posts and messaging five contacts, and **Allstate Tuesdays** for insurance‑peer outreach | ASAP | Source: Systematizing Professional Networking via LinkedIn — scheduling system | 🟡 | ⬜ |
 | 🟡 **Upload remaining nurturing email steps** to complete the ~12‑step sequence and share full content with Premium members via Google Drive. | This week | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — email drip campaign item. | 🟡 | ⬜ |
 | **Thursday community session: social media framework** for beginners in transactional funding | This Thursday | From 06-20 Social Media Consultation | 🟡 | 🔲 |
+| **Receive podcast video from interviewer's editor** — second episode recorded Jun 23; repurpose clip for social media once editor delivers | Jul 2026 | 06-23 podcast interview — editor will send next month | 🟢 | ⬜ |
 ---
 
 ## 🏃 Personal / Standards
