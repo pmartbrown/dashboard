@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-24 — Morning transcript review — +6 item(s) from 4 section(s) (transcripts Jun 23)**
+**Last updated: 2026-06-25 — Morning transcript review — +41 item(s) from 6 section(s) (transcripts Jun 23-24)**
 
 ---
 
@@ -79,6 +79,7 @@
 | **URGENT — Lehigh seller-financed property: homeowner's insurance lapsed — $600K note completely unsecured.** Servicer emailing seller (lender) contact to pmartbrown@gmail.com. Call seller immediately. Get insurance quote from Brandon Marshall / Farmers. Confirm property manager didn't add alternative policy. | ASAP | Plaud 06-05 — Paul discovered ~$5,861 sitting in escrow with no active policy; wind damage occurred; seller as lender bears major risk | 🔴 | ⬜ |
 | **Surplus opportunity with Kiefer and Janet** — follow up after 2-hr call with Matt and partners; Paul called it 'most profitable long-term' opportunity | This week | Plaud 06-04 — surplus/overage deal; 2-hr call with Matt, Kiefer, Janet | 🔴 | ⬜ |
 | Compile RQF loan files and provide to Speaker 3 (Janet/ops) for AI processing on Marty/Ron 4th-lien position issue; perform personal email search for any documentation referencing second-position representation | This week | Plaud 06-10 RE Failures — discovered RQF lien is 4th not 2nd on large deal; needs doc review + possible litigation prep | 🟡 | ⬜ |
+| 🟡 **Continue capital raising at reduced cost to fund deal flow, targeting half‑cost capital sources** | Ongoing | Paul mentioned ongoing capital raising to cut cost of capital in half | 🟡 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -222,6 +223,13 @@
 | Connect Gilbert (CA investor) with RQF white-label form + ping Jeremy re: CA hard money eligibility | This week | Plaud 06-05 — Gilbert (Bakersfield, Morby method, fix-and-flip); promised to send link + ask Jeremy | 🟢 | ⬜ |
 | Share referral agreement document with Brian McMullen for his lending business model | This week | Plaud 06-05 Business Session — Paul offered to share personal referral agreement doc | 🟢 | ⬜ |
 | **Be available for call from Amira's California seller** — seller may call Paul directly to verify 100% financing and lender legitimacy; avoid mentioning double close | On-demand | 06-23 RQF call — Amira (Amira/Adam's partner) California deal | 🟡 | ⬜ |
+| 🟡 **Send the recording of the current state‑selection working session to Speaker 3** | TBD | Listed under Paul’s action items | 🟡 | ⬜ |
+| 🟡 **Discuss the DSCR/HML submission and referral process with the team during Thursday huddle.** | Thursday (this week) | Action Items list for @Paul Brown | 🟡 | ⬜ |
+| 🔴 **Request contact details for the title company holding $210K earnest money from Manuela via WhatsApp, then conduct a follow‑up call.** | TBD | Action Items list for @Paul Brown | 🔴 | ⬜ |
+| 🟡 **Post a clear explanation of recourse vs. non‑recourse lending definitions in the community forum** | TBD | Speaker 1 asked Speaker 2 to create a community post to educate members | 🟡 | ⬜ |
+| 🟡 **Field direct phone calls from the California seller to verify the 100% financing if she makes contact** | TBD | Action Items section: handle seller verification calls | 🟡 | ⬜ |
+| 🟡 **Test the AI receptionist and lead generation tool with a trial to validate niche performance** | This week | Paul expressed interest in testing the tool and asked for a trial | 🟡 | ⬜ |
+| 🟡 **Request enterprise pricing and detailed feature list from the AI tool vendor** | This week | Paul asked if there could be an enterprise level model for his acquisition partners | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -325,6 +333,27 @@
 | Update LinkedIn profile using AI — refresh background image, headline, About section, experience; establish posting schedule (deals, investor paydays, positive framing) | When possible | Plaud 06-19 accountability session — Paul hasn't used LinkedIn meaningfully; peer showed 2,499 connections as contrast | 🟢 | ⬜ |
 | **Relaunch RQF classroom** — redesigned 7-block structure (Start Here, Know Your Game, Go Get Deals, Run It Up + white label/nurture/Morbi/Echo blocks), AI avatar videos on every page, plays consolidated in one place | Jun 25 | 06-23 RQF community call — launching next Wednesday; 2 months of manual video work replaced by AI | 🔴 | ⬜ |
 | **Implement RQF community new pricing tiers** — Premium ~$100/mo ($970/yr = 10 months); Standard paid after free trial; grandfather all existing premium members at current rate (~$69) | Jun 25 | 06-23 RQF community call — pricing moving with classroom relaunch | 🔴 | ⬜ |
+| 🔴 **Build and maintain the shared Google Sheets state database (fee caps, assignment rules, process friction, payout times, etc.)** | TBD | Explicit task in the Action Items section | 🔴 | ⬜ |
+| 🔴 **Create the surplus funds deal tracker in Google Sheets (case type flags, status, attorney engagement, packet progress)** | TBD | Explicit task in the Action Items section | 🔴 | ⬜ |
+| 🔴 **Complete Module 3 deliverables (case type flagging, write workflow from memory, “moat” statement, 60‑second explanatory video)** | TBD | Listed under Paul’s action items | 🔴 | ⬜ |
+| 🔴 **Complete Module 4 deliverables (one‑page trust card; one‑page compliance checklist with signing standards)** | TBD | Listed under Paul’s action items | 🔴 | ⬜ |
+| 🔴 **Complete Module 5 deliverables (attorney partner scorecard; engagement structure sheet; jurisdiction launch pack)** | TBD | Listed under Paul’s action items | 🔴 | ⬜ |
+| 🔴 **Finalize the 30‑day launch plan calendar and select the official start date** | TBD | Listed under Paul’s action items | 🔴 | ⬜ |
+| 🔴 **Contact hot tub repairman Chris at 801-920-5356 to coordinate repair and prevent further rental loss** | This week | Paul needs to align on hot tub repair to avoid losing Fourth of July weekend revenue | 🔴 | ⬜ |
+| 🔴 **Plan and finalize the 6‑to‑9 session Morby Method educational series structure, including call titles, topics, Q&A format, and required visual assets/SOPs/FAQs** | TBD | Action item listed for Paul to complete the Morby Method series framework | 🔴 | ⬜ |
+| 🔴 **Design and document community “graduation” requirements for each training module (complete content, ≥70% knowledge‑check score, post explanatory video)** | TBD | Paul committed to defining graduation criteria to ensure skill acquisition | 🔴 | ⬜ |
+| 🟡 **Finalize tiered status/recognition system (Silver, Gold, Platinum badges/backgrounds) within the School platform’s three‑tier constraint** | TBD | Paul to lock down visual status system for community members | 🟡 | ⬜ |
+| 🟡 **Define pricing model and workflow for VA video‑editing service ($5–$7 per video) and coordinate implementation with current VA** | TBD | Paul will set up the VA‑powered editing reward for members who meet graduation requirements | 🟡 | ⬜ |
+| 🟡 **Create compensation structure for Meredith’s community education role (percentage of school subscription fees plus bonus tied to white‑label deal revenue)** | TBD | Paul to outline Meredith’s pay model linked to subscription and deal performance | 🟡 | ⬜ |
+| 🟡 **Create a three‑minute educational YouTube video on recourse versus non‑recourse.** | TBD | Action Items list for @Paul Brown | 🟡 | ⬜ |
+| 🔴 **Draft a job description for a part‑time technical/automation resource.** | TBD | Action Items list for @Paul Brown | 🔴 | ⬜ |
+| 🟡 **Pause further development of the HML/DSCR referral program until September to stabilize the offering.** | September 2024 | Strategic decision to pause development until September | 🟡 | ⬜ |
+| 🔴 **Relaunch the classroom with redesigned structure, AI‑generated videos, and consolidate all “plays” into a single location** | Next Wednesday | Speaker 1 outlined the classroom relaunch as part of the platform update | 🔴 | ⬜ |
+| 🟡 **Add the recourse/non‑recourse definition note to internal reference notes for future use** | TBD | Speaker 1 said he would post the definition in the notes for anyone needing a reminder | 🟡 | ⬜ |
+| 🔴 **Launch the refreshed online classroom with the new 'start here' section** | July | Action Items section: launch refreshed online classroom with new 'start here' section | 🔴 | ⬜ |
+| 🟡 **Add a disclosure to the classroom clarifying the use of AI avatars to prevent user concerns** | TBD | Action Items section: add AI avatar disclosure | 🟡 | ⬜ |
+| 🔴 **Rebuild the acquisition partner school community funnel to automate partner acquisition** | This week | Paul stated he is rebuilding the whole thing now and needs to push more deal flow after adding a new staff member | 🔴 | ⬜ |
+| 🟢 **Schedule a weekly scorecard review to track time‑buy‑back initiatives and AI tool ROI** | Weekly | Paul said time‑buy‑back is a regular agenda item in weekly meetings | 🟢 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -491,6 +520,12 @@
 | Design AI automation workflows for RQF: (1) contract review for refundable/non-refundable wording, (2) missing-document outreach for deals on hold, (3) email response monitoring, (4) QuickBooks management across all 5 businesses | When possible | Plaud 06-19 — Paul processing 15-20 deals/week; 15 on hold for missing docs; AI can automate outreach + QB saves ~$800/mo bookkeeping | 🟢 | ⬜ |
 | **Add AI avatar disclosure to RQF classroom pages** — add note clarifying AI-generated videos so members don't feel misled | Pre-launch | 06-23 RQF community call — Paul's own action item before classroom goes live | 🟡 | ⬜ |
 | **Evaluate AI receptionist + lead gen tool** (from podcast interview) — test whether it can qualify transactional lending inbounds; explore enterprise/white-label pricing for RQF community members; could replace role currently being trained | TBD | 06-23 podcast interview | 🟡 | ⬜ |
+| 🔴 **Reach out to Owen to set up a shared “co‑work” Claude AI account for centralized knowledge management** | TBD | Action item list directs Paul to contact Owen about a Claude AI account | 🔴 | ⬜ |
+| 🔴 **Implement automated email sequences for white‑label deal submissions to provide immediate receipt confirmation and reassurance touchpoints for broker partners** | TBD | Paul agreed to add reassurance‑focused automation to improve broker communication | 🔴 | ⬜ |
+| 🟡 **Evaluate investment in expanded HubSpot CRM capabilities (≈$12,000/yr) versus existing automation tools to improve white‑label deal flow management** | TBD | Paul and tech partner Jeremy are assessing ROI of HubSpot upgrade | 🟡 | ⬜ |
+| 🔴 **Draft and implement a standardized SOP for HML/DSCR referrals to formalize the process.** | TBD | Action Items list for @Paul Brown | 🔴 | ⬜ |
+| 🟡 **Update referral email templates to include referrer details and lender information for HML/DSCR submissions.** | TBD | Discussion on email automation and improving referral communications | 🟡 | ⬜ |
+| 🔴 **Allocate budget and resources to implement an AI‑powered receptionist that can be trained on Real Quick Funds’ lending types** | Next month | Paul wants a receptionist that can answer specific qualifying questions for transactional funding | 🔴 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -528,6 +563,10 @@
 | 🟡 **Upload remaining nurturing email steps** to complete the ~12‑step sequence and share full content with Premium members via Google Drive. | This week | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — email drip campaign item. | 🟡 | ⬜ |
 | **Thursday community session: social media framework** for beginners in transactional funding | This Thursday | From 06-20 Social Media Consultation | 🟡 | 🔲 |
 | **Receive podcast video from interviewer's editor** — second episode recorded Jun 23; repurpose clip for social media once editor delivers | Jul 2026 | 06-23 podcast interview — editor will send next month | 🟢 | ⬜ |
+| 🟡 **Begin producing YouTube and community‑facing finance education videos covering foundational lending concepts (recourse vs. non‑recourse loans, capital stacks, revenue vs. net profit)** | TBD | Paul plans to add finance‑focused content to broaden members’ financial literacy | 🟡 | ⬜ |
+| 🟡 **Perform cost‑benefit analysis for upgrading HubSpot to Marketing Hub Professional tier.** | TBD | Discussion on HubSpot upgrade and need for cost‑benefit analysis | 🟡 | ⬜ |
+| 🔴 **Implement revised pricing tiers (premium ~ $100, standard with trial then paid) and grandfather existing premium members** | Next Wednesday | Speaker 1 announced pricing changes to go live with the classroom relaunch | 🔴 | ⬜ |
+| 🟡 **Create and deploy short video clips for each page of the school community curriculum using a $200/mo cloud account and $50/mo HeyGen account** | Next month | Paul noted that two‑day video production saves weeks and improves user experience | 🟡 | ⬜ |
 ---
 
 ## 🏃 Personal / Standards
@@ -577,6 +616,8 @@
 | **Explore North Peak Recovery surplus business with Kiefer + Matt** — strong 2-hr call, viewed as most profitable long-term play | ASAP | From 06-04 Rodeo / Personal voice memo | 🟡 | 🔲 |
 | Contact Kent re: local crane operator for Island Park cabin hot tub delivery (Twilight 8x8, $8K, next Thursday 5-6pm) — crane estimated $400-500 extra | ASAP | Plaud 06-05 — hot tub purchased; financed at 1.99% APR 6 months; remote Idaho cabin needs crane to lift onto deck | 🟡 | ⬜ |
 | Obtain second realtor comp for late father's property; share both comps with sisters; hold group consultation — recommended strategy: list at $595K as-is (ARV ~$800K, reno cost ~$150K not worth it on 4-way split) | When possible | Plaud 06-10 Financial — realtor comp shows $600K as-is / $800K ARV; listing at $595K targets 1-3 week under-contract timeline | 🟢 | ⬜ |
+| 🟡 **Begin wearing and using the Whoop band daily for sleep and health tracking** | This week | Paul mentions starting to wear the Whoop band at the start of the session | 🟡 | ⬜ |
+| 🟡 **Investigate Sleep Number systems for dual‑sided firmness to improve his wife’s sleep quality** | TBD | Paul says he wants to look into Sleep Number beds for his wife | 🟡 | ⬜ |
 ---
 
 ## ⏳ Waiting On
