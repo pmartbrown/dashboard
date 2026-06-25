@@ -1,62 +1,58 @@
-# Morning Briefing — Monday, June 22, 2026
+# Morning Briefing — Thursday, June 25, 2026
 
 ## The One Thing
-Call Naohiro Mouri — get subdoc signed and $100K routed 3D Capital → RezGap Plus today.
+Call Naohiro Mouri — get his subdoc signed and $100K wired 3D Capital → RezGap Plus today. STRETY overdue since Jun 18. 5 days to June 30.
 
 ## Top 3 Priorities
-1. Mouri Subdoc + $100K Wire — Call now, portal link, signature, fund routing. 8 days to deadline.
-2. EOS V/TO — Draft Today — 8 days overdue (due June 15). Block 2 hours.
-3. Capital Outreach (2+ contacts) — Ed/Don Davis, Dylan, Norm. June 30 is 8 days away.
+1. Mouri Subdoc + $100K Wire — STRETY overdue Jun 18. Call today, portal link, confirm routing.
+2. Outreach to 20 Accredited Investors — STRETY due Jun 26. Today's 9:30–11 AM cold outreach block.
+3. Brenda $100K Return + Q2 Rocks Logistics — Both due June 30. Confirm timing + EOS Rock status.
 
 ## Fund Status
-Balance: $50,000 · Target: $2,000,000 · 2.5% · LPs: Paul $50K ✅ | Mouri ~$100K ⏳ subdoc outstanding | Dylan 🔄 | Ed/Don Davis 📞 | Norm 📞 | Tracker stale 28 days ⚠️
+Balance: $50,000 · Target: $2,000,000 · 2.5% · LP: Paul $50K ✅ · Mouri ~$100K ⏳ OVERDUE · Dylan 🔄 · Ed/Don Davis 📞 · Norm 📞
+⚠️ Capital Raising Tracker stale (31 days — last updated 2026-05-25)
 
-## Follow-Ups & Open Loops
-🔴 #31 Mouri subdoc + fund routing — CRITICAL
-🔴 #11 Mouri additional capital + intros (after subdoc)
-🔴 #77 Fraudulent $50K — police report + DA escalation
-🔴 #37 Dad's life insurance — connect with Pipe
-🔴 #79 Schedule 3 agents for Dad's house (OVERDUE May 27)
-🔴 #80 Sisters expense lists (OVERDUE May 27)
-🔴 #81 Paul & Akemi expense list (OVERDUE May 27)
-🔴 #53 EOS V/TO — OVERDUE 8 DAYS (due June 15)
-🔴 #83 Marty deal — investigate loans, confirm position + title insurance
-🔴 #84 Emma — doctor sign-off for Africa trip
-🟠 #35 Ed/Don Davis capital intro
-🟠 #34 Dylan Stewart — periodic follow-up
-🟠 #45-50 EOS Phases 1-3 (all overdue)
-🟠 #40 OC Semesters Instructor
-🟠 #41 Ella Ray Orbit Challenge
-🟠 #42 Surplus Recovery
-🟠 #55 Dave Lisi Alaska Lodge deal
-🟠 #56 Anne-Marie Tallahassee airport project
-🟠 #63 Jaden & Heather — deals below Pace's cut
-🟠 #64 EMD contract review
-🟠 #75 Zach Larson — meet in person
-🟠 #76 Jeramy Ennis referral addendum
-🟠 #82 Ella/Justin/Paul call
-🟠 #86 Steven text — two health ideas
-🟠 #12 Date with Akemi
-🟠 #54 Alaska fishing trip Sep 6-10
-🟠 #18 Susan Byerly appointment
-🟡 #36 Norm — confirm dates + seller carry
-🟡 #32 Mouri referrals (after subdoc)
-🟡 #2 Tauna Ellis — Marquee intro
-🟡 #38 Bruce Williams (Rescu Equity)
-🟡 #25 Skool community launch
-🟡 #26 Dad's taxes
-🟡 #29 RezGap e-subdocs
+## STRETY TO-DOS — NEXT 7 DAYS
+OVERDUE:
+• Jun 16 — Follow up with Dylan, Ed's friend, and others
+• Jun 18 — Get Mouri to sign + move his $$ from RQF to 3DCM to Fund 🔥
+• Jun 24 — Put together a job req for the position
+
+THIS WEEK:
+• TODAY Jun 25 — Attend the morning Huddle 1x per week
+• Jun 26 — Agree to the process of payment on referrals
+• Jun 26 — Outreach to 20 accredited investors ⭐
+• Jun 26 — Chase Bank Process
+• Jun 27 — Build out new Vault section
+• Jun 30 — Connect w/ three recruiting services
+• Jun 30 — Check AI Accuracy on Revenue numbers
+• Jun 30 — Proof of Funds submit option fix (over $1M)
+• Jul 1 — Design new SOP for HML/DSCR for Roz
+• Jul 1 — Update Lender Info on HML/DSCR
+• Jul 1 — CC admin@ for HML/DSCR email
+• Jul 1 — Build new White Label section
+
+ROCKS:
+• 🔴 Raise $500K in June — at $50K (10%), 5 days left
+• 🟡 Introduce Strety to Org — due TODAY
+• 🟡 First Review cycle in Strety — Jun 29
+• 🟠 Refresh Skool Classroom Content — Jun 30
+• 🟠 Get Technical Resource Onboard — Jul 18
+• 🟢 Raise $1M in RGP Fund I — Aug 31
 
 ## Today's Schedule
-No calendar events · Morning: Call Mouri · Mid-Morning: EOS V/TO block (2 hrs) · Afternoon: EOS Phase 1 with Justin + capital outreach
+- All Day: Emma Wrestling Camp (ends Jun 26)
+- 8:00–9:00 AM: Dustin Gomez | Real Estate & Private Credit (Black Card)
+- 9:30–11:00 AM: Capital Raising — Cold Outreach (RQF)
+- 10:00–11:00 AM: Tanya Oliver | Performance Coach (Black Card)
+- 2:00–3:00 PM: Guest Speaker: Jamey Marcos (TxFHub)
+- 2:00–3:30 PM: Weekly Level 2 Training — Captains (OC Level 2) [overlap]
+- 3:00–4:30 PM: Weekly All Level meeting — Captains (RQF)
+- 6:00–9:00 PM: Lehi Rodeo — Volunteer 🤠
 
 ## Email Action Items
-EOD report inaccessible — scan inbox directly for overnight items.
-
-## Rest of Week
-Tue Jun 23 — EOS V/TO Day 2 · Dad's estate · $50K fraud report
-Wed Jun 24 — YM/YW 7-8 PM · Capital push (6 days)
-Thu Jun 25 — Open · Brenda $100K logistics · EOS Q2 Rocks
-Fri Jun 26 — Accountability call with Brian · 4 days to deadline
-Sun Jun 28 — Family Church 1-1:45 PM
-🔥 Tue Jun 30 — TRIPLE DEADLINE: $1M milestone · Q2 Rocks · Brenda $100K due
+- OVERDUE: #77 Fraudulent $50K — police report + DA escalation
+- OVERDUE: #79–81 Dad's estate items (agents, expense lists) — since May 27
+- URGENT: #84 Emma doctor sign-off for Africa trip
+- ACTION: #53 EOS V/TO Draft (10+ days overdue)
+- ACTION: #44 URA scanned mail (Delaware letters)
