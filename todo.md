@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-25 — Morning transcript review — +41 item(s) from 6 section(s) (transcripts Jun 23-24)**
+**Last updated: 2026-06-26 — Morning transcript review — +7 item(s) from 3 sections (transcripts Jun 25)**
 
 ---
 
@@ -230,6 +230,8 @@
 | 🟡 **Field direct phone calls from the California seller to verify the 100% financing if she makes contact** | TBD | Action Items section: handle seller verification calls | 🟡 | ⬜ |
 | 🟡 **Test the AI receptionist and lead generation tool with a trial to validate niche performance** | This week | Paul expressed interest in testing the tool and asked for a trial | 🟡 | ⬜ |
 | 🟡 **Request enterprise pricing and detailed feature list from the AI tool vendor** | This week | Paul asked if there could be an enterprise level model for his acquisition partners | 🟡 | ⬜ |
+| **Reach out to Julian Rizov and James Parshay** re: joining RQF lender network as lenders 3 & 4 ("Four Js": Josh, Jeremy, Julian, James); get their FICO/product criteria to update routing logic | This week | 06-25 Weekly Meeting w/ Roz — Roz recommended both; Jay Holder refers transactional deals to James Parshay | 🟡 | ⬜ |
+| **Schedule demo with Roz to review Julian's custom CRM/affiliate system** — assess fit for RQF referrer portal; consider piloting with one deal type (EMD or Morby Method) to test before full CRM switch from HubSpot | This week | 06-25 Weekly Meeting w/ Roz — HubSpot at $800/mo triggers CRM reconsideration; pilot approach reduces risk | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -354,6 +356,9 @@
 | 🟡 **Add a disclosure to the classroom clarifying the use of AI avatars to prevent user concerns** | TBD | Action Items section: add AI avatar disclosure | 🟡 | ⬜ |
 | 🔴 **Rebuild the acquisition partner school community funnel to automate partner acquisition** | This week | Paul stated he is rebuilding the whole thing now and needs to push more deal flow after adding a new staff member | 🔴 | ⬜ |
 | 🟢 **Schedule a weekly scorecard review to track time‑buy‑back initiatives and AI tool ROI** | Weekly | Paul said time‑buy‑back is a regular agenda item in weekly meetings | 🟢 | ⬜ |
+| **Fix white label logo reversion** — when user deletes logo, header should revert to company name (currently one-way; company name disappears permanently after logo uploaded); Priority A | ASAP | 06-25 Weekly Meeting w/ Roz — 3+ users hit this; Roz confirmed fix | 🔴 | ⬜ |
+| **White label POF >$1M — allow submission + notify team** — change behavior from hard block to allow contact capture; auto-email admin, Justin, and Manuela when request >$1M submitted via white label | This week | 06-25 Weekly Meeting w/ Roz — current behavior blocks submission entirely; main site allows request | 🟡 | ⬜ |
+| **Consolidate borrower/referrer initial email** — send one email to borrower with referrer CC'd (not 2 separate emails); add stage-based automated updates ("working on it" / "waiting on your response") to reduce referrer anxiety; evaluate own system vs HubSpot | This week | 06-25 Weekly Meeting w/ Roz — referrers calling constantly due to no status updates | 🟡 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -526,6 +531,8 @@
 | 🔴 **Draft and implement a standardized SOP for HML/DSCR referrals to formalize the process.** | TBD | Action Items list for @Paul Brown | 🔴 | ⬜ |
 | 🟡 **Update referral email templates to include referrer details and lender information for HML/DSCR submissions.** | TBD | Discussion on email automation and improving referral communications | 🟡 | ⬜ |
 | 🔴 **Allocate budget and resources to implement an AI‑powered receptionist that can be trained on Real Quick Funds’ lending types** | Next month | Paul wants a receptionist that can answer specific qualifying questions for transactional funding | 🔴 | ⬜ |
+| **Build automation to detect churned Skool premium members** — daily compare of paying vs. premium lists; notify Paul when mismatch found (Claude-based or server-side process with Roz); also detect "free premium" glitches where canceled users retain premium access | This week | 06-25 Weekly Meeting w/ Roz — Paul manually cleaned stale members; need automated detection | 🔴 | ⬜ |
+| **Justin + Manoella: research automated email solution** — evaluate HubSpot $800/mo upgrade vs. Roz/Julian custom CRM system for stage-based borrower/referrer deal status notifications; present recommendation | This week | 06-25 Weekly Meeting — L10 action item; decision needed before next dev cycle | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
