@@ -1,53 +1,44 @@
-# Morning Briefing — Friday, June 26, 2026
+# Morning Briefing — Saturday, June 27, 2026
 
 ## The One Thing
-Call Naohiro Mouri — get subdoc signed and $100K wired today. STRETY overdue since Jun 18. 4 days to June 30.
+Call Naohiro Mouri — get subdoc signed and $100K wired before noon commitments.
 
 ## Top 3 Priorities
-1. Mouri Subdoc + $100K Wire — Call before 10 AM, send portal link, confirm 3D Capital → RezGap Plus routing
-2. Outreach to 20 Accredited Investors — STRETY due TODAY. Use 10 AM cold outreach block
-3. Agree to Referral Payment Process — STRETY due TODAY. Lock in Jeramy Ennis 0.5% structure
+1. Mouri Call — Subdoc + $100K Wire (STRETY overdue Jun 18 — 9 days)
+2. Build out new Vault section (STRETY due TODAY Jun 27)
+3. Protect today's family commitments (Funeral 12–3 PM · Kai's Birthday 4–10 PM)
 
 ## Fund Status
-Balance: $50,000 · Target: $2,000,000 · 2.5% · 4 days to June 30 Triple Deadline
-⚠️ Capital Raising Tracker stale (32 days — last updated 2026-05-25)
-LP Table: Paul $50K ✅ · Mouri ~$100K ⏳ OVERDUE 8 days · Dylan 🔄 active · Ed/Don Davis 📞 · Norm 📞
+Balance: $50,000 · Target: $2,000,000 · 2.5% · 3 days to June 30 Triple Deadline
+⚠️ Capital Raising Tracker stale (33 days — last updated 2026-05-25)
+LP Table: Paul $50K ✅ · Mouri ~$100K 🔥 OVERDUE · Dylan 🔄 active · Ed/Don Davis 📞 · Norm 📞
 
 ## STRETY TO-DOS — NEXT 7 DAYS
 OVERDUE:
-• Jun 16 — Follow up with Dylan, Ed's friend, and others (10 days late)
-• Jun 18 — Mouri subdoc + wire (8 days late) 🔥
-• Jun 24 — Put together job req (2 days late)
-• Jun 25 — Morning Huddle attendance (1 day late)
-
-DUE TODAY:
-• Agree to the process of payment on referrals
-• Outreach to 20 accredited investors ⭐
-• Chase Bank Process
-
+• [11 days] Jun 16 — Follow up w/ Dylan, Ed's friend + others
+• [9 days 🔥] Jun 18 — Get Mouri subdoc signed + move $$ to Fund
+• [3 days] Jun 24 — Put together a job req for the position
+• [2 days] Jun 25 — Attend morning Huddle 1x/week
+• [1 day] Jun 26 — Agree to referral payment process
+• [1 day] Jun 26 — Outreach to 20 accredited investors ⭐
+• [1 day] Jun 26 — Chase Bank Process
 THIS WEEK:
-• Jun 27 — Build out new Vault section
-• Jun 30 🔥 — Connect w/ 3 recruiting services
+• TODAY — Build out new Vault section
+• Jun 30 🔥 — Connect w/ 3 recruiting services (Lat Am, India, Vietnam)
 • Jun 30 🔥 — Check AI Accuracy on Revenue numbers
-• Jun 30 🔥 — POF >$1M submit fix
-• Jul 1 — Design new SOP for HML/DSCR (Roz)
-• Jul 1 — Update Lender Info on HML/DSCR
-• Jul 1 — CC admin@ for HML/DSCR email
-• Jul 1 — Build out new White Label section
+• Jun 30 🔥 — Fix Proof of Funds submit button (over $1M)
+• Jul 1 — HML/DSCR SOPs for Roz (3 items)
+• Jul 3 — Outreach to 30 accredited investors
 
 ## Today's Schedule
-9:00 AM — Accountability call (admin@realquickfunds.com)
-10:00–11:00 AM — Capital Raising Cold Outreach ⭐
-11:00 AM–12:00 PM — Know More Owners / OC networking zoom
-1:00–2:00 PM — Nathan Vaughn | R3VCORE Media Training 🎬
-2:00–3:00 PM — AI Office Hours with Owen 🤖
-3:15–5:00 PM — Skool Classroom Updates
-6:00–9:00 PM — Date Night with Akemi 🥂
+8:00–9:00 AM — Vu Tran | Pitching Capital Markets (Black Card)
+12:00–3:00 PM — Bro McGrath Funeral (from yesterday's briefing — verify)
+4:00–10:00 PM — Kai's Birthday Celebration 🎂
 
 ## Email Action Items
-- OVERDUE #77 — Fraudulent $50K: police report + DA escalation
-- OVERDUE #79/#80/#81 — Dad's estate items (agents, expense lists) since May 27
+- CRITICAL #77 — Fraudulent $50K: police report + DA escalation
+- OVERDUE #79 — Dad's house: schedule 3 agents for CMAs
+- OVERDUE #80/#81 — Sisters + Paul/Akemi estate expense lists
 - URGENT #84 — Emma doctor sign-off for Africa trip
-- ACTION — Reach out to Julian Rizov + James Parshay re: lender network (new, Jun 25)
-- ACTION — Schedule Roz demo on Julian's custom CRM/affiliate system (new, Jun 25)
-- ACTION #44 — URA scanned mail (Delaware letters)
+- ACTION — Reach out to Julian Rizov + James Parshay re: lender network
+- ACTION — Schedule Roz demo on Julian's CRM/affiliate system
