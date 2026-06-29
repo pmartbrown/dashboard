@@ -1,27 +1,27 @@
-# Morning Briefing — Sunday, June 28, 2026
+# Morning Briefing — Monday, June 29, 2026
 
 ## The One Thing
-Call Naohiro Mouri — get his subdoc signed and initiate the fund transfer. Overdue since Jun 18. One call moves the fund from 2.5% → 7.5%.
+Call Naohiro Mouri — get his subdoc signed and initiate the fund transfer. Q2 closes tomorrow. Overdue since Jun 18. One call moves the fund from $50K to $150K (2.5% to 7.5%).
 
 ## Top 3 Priorities
-1. **Mouri subdoc + fund transfer** — Call him directly. Overdue since Jun 18. HIGHEST priority in STRETY. Q2 closes Tuesday — close this before then.
-2. **Q2 close prep (Tuesday deadline)** — AI Revenue accuracy check, Proof of Funds submit fix, Chase Bank Process all due Jun 30. Prep for RQF L10 Leadership Meeting Tuesday 7:15 PM.
-3. **Investor outreach reset** — 20 accredited investor outreaches overdue Jun 26, 30 more due Jul 3. Capital Raising calls: Christie Thompson (Wed), Capital Casey (Thu).
+1. Mouri subdoc + fund transfer — Call him directly. Q2 closes tomorrow.
+2. Q2 close prep — AI Revenue accuracy, Proof of Funds submit fix, Chase Bank Process all due Jun 30.
+3. Investor outreach reset — 20 accredited investor outreaches overdue Jun 26; 30 more due Jul 3.
 
 ## Fund Status
-$50,000 raised · $2,000,000 target · 2.5% · Paul Brown $50K invested · Mouri ~$100K pending subdoc
-⚠️ Tracker last updated May 25 (34 days ago — STALE)
+$50,000 raised / $2,000,000 target / 2.5% / Paul Brown $50K invested / Mouri ~$100K pending subdoc
+Tracker last updated May 25 (STALE — 35 days)
 
 ## STRETY TO-DOS — NEXT 7 DAYS
 OVERDUE:
-- [HIGHEST] Jun 16 — Follow up with Dylan, Ed's friend, and others
 - [HIGHEST] Jun 18 — Get Mouri to sign + move his $$ from RQF to 3DCM to Fund
-- [NORMAL] Jun 24 — Put together a job req for the position
-- [NORMAL] Jun 25 — Attend the morning Huddle 1x per week
-- [NORMAL] Jun 26 — Agree to the process of payment on referrals
+- [HIGHEST] Jun 16 — Follow up with Dylan, Ed's friend, and others
 - [HIGHEST] Jun 26 — Outreach to 20 accredited investors
 - [HIGHEST] Jun 26 — Chase Bank Process
 - [HIGHEST] Jun 27 — Build out new Vault section
+- [NORMAL] Jun 24 — Put together a job req for the position
+- [NORMAL] Jun 25 — Attend the morning Huddle 1x per week
+- [NORMAL] Jun 26 — Agree to the process of payment on referrals
 
 THIS WEEK:
 - [HIGHEST] Jun 30 — Check AI Accuracy on Revenue numbers
@@ -34,12 +34,14 @@ THIS WEEK:
 - [HIGHEST] Jul 3 — Outreach to 30 accredited investors
 
 ## Today's Schedule
-- 9:00 AM — Church
-- 1:00 PM — Family Church
-- 3:30 PM — Family Barbecue at Nathan's Clubhouse
+All Day — Emma ACT Event begins
+10:00 AM — Payroll & Investors Pay
+2:00 PM — Follow-up Meeting w/ Paul
+6:00 PM — Pod 13 MH/RV/MF Underwriting
+6:00 PM — Sadikin & Friends Real Estate Zoom (8PM EST)
 
 ## Email Action Items
-- CRITICAL — Fraudulent $50K: police report + DA escalation status?
-- ACTION — Brenda $100K due back late June — confirm return date
-- ACTION — Emma doctor sign-off for Africa trip still needed
-- ACTION — URA Delaware mail — pull from portal
+- URGENT — Brenda $100K due ~late June — confirm repayment today
+- OVERDUE — URA Delaware letters for Rez Gap Plus LP & RQF LLC — pull from portal
+- ACTION — Marty deal — confirm loan position + title insurance
+- CRITICAL — Fraudulent $50K — police report + DA escalation still pending
