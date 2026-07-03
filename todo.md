@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-06-26 — Morning transcript review — +7 item(s) from 3 sections (transcripts Jun 25)**
+**Last updated: 2026-07-03 — Morning transcript review — +10 item(s) from 4 sections (transcripts Jul 02)**
 
 ---
 
@@ -80,6 +80,7 @@
 | **Surplus opportunity with Kiefer and Janet** — follow up after 2-hr call with Matt and partners; Paul called it 'most profitable long-term' opportunity | This week | Plaud 06-04 — surplus/overage deal; 2-hr call with Matt, Kiefer, Janet | 🔴 | ⬜ |
 | Compile RQF loan files and provide to Speaker 3 (Janet/ops) for AI processing on Marty/Ron 4th-lien position issue; perform personal email search for any documentation referencing second-position representation | This week | Plaud 06-10 RE Failures — discovered RQF lien is 4th not 2nd on large deal; needs doc review + possible litigation prep | 🟡 | ⬜ |
 | 🟡 **Continue capital raising at reduced cost to fund deal flow, targeting half‑cost capital sources** | Ongoing | Paul mentioned ongoing capital raising to cut cost of capital in half | 🟡 | ⬜ |
+| **Follow up on "Jimmy Doe" EMD deal** — deal awaiting mutual release; ensure closure | ASAP | Plaud 07-02 weekly meeting — AI flagged as open loop needing follow-up | 🔴 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -232,6 +233,8 @@
 | 🟡 **Request enterprise pricing and detailed feature list from the AI tool vendor** | This week | Paul asked if there could be an enterprise level model for his acquisition partners | 🟡 | ⬜ |
 | **Reach out to Julian Rizov and James Parshay** re: joining RQF lender network as lenders 3 & 4 ("Four Js": Josh, Jeremy, Julian, James); get their FICO/product criteria to update routing logic | This week | 06-25 Weekly Meeting w/ Roz — Roz recommended both; Jay Holder refers transactional deals to James Parshay | 🟡 | ⬜ |
 | **Schedule demo with Roz to review Julian's custom CRM/affiliate system** — assess fit for RQF referrer portal; consider piloting with one deal type (EMD or Morby Method) to test before full CRM switch from HubSpot | This week | 06-25 Weekly Meeting w/ Roz — HubSpot at $800/mo triggers CRM reconsideration; pilot approach reduces risk | 🟡 | ⬜ |
+| **Reschedule missed meeting with Owen Meacham and Kiefer** — missed July 1st meeting; reach out to reschedule and apologize | ASAP | Plaud 07-02 CRM consultation — Paul flagged he missed this due to hyperfocus | 🔴 | ⬜ |
+| **Introduce Atlanta Owners Club L1 investor** (125 Section 8 doors, Atlanta) to Matt for surplus funds mentorship — committed on call | This week | Plaud 07-02 surplus funds call — Paul agreed to make intro | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -359,6 +362,8 @@
 | **Fix white label logo reversion** — when user deletes logo, header should revert to company name (currently one-way; company name disappears permanently after logo uploaded); Priority A | ASAP | 06-25 Weekly Meeting w/ Roz — 3+ users hit this; Roz confirmed fix | 🔴 | ⬜ |
 | **White label POF >$1M — allow submission + notify team** — change behavior from hard block to allow contact capture; auto-email admin, Justin, and Manuela when request >$1M submitted via white label | This week | 06-25 Weekly Meeting w/ Roz — current behavior blocks submission entirely; main site allows request | 🟡 | ⬜ |
 | **Consolidate borrower/referrer initial email** — send one email to borrower with referrer CC'd (not 2 separate emails); add stage-based automated updates ("working on it" / "waiting on your response") to reduce referrer anxiety; evaluate own system vs HubSpot | This week | 06-25 Weekly Meeting w/ Roz — referrers calling constantly due to no status updates | 🟡 | ⬜ |
+| **Record new white-label website setup walkthrough session** and post to community classroom (previous recording lost) | This week | Plaud 07-02 weekly meeting | 🟡 | ⬜ |
+| **Update white-label "Apply Now" button** — split into explicit lending-type buttons (EMD, DSCR, Stack) to reduce mobile confusion | This week | Plaud 07-02 weekly meeting | 🟡 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -533,6 +538,11 @@
 | 🔴 **Allocate budget and resources to implement an AI‑powered receptionist that can be trained on Real Quick Funds’ lending types** | Next month | Paul wants a receptionist that can answer specific qualifying questions for transactional funding | 🔴 | ⬜ |
 | **Build automation to detect churned Skool premium members** — daily compare of paying vs. premium lists; notify Paul when mismatch found (Claude-based or server-side process with Roz); also detect "free premium" glitches where canceled users retain premium access | This week | 06-25 Weekly Meeting w/ Roz — Paul manually cleaned stale members; need automated detection | 🔴 | ⬜ |
 | **Justin + Manoella: research automated email solution** — evaluate HubSpot $800/mo upgrade vs. Roz/Julian custom CRM system for stage-based borrower/referrer deal status notifications; present recommendation | This week | 06-25 Weekly Meeting — L10 action item; decision needed before next dev cycle | 🟡 | ⬜ |
+| **Fix hyperlink/clickable URL bug in community drip campaign emails** — URLs not rendering as clickable links; code fix in progress | ASAP | Plaud 07-02 weekly meeting — blocking member lead generation | 🔴 | ⬜ |
+| **Fix course knowledge check retake bug** — some members cannot retake knowledge checks; investigate course settings | This week | Plaud 07-02 weekly meeting | 🟡 | ⬜ |
+| **Review scope + timeline for custom CRM upgrade with Roz** — evaluate moving off HubSpot to custom platform with EMD automation, Slack sync, referral portal | This week | Plaud 07-02 CRM demo call with Roz | 🟡 | ⬜ |
+| **Schedule follow-up meeting with Roz** to review custom CRM UX mockups and implementation proposal | This week | Plaud 07-02 CRM consultation | 🟡 | ⬜ |
+| **Expand RQF lender roster** to 4 DSCR lenders + 2 hard money lenders; verify stacked DSCR support with each | This week | Plaud 07-02 weekly meeting | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
