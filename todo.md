@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-07-03 — Morning transcript review — +10 item(s) from 4 sections (transcripts Jul 02)**
+**Last updated: 2026-07-08 — Morning transcript review — +5 item(s) from 3 sections (transcript Jul 07)**
 
 ---
 
@@ -81,6 +81,7 @@
 | Compile RQF loan files and provide to Speaker 3 (Janet/ops) for AI processing on Marty/Ron 4th-lien position issue; perform personal email search for any documentation referencing second-position representation | This week | Plaud 06-10 RE Failures — discovered RQF lien is 4th not 2nd on large deal; needs doc review + possible litigation prep | 🟡 | ⬜ |
 | 🟡 **Continue capital raising at reduced cost to fund deal flow, targeting half‑cost capital sources** | Ongoing | Paul mentioned ongoing capital raising to cut cost of capital in half | 🟡 | ⬜ |
 | **Follow up on "Jimmy Doe" EMD deal** — deal awaiting mutual release; ensure closure | ASAP | Plaud 07-02 weekly meeting — AI flagged as open loop needing follow-up | 🔴 | ⬜ |
+| **Present EMD pricing change to community for vote** — propose options: $1,000, $1,500, or $2,000 fee; implement revenue share on upfront EMD fees; current model not profitable enough to share without price increase | This week | 07-07 Weekly Meeting — Paul + Justin; $60K origination vs $124K capital costs monthly; "garbage in, garbage out" efficiency rationale | 🔴 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -543,6 +544,9 @@
 | **Review scope + timeline for custom CRM upgrade with Roz** — evaluate moving off HubSpot to custom platform with EMD automation, Slack sync, referral portal | This week | Plaud 07-02 CRM demo call with Roz | 🟡 | ⬜ |
 | **Schedule follow-up meeting with Roz** to review custom CRM UX mockups and implementation proposal | This week | Plaud 07-02 CRM consultation | 🟡 | ⬜ |
 | **Expand RQF lender roster** to 4 DSCR lenders + 2 hard money lenders; verify stacked DSCR support with each | This week | Plaud 07-02 weekly meeting | 🟡 | ⬜ |
+| **Formally greenlight Roz custom CRM build** — MVP: hard money + DSCR first; double close added later; budget ~$10K-$14K upfront + $1,500/month maintenance; key features: AI chatbot, client-facing deal portal, email-to-deal linking, PandaDoc integration | This week | 07-07 Weekly Meeting — decision made to move forward; "Slow is smooth, smooth is fast" — data accuracy = more deals processed faster | 🔴 | ⬜ |
+| **Stand up CRM focus group with Tim and Ed** — provide structured feedback during Roz custom CRM development; involve them in defining workflows and edge cases | This month | 07-07 Weekly Meeting — key contributors for focus group per team discussion | 🟡 | ⬜ |
+| **Implement EMD grandfather clause** — give existing repeat borrowers choice: keep old pricing (no revenue share to them) OR switch to new pricing (with revenue share); communicate clearly before community vote | This week | 07-07 Weekly Meeting — pricing change requires fair transition for loyal clients | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -584,6 +588,7 @@
 | 🟡 **Perform cost‑benefit analysis for upgrading HubSpot to Marketing Hub Professional tier.** | TBD | Discussion on HubSpot upgrade and need for cost‑benefit analysis | 🟡 | ⬜ |
 | 🔴 **Implement revised pricing tiers (premium ~ $100, standard with trial then paid) and grandfather existing premium members** | Next Wednesday | Speaker 1 announced pricing changes to go live with the classroom relaunch | 🔴 | ⬜ |
 | 🟡 **Create and deploy short video clips for each page of the school community curriculum using a $200/mo cloud account and $50/mo HeyGen account** | Next month | Paul noted that two‑day video production saves weeks and improves user experience | 🟡 | ⬜ |
+| **Share RQF financial transparency data with community** — post breakdown: ~$60K origination fees vs ~$124K monthly capital costs; reframe EMD fee increase as business sustainability, not greed | This week | 07-07 Weekly Meeting — members see company collecting fees but unaware of high operating costs; transparency before pricing vote | 🟡 | ⬜ |
 ---
 
 ## 🏃 Personal / Standards
