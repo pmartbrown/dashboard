@@ -1,51 +1,39 @@
-# Morning Briefing — Tuesday, July 7, 2026
+# Morning Briefing — Wednesday, July 8, 2026
 
 ## The One Thing
-Resolve the July 4 financial account security question (Wealthfront/Plaid/Schwab/Robinhood/Netflix) — then lock in the right AI developer from today's two interviews.
+Chase Bank Process — complete it today. Due in STRETY right now. Clean banking = capital can flow. Get it done before noon.
 
 ## Top 3 Priorities
-1. Confirm or freeze: July 4 financial account wave (3 days open — security first)
-2. AI Developer Interviews — Dave 9AM & Alex 10AM (back-to-back this morning)
-3. Sign Josh Mondale listing documents — 4540 South, 7 days overdue
+1. Chase Bank Process — due TODAY in STRETY
+2. Sign Josh Mondale listing documents (4540 South) — 8 days overdue
+3. Surplus Recovery session with Kiefer (10 AM) — North Peak Recovery opportunity
 
 ## Fund Status
-$150,000 · $2,000,000 target · 7.5% · Paul Brown $50K + Naohiro Mouri $100K · ⚠️ Brenda $100K short-term past due — confirm return
+$150,000 · $2,000,000 target · 7.5% · Paul Brown $50K + Naohiro Mouri $100K (Jul 1)
 
 ## STRETY TO-DOS — NEXT 7 DAYS
-STRETY skipped — no authenticated browser session (last known from Jul 6 briefing)
 OVERDUE:
-• [HIGHEST] Jun 16+ — Follow up with Dylan, Ed's friend, capital contacts
-• [HIGHEST] Jun 26+ — Outreach to 20-30 accredited investors
-• [HIGHEST] Jun 26+ — Chase Bank Process
-• [HIGHEST] Jun 27+ — Build out new Vault section
-• [HIGHEST] Jun 30+ — Check AI Accuracy on Revenue numbers
-• [HIGHEST] Jul 1+ — Design new SOP for HML and DSCR for Raz
-• [HIGHEST] Jul 1+ — Build out new White Label section
-• [NORMAL] Jun 24+ — Put together a job req for the position
+- [NORMAL] Jun 30 — Connect w three recruiting services (Lat Am, India, Vietnam)
+- [NORMAL] Jul 1 — CC admin@ for forwarded HML / DSCR email
+- [NORMAL] Jul 3 — Outreach to 30 accredited investors
+
 THIS WEEK:
-• Check STRETY before tonight's RQF L10 (7:30 PM)
+- [NORMAL] TODAY — Chase Bank Process
+- [NORMAL] Jul 9 — Make YT video on recourse vs non-recourse loans
+- [NORMAL] Jul 9 — Skool post about pricing (vote to change)
+- [NORMAL] Jul 10 — Outreach to 40 accredited investors
+- [NORMAL] Jul 14 — Meet with Raz to work out development plan
 
 ## Today's Schedule
 - All Day — Emma ACT Event (through Jul 11)
-- 9:00 AM — AI Developer Interview: Dave
-- 10:00 AM — AI Developer Interview: Alex + Capital Raising Block
-- 10:00 AM — Jim Riggio | Hedge Fund (Black Card)
-- 12:00 PM — RV Masterclass: Live Deal Review (OC)
-- 1:00 PM — Josh Kirk | Sentinel Global (Black Card)
-- 2:00 PM — White Label w/ Edgar
-- 3:00 PM — Level 22
-- 6:00 PM — TFH Open Discussion + Q&A
-- 7:00 PM — #SquadUp UT
-- 7:30 PM — RQF L10 Meeting (Leadership) ⭐
+- 10:00 AM — Surplus Recovery - Keefer
+- 1:00 PM — Tom Cobin | Professional Speaking (Black Card)
+- 4:30 PM — AI Agent Wednesdays Masterclass
 
 ## Email Action Items
-- URGENT: July 4 financial account wave — confirm or freeze
-- ⏰ DEADLINE TOMORROW: Farmers Home Insurance renewal Jul 11 (+$58.72)
-- OVERDUE 7d: Josh Mondale — 4540 South listing docs
-- OVERDUE 14d: Emma HXP Africa/Malawi — pre-trip docs
-- OVERDUE 7d: Adam Anderson investor questions (since Jun 30)
-- ACTION: Maeda Chase underfunded — confirm resolved
-- ACTION: Apps Tango $3,500 + Sabertooth $300 — pay now
-- ACTION: DMV registration expires Jul 31
-- DO NOT OPEN: Erik Zhang penguincoding.org suspicious attachment
-- DELEGATE: Metricool LinkedIn disconnect → Angel
+- URGENT/TODAY: Farmers Home Insurance renewal (+$58.72)
+- URGENT/4d: July 4 financial account wave — confirm or freeze
+- OVERDUE 15d: Emma HXP Africa/Malawi docs
+- OVERDUE 8d: Adam Anderson investor questions
+- ACTION: Apps Tango $3,500 + Sabertooth $300
+- DEADLINE JUL 31: DMV registration
