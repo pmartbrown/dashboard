@@ -1,39 +1,46 @@
-# Morning Briefing — Wednesday, July 8, 2026
+# Morning Briefing — Friday, July 10, 2026
 
 ## The One Thing
-Chase Bank Process — complete it today. Due in STRETY right now. Clean banking = capital can flow. Get it done before noon.
+Finish the RQF website and get it live — forms working, all pages verified, pushed live. Every hour it's down costs deal flow.
 
 ## Top 3 Priorities
-1. Chase Bank Process — due TODAY in STRETY
-2. Sign Josh Mondale listing documents (4540 South) — 8 days overdue
-3. Surplus Recovery session with Kiefer (10 AM) — North Peak Recovery opportunity
+1. Complete RQF website rebuild — push live (fix intake form 404)
+2. Fix Pinecone Capital website — investor credibility at stake
+3. Confirm Dad's house is listed — verify with agent today
 
 ## Fund Status
 $150,000 · $2,000,000 target · 7.5% · Paul Brown $50K + Naohiro Mouri $100K (Jul 1)
 
 ## STRETY TO-DOS — NEXT 7 DAYS
 OVERDUE:
-- [NORMAL] Jun 30 — Connect w three recruiting services (Lat Am, India, Vietnam)
-- [NORMAL] Jul 1 — CC admin@ for forwarded HML / DSCR email
-- [NORMAL] Jul 3 — Outreach to 30 accredited investors
-
+- Jun 30 — Connect w three recruiting services (Lat Am, India, Vietnam)
+- Jul 1 — CC admin@ for forwarded HML / DSCR email
+- Jul 3 — Outreach to 30 accredited investors
+- Jul 8 — Chase Bank Process
+- Jul 9 — YT video: recourse vs non-recourse loans
+- Jul 9 — Skool post: pricing vote to change
+DUE TODAY:
+- Jul 10 — Outreach to 40 accredited investors
 THIS WEEK:
-- [NORMAL] TODAY — Chase Bank Process
-- [NORMAL] Jul 9 — Make YT video on recourse vs non-recourse loans
-- [NORMAL] Jul 9 — Skool post about pricing (vote to change)
-- [NORMAL] Jul 10 — Outreach to 40 accredited investors
-- [NORMAL] Jul 14 — Meet with Raz to work out development plan
+- Jul 14 — Meet with Raz: development plan
+- Jul 17 — Outreach to 50 accredited investors
 
 ## Today's Schedule
-- All Day — Emma ACT Event (through Jul 11)
-- 10:00 AM — Surplus Recovery - Keefer
-- 1:00 PM — Tom Cobin | Professional Speaking (Black Card)
-- 4:30 PM — AI Agent Wednesdays Masterclass
+- 9:00 AM — Accountability (RQF) + Series 65 Study Group (Black Card)
+- 10:00 AM — Rob Tull | Effective Compliance (Black Card)
+- 11:00 AM — Follow-up Mtg w Paul
+- 11:30 AM — Off-Market Lead Gen w/ Dolores Hirschmann (OC)
+- 1:15 PM — Call w Tom & Paul
+- 2:00 PM — AI Office Hours with Owen (OC)
+- 3:30 PM — Meet Quin & Partner at Thai in Highland
+- 5:30 PM — Date Night with Akemi
 
 ## Email Action Items
-- URGENT/TODAY: Farmers Home Insurance renewal (+$58.72)
-- URGENT/4d: July 4 financial account wave — confirm or freeze
-- OVERDUE 15d: Emma HXP Africa/Malawi docs
-- OVERDUE 8d: Adam Anderson investor questions
-- ACTION: Apps Tango $3,500 + Sabertooth $300
-- DEADLINE JUL 31: DMV registration
+- CRITICAL: Farmers Insurance renews TOMORROW 07/11 — Call Brandon Marshall 801-484-8704 TODAY
+- URGENT: RQF intake form DOWN — fix fillout.com 404
+- URGENT: Pinecone Composio dead — re-add admin@pineconegp.com
+- URGENT: EY / Jayanti Jha — 2025 tax info, 2nd follow-up unanswered
+- URGENT: Josh Mondale listing docs — sign after review
+- URGENT: Emma HXP — Kenya visa missing, upload before 07/27
+- ACTION: Sunil Kumria CRM reply — awaiting approval
+- ACTION: Raz POF: Shawn Hawkins — yes/no needed
