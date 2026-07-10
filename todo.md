@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-07-08 — Morning transcript review — +5 item(s) from 3 sections (transcript Jul 07)**
+**Last updated: 2026-07-10 — Morning transcript review — +7 item(s) from 3 sections (transcripts Jul 07–09)**
 
 ---
 
@@ -82,6 +82,7 @@
 | 🟡 **Continue capital raising at reduced cost to fund deal flow, targeting half‑cost capital sources** | Ongoing | Paul mentioned ongoing capital raising to cut cost of capital in half | 🟡 | ⬜ |
 | **Follow up on "Jimmy Doe" EMD deal** — deal awaiting mutual release; ensure closure | ASAP | Plaud 07-02 weekly meeting — AI flagged as open loop needing follow-up | 🔴 | ⬜ |
 | **Present EMD pricing change to community for vote** — propose options: $1,000, $1,500, or $2,000 fee; implement revenue share on upfront EMD fees; current model not profitable enough to share without price increase | This week | 07-07 Weekly Meeting — Paul + Justin; $60K origination vs $124K capital costs monthly; "garbage in, garbage out" efficiency rationale | 🔴 | ⬜ |
+| **$2M RV Park deal — Western PA near Pittsburgh** — experienced operator (~150 doors); submit via txfhub.com; capital stack: ~$200K buyer + ~$1.2M primary lender + ~$600K seller carry or RQF preferred equity; RQF fee 2.5% on funded; POF placement 1%; elderly seller needs to close to buy new home | ASAP | 07-07 weekly meeting — Morby/preferred equity structure; Speaker 6 submitting; follow-up call 07-08; revenue $210K→$360K projected | 🟡 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -236,6 +237,11 @@
 | **Schedule demo with Roz to review Julian's custom CRM/affiliate system** — assess fit for RQF referrer portal; consider piloting with one deal type (EMD or Morby Method) to test before full CRM switch from HubSpot | This week | 06-25 Weekly Meeting w/ Roz — HubSpot at $800/mo triggers CRM reconsideration; pilot approach reduces risk | 🟡 | ⬜ |
 | **Reschedule missed meeting with Owen Meacham and Kiefer** — missed July 1st meeting; reach out to reschedule and apologize | ASAP | Plaud 07-02 CRM consultation — Paul flagged he missed this due to hyperfocus | 🔴 | ⬜ |
 | **Introduce Atlanta Owners Club L1 investor** (125 Section 8 doors, Atlanta) to Matt for surplus funds mentorship — committed on call | This week | Plaud 07-02 surplus funds call — Paul agreed to make intro | 🟡 | ⬜ |
+| **Follow up with Alex Mervis (Pittsburgh PA)** — called, left voicemail, sent text on 07-07; awaiting callback re 250 Hodgson Road transactional funding deal; Nathan (referrer) advised to check junk mail for submission email | ASAP | 07-07 weekly meeting + 07-09 lending session — Pittsburgh PA deal in pipeline; also mentioned $10M oil and gas capital raise | 🟡 | ⬜ |
+| **Follow up with Colin** — Morbi application expected by July 7; check status and confirm receipt | ASAP | 07-07 weekly meeting — Manoella tracking; Morbi app expected, follow-up July 8 | 🟡 | ⬜ |
+| **Follow up with Brandon Taylor** — application expected via his assistant; chose RQF due to clear Morbi method explanation | This week | 07-07 weekly meeting — application pending through assistant | 🟡 | ⬜ |
+| **Follow up with Richard Bruno** — attempting to make contact | This week | 07-07 weekly meeting — still trying to connect | 🟢 | ⬜ |
+| **Follow up with Tyson** re referral arrangement — refer RQF flippers to Sean's building materials company (10–60% savings off retail); explore Tyson / Floyd's unsecured loan program as lower-cost capital source (up to $500K, 9–15%, no collateral) | This week | 07-08 strategic partnership call — discussed mutual referrals, white-label affiliate opportunity, and 506(b) fund capital | 🟢 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -365,6 +371,7 @@
 | **Consolidate borrower/referrer initial email** — send one email to borrower with referrer CC'd (not 2 separate emails); add stage-based automated updates ("working on it" / "waiting on your response") to reduce referrer anxiety; evaluate own system vs HubSpot | This week | 06-25 Weekly Meeting w/ Roz — referrers calling constantly due to no status updates | 🟡 | ⬜ |
 | **Record new white-label website setup walkthrough session** and post to community classroom (previous recording lost) | This week | Plaud 07-02 weekly meeting | 🟡 | ⬜ |
 | **Update white-label "Apply Now" button** — split into explicit lending-type buttons (EMD, DSCR, Stack) to reduce mobile confusion | This week | Plaud 07-02 weekly meeting | 🟡 | ⬜ |
+| **Fix and restore realquickfunds.com website** — site currently down; blocking self-serve access and new client onboarding | ASAP | 07-08 Tyson partnership call + 07-09 new investor consultation — web hosting issue; clients and prospects unable to reach site | 🔴 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
