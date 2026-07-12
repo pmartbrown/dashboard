@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-07-10 — Morning transcript review — +7 item(s) from 3 sections (transcripts Jul 07–09)**
+**Last updated: 2026-07-12 — Morning transcript review — +2 item(s) from Follow-Ups section (Jul 09 transcripts)**
 
 ---
 
@@ -242,6 +242,8 @@
 | **Follow up with Brandon Taylor** — application expected via his assistant; chose RQF due to clear Morbi method explanation | This week | 07-07 weekly meeting — application pending through assistant | 🟡 | ⬜ |
 | **Follow up with Richard Bruno** — attempting to make contact | This week | 07-07 weekly meeting — still trying to connect | 🟢 | ⬜ |
 | **Follow up with Tyson** re referral arrangement — refer RQF flippers to Sean's building materials company (10–60% savings off retail); explore Tyson / Floyd's unsecured loan program as lower-cost capital source (up to $500K, 9–15%, no collateral) | This week | 07-08 strategic partnership call — discussed mutual referrals, white-label affiliate opportunity, and 506(b) fund capital | 🟢 | ⬜ |
+| **Forward 250 Hodgson Road deal submission email to Nathan + add Alex Mervis as co-referrer** — Nathan didn't receive submission email (check junk); Alex submitted under Daisy's name; Paul needs to forward and add Alex explicitly | ASAP | Plaud 07-09 lending call — Nathan is referrer on record; Alex submitted deal; both need to be on communication | 🟡 | ⬜ |
+| **Post "Thank You Tim" recognition in RQF community** — Tim's suggestion was the catalyst for the EMD upfront fee / revenue-share policy change; acknowledge publicly | This week | Plaud 07-09 lending call — AI action item flagged; builds community goodwill | 🟢 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
