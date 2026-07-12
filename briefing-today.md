@@ -1,40 +1,41 @@
-# Morning Briefing — Saturday, July 11, 2026
+# Morning Briefing — Sunday, July 12, 2026
 
 ## The One Thing
-V/TO Company Discussion with Justin — show up sharp, aligned, and ready to build the 90-day plan that moves RQF forward.
+Document and lock the V/TO outputs from yesterday's 4-hour session — Rocks list, 10-year target, core values in writing before the week starts.
 
 ## Top 3 Priorities
-1. V/TO session with Justin (8:30 AM–12:30 PM) — set company direction for Q3
-2. Call Brandon Marshall 801-484-8704 — Farmers Insurance RENEWS TODAY
-3. Confirm Dad's house listing is live (Josh Mondale docs + agent verification)
+1. Capture V/TO outputs + finalize Q3 Rocks list — 4-hour session with Justin was gold. Get it on paper.
+2. Upload Emma's Kenya/HXP visa documents — Hard deadline July 27 (15 days). Do it today.
+3. Clear Monday's decks — Raz POF (Shawn Hawkins yes/no), Sunil Kumria CRM reply, Pinecone Composio fix.
 
 ## Fund Status
-$150K · $2M target · 7.5% · LPs: Paul Brown $50K, Naohiro Mouri $100K | Tracker 8 days stale (Jul 3)
+$150K · $2M target · 7.5% · LPs: Paul Brown $50K, Naohiro Mouri $100K | Tracker 9 days stale (Jul 3)
 
 ## STRETY TO-DOS — NEXT 7 DAYS
-STRETY not authenticated — last known state from Jul 10:
 OVERDUE:
-- Jun 30 — Connect w three recruiting services
+- Jun 30 — Connect w/ 3 recruiting services (Lat Am, India, Vietnam)
 - Jul 1 — CC admin@ for forwarded HML / DSCR email
 - Jul 3 — Outreach to 30 accredited investors
 - Jul 8 — Chase Bank Process
 - Jul 9 — Make YT video on recourse vs non-recourse loans
-- Jul 9 — Skool post about pricing vote
 - Jul 10 — Outreach to 40 accredited investors
 THIS WEEK:
-- Jul 14 — Meet with Raz (dev plan)
+- Jul 13 — Build new RQF website (all subpages, forms, backend inc HubSpot)
+- Jul 13 — Create new Pinecone Capital GP website
+- Jul 14 — Schedule meeting with Raz (dev plan)
 - Jul 17 — Outreach to 50 accredited investors
+- Jul 18 — Design new SOP for HML and DSCR for Raz
+- Jul 25 — Determine capital partners needed + SLAs
 
 ## Today's Schedule
-All Day — Emma ACT Test
-8:30 AM–12:30 PM — V/TO Company Discussion (Justin, Google Meet)
-1:00–2:30 PM — Tell Calendar What I Want in Life
+9:00 AM — Church
+1:00 PM — Family Church (1:00-1:45 PM)
+7:30 PM — Evening Walk
 
 ## Email Action Items
-[CRITICAL] Farmers Insurance renews TODAY — Call Brandon 801-484-8704 NOW
-[URGENT] Josh Mondale listing docs — re-read cancellation clause, sign
-[URGENT] Emma HXP Kenya visa — upload before 07/27
-[URGENT] Pinecone Composio dead — remove and re-add admin@pineconegp.com
-[ACTION] Sunil Kumria CRM reply — awaiting Paul's approval
+[CRITICAL] Emma HXP — Kenya visa upload before July 27 (15 days)
+[URGENT] EY / Jayanti Jha — 2025 US tax info, 2nd follow-up unanswered
+[URGENT] Pinecone Composio dead — remove + re-add admin@pineconegp.com
+[ACTION] Sunil Kumria — CRM reply awaiting Paul's approval
 [ACTION] Raz POF: Shawn Hawkins — yes/no needed
 [IMPORTANT] Utah DMV — registration expires end of July
