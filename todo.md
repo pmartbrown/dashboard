@@ -83,6 +83,24 @@
 | **Follow up on "Jimmy Doe" EMD deal** — deal awaiting mutual release; ensure closure | ASAP | Plaud 07-02 weekly meeting — AI flagged as open loop needing follow-up | 🔴 | ⬜ |
 | **Present EMD pricing change to community for vote** — propose options: $1,000, $1,500, or $2,000 fee; implement revenue share on upfront EMD fees; current model not profitable enough to share without price increase | This week | 07-07 Weekly Meeting — Paul + Justin; $60K origination vs $124K capital costs monthly; "garbage in, garbage out" efficiency rationale | 🔴 | ⬜ |
 | **$2M RV Park deal — Western PA near Pittsburgh** — experienced operator (~150 doors); submit via txfhub.com; capital stack: ~$200K buyer + ~$1.2M primary lender + ~$600K seller carry or RQF preferred equity; RQF fee 2.5% on funded; POF placement 1%; elderly seller needs to close to buy new home | ASAP | 07-07 weekly meeting — Morby/preferred equity structure; Speaker 6 submitting; follow-up call 07-08; revenue $210K→$360K projected | 🟡 | ⬜ |
+| **Decide on Mundo RV Park $340K funding (10% equity)** — confirm fund availability and coordinate wire; competing investor offering equity stake | **2026-07-14 — URGENT TODAY** | 07-07 Weekly Meeting — wire deadline is today; $200K expected wire pending | 🔴 | ⬜ |
+| **Tanya Waymiller Echo deal — match 2-point fee?** Identify which lender Tanya is working with; decide whether to match their rate | ASAP | 07-08 Funded Deals review | 🟡 | ⬜ |
+| **Nathan's referral — PA RV Park bridge loan** — $500K at 12–15% + points, 25% LTV; vet borrower and deal structure | This week | 07-07 Weekly Meeting — Nathan referral; RV park in Pennsylvania | 🟡 | ⬜ |
+| **Address Jeremy deal communication gap** — draft minimum fee agreement for unused POF; clarify communication expectations | This week | 07-07 Weekly Meeting — Jeremy $800K POF request outstanding | 🟡 | ⬜ |
+| **Fix proof-of-funds document language** — remove "gift letter" framing in CA; creating compliance concerns with title companies | This week | 07-07 Weekly Meeting | 🟡 | ⬜ |
+| **Saginaw note (415 Clark) — decide sell vs wait** — eviction in progress + appraisal lower than expected; evaluate payoff vs holding | This week | 07-08 Funded Deals review | 🟡 | ⬜ |
+| **Send deal submission link to Joe** — 23-unit Morby Method deal needs to be formally submitted via TXFHub | ASAP | 07-07 Weekly Meeting | 🟡 | ⬜ |
+| **Connect Olga Partida with TC Ella Ray + 80% LTV lender** — deal needing title coordination and lender who goes to 80% LTV | This week | 07-09 Investment Opportunity recording | 🟡 | ⬜ |
+| **Quinn Maui deal — consult Josh/Jeremy** — pending Jeremy reconciliation; do not move forward until resolved | When Jeremy resolved | 07-13 Analysis of RE Transactional Funding | 🟡 | ⬜ |
+| **Return $100K + $10K interest to 3D Capital** — capital repayment obligation from June capital planning review | ASAP | 06-30 Capital Planning | 🔴 | ⬜ |
+| **Pay $22K interest to Adam (capital partner)** — outstanding interest obligation identified in capital reconciliation | ASAP | 06-30 Capital Planning | 🔴 | ⬜ |
+| **Follow up with Quinn on Utah echo transaction** — 580K property, DSCR/seller carry stack; submit Grantsville/Lehi deals to CRM | This week | 06-26 Quinn Consultation | 🟡 | ⬜ |
+| **Crawford Campground LLC deal (Alex Mervis via Nathan)** — $2M purchase, $600K seller carry, $1.2M DSCR; submitted via TXFHub; coordinate internal review + lender assignment | This week | 07-08 SAF/Transactional Funding | 🟡 | ⬜ |
+| **Contact capital raiser partner re: SAF ethanol facility** — Prime Energy (Alex Mervis/Tony Herron); $4.5M+ minimum, 18–20% return, Southwest Airlines off-take contract; explore 506(c) fund | After receiving Tony Herron overview | 07-08 SAF/Transactional Funding | 🟡 | ⬜ |
+| **Investigate James Tucker loan submission (Oakland CA)** — clarify borrower's relationship with Kiana/Brandon Taylor before proceeding | This week | 07-10 Operational Friction recording | 🟡 | ⬜ |
+| **Send Arun (Dylan's referral, Charlotte) GP site + Pinecone fund info** — multifamily/MHP investor; expressed interest in trial one-off deal | This week | 07-06 Capital Partner consultation | 🟡 | ⬜ |
+| **Logan UT 23-unit multi-parcel deal — review + formalize** — evaluate lender acceptance of seconds vs preferred equity; 3% fee + 0.5% to Scott across parcels | This week | 07-13 Structuring Multi-Parcel RE Deal | 🟡 | ⬜ |
+| **Consult Jay on 72-hour funding window post-signing change** — new SOP requires pre-confirm before signing; clarify Jay's role in upcoming deals | This week | 07-06 Diverse Directives | 🟡 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -244,6 +262,14 @@
 | **Follow up with Tyson** re referral arrangement — refer RQF flippers to Sean's building materials company (10–60% savings off retail); explore Tyson / Floyd's unsecured loan program as lower-cost capital source (up to $500K, 9–15%, no collateral) | This week | 07-08 strategic partnership call — discussed mutual referrals, white-label affiliate opportunity, and 506(b) fund capital | 🟢 | ⬜ |
 | **Forward 250 Hodgson Road deal submission email to Nathan + add Alex Mervis as co-referrer** — Nathan didn't receive submission email (check junk); Alex submitted under Daisy's name; Paul needs to forward and add Alex explicitly | ASAP | Plaud 07-09 lending call — Nathan is referrer on record; Alex submitted deal; both need to be on communication | 🟡 | ⬜ |
 | **Post "Thank You Tim" recognition in RQF community** — Tim's suggestion was the catalyst for the EMD upfront fee / revenue-share policy change; acknowledge publicly | This week | Plaud 07-09 lending call — AI action item flagged; builds community goodwill | 🟢 | ⬜ |
+| **Schedule follow-up lunch with Tyson Nielsen** — overdue; was targeted before 07-13; Tyson has Utah deal-sourcing network | ASAP | 07-06 Tyson Nielsen consultation — overdue | 🟡 | ⬜ |
+| **Arrange intro between Paul and Eric Schmidt** — Eric building Zillow-like platform for seller-financed properties; high-potential collaboration | This week | 07-06 Tyson Nielsen consultation | 🟡 | ⬜ |
+| **Send Tyson Nielsen info for Lehigh Valley creative finance meetup** | This week | 07-06 Tyson Nielsen consultation | 🟢 | ⬜ |
+| **Assess building/contractor materials discount referral opportunity** — 10–60% off building materials; evaluate as value-add for RQF community | This week | 07-06 Tyson Nielsen consultation | 🟢 | ⬜ |
+| **Schedule monthly reconciliation call with Josh Trujillo** — target around the 25th each month; provide Josh access to white-label submission form | By 2026-07-25 | 06-26 Strategic Partnership (Josh) | 🟡 | ⬜ |
+| **Send Cheril materials + scheduling link** for doctor-investor prospects — 3–4% consulting fee; define SEC-compliant legal structure for referral payments | This week | 07-06 Capital Reconciliation + Physician Fundraising | 🟡 | ⬜ |
+| **Get compensation requirements from Alex and Dave** — AI automation candidates; assign small test project to Alex to evaluate real Cowork capability | This week | 07-07 Interviews (Alex + Dave) | 🟡 | ⬜ |
+| **Follow up with Arun** after he reviews Pinecone fund materials; explore trial one-off deal | 2 weeks | 07-06 Capital Partner consultation | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -374,6 +400,12 @@
 | **Record new white-label website setup walkthrough session** and post to community classroom (previous recording lost) | This week | Plaud 07-02 weekly meeting | 🟡 | ⬜ |
 | **Update white-label "Apply Now" button** — split into explicit lending-type buttons (EMD, DSCR, Stack) to reduce mobile confusion | This week | Plaud 07-02 weekly meeting | 🟡 | ⬜ |
 | **Fix and restore realquickfunds.com website** — site currently down; blocking self-serve access and new client onboarding | ASAP | 07-08 Tyson partnership call + 07-09 new investor consultation — web hosting issue; clients and prospects unable to reach site | 🔴 | ⬜ |
+| **Finalize "Deal Post Studio" form** — video deal submission intake form for community members; part of classroom overhaul | This week | 06-30 Online Classroom Overhaul | 🟡 | ⬜ |
+| **Discuss custom CRM portal MVP with Justin** — 3 core must-haves for centralized chat + deal visibility; ~$10K setup, ~$1.5K/month; kickoff week of 07-20 | Week of 2026-07-20 | 07-02 Custom CRM Portal consultation | 🟡 | ⬜ |
+| **Build appraisal/DSCR feasibility checklist + deal calculator** — for echo/seller-carry stack underwriting (Quinn-style deals) | TBD | 06-26 Quinn Consultation | 🟢 | ⬜ |
+| **Rebuild Pinecone Capital website** — migrate from WordPress to GitHub/AI-hosted static site; same Render stack as RQF rebuild | This month | Prior session — WordPress crash lesson; use Render/GitHub | 🟡 | ⬜ |
+| **Implement teach-show-do curriculum** for School platform — require completion milestones; add free video reward at key milestones | This month | 06-26 Strategic Partnership (Josh) | 🟡 | ⬜ |
+| **Prepare core offerings list for CRM portal MVP kickoff** — enumerate what RQF white-label partners need from centralized portal | By 2026-07-18 | 07-09 Website + CRM discussion | 🟡 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -556,6 +588,17 @@
 | **Formally greenlight Roz custom CRM build** — MVP: hard money + DSCR first; double close added later; budget ~$10K-$14K upfront + $1,500/month maintenance; key features: AI chatbot, client-facing deal portal, email-to-deal linking, PandaDoc integration | This week | 07-07 Weekly Meeting — decision made to move forward; "Slow is smooth, smooth is fast" — data accuracy = more deals processed faster | 🔴 | ⬜ |
 | **Stand up CRM focus group with Tim and Ed** — provide structured feedback during Roz custom CRM development; involve them in defining workflows and edge cases | This month | 07-07 Weekly Meeting — key contributors for focus group per team discussion | 🟡 | ⬜ |
 | **Implement EMD grandfather clause** — give existing repeat borrowers choice: keep old pricing (no revenue share to them) OR switch to new pricing (with revenue share); communicate clearly before community vote | This week | 07-07 Weekly Meeting — pricing change requires fair transition for loyal clients | 🟡 | ⬜ |
+| **AUDIT CRITICAL — Capital planning discrepancy** — actual capital ~$659K (Chase $315,951 + Relay $343,094) vs tool reporting $1.4M; root cause: funded deals not marking capital returned in HubSpot; fix immediately | **URGENT — This week** | 07-06 Capital Reconciliation — $700K+ gap; systemic HubSpot tracking failure | 🔴 | ⬜ |
+| **Build on-demand capital planning refresh** — real-time HubSpot pull to rebuild data.json and push to GitHub on demand (not only nightly job) | This week | 07-06 Capital Reconciliation | 🟡 | ⬜ |
+| **Check Alana's hours every Monday morning** — flag if >40 hours; add to Monday workflow | Weekly (Mondays) | Prior session — hours management concern | 🟡 | ⬜ |
+| **Fix HubSpot deal statuses** — 800 West Timer to mark outstanding; 415 Clark Saginaw to mark funded; resolve returns-not-logged errors driving capital discrepancy | ASAP | Prior session — status mismatches causing $700K capital tracking error | 🟡 | ⬜ |
+| **Fix QuickBooks reporting** — validate referral income origins; ensure Hard Money vs DSCR vs Echo vs referral revenue correctly attributed | This week | Prior session — QBO income attribution unclear | 🟡 | ⬜ |
+| **Work with Roz — modify loan notification emails** — include assigned lender name + originating partner; update API logic for Hard Money vs DSCR separation; update referral field handling | This week | 07-10 Operational Friction recording | 🟡 | ⬜ |
+| **Schedule MVP kickoff meeting with Justin + Manuela** — week of July 20; CRM portal, white-label upgrades, Q3 ops review | Week of 2026-07-20 | 07-09 Website + CRM discussion | 🟡 | ⬜ |
+| **Complete white-label platform upgrades** — add "deals in play" tab for premium members; enable partner-specific submission links in automated nurturing emails | This month | 06-26 Strategic Partnership (Josh) | 🟡 | ⬜ |
+| **Set minimum Claude Cowork experience threshold** — 4–6 months minimum (1 year preferred) for any AI/automation hire; apply as standing hiring standard | Standing rule | 07-07 Dave Interview — lesson from hiring process | 🟡 | ⬜ |
+| **Implement structured recorded 1:1s** for underperforming team members — monthly recorded check-in with documented outcomes | Ongoing | Prior session — management cadence gap | 🟡 | ⬜ |
+| **Discuss Alex (AI candidate) with Justin on weekly call** — assign small test project to evaluate real-world Cowork capability before offer decision | This week | 07-07 Alex Interview | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -598,6 +641,11 @@
 | 🔴 **Implement revised pricing tiers (premium ~ $100, standard with trial then paid) and grandfather existing premium members** | Next Wednesday | Speaker 1 announced pricing changes to go live with the classroom relaunch | 🔴 | ⬜ |
 | 🟡 **Create and deploy short video clips for each page of the school community curriculum using a $200/mo cloud account and $50/mo HeyGen account** | Next month | Paul noted that two‑day video production saves weeks and improves user experience | 🟡 | ⬜ |
 | **Share RQF financial transparency data with community** — post breakdown: ~$60K origination fees vs ~$124K monthly capital costs; reframe EMD fee increase as business sustainability, not greed | This week | 07-07 Weekly Meeting — members see company collecting fees but unaware of high operating costs; transparency before pricing vote | 🟡 | ⬜ |
+| **Coordinate with Angel on deal-submission video content** — target 15 new deal submissions/week from video-driven inbound; define content calendar | This week | Prior session — video content strategy for RQF growth | 🟡 | ⬜ |
+| **Funding Hub (School) revenue goal: $2,500 to $10,000/month** — identify levers: memberships, premium upgrades, white-label enrollments; build 90-day roadmap | This month | Prior session + 06-26 Josh | 🟡 | ⬜ |
+| **Clarify/rename Premium vs VIP membership** — community confusion about tier differences; align naming with value delivered | This week | Prior session — membership tier confusion flagged | 🟡 | ⬜ |
+| **Define SEC-compliant legal structure for Cheril's consulting fee** — doctor-investor referral payments (~3–4%); avoid finder's fee violations | This week | 07-06 Capital Reconciliation + Physician Fundraising | 🟡 | ⬜ |
+| **Explore 506(c) fund structure for SAF/ethanol facility** — 506(c) allows general solicitation; appropriate if SAF deal requires broader raise beyond existing network | After Tony Herron materials received | 07-08 SAF/Transactional Funding | 🟢 | ⬜ |
 ---
 
 ## 🏃 Personal / Standards
@@ -649,6 +697,8 @@
 | Obtain second realtor comp for late father's property; share both comps with sisters; hold group consultation — recommended strategy: list at $595K as-is (ARV ~$800K, reno cost ~$150K not worth it on 4-way split) | When possible | Plaud 06-10 Financial — realtor comp shows $600K as-is / $800K ARV; listing at $595K targets 1-3 week under-contract timeline | 🟢 | ⬜ |
 | 🟡 **Begin wearing and using the Whoop band daily for sleep and health tracking** | This week | Paul mentions starting to wear the Whoop band at the start of the session | 🟡 | ⬜ |
 | 🟡 **Investigate Sleep Number systems for dual‑sided firmness to improve his wife’s sleep quality** | TBD | Paul says he wants to look into Sleep Number beds for his wife | 🟡 | ⬜ |
+| **Manuela raise — 10% to $11/hr retroactive July 1** — approved during June capital planning; process payroll adjustment | ASAP | Prior session — compensation review approved | 🟡 | ⬜ |
+| **Provide TC recommendations to deal participants** — curated shortlist of TCs specializing in seller-financed deal structures | This week | 07-02 Seller Finance Guide | 🟢 | ⬜ |
 ---
 
 ## ⏳ Waiting On
@@ -674,6 +724,10 @@
 | Email intro from Pod 22 member to Utah EA (IRS-credentialed CPA with RE attorney partnership, Rich Dad Poor Dad affiliation) | TBD | Plaud — 06-16 EOS Level 10 meeting; Paul requested strategic Utah CPA | 🟡 | — |
 | **Garden Road documents** — notarized and sent out, waiting for return | TBD | From 06-04 Rodeo / Personal voice memo | 🟡 | 🔲 |
 | **Kirk deal** — waiting for Kirk to sign amendment before proceeding; call Michael at US Home Buyers for offer range | TBD | From 06-10 RE Investment Failures | 🟡 | 🔲 |
+| **Expected $200K wire for Mundo RV Park deal** — wire expected today; critical for deal go/no-go | **2026-07-14 (TODAY)** | 07-07 Weekly Meeting | 🔴 | ⬜ |
+| **Maui County — STR permit transfer response** — buyer submitted query; waiting on county confirmation of permit transfer eligibility | TBD | Prior session — Maui STR deal pending county response | 🟡 | ⬜ |
+| **Insurance inspection scheduling (windstorm shingles)** — insurer to contact via text/email; no action needed until contacted | TBD | Prior session — insurance claim in progress | 🟢 | ⬜ |
+| **Tony Herron (Prime Energy) — SAF/ethanol project overview email** — to paul@realquickfunds.com; trigger review of ethanol facility investment opportunity when received | TBD | 07-08 SAF/Transactional Funding — Southwest Airlines contract; Alex Mervis intro | 🟡 | ⬜ |
 ---
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Afternoon run 2026-06-03: 5 new transcripts processed, 4 action items added; 1 fraud-alert call recorded as no-action (resolved on call).*
 
