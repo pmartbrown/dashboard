@@ -1,47 +1,51 @@
-# Morning Briefing — Monday, July 13, 2026
+# Morning Briefing — Tuesday, July 14, 2026
 
 ## The One Thing
-Be present and available for the Travelers roof inspection at 10 AM — everything else stacks around that fixed point.
+Walk into the RQF L10 at 7:30 PM with at least one real capital conversation logged — Mouri referral ask, Dylan update, or fresh outreach.
 
 ## Top 3 Priorities
-1. Travelers Roof Inspection — 10 AM (Claim JFM7762 · Mazin Mimish-Agnos on-site)
-2. Noa's FAFSA Parent Section — overdue, financial aid blocked
-3. Underwrite Wayne's Action RV Park $450K / 15.3% cap — respond while warm
+1. Capital Raising — 10 AM Block (STRETY outreach overdue since Jun 30; Mouri referral ask)
+2. Review Justin's EOS Assessments before L10 tonight (7:30 PM)
+3. Dad's House — 4 Showings Today (11 AM, 2:30 PM, 4 PM, 5 PM — stay reachable)
 
 ## Fund Status
-$150,000 · $2,000,000 target · 7.5% · Paul $50K + Mouri $100K (Jul 1) · 🔵 New rezgapplus.com user registration — possible LP signal
+$150,000 / $2,000,000 · 7.5% · 2 LPs: Paul $50K + Mouri $100K (Jul 1) · Q3 Rock: $500K by Aug 31 · Tracker stale (Jul 3)
 
 ## STRETY TO-DOS — NEXT 7 DAYS
 OVERDUE:
-- [NORMAL] Jun 30 — Connect w/ 3 recruiting services (Lat Am, India, Vietnam)
-- [NORMAL] Jul 1 — CC admin@ for forwarded HML / DSCR email
+- [NORMAL] Jun 30 — Connect w/ 3 recruiting services (14 days past due)
+- [NORMAL] Jul 1 — CC admin@ for forwarded HML/DSCR email
 - [NORMAL] Jul 3 — Outreach to 30 accredited investors
 - [NORMAL] Jul 8 — Chase Bank Process
-- [NORMAL] Jul 9 — Make YT video on recourse vs non-recourse loans
+- [NORMAL] Jul 9 — Make YT video: recourse vs non-recourse loans
 - [NORMAL] Jul 10 — Outreach to 40 accredited investors
-
+- [NORMAL] Jul 13 — Build new RQF website
+- [NORMAL] Jul 13 — Create new Pinecone Capital GP website
 THIS WEEK:
-- [DUE TODAY] Jul 13 — Build new RQF website (all subpages, forms, backend + HubSpot)
-- [DUE TODAY] Jul 13 — Create new Pinecone Capital GP website
-- Jul 14 — Schedule meeting with Raz (dev plan)
-- Jul 17 — Outreach to 50 accredited investors
-- Jul 18 — Design new SOP for HML and DSCR for Raz
+- [NORMAL] Jul 14 — Schedule meeting with Raz (dev plan) [DUE TODAY]
+- [NORMAL] Jul 17 — Outreach to 50 accredited investors
+- [NORMAL] Jul 18 — Design new SOP for HML and DSCR for Raz
 
 ## Today's Schedule
-10:00 AM — Roof Inspection (Travelers JFM7762 · Mazin Mimish-Agnos on-site)
-11:00 AM — Capital Raising Call — Vince
-11:00 AM — PaperOS Q&A (Black Card)
-12:00 PM — Payroll & Investor Pay (RQF)
-3:00 PM — Meeting: Braeanna & Paul — Skool
-4:30 PM — Meeting: Joe & Paul — Skool
+10:00 AM — Capital Raising + Jeff Tiefenthaler | Crypto (Black Card)
+11:00 AM — Showing Confirmed (Dad's house #1)
+11:15 AM — Cancel HeyGen
+11:45 AM — Surplus Recovery w/ Keefer
+2:00 PM — White Label w/ Edgar
+2:30 PM — Showing Confirmed (Dad's house #2)
+3:00 PM — Level 22
+4:00 PM — Showing Confirmed (Dad's house #3)
+4:15 PM — Follow-up Mtg w/ Paul
+5:00 PM — Showing Confirmed (Dad's house #4)
+6:00 PM — TFH Open Discussion + Q&A
+7:30 PM — RQF L10 Meeting (Leadership)
 
 ## Email Action Items
-- [URGENT] Harrisonburg Walker St EMD — cancellation lapsed Jul 3 — resolve NOW
-- [URGENT] Emma Kenya visa — upload to HXP portal — trip Jul 27 (14 days left)
-- [URGENT] EY / Jayanti Jha — 2025 US taxes — respond
-- [ACTION] Mundo Sanchez / Custer Crossings RV Park GP Agreement — review owed
-- [ACTION] Justin EOS Assessments — Paul review owed before Wed 3PM meeting
-- [ACTION] Sunil Kumria fundability reply — awaiting approval
-- [ACTION] Raz POF Shawn Hawkins — yes/no needed
-- [IMPORTANT] Stern Team Murray listing — Dansie POI to Escrow (grand opening Jul 18)
-- [IMPORTANT] Utah DMV registration — expires end of July
+- [URGENT] Emma Kenya visa — HXP portal upload — trip Jul 27 (13 days)
+- [URGENT] Harrisonburg Walker St EMD — lapsed Jul 3 (11 days) — resolve
+- [URGENT] EY / Jayanti Jha 2025 tax info — unanswered
+- [ACTION] Justin EOS Assessments — review before L10 tonight
+- [ACTION] Referral agreement template — owed to Justin/Kay
+- [IMPORTANT] Kevin Dansie POI — Murray listing grand opening Jul 18 (4 days)
+- [IMPORTANT] Utah DMV — registration expires end of July
+- [WATCH] rezgapplus.com new user — possible LP signal
