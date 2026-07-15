@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-07-12 — Morning transcript review — +2 item(s) from Follow-Ups section (Jul 09 transcripts)**
+**Last updated: 2026-07-15 — Morning transcript review — +4 item(s) from 07-14 training session**
 
 ---
 
@@ -270,6 +270,7 @@
 | **Send Cheril materials + scheduling link** for doctor-investor prospects — 3–4% consulting fee; define SEC-compliant legal structure for referral payments | This week | 07-06 Capital Reconciliation + Physician Fundraising | 🟡 | ⬜ |
 | **Get compensation requirements from Alex and Dave** — AI automation candidates; assign small test project to Alex to evaluate real Cowork capability | This week | 07-07 Interviews (Alex + Dave) | 🟡 | ⬜ |
 | **Follow up with Arun** after he reviews Pinecone fund materials; explore trial one-off deal | 2 weeks | 07-06 Capital Partner consultation | 🟡 | ⬜ |
+| **Schedule VIP member meetings** — meet with VIP members to review and adjust shared email nurturing templates | This week | Plaud 07-14 — action from community training call | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -406,6 +407,7 @@
 | **Rebuild Pinecone Capital website** — migrate from WordPress to GitHub/AI-hosted static site; same Render stack as RQF rebuild | This month | Prior session — WordPress crash lesson; use Render/GitHub | 🟡 | ⬜ |
 | **Implement teach-show-do curriculum** for School platform — require completion milestones; add free video reward at key milestones | This month | 06-26 Strategic Partnership (Josh) | 🟡 | ⬜ |
 | **Prepare core offerings list for CRM portal MVP kickoff** — enumerate what RQF white-label partners need from centralized portal | By 2026-07-18 | 07-09 Website + CRM discussion | 🟡 | ⬜ |
+| **Build calculator embedding for white-label sites** — develop and deploy method to embed (not just link) DSCR/Morby/Stack calculators directly into partner white-label sites | This week | Plaud 07-14 — training Q&A; currently only linking supported | 🟡 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -599,6 +601,8 @@
 | **Set minimum Claude Cowork experience threshold** — 4–6 months minimum (1 year preferred) for any AI/automation hire; apply as standing hiring standard | Standing rule | 07-07 Dave Interview — lesson from hiring process | 🟡 | ⬜ |
 | **Implement structured recorded 1:1s** for underperforming team members — monthly recorded check-in with documented outcomes | Ongoing | Prior session — management cadence gap | 🟡 | ⬜ |
 | **Discuss Alex (AI candidate) with Justin on weekly call** — assign small test project to evaluate real-world Cowork capability before offer decision | This week | 07-07 Alex Interview | 🟡 | ⬜ |
+| **Fix picture on sample white-label website** — update broken/wrong image on the RQF sample white-label site | ASAP | Plaud 07-14 — noted during community onboarding call | 🟡 | ⬜ |
+| **Fix Morph Method masterclass link in classroom** — update link to point to correct March 17, 2026 replay | ASAP | Plaud 07-14 — Tom directed to watch March 17 replay; link currently wrong | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
