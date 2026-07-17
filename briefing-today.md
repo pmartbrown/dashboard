@@ -1,46 +1,46 @@
-# Morning Briefing — Wednesday, July 15, 2026
+# Morning Briefing — Friday, July 17, 2026
 
 ## The One Thing
-One real capital conversation before 3 PM — Mouri referral ask, Dylan update, or fresh outreach to a new accredited investor.
+Emma Kenya visa — HXP portal upload. Do this before any meeting today. Jul 27 = 10 days.
 
 ## Top 3 Priorities
-1. Capital Raising — Morning Block (Q3 Rock: $500K in Jul/Aug; fund at 7.5%)
-2. Justin P Interview Results — 3 PM (Top candidate presentation — walk in prepared)
-3. Blood Drive Service — 1 PM Lehi North Stake (honor the commitment)
+1. Emma Kenya Visa — HXP portal upload. Do FIRST. Jul 27 = 10 days.
+2. SLREIA Downtown Monthly Luncheon (12 PM) — Capital conversations. Ask everyone: "Are you actively deploying capital this year?"
+3. Accountability (9 AM) + Paul & Chris Catch Up (10 AM) — Close the week. Decide what ships.
 
 ## Fund Status
 $150,000 · $2,000,000 · 7.5% · LPs: Paul $50K + Mouri $100K (Jul 1) · Q3 Rock: $500K by Aug 31 · Tracker stale (Jul 3)
 
 ## STRETY TO-DOS — NEXT 7 DAYS
 OVERDUE:
-- Jun 30 — Connect w/ 3 recruiting services (15 days past due)
-- Jul 1 — CC admin@ for forwarded HML/DSCR email (14 days)
-- Jul 3 — Outreach to 30 accredited investors (12 days)
-- Jul 8 — Chase Bank Process (7 days)
-- Jul 9 — Make YT video: recourse vs non-recourse loans (6 days)
-- Jul 10 — Outreach to 40 accredited investors (5 days)
-- Jul 13 — Create new Pinecone Capital GP website (2 days)
-- Jul 14 — Schedule meeting with Raz (dev plan) (1 day)
+- Jun 30 (+17d) — Connect w/ 3 recruiting services
+- Jul 1 (+16d) — CC admin@ for forwarded HML/DSCR email
+- Jul 3 (+14d) — Outreach to 30 accredited investors
+- Jul 8 (+9d) — Chase Bank Process
+- Jul 9 (+8d) — Make YT video: recourse vs non-recourse loans
+- Jul 10 (+7d) — Outreach to 40 accredited investors
+- Jul 13 (+4d) — Create new Pinecone Capital GP website
+- Jul 14 (+3d) — Schedule meeting with Raz (dev plan)
 THIS WEEK:
-- Jul 17 — Outreach to 50 accredited investors
-- Jul 18 — Design new SOP for HML and DSCR for Raz
+- Jul 17 [TODAY] — Outreach to 50 accredited investors
+- Jul 18 [TOMORROW] — Design new SOP for HML and DSCR for Raz
+⚠️ STRETY not authenticated — data from Jul 14/16 reference
 
-## Today Schedule
-9:30 AM — Coffee hour with Rich and Jenny
-10:00 AM — Bridger Pennington / Fund Launch (Black Card)
-12:00 PM — Mike Butler | Real Estate & Asset Management (Black Card)
-1:00 PM — Lehi North Stake Blood Drive (thru 7 PM)
-2:00 PM — Dan Pierson | Real Estate, PE, and Debt (Black Card)
-3:00 PM — Justin P: Interview Results & Top Candidate Presentation
-4:30 PM — AI Agent Wednesdays
-6:00 PM — Surplus Recovery - Keefer
-7:00 PM — YM/YW Activity
+## Today's Schedule
+8:00 AM — Underwriting with Pace & Bobby (Sub-To, until 10 AM)
+8:30 AM — AL Lakefront Deal Discussion (RQF)
+9:00 AM — Accountability (RQF)
+10:00 AM — Paul & Chris Catch Up (RQF)
+11:00 AM — Know More Owners (Owners Club)
+12:00 PM — SLREIA Downtown Monthly Luncheon ⭐ PRIORITY
+2:00 PM — AI Office Hours with Owen (Owners Club)
+5:00 PM — Date Night with Akemi ❤️ [until 9 PM]
 
 ## Email Action Items
-- [URGENT] Emma Kenya visa — HXP portal upload — Jul 27 (12 days)
-- [URGENT] Harrisonburg Walker St EMD — lapsed Jul 3 — resolve
-- [URGENT] EY / Jayanti Jha — 2025 tax returns info — unanswered
-- [URGENT] Noa FAFSA — parent section overdue
+- [URGENT] Emma Kenya Visa — HXP portal upload — 10 days to Jul 27
+- [URGENT] Harrisonburg Walker St EMD — lapsed 14 days (since Jul 3)
+- [URGENT] EY / Jayanti Jha — 2025 tax returns info request, unanswered
+- [OVERDUE] Noa FAFSA — parent section overdue
 - [ACTION] Mundo Sanchez / Custer Crossings RV Park GP Draft — review owed
 - [ACTION] Referral agreement template — owed to Justin/Kay
-- [IMPORTANT] Wayne Action RV Park $450K / 15.3% cap — underwrite
+- [WATCH] rezgapplus.com new user (Jul 12) — possible LP signal, verify with Roz
