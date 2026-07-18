@@ -7,6 +7,16 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| 🔴 **WATCH — Louisiana building sale: $6M first tranche this week, $14M in ~2 weeks** — confidential; buyer does NOT know Paul is the seller. Monitor closely; funds expected to clear escrow imminently. | **This week** | 07-13 Multi-Parcel Deal — Paul as seller of Louisiana building; proceeds fund next deals | 🔴 | ⬜ |
+| 🔴 **CHECK STATUS — Mundo deal (Mt. Rushmore RV park, ~$340K)** — July 14 wire deadline may have passed. Confirm with Justin: did deal close, expire, or extend? 10% equity offered. Seasonal RV park. | **URGENT — confirm now** | 07-08 Internal Meeting — wire deadline was July 14; may be past due as of 07-18 | 🔴 | ⬜ |
+| 🔴 **AUDIT — Capital planning tool: $659K actual deployed vs. $1.4M reported (14 untracked deals)** — 100% variance. Pull all active deals, reconcile against Relay/Chase, update tracker immediately | **ASAP** | 07-06 Capital Reconciliation — Justin and Paul identified massive reporting gap; 14 untracked deals | 🔴 | ⬜ |
+| **Crawford Campground LLC (Alex Mervis via TXF Hub/Nathan)** — $2M purchase, $600K seller carry, $1.2M DSCR; deal submitted live during call. Assign to team for review + follow-up with Alex on title company confirmation | **This week** | 07-08 Alex Mervis call — deal submitted to TXFHub.com; needs team pickup | 🟡 | ⬜ |
+| **PA RV Park ($2M near Pittsburgh) — confirm lender accepts seller carry ($600K) as cash to close**. If not: structure carry as preferred equity in buyer's single-purpose LLC to avoid second lien. Sellers need ~$100K pre-closing for home purchase. | **This week** | 07-07 RV Park Meeting w/ Justin — lender acceptance is the key deal variable | 🟡 | ⬜ |
+| **Logan UT 23-unit — introduce Joe to DSCR + TF capital provider** — seller carrying at 0%, 10yr. Joe needs DSCR intro; Paul to step back from second-lien structuring. Stack method candidate. | **This week** | 07-13 Multi-Parcel Deal — Paul facilitating lender intro for Joe | 🟡 | ⬜ |
+| **Finalize partnership syndication paperwork** — unsecured promissory note + new LLC (air gap from RQF assets). Investor gets 18.95% stake, 80% cash flow during 3-yr hold. | **ASAP** | 07-09 Analysis of Investment Opportunity — deadline was "next Tuesday" from recording date | 🟡 | ⬜ |
+| **PA RV Park bridge loan — explore $500K bridge (25% LTV, 12-15% interest)**; call Brian (Paul's hard money contact) for options | **This week** | 07-08 Internal Meeting — bridge needed for Pittsburgh-area RV park deal | 🟡 | ⬜ |
+| **Follow up: Birmingham contact — $200K inbound wire** expected; confirm receipt and deal status | **This week** | 07-08 Internal Meeting — inbound capital from Birmingham contact | 🟡 | ⬜ |
+| **Respond to Tanya Waymiller — match 2-point fee on Texas Echo deal**; verify correct EMD amount with Indoe; confirm James Tucker submission is not Kiana's deal | **ASAP** | 07-08 Internal Meeting — Texas Echo deal pending Paul's fee match response | 🟡 | ⬜ |
 | 🔴 **Raise $1,000,000 into ResGap Plus 506(b) fund by June 30, 2026** | Jun 30 | EOS 60-day rock — Jason's planning session (Plaud 05-16) | 🔴 | — |
 | **Create loan documents for Adam Anderson** — draft promissory note, security/collateral docs, personal guaranty if applicable; confirm loan terms (amount, rate, term, payment schedule) before drafting | **URGENT — ASAP** | Added 2026-05-29 — Paul flagged as urgent; entity (RQF / Hanks / Pinecone) and deal type TBD | 🔴 | ⬜ |
 | **File Delaware Annual Franchise Tax — Real Quick Funds, LLC** — **$300 flat by 6/1/2026** (LLC File Number: **005689630**). Pay online: corp.delaware.gov (8AM–11:45PM ET). Late = $507.50 by 7/1, $515 by 8/1, $522.50 by 9/1, then administrative dissolution. "THIS IS THE ONLY NOTICE YOU WILL RECEIVE" per Delaware. DIY (corp.delaware.gov) vs URA service (855-236-9172) | **By 2026-06-01** | Physical Delaware L.L.C. Tax Notice received 4/28 via URA; URA calendar alert 5/6; PDF in admin@pineconegp inbox + Registered Agent folder; one-week reminder scheduled for 2026-05-25 8AM MT | 🔴 | ⬜ |
@@ -129,6 +139,13 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Send Cheril materials + scheduling link for physician investor outreach** — Pinecone Capital fund raise; Cheril is key connector to physician LP network | **This week** | 07-06 Capital Reconciliation — physician capital raise path via Cheril | 🟡 | ⬜ |
+| **Schedule lunch with Tyson Nielsen — finalize Funding Hub VIP affiliate partnership** ($97/mo white-label); Tyson has bridge funding + business lending portfolio; bidirectional site referral links | **This week** | 07-06 Tyson Nielsen consultation — agreed to follow-up lunch; Eric Schmidt platform also key | 🟡 | ⬜ |
+| **Chat with Jeremy: deals going quiet without funding team involvement** — process fix needed so team has visibility before deals slip | **This week** | 07-08 Internal Meeting — Justin flagged gap; Paul to address with Jeremy directly | 🟡 | ⬜ |
+| **Contact Maui County Planning re: STR permit transferability** (Section 19.65.030, Ordinance 5316). First: get exact property address (Kihei area, owner "Mary Jo") | **This week** | 07-08 Internal Meeting — permit may not transfer with sale; critical due-diligence item | 🟡 | ⬜ |
+| **Arrange intro: Paul ↔ Eric Schmidt** — Eric's platform matches seller-finance properties to bank-excluded buyers (thousands pre-qualified, $10-50K down); apply Stack/Morby method for buyers | **This month** | 07-06 Tyson Nielsen consultation — Tyson to facilitate intro; major deal-flow pipeline potential | 🟢 | ⬜ |
+| **Establish monthly reconciliation call with Josh (~25th each month)** — shared Google Sheet: referral deals, attribution confirmation, funded/not-funded checkboxes. Josh's assistant updates weekly (5 min). | **Recurring** | 06-26 Strategic Partnership/Josh — Josh's assistant to maintain the sheet | 🟢 | ⬜ |
+| **Connect with Alex Mervis/Tony Herron (Prime Energy) on SAF facility capital raise** — $4.5M min start, 18-20% projected return, Southwest Airlines offtake contract. Paul to involve capital raiser partner. | **This week** | 07-08 Alex Mervis call — interesting opportunity needing right capital partner (not Pinecone fund) | 🟢 | ⬜ |
 | 🟢 **Define and communicate JV/finder's-fee policy for inbound deal sourcers from Orbit program** | This month | 05-12 Orbit meeting — multiple members asking about deal-sourcing terms | 🟢 | — |
 | Clarify with Orbit/Pace leadership whether School/Skool is approved for bird-dog management and referral tracking | ASAP | 05-04 strategy session — Pace Morby video triggered compliance concern; Paul needs official clarity before week of 05-11 drip campaign launch | 🔴 | ⬜ |
 | Send draft EMD breach letters (Steps 1 & 2) to requesting party | ASAP | 05-01 briefing — Pace's response on EMD as liquidated damages; Paul offered draft letters outlining remedy steps | 🟡 | ⬜ |
@@ -277,6 +294,14 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Rebuild RQF + Pinecone GP websites on Render (static sites, away from Hostinger/WordPress)** — WordPress crashed both sites. New design includes: calculator on main page, "Get Funded" pop-up, "Submit Deal" CTA. Roz to: (1) provide API payload schema for Fable, (2) update deal notification emails (borrower name + funding type), (3) verify GoDaddy DNS propagation | **ASAP** | 07-09 Website Troubleshoot — Paul + Roz rebuilt overnight; integrate TXF Hub API → HubSpot CRM | 🟡 | ⬜ |
+| **MVP project kickoff meeting — Justin + Manoella, week of July 20**. Paul to prepare: list of core offerings + scope requirements as conversation starters. Roz to propose 2-hr scheduling options. | **Week of 07-20** | 07-09 Website — kickoff to define MVP platform scope | 🟡 | ⬜ |
+| **Develop calculator embed into white-label sites** (full embed, not just a link) — proven marketing tool on new RQF site; roll out to white-label partners | **This month** | 07-14 Community Onboarding — members want calculator inside their sites | 🟡 | ⬜ |
+| **Fix picture on sample white-label website** — broken/wrong image on demo site used during member onboarding | **This week** | 07-14 Community Onboarding — quick fix; affects new member first impressions | 🟡 | ⬜ |
+| **Update Morphy Method masterclass link in classroom** → correct to March 17 replay (wrong link currently showing; members can't access) | **This week** | 07-14 Community Onboarding — broken link flagged by members | 🟡 | ⬜ |
+| **White-label platform upgrades: add "deals in play" tab for premium members; enable partner-specific submission links in nurturing emails** | **This month** | 06-26 Josh Partnership — Josh identified as key conversion features | 🟡 | ⬜ |
+| **Relaunch educational community with new pricing (Premium: $97/mo; Standard: $17/mo post 7-day trial)** — implement "teach, show, do" curriculum + reward (1 free edited social video per milestone, $7 additional) | **ASAP** | 06-26 Josh Partnership — relaunch targeted for July 1; confirm if done | 🟡 | ⬜ |
+| **Schedule VIP member meetings to review + adjust email nurturing templates** | **This month** | 07-14 Community Onboarding — members want direct input on template refinement | 🟡 | ⬜ |
 | 🟢 **Develop new RQF teaching semester concept** aligned with lender realities (not debt recovery framing) | When possible | 04-27 strategic discussion — reframe the school curriculum | 🟢 | — |
 | Fix email targeting issue and relaunch No Pitch Path program ($5,000/seat) | By 2026-05-20 | 05-04 strategy session — launch stalled due to broken email targeting; high-revenue program paused | 🔴 | ⬜ |
 | Prepare bird-dog community guides for identifying Morby/stack method deal opportunities | By 2026-05-25 | 05-04 strategy session — newcomers need structured help recognizing deal types before they can submit quality deals | 🟡 | ⬜ |
@@ -414,6 +439,12 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Build real-time update skill for online system** — currently relies on nightly job only; need a skill that updates the online version whenever run so data is always current. Paul: "Just get it done." | **ASAP** | 07-06 Directives — explicit instruction to stop relying on nightly task alone | 🟡 | ⬜ |
+| **Investigate James Tucker loan (Oakland CA)** — clarify relationship: is this Kiana's deal or Brandon Taylor's? Ensure correct lender assigned and originating partner tracked in HubSpot | **This week** | 07-10 Operational Friction — loan origination confusion; needs HubSpot cleanup | 🟡 | ⬜ |
+| **Update loan notification email template** — add: (1) assigned lender name, (2) originating partner name; prevents future Tucker-style confusion | **This week** | 07-10 Operational Friction — Roz task | 🟡 | ⬜ |
+| **HubSpot corrections (3 items)**: (1) "returns not logged" deals → set to "error" status until data entered; (2) Gap deal + Stack deal flagged as duplicates → NOT duplicates, keep separate; (3) 415 Clark Saginaw $55K → funded/awaiting return = normal | **This week** | 07-06 Directives — Paul's voice memo ops instructions | 🟡 | ⬜ |
+| **Define legal structure for 3-4% referral "consulting fee" for fund investors (SEC 506b)** — referral fees prohibited under 506b; must structure as consulting fee; confirm with securities attorney | **This month** | 07-06 Capital Reconciliation — Cheril referral scenario triggered need for clean legal structure | 🟡 | ⬜ |
+| **Check Alana's hours each Monday for prior week; flag any week exceeding 40 hours** | **Recurring — every Monday** | 07-06 Directives — overtime risk flagged; Manoella or Justin to check | 🟢 | ⬜ |
 | 🟡 **Implement EOS Level 10 meeting weekly rhythm for RQF operations** | This month | 05-16 EOS planning session with Jason | 🟡 | — |
 | 🟡 **Step out of daily deal operations; redirect time to capital raising and asset acquisition** | Ongoing | 05-16 EOS planning — delegation priority | 🟡 | — |
 | Submit Investext data migration templates (contacts, accounts, activities) to migration team via Google Drive | This week | 05-05 Investext onboarding — 7–10 day import timeline; banking details excluded (investors add via Plaid); dedicated migration lead assigned | 🔴 | ⬜ |
@@ -709,6 +740,10 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Louisiana building sale — $6M first tranche expected THIS WEEK + $14M in ~2 weeks** — confidential; buyer doesn't know Paul is seller. Monitor; funds to deploy into next deals once clear | **This week** | 07-13 Multi-Parcel Deal — do not discuss with buyer-side parties | 🔴 | ⬜ |
+| **Maui STR — get exact property address (Kihei, owner "Mary Jo")** then contact Maui County Planning re: permit transferability (Sec. 19.65.030, Ord. 5316) | **This week** | 07-08 Internal Meeting — STR permit may not transfer with property sale | 🟡 | ⬜ |
+| **Tony Herron (Prime Energy) to email SAF facility project overview** to paul@realquickfunds.com — 1-2 page summary of ethanol/SAF facility; $4.5M start, SW Airlines contract | **When received** | 07-08 Alex Mervis call — Tony committed to send via Alex's intro | 🟢 | ⬜ |
+| **PA RV Park — family office term sheet for $600K second mortgage** — awaiting formal term sheet; will drive deal structure decision | **When received** | 07-07 RV Park Meeting — family office indicated interest; term sheet pending | 🟢 | ⬜ |
 | Lender confirmation on JV acceptability for Mike's construction refi — determines entire POF path | ASAP | 04-28 meeting — brokers (Tomer/Jeffrey) to clarify with lender; outcome drives next steps | 🔴 | ⬜ |
 | Josh Trujillo to send status text ("where you are with everything") and 15–20 page PDF for Paul's review | ASAP | 05-18 DSCR call — Josh also preparing slides for DSCR presentation tonight; awaiting both deliverables | 🟡 | ⬜ |
 
