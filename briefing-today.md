@@ -1,46 +1,49 @@
-# Morning Briefing — Friday, July 17, 2026
+# Morning Briefing — Saturday, July 18, 2026
 
 ## The One Thing
-Emma Kenya visa — HXP portal upload. Do this before any meeting today. Jul 27 = 10 days.
+Go all-in on Q2 Review & Rocks (8 AM). This 2-hour session sets Q3 trajectory. Walk in prepared: Q2 wins, Q3 Rock priority, fund raise blocker.
 
 ## Top 3 Priorities
-1. Emma Kenya Visa — HXP portal upload. Do FIRST. Jul 27 = 10 days.
-2. SLREIA Downtown Monthly Luncheon (12 PM) — Capital conversations. Ask everyone: "Are you actively deploying capital this year?"
-3. Accountability (9 AM) + Paul & Chris Catch Up (10 AM) — Close the week. Decide what ships.
+1. Q2 Review Meeting & Rocks — 8 AM (strategic session, walk in prepared)
+2. Emma Kenya Visa — HXP Portal Upload (9 days to Jul 27 trip)
+3. Tell Calendar What I Want in Life — 11:30 AM (calendar alignment)
 
 ## Fund Status
-$150,000 · $2,000,000 · 7.5% · LPs: Paul $50K + Mouri $100K (Jul 1) · Q3 Rock: $500K by Aug 31 · Tracker stale (Jul 3)
+$150,000 · $2,000,000 · 7.5% · Paul: $50K ✅ · Mouri: $100K ✅ · Q3 Rock: $500K in July & August · ⚠️ Tracker 15 days stale
 
-## STRETY TO-DOS — NEXT 7 DAYS
+## STRETY TO-DOS — Next 7 Days
 OVERDUE:
-- Jun 30 (+17d) — Connect w/ 3 recruiting services
-- Jul 1 (+16d) — CC admin@ for forwarded HML/DSCR email
-- Jul 3 (+14d) — Outreach to 30 accredited investors
-- Jul 8 (+9d) — Chase Bank Process
-- Jul 9 (+8d) — Make YT video: recourse vs non-recourse loans
-- Jul 10 (+7d) — Outreach to 40 accredited investors
-- Jul 13 (+4d) — Create new Pinecone Capital GP website
-- Jul 14 (+3d) — Schedule meeting with Raz (dev plan)
+• Jun 30 [+18d] — Connect w/ 3 recruiting services
+• Jul 1 [+17d] — CC admin@ for forwarded HML/DSCR email
+• Jul 3 [+15d] — Outreach to 30 accredited investors
+• Jul 8 [+10d] — Chase Bank Process
+• Jul 9 [+9d] — Make YT video: recourse vs non-recourse loans
+• Jul 17 [+1d] — Call w/ Jeramy to review the sheet
+• Jul 17 [+1d] — Call w/ Josh to review the sheet
+DUE TODAY:
+• Jul 18 — Outreach to 40 accredited investors
+• Jul 18 — Determine line for marketing Skool in Pace Communities
 THIS WEEK:
-- Jul 17 [TODAY] — Outreach to 50 accredited investors
-- Jul 18 [TOMORROW] — Design new SOP for HML and DSCR for Raz
-⚠️ STRETY not authenticated — data from Jul 14/16 reference
+• Jul 22 — V/TO Meeting to clarify values
+• Jul 22 — 4 behavioral questions to draw out values
+• Jul 22 — Adjust agreement: scope of work explicit
+• Jul 22 — Find Social Media candidates
+• Jul 25 — Capital partner count + SLAs
+• Jul 25 — Set up calls with capital partners
 
 ## Today's Schedule
-8:00 AM — Underwriting with Pace & Bobby (Sub-To, until 10 AM)
-8:30 AM — AL Lakefront Deal Discussion (RQF)
-9:00 AM — Accountability (RQF)
-10:00 AM — Paul & Chris Catch Up (RQF)
-11:00 AM — Know More Owners (Owners Club)
-12:00 PM — SLREIA Downtown Monthly Luncheon ⭐ PRIORITY
-2:00 PM — AI Office Hours with Owen (Owners Club)
-5:00 PM — Date Night with Akemi ❤️ [until 9 PM]
+7:00 AM — She Leads (OC Women's Edition) · optional
+8:00 AM — Q2 Review Meeting & Rocks (until 10 AM) ⭐
+9:00 AM — The Power Hour: Make It Count (Gator, conflicts)
+10:00 AM — Let's Grow Bro (until 11:30 AM)
+11:30 AM — Tell Calendar What I Want in Life (until 1 PM) ⭐
+2:00 PM — MSA Open Office Hour (SubTo)
 
 ## Email Action Items
-- [URGENT] Emma Kenya Visa — HXP portal upload — 10 days to Jul 27
-- [URGENT] Harrisonburg Walker St EMD — lapsed 14 days (since Jul 3)
-- [URGENT] EY / Jayanti Jha — 2025 tax returns info request, unanswered
-- [OVERDUE] Noa FAFSA — parent section overdue
-- [ACTION] Mundo Sanchez / Custer Crossings RV Park GP Draft — review owed
-- [ACTION] Referral agreement template — owed to Justin/Kay
-- [WATCH] rezgapplus.com new user (Jul 12) — possible LP signal, verify with Roz
+URGENT: Emma Kenya Visa — HXP portal — 9 days (Jul 27)
+URGENT: Harrisonburg Walker St EMD — lapsed 15 days
+URGENT: EY / Jayanti Jha — 2025 tax info unanswered
+OVERDUE: Noa FAFSA parent section
+ACTION: Mundo / Custer Crossings RV Park GP Draft
+ACTION: Referral agreement template → Justin/Kay
+WATCH: rezgapplus.com new user (Jul 12) — possible LP signal
