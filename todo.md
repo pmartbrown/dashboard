@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-07-15 — Morning transcript review — +4 item(s) from 07-14 training session**
+**Last updated: 2026-07-21 — Morning transcript review — +2 item(s) from 07-20 customer consultation**
 
 ---
 
@@ -111,6 +111,7 @@
 | **Send Arun (Dylan's referral, Charlotte) GP site + Pinecone fund info** — multifamily/MHP investor; expressed interest in trial one-off deal | This week | 07-06 Capital Partner consultation | 🟡 | ⬜ |
 | **Logan UT 23-unit multi-parcel deal — review + formalize** — evaluate lender acceptance of seconds vs preferred equity; 3% fee + 0.5% to Scott across parcels | This week | 07-13 Structuring Multi-Parcel RE Deal | 🟡 | ⬜ |
 | **Consult Jay on 72-hour funding window post-signing change** — new SOP requires pre-confirm before signing; clarify Jay's role in upcoming deals | This week | 07-06 Diverse Directives | 🟡 | ⬜ |
+| **Accredited investor pipeline via Ty (Houston VIP prospect)** — Ty has contacts aged 50+, $100K+ min, seeking 12% annual / 3% quarterly bond-level returns → Pinecone 506(b) fund. Paul holds investor relationship per SEC rules; pay Ty 3–4% consulting on capital invested. Activate once Ty onboards. | **When Ty joins** | Plaud — 07-20 Customer Consultation (Ty, Houston) | 🟡 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -288,6 +289,7 @@
 | **Get compensation requirements from Alex and Dave** — AI automation candidates; assign small test project to Alex to evaluate real Cowork capability | This week | 07-07 Interviews (Alex + Dave) | 🟡 | ⬜ |
 | **Follow up with Arun** after he reviews Pinecone fund materials; explore trial one-off deal | 2 weeks | 07-06 Capital Partner consultation | 🟡 | ⬜ |
 | **Schedule VIP member meetings** — meet with VIP members to review and adjust shared email nurturing templates | This week | Plaud 07-14 — action from community training call | 🟡 | ⬜ |
+| **Follow up with Ty (Houston) — confirm VIP/white-label sign-up** — tech sales pro (Oracle/Salesforce/Merrill Lynch bg), Gator/Sub2 member; said he'd "sign up and press go" at end of 07-20 call. Send welcome + next steps. | **This week** | Plaud — 07-20 Customer Consultation (Ty, Houston) | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
