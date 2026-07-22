@@ -1,57 +1,49 @@
-# Morning Briefing — Tuesday, July 21, 2026
+# Morning Briefing — Wednesday, July 22, 2026
 
 ## The One Thing
-Emma Kenya Visa — clear every remaining blocker before today ends. 6 days to July 27 departure. HXP portal, page 2, trip dates, Kenya visa, yellow fever vaccine.
+Emma Kenya Trip — Clear Every Remaining Blocker Today. She departs July 27 — 5 days. HXP portal, Kenya visa, yellow fever records.
 
 ## Top 3 Priorities
-1. Emma Kenya Visa — confirm ALL blockers cleared (6 days to Jul 27)
-2. RQF L10 Meeting Tonight (7:30 PM) — prep agenda, finalize hiring rec from Justin's interview
-3. Accredited Investor Outreach — Jul 3 (30) + Jul 18 (40) both overdue. Jul 25 = 50 due Friday before flight.
+1. Emma Kenya Visa — 5 days to Jul 27 departure. HXP portal, Kenya visa, yellow fever records.
+2. V/TO Meeting with Justin + 5 STRETY Items — Values, behavioral questions, scope of work, social media hire.
+3. Bridger Pennington Call (1 PM) + NYC Prep — Fund Launch co-founder today. Flying to NYC Friday. Vu Tran Sat.
 
 ## Fund Status
-$150,000 / $2,000,000 · 7.5% · 2 LPs: Paul $50K + Mouri $100K · Next: 3rd LP → $250K
-⚠️ Capital Raising Tracker 18 days stale (last updated Jul 3)
+$150,000 / $2,000,000 · 7.5% · LPs: Paul $50K + Naohiro Mouri $100K · Next: $250K → 12.5% · ⚠️ Tracker 19d stale
 
 ## STRETY TO-DOS — NEXT 7 DAYS
-⚠️ STRETY not authenticated — data from Jul 20 reference
-
 OVERDUE:
-- +21d Jun 30 — Connect w/ 3 recruiting services (Lat Am, India, Vietnam)
-- +20d Jul 1 — CC admin@ for forwarded HML/DSCR email
-- +18d Jul 3 — Outreach to 30 accredited investors
-- +13d Jul 8 — Chase Bank Process
-- +12d Jul 9 — Make YT video: recourse vs non-recourse loans
-- +4d Jul 17 — Call w/ Jeramy to review the sheet
-- +4d Jul 17 — Call w/ Josh to review the sheet
-- +3d Jul 18 — Outreach to 40 accredited investors
-- +3d Jul 18 — Determine the line for marketing Skool in Pace Communities
-
+• [HIGHEST] Jun 30 — Connect w/ 3 recruiting services (Lat Am, India, Vietnam)
+• [HIGHEST] Jul 1 — CC admin@ for forwarded HML/DSCR email
+• [HIGHEST] Jul 3 — Outreach to 30 accredited investors
+• [HIGHEST] Jul 8 — Chase Bank Process
+• [HIGHEST] Jul 9 — Make YT video: Recourse vs Non-Recourse Loans
+• [HIGHEST] Jul 17 — Call w/ Jeramy to review the sheet
+• [HIGHEST] Jul 17 — Call w/ Josh to review the sheet
+• [HIGHEST] Jul 18 — Outreach to 40 accredited investors
 THIS WEEK:
-- Jul 22 — V/TO Meeting to clarify values (with Justin)
-- Jul 22 — 4 behavioral questions to draw out values
-- Jul 22 — Adjust agreement: explicit responsibilities/scope of work
-- Jul 22 — Find candidates for Social Media person
-- Jul 25 — Outreach to 50 accredited investors (Friday — fly out 2:35 PM)
-- Jul 25 — Determine how many capital partners + SLAs needed
-- Jul 25 — Set up calls with capital partners
+• [Normal] Jul 22 — V/TO Meeting to clarify values
+• [Normal] Jul 22 — 4 behavioral questions to draw out values
+• [Normal] Jul 22 — Adjust agreement: scope of work
+• [Normal] Jul 22 — Find Social Media person candidates
+• [Normal] Jul 22 — Determine Skool marketing line in Pace Communities
+• [Medium] Jul 25 — Outreach to 50 accredited investors (NYC day)
+• [Normal] Jul 25 — Determine capital partners + SLAs needed
+• [Normal] Jul 29 — Set up calls with capital partners
 
 ## Today's Schedule
-- 9:00 AM — Level 2 Meeting with Jenny (OC Level 2)
-- 10:00 AM — Follow-up Mtg w Paul (×2 — Admin Account)
-- 1:00 PM — RV Masterclass: Live Deal Review
-- 2:00 PM — White Label w/ Edgar
-- 3:00 PM — Level 22
-- 4:00 PM — Cherry Bekaert | Tax & Audit (Black Card Official)
-- 5:30 PM — Prep
-- 6:00 PM — Open Discussion + Q&A (TXFHub)
-- 7:30 PM — RQF L10 Meeting (Leadership)
+- 8:30 AM — Paul Brown & Javier Pena
+- 10:00 AM — Follow-up Mtg w/ Paul (possibly V/TO with Justin)
+- 1:00 PM — Bridger Pennington | Co-founder Fund Launch (Black Card)
+- 4:30 PM — AI Agent Wednesdays — Free Live Masterclass
+- 6:00 PM — Pod 13 MH/RV/MF Underwriting
+- 7:00 PM — YM/YW Activity (family)
 
 ## Email Action Items
-- [URGENT] Emma Kenya Visa — HXP portal blockers (6 days, Jul 27)
-- [URGENT] EY / Jayanti Jha — 2025 US tax returns (Paul is bottleneck)
-- [URGENT] Airbnb / Maeda — co-host 90% split decision deadline Jul 28
-- [ACTION] Farmers home policy 913293615 — renewal passed, call 801-484-8704
+- [URGENT] Emma — Kenya Visa / HXP Portal (Jul 27, 5 days)
+- [URGENT] EY / Jayanti Jha — 2025 US Tax Returns
+- [URGENT] Airbnb / Maeda — Co-Host 90% split (deadline Jul 28)
+- [ACTION] Farmers Insurance Policy 913293615 — call 801-484-8704
+- [ACTION] Utah DMV — registration expires Jul 31
 - [OVERDUE] Noa FAFSA — parent section at studentaid.gov
-- [ACTION] Utah DMV registration — expires Jul 31
 - [ACTION] Hostinger / North Peak Recovery — domain expires Aug 5
-- [DECISION] Nexus Acquisitions EMD — foreign national, new LLC
