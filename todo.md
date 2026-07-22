@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-07-21 — Morning transcript review — +2 item(s) from 07-20 customer consultation**
+**Last updated: 2026-07-22 — Morning transcript review — +4 item(s) from 07-21 transcripts (Weekly Meeting, Strategies/Optimization, Tim consultation)**
 
 ---
 
@@ -112,6 +112,8 @@
 | **Logan UT 23-unit multi-parcel deal — review + formalize** — evaluate lender acceptance of seconds vs preferred equity; 3% fee + 0.5% to Scott across parcels | This week | 07-13 Structuring Multi-Parcel RE Deal | 🟡 | ⬜ |
 | **Consult Jay on 72-hour funding window post-signing change** — new SOP requires pre-confirm before signing; clarify Jay's role in upcoming deals | This week | 07-06 Diverse Directives | 🟡 | ⬜ |
 | **Accredited investor pipeline via Ty (Houston VIP prospect)** — Ty has contacts aged 50+, $100K+ min, seeking 12% annual / 3% quarterly bond-level returns → Pinecone 506(b) fund. Paul holds investor relationship per SEC rules; pay Ty 3–4% consulting on capital invested. Activate once Ty onboards. | **When Ty joins** | Plaud — 07-20 Customer Consultation (Ty, Houston) | 🟡 | ⬜ |
+| **Follow up with Tim (Bourbonnais IL $435K stack deal)** — Tim needs: seller carry ~$145K from motivated widow seller, credit partner for hard money loan, TC to close by July 29. $130K non-refundable option fee at risk if stack fails. | **2026-07-29** | Plaud — 07-21 Consultation: Tim's Property Purchase (2231 Pheasants Run, Bourbonnais IL) | 🔴 | ⬜ |
+
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -290,6 +292,8 @@
 | **Follow up with Arun** after he reviews Pinecone fund materials; explore trial one-off deal | 2 weeks | 07-06 Capital Partner consultation | 🟡 | ⬜ |
 | **Schedule VIP member meetings** — meet with VIP members to review and adjust shared email nurturing templates | This week | Plaud 07-14 — action from community training call | 🟡 | ⬜ |
 | **Follow up with Ty (Houston) — confirm VIP/white-label sign-up** — tech sales pro (Oracle/Salesforce/Merrill Lynch bg), Gator/Sub2 member; said he'd "sign up and press go" at end of 07-20 call. Send welcome + next steps. | **This week** | Plaud — 07-20 Customer Consultation (Ty, Houston) | 🟡 | ⬜ |
+| **Reach out to Kyle Karges** — get social media support/team recommendations for content production | **This week** | Plaud — 07-21 Strategies/Optimization session | 🟡 | ⬜ |
+
 ---
 
 ## 🏗️ Projects — Build
@@ -636,6 +640,8 @@
 | **Discuss Alex (AI candidate) with Justin on weekly call** — assign small test project to evaluate real-world Cowork capability before offer decision | This week | 07-07 Alex Interview | 🟡 | ⬜ |
 | **Fix picture on sample white-label website** — update broken/wrong image on the RQF sample white-label site | ASAP | Plaud 07-14 — noted during community onboarding call | 🟡 | ⬜ |
 | **Fix Morph Method masterclass link in classroom** — update link to point to correct March 17, 2026 replay | ASAP | Plaud 07-14 — Tom directed to watch March 17 replay; link currently wrong | 🟡 | ⬜ |
+| **Granular Google Calendar logging** — adjust calendar in real-time throughout the day (driving, calls, underwriting, etc.) so AI agent can analyze operational map and surface inefficiencies | **This week** | Plaud — 07-21 Strategies/Optimization session | 🟡 | ⬜ |
+
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -683,6 +689,8 @@
 | **Clarify/rename Premium vs VIP membership** — community confusion about tier differences; align naming with value delivered | This week | Prior session — membership tier confusion flagged | 🟡 | ⬜ |
 | **Define SEC-compliant legal structure for Cheril's consulting fee** — doctor-investor referral payments (~3–4%); avoid finder's fee violations | This week | 07-06 Capital Reconciliation + Physician Fundraising | 🟡 | ⬜ |
 | **Explore 506(c) fund structure for SAF/ethanol facility** — 506(c) allows general solicitation; appropriate if SAF deal requires broader raise beyond existing network | After Tony Herron materials received | 07-08 SAF/Transactional Funding | 🟢 | ⬜ |
+| **Record client calls on video** — add media release to call workflow; repurpose real consultations into short-form social content clips | **This week** | Plaud — 07-21 Strategies/Optimization session | 🟡 | ⬜ |
+
 ---
 
 ## 🏃 Personal / Standards
