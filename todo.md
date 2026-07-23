@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-07-22 — Morning transcript review — +4 item(s) from 07-21 transcripts (Weekly Meeting, Strategies/Optimization, Tim consultation)**
+**Last updated: 2026-07-23 — Morning transcript review — +8 item(s) from 07-22 Weekly Meeting: System Bugs, Deal Reviews, Capital Management**
 
 ---
 
@@ -114,6 +114,13 @@
 | **Accredited investor pipeline via Ty (Houston VIP prospect)** — Ty has contacts aged 50+, $100K+ min, seeking 12% annual / 3% quarterly bond-level returns → Pinecone 506(b) fund. Paul holds investor relationship per SEC rules; pay Ty 3–4% consulting on capital invested. Activate once Ty onboards. | **When Ty joins** | Plaud — 07-20 Customer Consultation (Ty, Houston) | 🟡 | ⬜ |
 | **Follow up with Tim (Bourbonnais IL $435K stack deal)** — Tim needs: seller carry ~$145K from motivated widow seller, credit partner for hard money loan, TC to close by July 29. $130K non-refundable option fee at risk if stack fails. | **2026-07-29** | Plaud — 07-21 Consultation: Tim's Property Purchase (2231 Pheasants Run, Bourbonnais IL) | 🔴 | ⬜ |
 
+| 🔴 **FIX URGENT — Email nurturing campaign bug (Ross)**: saving/updating email sequences marks ALL pending contacts as "skipped" — campaign stops for thousands of contacts. Ross must fix before any sequence edits. | **ASAP** | 07-22 Weekly Meeting — highest-priority system bug; affects thousands of active contacts | 🔴 | ⬜ |
+| 🔴 **FIX — Deal submission failure (Ross)**: July 21 change broke deal entry system; 5 deals stuck (2 from Amanda, 3 from Isaac). Ross working on fix. | **ASAP** | 07-22 Weekly Meeting — deal submissions broken since July 21 change | 🔴 | ⬜ |
+| 🔴 **ESCALATE — 415 Clark deal (Adrian & Jeremy)**: 2+ months stalled, Jeremy has poor communication. Push for resolution or drop. | **ASAP** | 07-22 Weekly Meeting — deal over 2 months old with no progress | 🔴 | ⬜ |
+| **Delete duplicate Isaac Martin deal entry** — the one with a period after "avenue" in the address. | **ASAP** | 07-22 Weekly Meeting — duplicate created; identify and delete wrong entry | 🔴 | ⬜ |
+| **Inform Kelly — declining $50K loan referral**: refinance-exit structure + unknown borrower = too risky. Tell her RQF isn't set up for this type yet but may expand. | **This week** | 07-22 Weekly Meeting — Kelly proposed loan for borrower doing 3-4 week refinance; declined | 🟡 | ⬜ |
+| **Communicate Jamie capital terms**: RQF cost of capital is 2%+; offer deal-by-deal arrangement at 5%+ return only. Jamie MUST use RQF contracts for all EMD deals if using RQF capital. | **This week** | 07-22 Weekly Meeting — Jamie lending arrangement; deal-by-deal at right margin | 🟡 | ⬜ |
+| **Larger deals ($4M+) — explore alternative bank statement requirements**: standard rules don't scale for million-plus deals. Research options for qualifying large borrowers. | **This week** | 07-22 Weekly Meeting — client needs support for deals over $4M | 🟡 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -777,6 +784,7 @@
 | **Maui County — STR permit transfer response** — buyer submitted query; waiting on county confirmation of permit transfer eligibility | TBD | Prior session — Maui STR deal pending county response | 🟡 | ⬜ |
 | **Insurance inspection scheduling (windstorm shingles)** — insurer to contact via text/email; no action needed until contacted | TBD | Prior session — insurance claim in progress | 🟢 | ⬜ |
 | **Tony Herron (Prime Energy) — SAF/ethanol project overview email** — to paul@realquickfunds.com; trigger review of ethanol facility investment opportunity when received | TBD | 07-08 SAF/Transactional Funding — Southwest Airlines contract; Alex Mervis intro | 🟡 | ⬜ |
+| **Scott's referral deal** — delayed due to contract issues with the other party. Monitor; no action from Paul needed now. | **TBD** | 07-22 Weekly Meeting — deal stalled externally | 🟡 | ⬜ |
 ---
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Afternoon run 2026-06-03: 5 new transcripts processed, 4 action items added; 1 fraud-alert call recorded as no-action (resolved on call).*
 
