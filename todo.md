@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-07-23 — Morning transcript review — +8 item(s) from 07-22 Weekly Meeting: System Bugs, Deal Reviews, Capital Management**
+**Last updated: 2026-07-24 — Morning transcript review — +13 item(s) from 9 new transcripts (07-20 to 07-23)**
 
 ---
 
@@ -121,6 +121,7 @@
 | **Inform Kelly — declining $50K loan referral**: refinance-exit structure + unknown borrower = too risky. Tell her RQF isn't set up for this type yet but may expand. | **This week** | 07-22 Weekly Meeting — Kelly proposed loan for borrower doing 3-4 week refinance; declined | 🟡 | ⬜ |
 | **Communicate Jamie capital terms**: RQF cost of capital is 2%+; offer deal-by-deal arrangement at 5%+ return only. Jamie MUST use RQF contracts for all EMD deals if using RQF capital. | **This week** | 07-22 Weekly Meeting — Jamie lending arrangement; deal-by-deal at right margin | 🟡 | ⬜ |
 | **Larger deals ($4M+) — explore alternative bank statement requirements**: standard rules don't scale for million-plus deals. Research options for qualifying large borrowers. | **This week** | 07-22 Weekly Meeting — client needs support for deals over $4M | 🟡 | ⬜ |
+| 🔴 **URGENT — $250K capital shortfall on double close scheduled 07-24** — HARP payout validity ended 07-24; funding attempt by J/Jay failed for unknown reason. Confirm closing date, wire status, and secure alternate funding source immediately | **TODAY** | 07-23 DSCR Capital Shortfall meeting — team confirmed deal at risk | 🔴 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -301,6 +302,9 @@
 | **Follow up with Ty (Houston) — confirm VIP/white-label sign-up** — tech sales pro (Oracle/Salesforce/Merrill Lynch bg), Gator/Sub2 member; said he'd "sign up and press go" at end of 07-20 call. Send welcome + next steps. | **This week** | Plaud — 07-20 Customer Consultation (Ty, Houston) | 🟡 | ⬜ |
 | **Reach out to Kyle Karges** — get social media support/team recommendations for content production | **This week** | Plaud — 07-21 Strategies/Optimization session | 🟡 | ⬜ |
 
+| **Follow up with Rylan (19-yr-old investor) + father** — interested in Stack/DSCR deal on $495–500K Phoenix rental property; DSCR first lien ~70–75% LTV + seller carry; also exploring mobile home ADU. Send Stack Method guide + calculator | **This week** | 07-23 Rylan Consultation — referred to Josh for DSCR; Stack Method candidate | 🟡 | ⬜ |
+| **Present Claude + HeyGen AI demo at next Owners Club AI call** — was asked to present after sharing that Claude integration with HeyGen auto-produces videos while sleeping; wife mistook AI avatar for real Paul | **Next AI call** | 06-23 Owners Club L10 + 07-21 context — host specifically requested demo | 🟡 | ⬜ |
+| **Follow up with Ty (Houston, Gator/Sub2 member, federal tech sales)** — interested in VIP white-label signup; said he'd "sign up and press go"; also has accredited investor contacts (50+, min $100K) for 506(b) fund intro | **This week** | 07-20 Customer Consultation — Ty building Fund the Close + Cornerlock Funding brand | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -649,6 +653,13 @@
 | **Fix Morph Method masterclass link in classroom** — update link to point to correct March 17, 2026 replay | ASAP | Plaud 07-14 — Tom directed to watch March 17 replay; link currently wrong | 🟡 | ⬜ |
 | **Granular Google Calendar logging** — adjust calendar in real-time throughout the day (driving, calls, underwriting, etc.) so AI agent can analyze operational map and surface inefficiencies | **This week** | Plaud — 07-21 Strategies/Optimization session | 🟡 | ⬜ |
 
+| **Merge DSCR and hard money CRM pipelines** — standardize to single pipeline with unified stages: New Submission → Forwarded to Broker → Approved → Closed → Closed & Paid → Dead; add tags for outcome tracking (didn't meet underwriting, fell through, etc.) | **This week** | 07-23 Pipeline Consolidation meeting w/ Justin Pilakka | 🟡 | ⬜ |
+| **Build broker-specific deal dashboards** (e.g., Josh) — show closed dates, funded amounts, payment status; explore webhook/API integrations with broker systems to eliminate manual Google Sheets reconciliation | **This week** | 07-23 Pipeline Consolidation meeting w/ Justin Pilakka | 🟡 | ⬜ |
+| **Implement AI-driven post-close broker follow-up system** — close date triggers follow-up email to broker after X days; AI agent reads reply, extracts funded amount + date, updates deal record automatically | **This week** | 07-23 Pipeline Consolidation meeting w/ Justin Pilakka | 🟡 | ⬜ |
+| **Add acquisition/affiliate commission tracking** — 0.4% to white label acquisition members, 0.1% to company; build data table tracking deals + funding details to support automated payouts; replace manual reconciliation | **This week** | 07-23 Pipeline Consolidation w/ Justin Pilakka | 🟡 | ⬜ |
+| **Fix HubSpot email-to-deal auto-association** — emails from title companies and third parties often fail to link to correct deal; forces constant context-switching between inbox and CRM. A missed rate-change email cost $250 in commission. | **This week** | 07-23 HubSpot Customer Consultation w/ Justin Pilakka | 🟡 | ⬜ |
+| **Create dedicated VOF (Verification of Funds) pipeline in HubSpot** — separate from deal pipeline for accurate reporting, bookkeeping, and capital planning; track POF letter vs. actual VOF timing and amounts | **This week** | 07-23 HubSpot Customer Consultation w/ Justin Pilakka | 🟡 | ⬜ |
+| **Add mandatory stage-gate controls in HubSpot** — enforce required task completion before stage advancement; prevent deal dragging and stage-bypassing; integrate with invoicing automation and HUD inclusion workflow | **This week** | 07-23 HubSpot Customer Consultation w/ Justin Pilakka | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -698,6 +709,7 @@
 | **Explore 506(c) fund structure for SAF/ethanol facility** — 506(c) allows general solicitation; appropriate if SAF deal requires broader raise beyond existing network | After Tony Herron materials received | 07-08 SAF/Transactional Funding | 🟢 | ⬜ |
 | **Record client calls on video** — add media release to call workflow; repurpose real consultations into short-form social content clips | **This week** | Plaud — 07-21 Strategies/Optimization session | 🟡 | ⬜ |
 
+| **Set up accredited investor intro workflow with Ty (Houston)** — he has contacts over 50 seeking ~12% annual (bond-level risk); will introduce for 3–4% consulting fee on invested capital; minimum $100K; 506(b) compliance required | **This week** | 07-20 Customer Consultation — Ty has prior private lending contacts from Merrill Lynch era | 🟡 | ⬜ |
 ---
 
 ## 🏃 Personal / Standards
@@ -751,6 +763,7 @@
 | 🟡 **Investigate Sleep Number systems for dual‑sided firmness to improve his wife’s sleep quality** | TBD | Paul says he wants to look into Sleep Number beds for his wife | 🟡 | ⬜ |
 | **Manuela raise — 10% to $11/hr retroactive July 1** — approved during June capital planning; process payroll adjustment | ASAP | Prior session — compensation review approved | 🟡 | ⬜ |
 | **Provide TC recommendations to deal participants** — curated shortlist of TCs specializing in seller-financed deal structures | This week | 07-02 Seller Finance Guide | 🟢 | ⬜ |
+| **Explore Joe Dispenza's guided meditation series "Breaking the Habit of Being Yourself"** — on Spotify (~$5); recommended by group for deep subconscious habit change and building a "version 3" of yourself | **When possible** | 07-21 Business Optimization session — group recommendation for mindset transformation | 🟢 | ⬜ |
 ---
 
 ## ⏳ Waiting On
