@@ -1,48 +1,42 @@
-# Morning Briefing — Thursday, July 23, 2026
+# Morning Briefing — Friday, July 24, 2026
 
 ## The One Thing
-Emma Africa Trip — Close every remaining blocker today before NYC flight tomorrow (SLC→JFK 2:35 PM). She departs Malawi July 27. Once you board, this falls to Akemi alone.
+Make one real capital conversation happen before Sunday — in NYC, at dinner, after Vu Tran's capital markets session, or in the hotel lobby. Fund at 7.5%. Q3 Rock = $500K.
 
 ## Top 3 Priorities
-1. Emma Africa Trip Blockers — HXP portal, yellow fever docs, visa. 4 days to Jul 27.
-2. NYC Prep — Pack, confirm itinerary, Vu Tran capital markets brief (Sat 10 AM EDT)
-3. Tonight: Reconciliation w EMH & RQF (5 PM) + TXFHub Custom Design (6 PM)
+1. NYC Capital Presence — One Investor Conversation (Vu Tran pitches capital markets Sat 10 AM EDT)
+2. Emma Africa Trip — Final Blocker Confirmation (she departs Malawi Jul 27, 3 days away)
+3. July 30 Closing Prep — RV Park/MHP/MF Investment closes in 6 days
 
 ## Fund Status
-$150,000 · $2,000,000 target · 7.5% · 2 LPs (Paul $50K + Mouri $100K) · Tracker 20d stale
+Balance $150,000 · Target $2,000,000 · 7.5% · LPs: Paul Brown $50K ✅ · Naohiro Mouri $100K ✅ (Jul 1) · ⚠️ Tracker 21d stale
 
 ## STRETY TO-DOS — NEXT 7 DAYS
 OVERDUE:
-• [HIGHEST] Jun 30 — Connect w/ 3 recruiting services
-• [HIGHEST] Jul 1 — CC admin@ for forwarded HML/DSCR email
-• [HIGHEST] Jul 3 — Outreach to 30 accredited investors
-• [HIGHEST] Jul 8 — Chase Bank Process
-• [HIGHEST] Jul 9 — Make YT video: Recourse vs Non-Recourse Loans
-• [HIGHEST] Jul 17 — Call w/ Jeramy to review the sheet
-• [HIGHEST] Jul 17 — Call w/ Josh to review the sheet
-• [HIGHEST] Jul 18 — Outreach to 40 accredited investors
-DUE YESTERDAY (Jul 22 — status unknown):
-• V/TO Meeting, behavioral questions, scope of work, social media hire, Skool marketing line
+• Jun 30 [25d] — Connect w/ 3 recruiting services (Lat Am, India, Vietnam)
+• Jul 3 [21d] — Outreach to 30 accredited investors
+• Jul 8 [16d] — Chase Bank Process
+• Jul 9 [15d] — Make YT video: Recourse vs Non-Recourse Loans
+• Jul 18 [6d] — Outreach to 40 accredited investors
+• Jul 22 [2d] — Adjust agreement: explicit responsibilities/scope of work
+• Jul 22 [2d] — Find candidates for Social Media person
+• Jul 22 [2d] — Determine Skool marketing line in Pace Communities
 THIS WEEK:
-• [Medium] Jul 25 — Outreach to 50 accredited investors (NYC day)
-• [Normal] Jul 25 — Determine capital partners + SLAs
-• [Normal] Jul 29 — Set up calls with capital partners
+• Jul 25 — Outreach to 50 accredited investors (NYC day!)
+• Jul 25 — Determine capital partners + SLAs needed
+• Jul 29 — Set up calls with each potential new HML/DSCR lender
+• Jul 30 — Offer TCs a Free White Label (VIP)
 
 ## Today's Schedule
-10:00 AM — Follow-up Mtg w/ Paul (admin@rqf)
-1:00 PM — Tanya Oliver | Performance Coach (Black Card) [conflicts w/ RV Masterclass]
-1:00 PM — RV Masterclass: Special Topics + Q&A (OC)
-2:00 PM — Open Discussion + Q&A (TXFHub)
-3:00 PM — White Label or Go Home! / Edgar Vargas
-3:00 PM — Weekly All Level Meeting with the Captain's
-5:00 PM ⭐ — Reconciliation w EMH & RQF
-6:00 PM ⭐ — TXFHub Custom Design (until 8:05 PM)
+8:00 AM MDT — Series 65 Study Group (Black Card)
+9:00 AM MDT — Accountability Call (Brian)
+2:35 PM MDT — Flight DL 671 SLC→JFK (H384EP)
+Evening — Check in Courtyard by Marriott Manhattan/Chelsea
 
 ## Email Action Items
-[URGENT] Emma Africa Trip / HXP Portal — Jul 27 departure
-[URGENT] EY / Jayanti Jha — 2025 US Tax Returns
-[URGENT] Airbnb / Maeda — Co-Host 90% split decision (Jul 28 deadline)
-[ACTION] Utah DMV — Registration expires Jul 31
-[ACTION] Farmers Insurance — Policy 913293615
-[OVERDUE] Noa FAFSA — Parent section
-[ACTION] Hostinger / North Peak Recovery — domain expires Aug 5
+[URGENT] Emma Africa Trip / HXP Portal (Jul 27, 3 days)
+[URGENT] EY / Jayanti Jha 2025 Tax Returns — Paul is bottleneck
+[URGENT] Airbnb / Maeda Co-Host 90% split decision (deadline Jul 28)
+[ACTION] Utah DMV vehicle registration expires Jul 31
+[ACTION] Farmers Insurance Policy 913293615
+[OVERDUE] Noa FAFSA parent section
