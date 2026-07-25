@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-07-24 — Morning transcript review — +13 item(s) from 9 new transcripts (07-20 to 07-23)**
+**Last updated: 2026-07-25 — Morning transcript review — +35 item(s) from 4 new transcripts (07-23)**
 
 ---
 
@@ -122,6 +122,10 @@
 | **Communicate Jamie capital terms**: RQF cost of capital is 2%+; offer deal-by-deal arrangement at 5%+ return only. Jamie MUST use RQF contracts for all EMD deals if using RQF capital. | **This week** | 07-22 Weekly Meeting — Jamie lending arrangement; deal-by-deal at right margin | 🟡 | ⬜ |
 | **Larger deals ($4M+) — explore alternative bank statement requirements**: standard rules don't scale for million-plus deals. Research options for qualifying large borrowers. | **This week** | 07-22 Weekly Meeting — client needs support for deals over $4M | 🟡 | ⬜ |
 | 🔴 **URGENT — $250K capital shortfall on double close scheduled 07-24** — HARP payout validity ended 07-24; funding attempt by J/Jay failed for unknown reason. Confirm closing date, wire status, and secure alternate funding source immediately | **TODAY** | 07-23 DSCR Capital Shortfall meeting — team confirmed deal at risk | 🔴 | ⬜ |
+| **Analyze historical EMD close rates (~1 in 20)** — define pre-funding criteria, guardrails, and Go/No-Go checkpoints to improve batting average | **This week** | 07-23 CRM design meeting — EMD conversion analysis | 🟡 | ⬜ |
+| **Confirm VOF pricing policy** — 1% fee under consideration; implement fee capture and invoicing once decided | **This week** | 07-23 CRM design meeting — VOF monetization | 🟢 | ⬜ |
+| **URGENT — Investigate Jay's funding rejection on 07-24 double close** — identify root cause; confirm if HARP payout still valid; $250K shortfall outstanding | **ASAP** | 07-23 group call — capital shortfall emergency; payout deadline was 07-24 | 🔴 | ⬜ |
+| **Confirm closing date for pending double close** and reconcile $250K capital gap in capital planning | **ASAP** | 07-23 group call — Adam wire, $50K reallocation discussed | 🔴 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -305,6 +309,11 @@
 | **Follow up with Rylan (19-yr-old investor) + father** — interested in Stack/DSCR deal on $495–500K Phoenix rental property; DSCR first lien ~70–75% LTV + seller carry; also exploring mobile home ADU. Send Stack Method guide + calculator | **This week** | 07-23 Rylan Consultation — referred to Josh for DSCR; Stack Method candidate | 🟡 | ⬜ |
 | **Present Claude + HeyGen AI demo at next Owners Club AI call** — was asked to present after sharing that Claude integration with HeyGen auto-produces videos while sleeping; wife mistook AI avatar for real Paul | **Next AI call** | 06-23 Owners Club L10 + 07-21 context — host specifically requested demo | 🟡 | ⬜ |
 | **Follow up with Ty (Houston, Gator/Sub2 member, federal tech sales)** — interested in VIP white-label signup; said he'd "sign up and press go"; also has accredited investor contacts (50+, min $100K) for 506(b) fund intro | **This week** | 07-20 Customer Consultation — Ty building Fund the Close + Cornerlock Funding brand | 🟡 | ⬜ |
+| **Follow up with Julian** re: webhook integration for deal status syncing, referral policy alignment, and affiliate program launch | **This week** | 07-23 pipeline meeting — Julian/Julie integration | 🟡 | ⬜ |
+| **Schedule next CRM design meeting with Justin and Roz**; update expired video call URL in calendar invite | **ASAP** | 07-23 CRM design meeting — closing action | 🟡 | ⬜ |
+| **Strengthen relationship with Josh (DSCR lender)** — establish as preferred routing for DSCR-dependent Morby deals; set up direct channel for white-label members | **This week** | 07-23 group call — Josh mentioned repeatedly as key DSCR contact | 🟡 | ⬜ |
+| **Connect Rylan (19yo investor, Phoenix ~$495K deal) with Josh** for DSCR qualification call — ensure deal submission routed to Josh, not another lender | **ASAP** | 07-23 Rylan consultation — stack method + mobile home ADU deal | 🟡 | ⬜ |
+| **Follow up with Rylan after deal submission** — confirm Josh made contact and consultation is scheduled | **When possible** | 07-23 Rylan consultation — 19yo first-time investor | 🟢 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -450,6 +459,7 @@
 | **Implement teach-show-do curriculum** for School platform — require completion milestones; add free video reward at key milestones | This month | 06-26 Strategic Partnership (Josh) | 🟡 | ⬜ |
 | **Prepare core offerings list for CRM portal MVP kickoff** — enumerate what RQF white-label partners need from centralized portal | By 2026-07-18 | 07-09 Website + CRM discussion | 🟡 | ⬜ |
 | **Build calculator embedding for white-label sites** — develop and deploy method to embed (not just link) DSCR/Morby/Stack calculators directly into partner white-label sites | This week | Plaud 07-14 — training Q&A; currently only linking supported | 🟡 | ⬜ |
+| **Build affiliate portal** with unique referral links for free affiliates — deal visibility, commission tracking, and payout integration | **When possible** | 07-23 pipeline meeting w/ Justin & Roz | 🟢 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -660,6 +670,30 @@
 | **Fix HubSpot email-to-deal auto-association** — emails from title companies and third parties often fail to link to correct deal; forces constant context-switching between inbox and CRM. A missed rate-change email cost $250 in commission. | **This week** | 07-23 HubSpot Customer Consultation w/ Justin Pilakka | 🟡 | ⬜ |
 | **Create dedicated VOF (Verification of Funds) pipeline in HubSpot** — separate from deal pipeline for accurate reporting, bookkeeping, and capital planning; track POF letter vs. actual VOF timing and amounts | **This week** | 07-23 HubSpot Customer Consultation w/ Justin Pilakka | 🟡 | ⬜ |
 | **Add mandatory stage-gate controls in HubSpot** — enforce required task completion before stage advancement; prevent deal dragging and stage-bypassing; integrate with invoicing automation and HUD inclusion workflow | **This week** | 07-23 HubSpot Customer Consultation w/ Justin Pilakka | 🟡 | ⬜ |
+| **Consolidate DSCR and hard money into single CRM pipeline** with standardized stages and unified tag taxonomy | **This week** | 07-23 meeting w/ Justin & Roz — pipeline design session | 🟡 | ⬜ |
+| **Automate post-close follow-up emails**; AI updates deal records from broker email replies without manual entry | **This week** | 07-23 pipeline meeting w/ Justin & Roz | 🟡 | ⬜ |
+| **Build broker dashboards** (for Josh and others) with closed/funded amounts and payment/commission status | **This week** | 07-23 pipeline meeting w/ Justin & Roz | 🟡 | ⬜ |
+| **Implement persistent referral attribution + conflict detection** in CRM — acquisitions member stays attached even if not on calls | **This week** | 07-23 pipeline meeting — referral/attribution flow | 🟡 | ⬜ |
+| **Build CRM-integrated deal chat** to replace Slack for deal comms; add dashboard notifications; TXF hub member access to their deal records | **This week** | 07-23 pipeline meeting w/ Justin & Roz | 🟡 | ⬜ |
+| **Evaluate switching from DocuSign/PandaDoc to Roz's agent-friendly e-signing solution** — investigate feasibility and pricing | **When possible** | 07-23 pipeline meeting — Roz signing integration | 🟢 | ⬜ |
+| **Square API integration for automated EMD invoice creation/sending** — triggered at deal stage change | **This week** | 07-23 pipeline meeting w/ Justin & Roz | 🟢 | ⬜ |
+| **Establish and enforce policy: all deal communication goes through CRM deal chat**, not text/WhatsApp | **This week** | 07-23 pipeline meeting — communication protocol | 🟡 | ⬜ |
+| **Build unified AI-enabled communication hub in CRM** — admin@realquickfunds.com email/text feed, AI-prioritized quadrant by deal | **ASAP** | 07-23 CRM design meeting w/ Justin & Roz | 🔴 | ⬜ |
+| **Integrate two-way SMS (Twilio) into CRM** — log inbound/outbound texts alongside emails per deal record | **This week** | 07-23 CRM design meeting w/ Justin & Roz | 🟡 | ⬜ |
+| **Build AI follow-up engine for 'On Hold' EMD deals** — near-daily cadence, escalates to human after configurable threshold | **This week** | 07-23 CRM design meeting — EMD on-hold automation | 🟡 | ⬜ |
+| **AI document intake**: auto-check signatures, extract EMD amounts/dates/refundability from uploaded contracts | **This week** | 07-23 CRM design meeting w/ Justin & Roz | 🟡 | ⬜ |
+| **Enforce mandatory task completion before stage advancement** in CRM — no stage jumps without required fields/tasks done | **This week** | 07-23 CRM design meeting — pipeline guardrails | 🟡 | ⬜ |
+| **Create dedicated VOF (Verification of Funds) pipeline** with 'Create VOF Deal' button, pre-fill from parent deal, linked VOF reporting | **This week** | 07-23 CRM design meeting w/ Justin & Roz | 🟡 | ⬜ |
+| **Automate invoice/payoff statement generation** with stage-based triggers across all deal types (EMD, Stack, Echo, Double Close) | **This week** | 07-23 CRM design meeting w/ Justin & Roz | 🟡 | ⬜ |
+| **Enhanced bookkeeping in CRM**: link cash movements, fees, and referrals to deals; enforce data capture at every stage closure | **This week** | 07-23 CRM design meeting — financial data hygiene | 🟡 | ⬜ |
+| **Build 'On Hold' dashboard** with sortable views by age, deal value, and last follow-up date | **When possible** | 07-23 CRM design meeting w/ Justin & Roz | 🟢 | ⬜ |
+| **Add white-label toggle to disable Hard Money/DSCR** on specific partner sites — for partners who prefer not to offer those deal types | **This week** | 07-23 group call — Tracy feedback on partner UX | 🟡 | ⬜ |
+| **Improve acquisitions CC audit tools** — automatically ensure acquisitions member stays CC'd on lender/client email chains | **This week** | 07-23 group call — Cheryl scenario re: lender-client direct comms | 🟡 | ⬜ |
+| **Research state-specific assignment limits and double close hold periods** — Illinois, Arizona, Oklahoma, South Carolina; build compliance guide | **When possible** | 07-23 group call — regulatory discussion | 🟢 | ⬜ |
+| **Pre-screen title companies for pass-through/wet funding policies** before committing capital to double close deals | **This week** | 07-23 group call — wet funding kills double close economics | 🟡 | ⬜ |
+| **Explore LLC sale structure for Morby wholesaler double closes** — legal contracts, seller disclosure framework, assignment fee handling | **When possible** | 07-23 group call — Tim/Paul discussion on LLC vs. asset sale | 🟢 | ⬜ |
+| **Fix Stack Method Calculator: review funding fee calc on returned cash portion** — 2.5% fee on cash-back amount causing number confusion (Tracy's deal example) | **This week** | 07-23 group call — Tracy $5.9M deal calc issue | 🟡 | ⬜ |
+| **Develop standardized expectations checklist** for each deal type (EMD, Stack, DSCR, HML, Double Close) — set timelines, comms cadence, key milestones | **When possible** | 07-23 group call — Khalil recommendation | 🟢 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -710,6 +744,7 @@
 | **Record client calls on video** — add media release to call workflow; repurpose real consultations into short-form social content clips | **This week** | Plaud — 07-21 Strategies/Optimization session | 🟡 | ⬜ |
 
 | **Set up accredited investor intro workflow with Ty (Houston)** — he has contacts over 50 seeking ~12% annual (bond-level risk); will introduce for 3–4% consulting fee on invested capital; minimum $100K; 506(b) compliance required | **This week** | 07-20 Customer Consultation — Ty has prior private lending contacts from Merrill Lynch era | 🟡 | ⬜ |
+| **Post 07-23 Morby/DSCR group call video with subtitles** — committed to members within 24 hours of recording | **2026-07-24** | 07-23 group call — content commitment to community | 🔴 | ⬜ |
 ---
 
 ## 🏃 Personal / Standards
