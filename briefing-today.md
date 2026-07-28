@@ -1,37 +1,46 @@
-# Morning Briefing — Sunday, July 26, 2026
+# Morning Briefing — Tuesday, July 28, 2026
 
 ## The One Thing
-Emma HXP Final Prep — she departs Monday AM for Malawi (Africa). Print PDF, confirm logistics, send her off right.
+Chase Ryan Medlock / Griffiths Title on Payoff CM67076D — 18+ days unresolved. Close this before tonight's L10.
 
 ## Top 3 Priorities
-1. Emma HXP Final Prep — PDF print + last items before she boards Monday AM
-2. Ryan Medlock Payoff CM67076D — 17 days unresolved, Griffiths Title chased twice; highest-risk active deal
-3. Valene Brown InvestNext $50K — confirm portal receipt, advance to committed (pushes fund to $200K / 10%)
+1. Ryan Medlock Payoff CM67076D — Call Griffiths Title directly. Get payoff confirmed or escalate.
+2. RQF L10 Meeting prep + run (7:30 PM) — Leadership meeting tonight. Agenda set, scorecard ready.
+3. Thursday Closing prep — RV Park / MHP / Multifamily closes in 2 days. Confirm docs, wires, parties.
 
 ## Fund Status
-Balance: $150,000 · Target: $2,000,000 · 7.5% · LPs: Paul $50K ✅ · Mouri $100K ✅ · Mom $50K ⏳ pending
-⚠️ Tracker last updated Jul 3 (23 days stale)
+$150,000 · $2,000,000 · 7.5% · LPs: Paul $50K (invested) · Mouri $100K (invested Jul 1) · Valene Brown $50K (InvestNext pending)
+WARNING: Capital Raising Tracker last updated Jul 3 (25 days stale)
 
 ## STRETY TO-DOS — NEXT 7 DAYS
 OVERDUE:
-• [NORMAL] Due Jun 30 (26 days) — Connect w/ three recruiting services
-• [MEDIUM] Due Jul 3 (23 days) — Outreach to 30 accredited investors
-• [LOW] Due Jul 8 (18 days) — Chase Bank Process
-OPEN:
-• [MEDIUM] Make YT video on recourse vs non-recourse loans
-• Outreach to 40 accredited investors
-• Adjust agreement — scope of work responsibilities
+- [28 DAYS OVERDUE] Jun 30 — Connect w/ three recruiting services (Lat Am, India, Vietnam)
+- [25 DAYS OVERDUE / MEDIUM] Jul 3 — Outreach to 30 accredited investors
+- [20 DAYS OVERDUE / LOW] Jul 8 — Chase Bank Process
+OPEN / UNSCHEDULED:
+- [MEDIUM] Make YT video on recourse vs non-recourse loans
+- [NORMAL] Outreach to 40 accredited investors
+- [NORMAL] Adjust agreement re: responsibilities of each party
 
-## Today's Schedule (NYC, EDT)
-• 11:00 AM EDT — Church
-• 3:00 PM EDT — Family Church
+## Today's Schedule (Tuesday, Jul 28 — Lehi, UT)
+12:15 PM — Follow-up Mtg w Paul
+1:00 PM — RV Masterclass: Live Deal Review (Owners Club)
+1:00 PM — Ben Julius | Real Estate (Black Card Official)
+2:00 PM — White Label w/ Edgar (Paul Brown RQF / Gator)
+3:00 PM — Level 22 (Paul Brown RQF)
+6:00 PM — Open Discussion + Q&A (TXFHub Community)
+7:30 PM — RQF L10 Meeting (Leadership) MAIN EVENT
 
 ## Email Action Items
-• [URGENT/17d] Ryan Medlock Payoff CM67076D — Griffiths Title double-chased (paul@rqf)
-• [URGENT] Emma HXP — PDF print request pending (pmartbrown)
-• [URGENT/9d] Adam Casper Travelers claim JFM7762 — sign authorization (pmartbrown)
-• [URGENT] Jessica Lamont — Garden Rd payoff wiring confirmation (Hanks)
-• [IMPORTANT] Valene Brown InvestNext $50K review (Pinecone)
-• [ACTION] rqf-capital-calendar refresh FAILED — re-run skill
-• [IMPORTANT/16d] FAFSA — finish parent section
-• [IMPORTANT/44d] Ajay Kuckreja — reply owed since Jun 11
+- [OVERDUE 18d] Ryan Medlock Payoff CM67076D — escalate today
+- [URGENT] Jessica Lamont — Garden Rd payoff wiring instructions (Hanks)
+- [URGENT 10d] Adam Casper Travelers claim JFM7762 — sign authorization
+- [IMPORTANT] Valene Brown InvestNext $50K review (Pinecone)
+- [IMPORTANT 17d] FAFSA — parent section (IRS consent confirmed Jul 24)
+- [ACTION] AT&T card expiring — update payment
+- [IMPORTANT 46d] Ajay Kuckreja Sugar Pine PM — reply owed since Jun 11
+- [ACTION] EY 2025 US Tax Return — still unfiled
+
+## Family Context
+- Emma: HXP Africa Trip (Malawi) Jul 27 - Aug 14
+- Akemi: Japan Trip Jul 28 - Aug 8 (departed today)
