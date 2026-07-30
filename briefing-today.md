@@ -1,44 +1,50 @@
-# Morning Briefing — Wednesday, July 29, 2026
+# Morning Briefing — Thursday, July 30, 2026
 
 ## The One Thing
-Tomorrow's Closing — Clear the Decks Today. RV Park/MHP/MF closes Thu Jul 30. Confirm all docs, wire instructions, and deal logistics are bulletproof.
+Close the RV Park / MHP / Multifamily Deal — confirm wire instructions and docs first thing this morning. TODAY IS CLOSING DAY.
 
 ## Top 3 Priorities
-1. Contact Rinat & Roger — AL Wedding Venue Deal (STRETY due today)
-2. Ryan Medlock Payoff CM67076D — 21 days unresolved, respond to Griffiths Title
-3. HML/DSCR Lender Calls — Set up today (STRETY due today)
+1. Confirm & Complete Closing — RV Park / MHP / Multifamily — TODAY. Everything else waits.
+2. Mondale / 4540 S 600 E Due Diligence — Deadline TOMORROW (Fri Jul 31). Act today.
+3. Ryan Medlock Payoff CM67076D — 22d unresolved, respond to Griffiths Title today.
 
 ## Fund Status
-Balance $150,000 · Target $2,000,000 · 7.5% · LPs: Paul Brown $50K ✅ · Naohiro Mouri $100K ✅ · Valene Brown $50K ⏳ pending
+Balance $150,000 · Target $2,000,000 · 7.5% · LPs: Paul Brown $50K ✅ · Naohiro Mouri $100K ✅ · Valene Brown $50K ⏳ pending (NOT in Tracker) · Tracker stale 27d
 
 ## STRETY TO-DOS — NEXT 7 DAYS
 OVERDUE:
-- [29d] Connect w/ recruiting services (Jun 30)
-- [26d] Outreach to 30 accredited investors (Jul 3)
-- [21d] Chase Bank Process (Jul 8)
-- [20d] Make YT video recourse vs non-recourse (Jul 9)
-- [11d] Outreach to 40 accredited investors (Jul 18)
-- [7d] Adjust HML/DSCR agreement (Jul 22)
-- [7d] Find Social Media person (Jul 22)
-- [4d] Capital partners count + SLAs (Jul 25)
-- [4d] Outreach to 50 accredited investors (Jul 25)
-DUE TODAY:
-- Contact Rinat & Roger on AL Wedding Venue deal (Jul 29)
-- Follow up w/ Ella re TC support for Rinat & Roger (Jul 29)
-- Set up calls with potential new HML/DSCR lenders (Jul 29)
+• [30d] Connect w/ 3 recruiting services — Jun 30
+• [27d] Outreach to 30 accredited investors — Jul 3
+• [22d] Chase Bank Process — Jul 8
+• [21d] YT video: recourse vs non-recourse loans — Jul 9
+• [12d] Outreach to 40 accredited investors — Jul 18
+• [8d] Adjust HML/DSCR & RQF agreement — Jul 22
+• [8d] Find Social Media person candidates — Jul 22
+• [5d] Capital partners count + SLAs — Jul 25
+• [5d] Outreach to 50 accredited investors — Jul 25
+• [1d] Contact Rinat & Roger — AL Wedding Venue — Jul 29
+• [1d] Follow up w/ Ella — TC support for R&R — Jul 29
+• [1d] Set up HML/DSCR lender calls — Jul 29
+THIS WEEK: 3 additional items in STRETY
 
 ## Today's Schedule
-10:00 AM — Sabertooth Bookkeeping Circle-up
-1:00 PM — Bridger Pennington | Fund Launch (Black Card)
-4:30 PM — AI Agent Wednesdays Masterclass
-6:00 PM — Pod 13 MH/RV/MF Underwriting
-7:00 PM — YM/YW Activity
+ALL DAY — 🔒 CLOSING: RV Park / Mobile Home Park / Multifamily
+9:00 AM — Reconciliation EHM RQF
+10:00 AM — Reconciliation Call (admin@rqf)
+10:30 AM — The Owner's Code Podcast
+11:00 AM — Fund Launch AI | Bridger Pennington (Black Card)
+12:00 PM — OC Multifamily with Adam Curry
+1:00 PM — RV Masterclass: Special Topics + Q&A
+2:00 PM — White Label w/ Edgar Vargas / Open Discussion + Q&A
+3:00 PM — Weekly Level 2 + All Level Captains Meeting
+4:30 PM — Raz & Paul Weekly Catch-up
 
 ## Email Action Items
-- [URGENT/21d] Ryan Medlock Payoff CM67076D — respond to Griffiths Title (paul@rqf)
-- [URGENT/12d] Adam Casper/Shelley Construction — sign Travelers claim JFM7762 (pmartbrown)
-- [URGENT] Jessica Lamont — Garden Rd payoff wiring instructions (Hanks)
-- [IMPORTANT] Valene Brown — InvestNext $50K review (Pinecone)
-- [IMPORTANT/20d] FAFSA parent section — finish it (pmartbrown)
-- [ACTION] AT&T card expiring — update before autopay fails
-- [IMPORTANT/48d] Ajay Kuckreja (Sugar Pine PM) — reply owed (Pinecone)
+[URGENT/22d] Ryan Medlock Payoff CM67076D — respond to Griffiths Title (paul@rqf)
+[URGENT/13d] Adam Casper (Shelley Construction) — sign Travelers claim JFM7762 (pmartbrown)
+[URGENT] Jessica Lamont — Garden Rd payoff wiring instructions (Hanks)
+[IMPORTANT] Valene Brown — InvestNext $50K review (Pinecone)
+[IMPORTANT/21d] FAFSA parent section — IRS consent confirmed, finish it
+[ACTION] AT&T card expiring · RQF Capital Calendar refresh FAILED
+[IMPORTANT/49d] Ajay Kuckreja (Sugar Pine PM) — reply owed (Pinecone)
+[IMPORTANT] EY 2025 US tax return — still unfiled
