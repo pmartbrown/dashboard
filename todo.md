@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-07-25 — Morning transcript review — +35 item(s) from 4 new transcripts (07-23)**
+**Last updated: 2026-08-01 — Morning transcript review — +6 item(s) from 2 new transcripts (07-31)**
 
 ---
 
@@ -126,6 +126,9 @@
 | **Confirm VOF pricing policy** — 1% fee under consideration; implement fee capture and invoicing once decided | **This week** | 07-23 CRM design meeting — VOF monetization | 🟢 | ⬜ |
 | **URGENT — Investigate Jay's funding rejection on 07-24 double close** — identify root cause; confirm if HARP payout still valid; $250K shortfall outstanding | **ASAP** | 07-23 group call — capital shortfall emergency; payout deadline was 07-24 | 🔴 | ⬜ |
 | **Confirm closing date for pending double close** and reconcile $250K capital gap in capital planning | **ASAP** | 07-23 group call — Adam wire, $50K reallocation discussed | 🔴 | ⬜ |
+| **Alabama barn deal ($9M) — save Excel financial model to Renat's Google Drive folder** | ASAP | 07-31 call with Renat & Roger — committed on call; model shows $1.84M cash to close structure | 🔴 | ⬜ |
+| **Alabama barn deal — redline OA template for Alabama compliance using air-gapped legal AI; add Brown Palaka exit clause as separate addendum (NOT in main OA shared with EVA Bank)** | This week | 07-31 call with Renat/Roger — $9M barn+land; BPA joins as 10% capital partner | 🟡 | ⬜ |
+| **Alabama barn deal — instruct Close title company to open two escrow accounts** for the transaction (keeps money in one physical location, cleaner structure) | This week | 07-31 call with Renat/Roger — avoids second physical title location; Close familiar with deal type | 🟡 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -314,6 +317,7 @@
 | **Strengthen relationship with Josh (DSCR lender)** — establish as preferred routing for DSCR-dependent Morby deals; set up direct channel for white-label members | **This week** | 07-23 group call — Josh mentioned repeatedly as key DSCR contact | 🟡 | ⬜ |
 | **Connect Rylan (19yo investor, Phoenix ~$495K deal) with Josh** for DSCR qualification call — ensure deal submission routed to Josh, not another lender | **ASAP** | 07-23 Rylan consultation — stack method + mobile home ADU deal | 🟡 | ⬜ |
 | **Follow up with Rylan after deal submission** — confirm Josh made contact and consultation is scheduled | **When possible** | 07-23 Rylan consultation — 19yo first-time investor | 🟢 | ⬜ |
+| **Review Renat's email (sent 07-30, forwarded 07-31) re: Alabama barn deal** — Renat said it'll "blow your mind"; contains financial info for the $9M acquisition | ASAP | 07-31 deal call — Renat explicitly asked Paul to read before 1:30pm follow-up | 🔴 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -460,6 +464,7 @@
 | **Prepare core offerings list for CRM portal MVP kickoff** — enumerate what RQF white-label partners need from centralized portal | By 2026-07-18 | 07-09 Website + CRM discussion | 🟡 | ⬜ |
 | **Build calculator embedding for white-label sites** — develop and deploy method to embed (not just link) DSCR/Morby/Stack calculators directly into partner white-label sites | This week | Plaud 07-14 — training Q&A; currently only linking supported | 🟡 | ⬜ |
 | **Build affiliate portal** with unique referral links for free affiliates — deal visibility, commission tracking, and payout integration | **When possible** | 07-23 pipeline meeting w/ Justin & Roz | 🟢 | ⬜ |
+| **Stand up Brown Palaka and Associates website** — position as real estate investor/partner (NOT lender); vague/investor-focused copy; needed for bank optics on Alabama barn deal and future deals | ASAP / this week | 07-31 deal call — Roger's lender rejected iFundWise-branded capital; BPA branding must look like RE equity partner | 🔴 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -833,6 +838,7 @@
 | **Insurance inspection scheduling (windstorm shingles)** — insurer to contact via text/email; no action needed until contacted | TBD | Prior session — insurance claim in progress | 🟢 | ⬜ |
 | **Tony Herron (Prime Energy) — SAF/ethanol project overview email** — to paul@realquickfunds.com; trigger review of ethanol facility investment opportunity when received | TBD | 07-08 SAF/Transactional Funding — Southwest Airlines contract; Alex Mervis intro | 🟡 | ⬜ |
 | **Scott's referral deal** — delayed due to contract issues with the other party. Monitor; no action from Paul needed now. | **TBD** | 07-22 Weekly Meeting — deal stalled externally | 🟡 | ⬜ |
+| **EVA Bank — final term sheet + appraisal review on Alabama barn** ($8M DSCR loan, 80% LTV, 25yr/2yr IO) | — | 07-31 deal call — appraisal in review; outcome determines LTV and cash-out; pushing for 85% | — | ⬜ |
 ---
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Afternoon run 2026-06-03: 5 new transcripts processed, 4 action items added; 1 fraud-alert call recorded as no-action (resolved on call).*
 
