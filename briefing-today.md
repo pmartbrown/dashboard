@@ -1,48 +1,49 @@
-# Morning Briefing — Sunday, August 2, 2026
+# Morning Briefing — Monday, August 3, 2026
 
 ## The One Thing
-Prepare for Monday's MACU call — know your accounts, document the unauthorized activity, be ready to dispute or freeze. Micro-deposits are the intervention window.
+Call MACU Fraud Line: 1-800-748-4302 — before 10 AM. Freeze, dispute, report.
 
 ## Top 3 Priorities
-1. MACU Fraud — Prepare & Call Monday 1-800-748-4302 (Hanks Ventures unauthorized LOC)
-2. Temple Cleaning Decision — Aug 3-7 starts Monday; sign up ward + stake invitations
-3. Noa's FAFSA parent section — 8 minutes, unblocks BYU aid
+1. MACU Fraud Call — 1-800-748-4302 (execute today, micro-deposits are the window)
+2. Temple Cleaning Decision — Aug 3-7 starts today · Brandt Gibson (ward) or Alan Bird (stake)
+3. Capital Outreach + STRETY Blitz — 15 overdue items · pick 2 to move · Rhonda Klch at 3 PM
 
 ## Fund Status
-Balance $150,000 · Target $2,000,000 · 7.5% · LPs: Paul Brown $50K ✅ · Naohiro Mouri $100K ✅ · Tracker STALE (30d — update needed)
+Balance $150,000 · Target $2,000,000 · 7.5% · LPs: Paul Brown $50K ✅ · Naohiro Mouri $100K ✅ · ⚠️ Tracker stale 31 days
 
 ## STRETY TO-DOS — NEXT 7 DAYS
 OVERDUE:
-- [33d] Connect w three recruiting services · Due Jun 30
-- [33d] Outreach to 30 accredited investors · Due Jun 30
-- [30d] Chase Bank Process · Due Jul 3
-- [25d] Make YT video recourse vs non-recourse loans · Due Jul 8
-- [24d] Outreach to 40 accredited investors · Due Jul 9
-- [15d] Adjust HML/DSCR & RQF agreement · Due Jul 18
-- [11d] Find Social Media person candidates · Due Jul 22
-- [11d] Capital partners count + SLAs · Due Jul 22
-- [8d] Outreach to 50 accredited investors · Due Jul 25
-- [8d] Contact Rinat & Roger — AL Wedding Venue · Due Jul 25
-- [4d] Follow up w Ella — TC support for R&R · Due Jul 29
-- [4d] Set up HML/DSCR lender calls · Due Jul 29
-- [3d] Offer TCs Free White Label (VIP) + profit sharing · Due Jul 30
-- [3d] Social media drive for Pinecone Capital · Due Jul 30
-- [3d] Determine Skool marketing limits in Pace Communities · Due Jul 30
-THIS WEEK:
-- No items due Aug 2-9. Next due: Aug 11.
+• [Jun 30] Connect w three recruiting services
+• [Jun 30] Outreach to 30 accredited investors
+• [Jul 3] Chase Bank Process
+• [Jul 8] Make YT video on recourse vs non-recourse loans
+• [Jul 9] Outreach to 40 accredited investors
+• [Jul 18] Adjust agreement — HML/DSCR and RQF scope
+• [Jul 22] Find Social Media person (strategy + content)
+• [Jul 22] Determine capital partner count + SLAs
+• [Jul 25] Outreach to 50 accredited investors
+• [Jul 25] Contact Rinat & Roger on AL Wedding Venue deal
+• [Jul 29] Follow up w Ella re: Rinat & Roger TC support
+• [Jul 29] Set up calls with potential new HML/DSCR lenders
+• [Jul 30] Offer TCs Free White Label (VIP) with profit sharing
+• [Jul 30] Social media drive for Pinecone Capital
+• [Jul 30] Determine Skool marketing line within Pace Communities
+THIS WEEK: No items due Aug 3-9. Next due: Aug 11.
 
 ## Today's Schedule
-8:00 AM — OC Zoom w Pace (Sunday Call with Pace Morby)
-9:00 AM — Church
-1:00 PM — Family Church
+🚨 FIRST — MACU Fraud Call 1-800-748-4302 (before 10 AM)
+10:00 AM — Payroll & Investors Pay
+10:30 AM — Investor Payments (Adam, Valene, Etc.)
+3:00 PM — Rhonda Klch | Capital Raising, Deal Flow & Brand Building (Black Card)
+6:00 PM — Pod 13 MH/RV/MF Underwriting (RQF)
 
 ## Email Action Items
-[URGENT/15d] Adam Casper (Shelley Construction) — sign Travelers claim JFM7762
-[URGENT/23d] Noa FAFSA parent section — 8 minutes
+[URGENT/16d] Adam Casper (Shelley Construction) — Travelers JFM7762
+[URGENT/24d] Noa FAFSA parent section — 8 minutes, unblocks BYU aid
 [OVERDUE] Griffiths Title / Ryan Medlock payoff — 3+ weeks no response
 [ACTION] $200K wire in Maeda ...0286 — confirm source
 [ACTION] Kamalesh Jha back from India this week — connect
 [IMPORTANT] EY/Jayanti Jha — 2025 US return docs
 [IMPORTANT] AT&T autopay card expiring
-[IMPORTANT] North Peak Recovery Wyoming LLC renewal — decide
-[IMPORTANT] Ajay Kuckreja (Sugar Pine PM) — reply 7+ weeks overdue
+[IMPORTANT] Wyoming LLC / North Peak Recovery renewal — decide
+[IMPORTANT] Ajay Kuckreja (Sugar Pine PM) — 7+ weeks no reply
