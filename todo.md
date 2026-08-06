@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-08-01 — Morning transcript review — +6 item(s) from 2 new transcripts (07-31)**
+**Last updated: 2026-08-06 — Morning transcript review — +4 item(s) from 2 new transcripts (08-05)**
 
 ---
 
@@ -129,6 +129,7 @@
 | **Alabama barn deal ($9M) — save Excel financial model to Renat's Google Drive folder** | ASAP | 07-31 call with Renat & Roger — committed on call; model shows $1.84M cash to close structure | 🔴 | ⬜ |
 | **Alabama barn deal — redline OA template for Alabama compliance using air-gapped legal AI; add Brown Palaka exit clause as separate addendum (NOT in main OA shared with EVA Bank)** | This week | 07-31 call with Renat/Roger — $9M barn+land; BPA joins as 10% capital partner | 🟡 | ⬜ |
 | **Alabama barn deal — instruct Close title company to open two escrow accounts** for the transaction (keeps money in one physical location, cleaner structure) | This week | 07-31 call with Renat/Roger — avoids second physical title location; Close familiar with deal type | 🟡 | ⬜ |
+| 🔴 **POF — Send $300K proof-of-funds letter for Cheris Garth to enable LOI on 2 x 7-Eleven gas stations (FL)** — seller requires $300K POF before he will allow an LOI; Paul committed "I can solve that." 2 stations: West Palm Beach + Coral Springs. Combined ask $2.25M, $124K/month net, $401K/month gross. Seller is cash-only / no seller finance. Deal at risk until POF delivered. | **URGENT** | 08-05 Call w Nathan Z and Cheris Garth — gas station acquisition deal | 🔴 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -150,6 +151,7 @@
 | **Watch for RV Park Partnership/Wholesale Handbook** from Heather/Tricia — sign-up info for partnering on or wholesaling RV parks expected within ~1 week | By Jun 25 | Plaud 06-18 — Heather announced handbook coming within next week for partnership/wholesale program | 🟢 | ⬜ |
 | 🔴 **Assign ownership** for the >$7M RV park financing effort and set a follow‑up timeline. | This week | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — RV park financing discussion. | 🔴 | ⬜ |
 | Bobby Souza RV park (TX, 2024 build, 50-space): draft broker question list — Nov/Dec occupancy dip explanation, missing expense line items (taxes, internet, trash, propane), PM wage rate, full rent roll | This week | Plaud 06-16 Bobby Souza consultation — Paul flagged as acquisition review candidate; needs answers before proceeding | 🟡 | ⬜ |
+| 🟡 **EVALUATE — Cheris Garth: 2 x 7-Eleven gas stations, West Palm Beach + Coral Springs FL ($2.25M combined)** — $124K/month net, $401K/month gross; structure is master-lease sublease (not RE ownership); 20% royalty vs standard 50%; 20-year land lease remaining. Seller cash-only. Cheris open to equity partner. Research: gas station tax benefits / cost segregation; explore price-forgiveness structure ($5M sale + $2.75M forgiveness at payoff); identify equity partner from network. | **This week** | 08-05 Call w Nathan Z and Cheris Garth | 🟡 | ⬜ |
 ---
 
 
@@ -318,6 +320,8 @@
 | **Connect Rylan (19yo investor, Phoenix ~$495K deal) with Josh** for DSCR qualification call — ensure deal submission routed to Josh, not another lender | **ASAP** | 07-23 Rylan consultation — stack method + mobile home ADU deal | 🟡 | ⬜ |
 | **Follow up with Rylan after deal submission** — confirm Josh made contact and consultation is scheduled | **When possible** | 07-23 Rylan consultation — 19yo first-time investor | 🟢 | ⬜ |
 | **Review Renat's email (sent 07-30, forwarded 07-31) re: Alabama barn deal** — Renat said it'll "blow your mind"; contains financial info for the $9M acquisition | ASAP | 07-31 deal call — Renat explicitly asked Paul to read before 1:30pm follow-up | 🔴 | ⬜ |
+| 🟡 **Follow up w/ Cheris Garth + Nathan Zimmerman — 7-Eleven gas station deal next steps** — had a call Aug 5 6:15 PM MT; advance deal structure. Research gas station tax benefits before next call. Send POF if not yet done. | **ASAP** | 08-05 Call w Nathan Z and Cheris Garth | 🟡 | ⬜ |
+| 🟢 **Follow up w/ Heidi Pliam — strategic partnership / deal pilot discussion** — Heidi pitched herself as a high-level strategic partner; discussed doing a pilot deal together (RV park or apartment) through Orbit Team framework to test compatibility. Evaluate if there is a fit and whether a deal makes sense. | **This week** | 08-05b Call w Heidi Pliam — 72-min partnership strategy call | 🟢 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
