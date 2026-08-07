@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-08-06 — Morning transcript review — +4 item(s) from 2 new transcripts (08-05)**
+**Last updated: 2026-08-07 — Morning transcript review — +41 item(s) from 11 new transcripts (07-28 through 08-06)**
 
 ---
 
@@ -130,6 +130,15 @@
 | **Alabama barn deal — redline OA template for Alabama compliance using air-gapped legal AI; add Brown Palaka exit clause as separate addendum (NOT in main OA shared with EVA Bank)** | This week | 07-31 call with Renat/Roger — $9M barn+land; BPA joins as 10% capital partner | 🟡 | ⬜ |
 | **Alabama barn deal — instruct Close title company to open two escrow accounts** for the transaction (keeps money in one physical location, cleaner structure) | This week | 07-31 call with Renat/Roger — avoids second physical title location; Close familiar with deal type | 🟡 | ⬜ |
 | 🔴 **POF — Send $300K proof-of-funds letter for Cheris Garth to enable LOI on 2 x 7-Eleven gas stations (FL)** — seller requires $300K POF before he will allow an LOI; Paul committed "I can solve that." 2 stations: West Palm Beach + Coral Springs. Combined ask $2.25M, $124K/month net, $401K/month gross. Seller is cash-only / no seller finance. Deal at risk until POF delivered. | **URGENT** | 08-05 Call w Nathan Z and Cheris Garth — gas station acquisition deal | 🔴 | ⬜ |
+| **Switch to single 5-page EMD addendum for all EMDs** — replace multi-page addendum with one standard 5-page form starting Mon 08-11; Alfonso to implement | **Mon 08-11** | 08-06 Skool Q&A — EMD process standardisation decision | 🟡 | ⬜ |
+| 🔴 **Email Kiefer re: Sonny EMD fraud** — outline escalation steps: police report, DA referral, industry blacklisting; coordinate with Justin | **This week** | 08-04 RQF L10 — Kiefer/Sonny EMD dispute; fraudulent behaviour confirmed | 🔴 | ⬜ |
+| **Email Chelsea Westover re: $2M Morby/stack deal** — align on VOFS title company and TC coordination; confirm deal timeline | **This week** | 08-04 RQF L10 — Chelsea Westover $2M stack deal pending TC alignment | 🟡 | ⬜ |
+| 🔴 **Email Alex (cc Justin) re: Dallas stack deal next steps** — clarify RQF role; email borrower Monday 08-11 with structure options; ask borrower for rent; rerun stack calc with more carry | **Mon 08-11** | 08-06 Skool Q&A — Dallas stack deal live discussion; Meredith's deal | 🔴 | ⬜ |
+| 🔴 **Send $300K POF for Cheris' gas station deal** — request seller NDA; position Paul to enable LOI; evaluate high-price/forgiveness structure | **ASAP** | 08-05 Call w Nathan & Cheris — gas station deal; 4 properties, 2 mgrs, $300K POF needed | 🔴 | ⬜ |
+| **Call banker re: deposit-secured loan for Roger's 23-property portfolio deal** — explore loan against RQF deposits to fund Roger's acquisition; get term sheet | **This week** | 08-05 Follow Up w Roger — 23-property portfolio; deposit-secured loan structure discussed | 🟡 | ⬜ |
+| **Follow up with Craig Colson (HyTech Acquisitions)** — he will schedule group sub-team meeting re: transactional funding integration; follow up in ~1 week | **~08-11** | 08-04 Call w Craig Colson — HyTech acquisitions; TF for his deals; group meeting forthcoming | 🟡 | ⬜ |
+| 🔴 **Email Shannon (EHM) wire details** — May 19 wire $21,842 + Jul 16 wire $10,526; provide RQF account/routing; confirm receipt | **ASAP** | 07-31 Shannon EHM call — two outstanding wires unconfirmed; Shannon needs wire confirmation | 🔴 | ⬜ |
+| **Move Roger/Rinat deal to On Hold in HubSpot** — add deal notes; follow up with TC (Ella) re: title timeline; keep Rinat engaged | **This week** | 07-28 RQF L10 — Roger/Rinat deal on pause; TC coordination needed | 🟡 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -322,6 +331,13 @@
 | **Review Renat's email (sent 07-30, forwarded 07-31) re: Alabama barn deal** — Renat said it'll "blow your mind"; contains financial info for the $9M acquisition | ASAP | 07-31 deal call — Renat explicitly asked Paul to read before 1:30pm follow-up | 🔴 | ⬜ |
 | 🟡 **Follow up w/ Cheris Garth + Nathan Zimmerman — 7-Eleven gas station deal next steps** — had a call Aug 5 6:15 PM MT; advance deal structure. Research gas station tax benefits before next call. Send POF if not yet done. | **ASAP** | 08-05 Call w Nathan Z and Cheris Garth | 🟡 | ⬜ |
 | 🟢 **Follow up w/ Heidi Pliam — strategic partnership / deal pilot discussion** — Heidi pitched herself as a high-level strategic partner; discussed doing a pilot deal together (RV park or apartment) through Orbit Team framework to test compatibility. Evaluate if there is a fit and whether a deal makes sense. | **This week** | 08-05b Call w Heidi Pliam — 72-min partnership strategy call | 🟢 | ⬜ |
+| 🔴 **Schedule follow-up call with Heidi Pleum re: integrator role** — discuss scope, comp, and start timeline; follow-up from 08-04 L10 discussion | **This week** | 08-04 RQF L10 — Heidi Pleum identified as integrator candidate; follow-up call needed | 🔴 | ⬜ |
+| 🔴 **Email Justin the EHM referral Google Sheet link** — shared tracking sheet for Shannon's deals; Justin to populate + maintain | **ASAP** | 07-31 Shannon EHM call — referral sheet coordination between Paul, Justin, Shannon | 🔴 | ⬜ |
+| 🔴 **Email Roger/Rinat meeting summary + agreed next steps** — outline equity proposal options (top 3 structures, synergy, offer); Rinat needs to review project info | **ASAP** | 07-31 Rinat/Roger Barn Wedding call — verbal alignment on equity deal; Paul to send written summary | 🔴 | ⬜ |
+| **Follow up with Yuri (Roger's partner) re: $25M hotel capital raise** — Yuri may be a capital raiser connection for Paul; explore alignment | **This week** | 08-04 Roger/Yuri call — Yuri has $25M hotel raise; potential capital raiser intro | 🟢 | ⬜ |
+| **Prepare Pace Morby questions** — what can't Paul do, bird-dog deal sharing, Gator program specifics; prep before next Pace meeting | **Before next Pace meeting** | 08-04 RQF L10 — prep list for Pace discussion flagged as action item | 🟡 | ⬜ |
+| **Update white-label form to CC Shannon + Jeremiah; add liquidity/residence fields** — instruct Kay + Kelly on referrer CC policy; Jeremy to reply-all on initial submissions | **This week** | 07-31 Shannon EHM call — form and submission workflow update needed | 🟡 | ⬜ |
+| **Schedule follow-up call with Cheris & Nathan re: gas station deal** — research gas station tax benefits before call; assess high-price/forgiveness structure | **This week** | 08-05 Call w Nathan & Cheris — need to schedule follow-up; gas station tax structure to research | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -469,6 +485,17 @@
 | **Build calculator embedding for white-label sites** — develop and deploy method to embed (not just link) DSCR/Morby/Stack calculators directly into partner white-label sites | This week | Plaud 07-14 — training Q&A; currently only linking supported | 🟡 | ⬜ |
 | **Build affiliate portal** with unique referral links for free affiliates — deal visibility, commission tracking, and payout integration | **When possible** | 07-23 pipeline meeting w/ Justin & Roz | 🟢 | ⬜ |
 | **Stand up Brown Palaka and Associates website** — position as real estate investor/partner (NOT lender); vague/investor-focused copy; needed for bank optics on Alabama barn deal and future deals | ASAP / this week | 07-31 deal call — Roger's lender rejected iFundWise-branded capital; BPA branding must look like RE equity partner | 🔴 | ⬜ |
+| **Create Double Close training materials; schedule training sessions for community** | **Next 30 days** | 07-28 RQF L10 — double-close education gap; DC to become primary product emphasis | 🟡 | ⬜ |
+| **Invite Aaron + other DC funders as guest speakers** — double-close focus sessions for community | **This month** | 07-28 RQF L10 — Aaron (and others) to present on double-close funding | 🟢 | ⬜ |
+| **Alfonso: draft EMD SOP; share with Justin by Sat 08-09** — then DC SOP, Stack SOP, Skool community SOPs in sequence | **By Sat 08-09** | 08-04 L10 + 07-28 L10 — Alfonso SOP rock; EMD SOP is deliverable #1 | 🟡 | ⬜ |
+| **Add upcoming RV Park Mastermind calls to Skool community calendar** — get dates from Mundo | **ASAP** | 08-06 Skool Q&A — Mastermind call schedule not yet posted for community | 🟡 | ⬜ |
+| **Get RV Park Mastermind recordings from Mundo; upload to Skool replay library** | **ASAP** | 08-06 Skool Q&A — existing recordings not yet in community replay library | 🟡 | ⬜ |
+| **Post neutral EMD addendum sample in VIP Section 4** — accompany Monday 08-11 EMD policy rollout | **Mon 08-11** | 08-06 Skool Q&A — community education on new addendum format | 🟡 | ⬜ |
+| **Prepare Morby Method discussion for Tue 08-12 community call** — Traci to coordinate; Paul to lead content | **Tue 08-12** | 08-06 Skool Q&A — Morby Method call scheduled; content prep needed | 🟡 | ⬜ |
+| **Verify closing-fee policy for replaced EMDs; update community** — confirm what RQF charges when EMD is replaced mid-deal | **This week** | 08-06 Skool Q&A — community question on closing fee for replaced EMDs; policy unclear | 🟡 | ⬜ |
+| **Buy used iPad + Apple Pencil for trainings** — annotation/whiteboard during training sessions | **This month** | 07-28 RQF L10 — equipment purchase flagged for training use | 🟢 | ⬜ |
+| **Schedule quarterly planning meeting with Justin** — block a full day; Paul has scheduling flexibility | **This week** | 07-28 RQF L10 — Q3/Q4 planning session; both Paul and Justin need to align | 🟡 | ⬜ |
+| **Direct Alfonso: stop CCing personal email on deal threads** — all deal comms must stay in RQF channels only | **ASAP** | 07-28 RQF L10 — Alfonso mixing personal email into deal threads; policy violation | 🟡 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -703,6 +730,18 @@
 | **Explore LLC sale structure for Morby wholesaler double closes** — legal contracts, seller disclosure framework, assignment fee handling | **When possible** | 07-23 group call — Tim/Paul discussion on LLC vs. asset sale | 🟢 | ⬜ |
 | **Fix Stack Method Calculator: review funding fee calc on returned cash portion** — 2.5% fee on cash-back amount causing number confusion (Tracy's deal example) | **This week** | 07-23 group call — Tracy $5.9M deal calc issue | 🟡 | ⬜ |
 | **Develop standardized expectations checklist** for each deal type (EMD, Stack, DSCR, HML, Double Close) — set timelines, comms cadence, key milestones | **When possible** | 07-23 group call — Khalil recommendation | 🟢 | ⬜ |
+| **Grant EHM (Shannon's team) RQF CRM access** — restrict view to their referred deals only; set up weekly deal-status update cadence | **This week** | 07-31 Shannon EHM call — Shannon wants visibility into her referrals inside RQF CRM | 🟡 | ⬜ |
+| 🔴 **Review CRM proposal from Raz** — Raz emailed proposal July 31; reply with phase preference and cutover timeline | **ASAP** | 08-04 RQF L10 — Raz's CRM design proposal pending Paul's response; unblocks build | 🔴 | ⬜ |
+| **Post in WhatsApp: can we train CRM AI; how to feed feedback loop?** — get team input on AI training approach for CRM data | **This week** | 08-04 RQF L10 — AI-enhanced CRM discussion; team feedback needed | 🟡 | ⬜ |
+| **Email Heather the AI skill; request weekly pre-Tuesday update** | **This week** | 08-04 RQF L10 — Heather integration into weekly rhythm via AI skill | 🟡 | ⬜ |
+| **Update HubSpot Slack automations** — remove Alana from deal notifications; fix deal-channel auto-generation | **This week** | 07-28 RQF L10 — Alana terminated; Slack automations still reference her account | 🟡 | ⬜ |
+| **Implement daily bank balance tracking in RQF capital planning tool** — pull Relay/Chase balances daily; surface in capital dashboard | **This week** | 07-28 RQF L10 — capital planning gap; daily balance visibility needed | 🟡 | ⬜ |
+| **Fix drip email formatting (steps 6–8) w/ Roz; add clickable website link** — test rendering across email clients | **This week** | 08-06 Skool Q&A — drip email formatting issues flagged by community | 🟡 | ⬜ |
+| **Rename Echo Calculator field to "A to B cash to close"** — rename for community clarity | **This week** | 08-06 Skool Q&A — community confusion around field naming; quick fix | 🟢 | ⬜ |
+| **Build drip upload spreadsheets in batches of ~15** — upload only new leads to avoid duplicates; ongoing maintenance task | **Ongoing** | 08-06 Skool Q&A — drip list hygiene; batching approach agreed | 🟡 | ⬜ |
+| **Pull RQF-flagged deals from CRM; reconcile with RQF sheet + payments** — cross-check Shannon's referrals against deal records and payment history | **This week** | 07-31 Shannon EHM call — referral payment reconciliation needed | 🟡 | ⬜ |
+| **Define contract-editing pricing policy** — determine fee structure for contract edits; communicate to team and community | **This week** | 07-28 RQF L10 — policy gap flagged; no standard for contract edit fees | 🟡 | ⬜ |
+| **Add rock: build 2 GPTs from RQF transcripts** — one internal (team-facing), one community-facing; pin in Skool once built | **Next quarter** | 08-04 RQF L10 — GPT rock added for Q3/Q4; transcript corpus available | 🟢 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -754,6 +793,8 @@
 
 | **Set up accredited investor intro workflow with Ty (Houston)** — he has contacts over 50 seeking ~12% annual (bond-level risk); will introduce for 3–4% consulting fee on invested capital; minimum $100K; 506(b) compliance required | **This week** | 07-20 Customer Consultation — Ty has prior private lending contacts from Merrill Lynch era | 🟡 | ⬜ |
 | **Post 07-23 Morby/DSCR group call video with subtitles** — committed to members within 24 hours of recording | **2026-07-24** | 07-23 group call — content commitment to community | 🔴 | ⬜ |
+| **Populate shared Google Sheet with all RQF referrals + statuses** — shared with Shannon (EHM); ongoing referral tracking | **This week** | 07-31 Shannon EHM call — referral tracking sheet to be maintained jointly with EHM | 🟡 | ⬜ |
+| **Shift RQF marketing emphasis** — de-emphasize EMD; lead with double-close + stack method across all channels and community comms | **This month** | 07-28 RQF L10 — strategic decision to reposition product marketing | 🟡 | ⬜ |
 ---
 
 ## 🏃 Personal / Standards
