@@ -1,15 +1,15 @@
-# Morning Briefing — Sunday, August 9, 2026
+# Morning Briefing — Monday, August 10, 2026
 
 ## The One Thing
-Complete Noa's FAFSA parent section — 8 minutes, 30+ days overdue. Between church sessions. Do it.
+File the police report for the $50K forgery — TODAY. STRETY [HIGHEST] · Deadline TOMORROW Aug 11. Walk out with a case number.
 
 ## Top 3 Priorities
-1. FAFSA parent section — 8 min, 30+ days overdue, unblocks BYU aid
-2. Police Report docs — confirm assembled for Monday morning filing (STRETY [HIGHEST] Aug 11)
-3. RV Parks Are Cool Challenge (4–8 PM) — show up fully, network, be the TF expert
+1. File Police Report — $50K Forgery · STRETY [HIGHEST] · Deadline TOMORROW Aug 11
+2. Finance & Appraisal Deadline — 4540 S 600 E Murray · all-day deadline TOMORROW (Aug 11)
+3. One LP conversation — Dylan Stewart or Mouri referral ask · fund needs next LP at $100K+
 
 ## Fund Status
-$150,000 · $2,000,000 target · 7.5% · LPs: Paul Brown $50K + Naohiro Mouri $100K · ⚠️ Tracker stale 37 days
+$150,000 · $2,000,000 target · 7.5% · LPs: Paul Brown $50K + Naohiro Mouri $100K · ⚠️ Tracker stale 38 days
 
 ## STRETY TO-DOS — NEXT 7 DAYS
 OVERDUE:
@@ -34,17 +34,15 @@ THIS WEEK:
 • Aug 12 — EMD Explainer Video
 
 ## Today's Schedule
-- All Day — South Dakota Meetup with Pace Morby
-- 9:00 AM — Church (until 11:00 AM)
-- 1:00 PM — Family Church
-- 4:00 PM — RV Parks Are Cool Challenge (until 8:00 PM)
+- 11:00 AM — PaperOS Q&A (Black Card, Fund Launch)
+- 5:00 PM — RV Parks Are Cool Training with Pace Morby
+- 5:00 PM — Scott Hoffman | Sales & Marketing (Black Card)
 
 ## Email Action Items
-- OVERDUE 22+ days: Adam Casper (Shelley Construction) — Travelers JFM7762 — sign authorization
-- URGENT 30+ days: Noa FAFSA parent section — 8 min (elevated to Top 3)
-- OVERDUE 4+ weeks: Griffiths Title / Ryan Medlock payoff CM67076D
-- ACTION: $200K wire in Maeda ...0286 — source unconfirmed
-- ACTION: Kamalesh Jha — connect this week (back from India)
-- IMPORTANT: EY 2025 US tax return — docs needed
+- OVERDUE 24+ days: Adam Casper (Shelley Construction) — Travelers JFM7762 — sign auth
+- OVERDUE 30+ days: Noa FAFSA parent section — 8 min — unblocks BYU aid
+- OVERDUE: Griffiths Title / Ryan Medlock payoff CM67076D
+- ACTION: Kamalesh Jha — connect this week (back from India, already late)
+- ACTION: $200K wire in Maeda — verify source
+- IMPORTANT: EY 2025 US tax return — still unfiled
 - IMPORTANT: Ajay Kuckreja (Sugar Pine PM) — 8+ weeks no reply
-- IMPORTANT: Wyoming LLC / North Peak Recovery renewal — decide
