@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-08-07 — Morning transcript review — +41 item(s) from 11 new transcripts (07-28 through 08-06)**
+**Last updated: 2026-08-13 — Morning transcript review — +17 item(s) from 17 new transcripts (07-16 through 08-12)**
 
 ---
 
@@ -139,6 +139,10 @@
 | **Follow up with Craig Colson (HyTech Acquisitions)** — he will schedule group sub-team meeting re: transactional funding integration; follow up in ~1 week | **~08-11** | 08-04 Call w Craig Colson — HyTech acquisitions; TF for his deals; group meeting forthcoming | 🟡 | ⬜ |
 | 🔴 **Email Shannon (EHM) wire details** — May 19 wire $21,842 + Jul 16 wire $10,526; provide RQF account/routing; confirm receipt | **ASAP** | 07-31 Shannon EHM call — two outstanding wires unconfirmed; Shannon needs wire confirmation | 🔴 | ⬜ |
 | **Move Roger/Rinat deal to On Hold in HubSpot** — add deal notes; follow up with TC (Ella) re: title timeline; keep Rinat engaged | **This week** | 07-28 RQF L10 — Roger/Rinat deal on pause; TC coordination needed | 🟡 | ⬜ |
+| **Sign PSA for RV park deal (~$600K purchase price)** — seller has been repeatedly changing contract; switch to clean Purchase and Sale Agreement. Target signing Friday Aug 15. | **ASAP — Friday Aug 15** | 08-12 Weekly Meeting — seller relationship ongoing; master lease/rent-to-own structure abandoned | 🔴 | ⬜ |
+| **Resolve missing $45K referral payment from Jeremy** — payment supposedly sent ~Jul 15; not received by RQF. Escalate to Shannon for investigation. | **ASAP** | 07-29 Referral Reconciliation Meeting — bookkeeping cannot account for funds; Shannon to trace wire | 🔴 | ⬜ |
+| **Review Smith Lake AL wedding/retreat venue deal ($8M purchase)** — $5–6M primary lender + $3M seller preferred equity. DSCR vs. commercial analysis with Josh Trujillo needed. Deal submitted via RQF link. | **This week** | 07-16 Financing & Deal Structuring Meeting — gross revenue ~$1.4M, net ~$700K; two bank term sheets already obtained | 🟡 | ⬜ |
+
 ---
 ## 🏘️ Deals — Acquisition Review
 
@@ -161,6 +165,8 @@
 | 🔴 **Assign ownership** for the >$7M RV park financing effort and set a follow‑up timeline. | This week | Source: White Label Platform Upgrades, DSCR/Hard Money Routing, Email Drip, and Deal Visibility — RV park financing discussion. | 🔴 | ⬜ |
 | Bobby Souza RV park (TX, 2024 build, 50-space): draft broker question list — Nov/Dec occupancy dip explanation, missing expense line items (taxes, internet, trash, propane), PM wage rate, full rent roll | This week | Plaud 06-16 Bobby Souza consultation — Paul flagged as acquisition review candidate; needs answers before proceeding | 🟡 | ⬜ |
 | 🟡 **EVALUATE — Cheris Garth: 2 x 7-Eleven gas stations, West Palm Beach + Coral Springs FL ($2.25M combined)** — $124K/month net, $401K/month gross; structure is master-lease sublease (not RE ownership); 20% royalty vs standard 50%; 20-year land lease remaining. Seller cash-only. Cheris open to equity partner. Research: gas station tax benefits / cost segregation; explore price-forgiveness structure ($5M sale + $2.75M forgiveness at payoff); identify equity partner from network. | **This week** | 08-05 Call w Nathan Z and Cheris Garth | 🟡 | ⬜ |
+| **Evaluate Brandon's USC Co-Living ADU/ground-up opportunity** — lot ~1 mi from USC, purchased at $665K, L2-zoned (duplex + ADUs + JADU). Market comp exits $4.5–5.2M; build cost est. $2–3M. Brandon has capital raising background. | **This month** | 07-23 Pace/OC Weekly Meeting — Brandon offered equity collective model; looking for underwriting + ground-up partner | 🟡 | ⬜ |
+
 ---
 
 
@@ -338,6 +344,13 @@
 | **Prepare Pace Morby questions** — what can't Paul do, bird-dog deal sharing, Gator program specifics; prep before next Pace meeting | **Before next Pace meeting** | 08-04 RQF L10 — prep list for Pace discussion flagged as action item | 🟡 | ⬜ |
 | **Update white-label form to CC Shannon + Jeremiah; add liquidity/residence fields** — instruct Kay + Kelly on referrer CC policy; Jeremy to reply-all on initial submissions | **This week** | 07-31 Shannon EHM call — form and submission workflow update needed | 🟡 | ⬜ |
 | **Schedule follow-up call with Cheris & Nathan re: gas station deal** — research gas station tax benefits before call; assess high-price/forgiveness structure | **This week** | 08-05 Call w Nathan & Cheris — need to schedule follow-up; gas station tax structure to research | 🟡 | ⬜ |
+| **Call Ella — assess fit as transaction coordinator for demanding $2.8M preferred equity deal** — Alex and Jay disqualified. Ella previously mentioned on call with Renata. Expect 3x/week calls to manage parties. | **ASAP** | 07-17 Demanding Deal Meeting — large complex deal; TC needed urgently | 🔴 | ⬜ |
+| **Have direct conversation with Tim about inappropriate communications with team** — threatening emails to Manoela re: $5M deal outside normal procedures. Present behavior as unacceptable; correct or end relationship. | **ASAP** | 07-23 Decision-Making on Problematic Partner — recurring pattern; consensus is direct confrontation | 🔴 | ⬜ |
+| **Follow up with Dave Force + Brandon Gifford on new investment fund for their sales org** — high-earning reps need low-risk investment vehicle. RQF transactional funding discussed as initial vehicle. | **This week** | 08-03 Exploration of New Fund for Sales Professionals — met with Dave Force, Brandon Gifford, DJ | 🟡 | ⬜ |
+| **Follow up with STR tax strategy operator on capital raising / fund partnership** — runs $500K/month consulting biz packaging STR tax write-offs; discussed collaboration on capital access and new fund structures. | **This week** | 08-03 Strategic Discussion — STR operator does 50 clients/month, $500K rev/month; potential Pinecone LP or co-GP opportunity | 🟡 | ⬜ |
+| **Make hiring decision on PM candidate (Pamela/Nancy — starts immediately, $7/hr)** — 6+ yrs in property mgmt and project coordination, Hyatt PM experience, strong client-facing skills. | **This week** | 07-20 Interview — can start immediately; strong match for client-facing TC/PM coordination role | 🟡 | ⬜ |
+| **Route prop-tech proposal to Pace Morby via Jade, Rich, and Jenny** — strict personal timeline; prepare backup plan if Pace delays. Use established channels to avoid bypassing. | **This week** | 07-23 Pace Proposal Routing Meeting — Owners Club opps receive priority; targeting 'yes/no' faster | 🟡 | ⬜ |
+
 ---
 
 ## 🏗️ Projects — Build
@@ -496,6 +509,10 @@
 | **Buy used iPad + Apple Pencil for trainings** — annotation/whiteboard during training sessions | **This month** | 07-28 RQF L10 — equipment purchase flagged for training use | 🟢 | ⬜ |
 | **Schedule quarterly planning meeting with Justin** — block a full day; Paul has scheduling flexibility | **This week** | 07-28 RQF L10 — Q3/Q4 planning session; both Paul and Justin need to align | 🟡 | ⬜ |
 | **Direct Alfonso: stop CCing personal email on deal threads** — all deal comms must stay in RQF channels only | **ASAP** | 07-28 RQF L10 — Alfonso mixing personal email into deal threads; policy violation | 🟡 | ⬜ |
+| **Review CRM developer one-page proposal (Phase 1: core pipeline + automations)** — custom CRM to eventually replace HubSpot; Phase 2 adds chat, AI, doc automation. Will run parallel to HubSpot during beta. | **This week** | 07-23 CRM Development Meeting — developer to send proposal; Twilio SMS and mobile-friendly interface planned | 🟡 | ⬜ |
+| **Add calendar scheduling link to white-label site post-deal-submission flow** — pops up immediately after submission to reduce abandonment; calendar link vs. phone-only follow-up debate resolved in favor of both. | **This week** | 07-17 Lending Operations & CRM Review with Josh (WL partner) | 🟡 | ⬜ |
+| **Define RV park acquisition team structure** — map roles across lifecycle: acquisitions/lead gen, underwriting/filtering, deal structure, contracts, closing, transition, long-term ops. Paul best fit: deal structuring, funding, transition. | **This week** | 08-12 Weekly Meeting — Nancy aligned on transition role; existing operator handles current park ops | 🟡 | ⬜ |
+
 ---
 
 ## ⚙️ Systems / AI
@@ -742,6 +759,10 @@
 | **Pull RQF-flagged deals from CRM; reconcile with RQF sheet + payments** — cross-check Shannon's referrals against deal records and payment history | **This week** | 07-31 Shannon EHM call — referral payment reconciliation needed | 🟡 | ⬜ |
 | **Define contract-editing pricing policy** — determine fee structure for contract edits; communicate to team and community | **This week** | 07-28 RQF L10 — policy gap flagged; no standard for contract edit fees | 🟡 | ⬜ |
 | **Add rock: build 2 GPTs from RQF transcripts** — one internal (team-facing), one community-facing; pin in Skool once built | **Next quarter** | 08-04 RQF L10 — GPT rock added for Q3/Q4; transcript corpus available | 🟢 | ⬜ |
+| **Complete EOS/VTO — finalize core values and accountability chart** — combined Paul + Justin doc in 'funds, admin and exec' Drive folder. Justin to add to master file going forward. | **This week** | 07-18 EOS/VTO Session with Justin — doc located and consolidated during meeting | 🟡 | ⬜ |
+| **Address Jeremy's scorecard inaccuracies — ~$50K revenue shortfall** — tasks marked complete when they're not; gross revenue collected consistently short. Define accountability mechanism. | **ASAP** | 07-18 EOS/VTO Session — Paul flagged this during scorecard review; recurring issue affecting reporting accuracy | 🔴 | ⬜ |
+| **Set up referral deal reconciliation system with EHM Strategies** — bi-weekly or monthly; shared Google Sheet or AI tracking; tied to specific deal IDs so bookkeeping can reconcile properly. | **This week** | 07-29 Referral Reconciliation Meeting — both parties agreed; follow-up meeting was 07-30 10AM CT | 🟡 | ⬜ |
+
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -849,6 +870,8 @@
 | **Manuela raise — 10% to $11/hr retroactive July 1** — approved during June capital planning; process payroll adjustment | ASAP | Prior session — compensation review approved | 🟡 | ⬜ |
 | **Provide TC recommendations to deal participants** — curated shortlist of TCs specializing in seller-financed deal structures | This week | 07-02 Seller Finance Guide | 🟢 | ⬜ |
 | **Explore Joe Dispenza's guided meditation series "Breaking the Habit of Being Yourself"** — on Spotify (~$5); recommended by group for deep subconscious habit change and building a "version 3" of yourself | **When possible** | 07-21 Business Optimization session — group recommendation for mindset transformation | 🟢 | ⬜ |
+| **Begin daily practice grounding worth in being, not achieving** — retire the perfection scorecard; commit to grief work for unprocessed losses (brother's death, divorce, missionary aspirations). Faith-based anchoring. | **Ongoing** | 08-02 Personal Reasoning Note — personal/spiritual commitment; LDS framework of discipleship over perfectionism | 🟢 | ⬜ |
+
 ---
 
 ## ⏳ Waiting On
