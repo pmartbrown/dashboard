@@ -1,48 +1,49 @@
-# Morning Briefing — Thursday, August 13, 2026
+# Morning Briefing — Friday, August 14, 2026
 
 ## The One Thing
-Murray/Mondale Settlement — Deadline SAT at 9 AM with Justin. Confirm everything is in order TODAY.
+Settlement confirmation with Justin — last chance before Saturday 9 AM deadline. Confirm docs, wire, and title are locked tonight.
 
 ## Top 3 Priorities
-1. Confirm Murray/Mondale settlement readiness — SAT deadline in 2 days. 9 AM Google Meet with Justin.
-2. File police report + send fraud email — Both overdue from Aug 12. Get case number. Send next-steps email.
-3. Emma lands tomorrow — 17+ days in Malawi. Coordinate pickup/welcome. Be present Friday.
+1. Be present for Emma's return home — 17 days in Malawi. Coordinate pickup. Phone down when she walks in.
+2. Confirm Murray/Mondale settlement is fully ready — 9 AM with Justin tomorrow. Wire, docs, title — all confirmed today.
+3. File Police Report + send fraud email — STRETY says Aug 14. Today is that day. Get the case number.
 
 ## Fund Status
-$150,000 · $2,000,000 Target · 7.5% · LPs: Paul Brown $50K + Naohiro Mouri $100K · ⚠️ Tracker stale (Jul 3)
+Balance: $400,000 · Target: $2,000,000 · 20% · LPs: Paul Brown $50K | Mouri $300K | Faline Brown $50K · Updated 2026-08-13 FRESH
 
 ## STRETY TO-DOS — NEXT 7 DAYS
 OVERDUE:
-- Aug 12 — File Police Report for $50K forgery
-- Aug 12 — Email laying out fraud next steps
-- Aug 12 — Follow up with Keefer on DOI/Licensing Dept
-- Jul 30 — Social media drive for Pinecone Capital
-- Jul 29 — Set up calls with HML/DSCR lenders
-- Jul 29 — Follow up w Ella re Rinat & Roger TC support
-- Jul 25 — Outreach to 50 accredited investors
-- Jul 22 — Adjust HML/DSCR agreement
-- Jul 22 — Find Social Media person
-- Jul 18 — Outreach to 40 accredited investors
-- Jul 9 — Make YT video recourse vs non-recourse
-- Jul 8 — Chase Bank Process
-- Jul 3 — Outreach to 30 accredited investors
-- Jun 30 — Connect w recruiting services (Lat Am, India, Vietnam)
+• TODAY Aug 14 — Email laying out fraud next steps (police report today)
+• Aug 12 — File Police Report for $50K forgery
+• Aug 12 — Follow up with Keefer on DOI and Licensing Dept
+• Aug 12 — EMD Explainer Video
+• Jul 30 — Social media drive for Pinecone Capital
+• Jul 29 — Set up calls with HML/DSCR lenders
+• Jul 29 — Follow up w Ella re: Rinat & Roger TC support
+• Jul 25 — Outreach to 50 accredited investors
+• Jul 22 — Adjust HML/DSCR + RQF agreement
+• Jul 22 — Find Social Media person
+• Jul 18 — Outreach to 40 accredited investors
+• Jul 9 — YT video (recourse vs non-recourse)
+• Jul 8 — Chase Bank Process
+• Jul 3 — Outreach to 30 accredited investors
+• Jun 30 — Connect w three recruiting services
 THIS WEEK:
-(No new todos due this week — all items are overdue)
+• Aug 19 — Prepare for Quarterly Meeting (Issues, Rocks, wins)
 
 ## Today's Schedule
-12:00 PM — OC Multifamily with Adam Curry (Zoom)
-1:00 PM — RV Masterclass: Special Topics + Q&A
-2:00 PM — TFH Open Discussion + Q&A
-2:00 PM — Weekly Level 2 Training Captains
-3:00 PM — White Label or Go Home! with Edgar Vargas
-5:00 PM-9:00 PM — RV Parks Training with Pace Morby
+9:00 AM — Accountability
+11:00 AM — Know More Owners (OC)
+12:30 PM — Shiyar & Paul — Skool
+1:15 PM — Update Reconciliation Sheet with EMH
+2:00 PM — AI Office Hours with Owen
+3:15 PM — Capital Raising (block)
+5:00 PM — Owners Club with Pace and Jamil
 
 ## Email Action Items
-- OVERDUE: Noa FAFSA parent section — 8 min, unblocks BYU aid
-- OVERDUE: Adam Casper Shelley Construction — Travelers JFM7762 sign auth
-- OVERDUE: Griffiths Title Ryan Medlock — Payoff CM67076D
-- ACTION: Kamalesh Jha — connect this week
+- OVERDUE: Noa FAFSA parent section (8 min, unblocks BYU aid)
+- OVERDUE: Adam Casper / Shelley Construction — Travelers JFM7762 sign auth
+- OVERDUE: Griffiths Title / Ryan Medlock — Payoff CM67076D
+- ACTION: Kamalesh Jha — back from India, already late
 - ACTION: $200K wire in Maeda — verify source
-- IMPORTANT: EY 2025 US Tax Return — still unfiled
-- IMPORTANT: Ajay Kuckreja Sugar Pine PM — 8+ weeks no reply
+- IMPORTANT: EY / 2025 US Tax Return — still unfiled
