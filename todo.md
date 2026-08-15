@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-08-13 — Morning transcript review — +17 item(s) from 17 new transcripts (07-16 through 08-12)**
+**Last updated: 2026-08-15 — Morning transcript review — +1 item(s) from 1 new transcript (08-12)**
 
 ---
 
@@ -143,6 +143,7 @@
 | **Resolve missing $45K referral payment from Jeremy** — payment supposedly sent ~Jul 15; not received by RQF. Escalate to Shannon for investigation. | **ASAP** | 07-29 Referral Reconciliation Meeting — bookkeeping cannot account for funds; Shannon to trace wire | 🔴 | ⬜ |
 | **Review Smith Lake AL wedding/retreat venue deal ($8M purchase)** — $5–6M primary lender + $3M seller preferred equity. DSCR vs. commercial analysis with Josh Trujillo needed. Deal submitted via RQF link. | **This week** | 07-16 Financing & Deal Structuring Meeting — gross revenue ~$1.4M, net ~$700K; two bank term sheets already obtained | 🟡 | ⬜ |
 
+| **RECORD CLOSED DEAL — 10456 Master Road, Wells MI** — RQF funded $11,886 on Aug 11; wire returned $13,786.76 on Aug 12. Net fee: +$1,900.76. Verify deal is logged in HubSpot and booked in QBO. | This week | Plaud — 08-12 Zoom call; deal status confirmed by Paul | 🟢 | ⬜ |
 ---
 ## 🏘️ Deals — Acquisition Review
 
