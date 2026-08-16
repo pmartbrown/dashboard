@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-08-15 — Morning transcript review — +1 item(s) from 1 new transcript (08-12)**
+**Last updated: 2026-08-16 — Morning transcript review — +18 item(s) from 10 new transcripts (08-07 through 08-15)**
 
 ---
 
@@ -144,7 +144,15 @@
 | **Review Smith Lake AL wedding/retreat venue deal ($8M purchase)** — $5–6M primary lender + $3M seller preferred equity. DSCR vs. commercial analysis with Josh Trujillo needed. Deal submitted via RQF link. | **This week** | 07-16 Financing & Deal Structuring Meeting — gross revenue ~$1.4M, net ~$700K; two bank term sheets already obtained | 🟡 | ⬜ |
 
 | **RECORD CLOSED DEAL — 10456 Master Road, Wells MI** — RQF funded $11,886 on Aug 11; wire returned $13,786.76 on Aug 12. Net fee: +$1,900.76. Verify deal is logged in HubSpot and booked in QBO. | This week | Plaud — 08-12 Zoom call; deal status confirmed by Paul | 🟢 | ⬜ |
----
+
+| 🔴 **URGENT — Contact David (banker) re: Curtis Eaton claiming RQF is "under federal investigation"** — Reputational/legal threat. Call or reach out to Paul's banker contact David to get details and address the claim before it spreads. | **This week** | 08-15 L10 Quarterly Review — Curtis Eaton's banker made claim at closing; Paul flagged as urgent | 🔴 | ⬜ |
+| 🔴 **Wenatchee deal (1142 Apple Land Drive) — closing scheduled Aug 18** — Follow up with title; verify buyer lender docs (HUD + executed B2C contract) are in. Seller in/out of jail; POA required. | **Aug 18** | 08-13 TEAM L10 — closing days away; confirm all docs | 🔴 | ⬜ |
+| 🔴 **Justice — get notarized POA + correct mutual release signature** — DocuSign not valid for POA; must be properly notarized. Justice signs as buyer. All comms must stay on email thread. | **ASAP** | 08-13 TEAM L10 — document errors blocking deal progress | 🔴 | ⬜ |
+| **Melanie/Melina lender-switch case** — Borrower attempting last-minute change of primary lender on deal with expired closing date; seller is skeptical. Investigate and confirm requirements + timeline with all parties. | **This week** | 08-13 TEAM L10 — lender switch causing delays and seller pushback | 🟡 | ⬜ |
+| **Implement new 4-doc EMD attorney stack for all deals** — Promissory Note + Personal Guarantee + Escrow Instructions & Assignment + PSA Addendum. Roll out as new standard across all deal types. | **This week** | 08-15 L10 Quarterly Review — new doc stack approved with attorneys | 🟡 | ⬜ |
+| **Update RQF pricing: $2,500 non-refundable minimum + 0.7–1.0% premium tier for custom/consulting deals** — Communicate to team, update website/materials, and ensure community knows the new floor. | **This week** | 08-15 L10 Quarterly Review — new pricing tiers agreed with Justin | 🟡 | ⬜ |
+| **Adam Weiss deals (1337 + 1341 Walker St, Harrisonburg VA)** — Awaiting signed lending docs. Connector fee negotiated from 25% → 10%. Follow up to confirm docs received and advance to close. | **This week** | 08-13 TEAM L10 — deals moving forward, signed docs pending | 🟡 | ⬜ |
+| **Post EMD adjustment update for community** — Publish updated EMD terms/policy across Gator community channels (Sub2, Funding Hub). | **This week** | 08-13 TEAM L10 — team agreed to post update; publish promptly | 🟡 | ⬜ |---
 ## 🏘️ Deals — Acquisition Review
 
 | Item | Due | Context | Priority | Progress |
@@ -168,6 +176,8 @@
 | 🟡 **EVALUATE — Cheris Garth: 2 x 7-Eleven gas stations, West Palm Beach + Coral Springs FL ($2.25M combined)** — $124K/month net, $401K/month gross; structure is master-lease sublease (not RE ownership); 20% royalty vs standard 50%; 20-year land lease remaining. Seller cash-only. Cheris open to equity partner. Research: gas station tax benefits / cost segregation; explore price-forgiveness structure ($5M sale + $2.75M forgiveness at payoff); identify equity partner from network. | **This week** | 08-05 Call w Nathan Z and Cheris Garth | 🟡 | ⬜ |
 | **Evaluate Brandon's USC Co-Living ADU/ground-up opportunity** — lot ~1 mi from USC, purchased at $665K, L2-zoned (duplex + ADUs + JADU). Market comp exits $4.5–5.2M; build cost est. $2–3M. Brandon has capital raising background. | **This month** | 07-23 Pace/OC Weekly Meeting — Brandon offered equity collective model; looking for underwriting + ground-up partner | 🟡 | ⬜ |
 
+| **Follow up with off-market RV park seller (near Custer Crossings)** — Long-time owners open to seller financing (bank loan unlikely due to minimized profits). Seller consulting wife Lisa on price + cash at close. Call scheduled for ~Tuesday Aug 19. Family-oriented park with pool; potential complement to Custer Crossings. | **Aug 19** | 08-13 TEAM — warm off-market lead met at bar during Custer Crossings weekend | 🟡 | ⬜ |
+| **Johnny (RV Park/Deadwood area) — discuss flexible capital terms** — Johnny willing to offer capital on deals, wants favor returned. Reach out to clarify structure and what he's looking for. | **This week** | 08-15 L10 Quarterly Review — Johnny flagged as willing flexible capital partner | 🟡 | ⬜ |
 ---
 
 
@@ -352,6 +362,7 @@
 | **Make hiring decision on PM candidate (Pamela/Nancy — starts immediately, $7/hr)** — 6+ yrs in property mgmt and project coordination, Hyatt PM experience, strong client-facing skills. | **This week** | 07-20 Interview — can start immediately; strong match for client-facing TC/PM coordination role | 🟡 | ⬜ |
 | **Route prop-tech proposal to Pace Morby via Jade, Rich, and Jenny** — strict personal timeline; prepare backup plan if Pace delays. Use established channels to avoid bypassing. | **This week** | 07-23 Pace Proposal Routing Meeting — Owners Club opps receive priority; targeting 'yes/no' faster | 🟡 | ⬜ |
 
+| **Harley (neighboring campground owner, SD)** — Planning to sell his park in ~1 year, open to seller financing. Park closes Sept 14; he'll refer guests to Custer Crossing. Stay in touch; first mover when he's ready to sell. | **Sept 2026** | 08-10 Neighboring campground call — Harley + Lisa own park 14 yrs; warm relationship built | 🟢 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -514,6 +525,11 @@
 | **Add calendar scheduling link to white-label site post-deal-submission flow** — pops up immediately after submission to reduce abandonment; calendar link vs. phone-only follow-up debate resolved in favor of both. | **This week** | 07-17 Lending Operations & CRM Review with Josh (WL partner) | 🟡 | ⬜ |
 | **Define RV park acquisition team structure** — map roles across lifecycle: acquisitions/lead gen, underwriting/filtering, deal structure, contracts, closing, transition, long-term ops. Paul best fit: deal structuring, funding, transition. | **This week** | 08-12 Weekly Meeting — Nancy aligned on transition role; existing operator handles current park ops | 🟡 | ⬜ |
 
+| **Hire 10-hr/week tech staff for RQF** — Role to support AI integration, systems work, and automation. Define scope and post role this month. | **This month** | 08-15 L10 Quarterly Review — tech hire approved at quarterly review with Justin | 🟡 | ⬜ |
+| **Expand Manoella's role: add borrower calls + doc follow-up** — Promote from operations-only to direct borrower communication and document chasing. Improves team bandwidth significantly. | **This month** | 08-15 L10 Quarterly Review — role expansion agreed with Justin | 🟡 | ⬜ |
+| **Create SOPs for all RQF deal types** — Standard operating procedures for TF, EMD, double-close, DSCR, hard money routing. Critical for scale and staff onboarding. | **Q3 2026** | 08-15 L10 Quarterly Review — identified as key operational gap at quarterly | 🟡 | ⬜ |
+| **Build Acquisitions Masterclass series for Skool (Funding Hub)** — Educational content series on deal acquisition for community members. Define curriculum and production plan. | **Q3 2026** | 08-15 L10 Quarterly Review — identified as Q3 community content project | 🟡 | ⬜ |
+| **Hire new team member for initial RQF client intake calls** — Despite CRM rollout, maintain human touch on first contact. Define role and begin recruiting. | **This month** | 08-13 TEAM + 08-15 L10 — aligned at back-to-back L10s; hire is a priority | 🟡 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -764,6 +780,7 @@
 | **Address Jeremy's scorecard inaccuracies — ~$50K revenue shortfall** — tasks marked complete when they're not; gross revenue collected consistently short. Define accountability mechanism. | **ASAP** | 07-18 EOS/VTO Session — Paul flagged this during scorecard review; recurring issue affecting reporting accuracy | 🔴 | ⬜ |
 | **Set up referral deal reconciliation system with EHM Strategies** — bi-weekly or monthly; shared Google Sheet or AI tracking; tied to specific deal IDs so bookkeeping can reconcile properly. | **This week** | 07-29 Referral Reconciliation Meeting — both parties agreed; follow-up meeting was 07-30 10AM CT | 🟡 | ⬜ |
 
+| **Set up separate Claude/AI Cowork account for Manoella + Alfonso** — Avoid sharing Paul's primary account. Create dedicated workspace with appropriate permissions for operational staff. | **This week** | 08-15 L10 Quarterly Review — agreed to separate staff accounts at quarterly | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -873,6 +890,7 @@
 | **Explore Joe Dispenza's guided meditation series "Breaking the Habit of Being Yourself"** — on Spotify (~$5); recommended by group for deep subconscious habit change and building a "version 3" of yourself | **When possible** | 07-21 Business Optimization session — group recommendation for mindset transformation | 🟢 | ⬜ |
 | **Begin daily practice grounding worth in being, not achieving** — retire the perfection scorecard; commit to grief work for unprocessed losses (brother's death, divorce, missionary aspirations). Faith-based anchoring. | **Ongoing** | 08-02 Personal Reasoning Note — personal/spiritual commitment; LDS framework of discipleship over perfectionism | 🟢 | ⬜ |
 
+| **Evaluate Alaska trip for business write-off** — Review itinerary and activities against business purpose criteria discussed at L10. Document justification if applicable. | **This week** | 08-15 L10 Quarterly Review — Justin flagged Alaska trip business justification question | 🟢 | ⬜ |
 ---
 
 ## ⏳ Waiting On
