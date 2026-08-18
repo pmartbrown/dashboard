@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-08-16 — Morning transcript review — +18 item(s) from 10 new transcripts (08-07 through 08-15)**
+**Last updated: 2026-08-18 — Morning transcript review — +5 item(s) from 2 new transcripts (07-16, 07-23 white-label partner calls)**
 
 ---
 
@@ -530,6 +530,9 @@
 | **Create SOPs for all RQF deal types** — Standard operating procedures for TF, EMD, double-close, DSCR, hard money routing. Critical for scale and staff onboarding. | **Q3 2026** | 08-15 L10 Quarterly Review — identified as key operational gap at quarterly | 🟡 | ⬜ |
 | **Build Acquisitions Masterclass series for Skool (Funding Hub)** — Educational content series on deal acquisition for community members. Define curriculum and production plan. | **Q3 2026** | 08-15 L10 Quarterly Review — identified as Q3 community content project | 🟡 | ⬜ |
 | **Hire new team member for initial RQF client intake calls** — Despite CRM rollout, maintain human touch on first contact. Define role and begin recruiting. | **This month** | 08-13 TEAM + 08-15 L10 — aligned at back-to-back L10s; hire is a priority | 🟡 | ⬜ |
+| **Create white-label partner FAQ: when to submit as Morby Method vs DSCR vs Stack** — decision tree for partners on deal-type routing; include guidance on when a signed LOI with seller-carry agreement supports a DSCR submission; clarify how Echo/Stack structures differ from standard Morby | **This week** | 07-23 white-label group call — recurring partner confusion on submission routing during group Q&A | 🟡 | ⬜ |
+| **Confirm July 15, 2026 fee structure change is documented in all partner materials** — minimum fees doubled effective July 15; all fees now shareable; remainder after cost of capital and TC costs split 50/50; update partner onboarding docs and training materials accordingly | **ASAP** | 07-16 white-label partner call — fee change announced to all partners; documentation gap may exist | 🟡 | ⬜ |
+| **Develop "broker" objection handling guide for white-label partners** — scripted response for when title companies, attorneys, or other parties challenge whether a partner is acting as a licensed broker; include policy framework and escalation path to Paul | **This week** | 07-16 white-label partner call — recurring question during group call; no standard response documented | 🟡 | ⬜ |
 ---
 
 ## ⚙️ Systems / AI
@@ -781,6 +784,8 @@
 | **Set up referral deal reconciliation system with EHM Strategies** — bi-weekly or monthly; shared Google Sheet or AI tracking; tied to specific deal IDs so bookkeeping can reconcile properly. | **This week** | 07-29 Referral Reconciliation Meeting — both parties agreed; follow-up meeting was 07-30 10AM CT | 🟡 | ⬜ |
 
 | **Set up separate Claude/AI Cowork account for Manoella + Alfonso** — Avoid sharing Paul's primary account. Create dedicated workspace with appropriate permissions for operational staff. | **This week** | 08-15 L10 Quarterly Review — agreed to separate staff accounts at quarterly | 🟡 | ⬜ |
+| **Check status of RQF CRM glitch — deals submitted but not created in CRM** — as of July 16, multiple submitted deals were failing to appear in the CRM; fix was being rushed; verify with Justin/Roz whether this has been fully resolved | **ASAP** | 07-16 white-label partner call — several submitted deals not entering CRM; active fix reported as underway | 🔴 | ⬜ |
+| **Implement upfront mutual release access for white-label partners** — Tim (partner) proposed getting mutual releases upfront before EMD deal launch to compress tight timelines; create individual approval process for template access to prevent wrong-version risk | **This week** | 07-16 white-label partner call — Tim's proposal agreed in principle; implementation still outstanding | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -927,7 +932,7 @@
 | **Scott's referral deal** — delayed due to contract issues with the other party. Monitor; no action from Paul needed now. | **TBD** | 07-22 Weekly Meeting — deal stalled externally | 🟡 | ⬜ |
 | **EVA Bank — final term sheet + appraisal review on Alabama barn** ($8M DSCR loan, 80% LTV, 25yr/2yr IO) | — | 07-31 deal call — appraisal in review; outcome determines LTV and cash-out; pushing for 85% | — | ⬜ |
 ---
-*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Afternoon run 2026-06-03: 5 new transcripts processed, 4 action items added; 1 fraud-alert call recorded as no-action (resolved on call).*
+*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Afternoon run 2026-06-03: 5 new transcripts processed, 4 action items added; 1 fraud-alert call recorded as no-action (resolved on call). Morning run 2026-08-18: 2 new transcript segments processed, 5 action items added (white-label partner calls 07-16, 07-23).*
 
 ## 📦 Migration Note — 2026-05-28
 Legacy `brain/todo.md` (last updated 2026-05-11, "Master To-Do / Follow-Up Tracker") was consolidated into this dashboard. 16 still-live items were merged into the sections above. The original file was archived to `brain/archive/todo-pre-2026-05-28.md`. The dashboard repo's `todo.md` is now the single source of truth for all action items.
