@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-08-18 — Morning transcript review — +5 item(s) from 2 new transcripts (07-16, 07-23 white-label partner calls)**
+**Last updated: 2026-08-19 — Morning transcript review — +4 item(s) from 2 new transcripts (2026-08-17 Harley campground, Virg Mateo $8M Oakland deal)**
 
 ---
 
@@ -178,6 +178,9 @@
 
 | **Follow up with off-market RV park seller (near Custer Crossings)** — Long-time owners open to seller financing (bank loan unlikely due to minimized profits). Seller consulting wife Lisa on price + cash at close. Call scheduled for ~Tuesday Aug 19. Family-oriented park with pool; potential complement to Custer Crossings. | **Aug 19** | 08-13 TEAM — warm off-market lead met at bar during Custer Crossings weekend | 🟡 | ⬜ |
 | **Johnny (RV Park/Deadwood area) — discuss flexible capital terms** — Johnny willing to offer capital on deals, wants favor returned. Reach out to clarify structure and what he's looking for. | **This week** | 08-15 L10 Quarterly Review — Johnny flagged as willing flexible capital partner | 🟡 | ⬜ |
+| **Source ~$8M transactional capital for Virg Mateo's $14.9M Oakland multifamily deal — fee 4-4.5%** | URGENT (week of 8/17) | Plaud — 2026-08-17 Virg Mateo/Alex Kamenetsky call | 🔴 | ⬜ |
+| **[PARTNER] Draft LOI for Harley campground — pre-Feb close, Sturgis deposit structure, 64hr training handover, winter house rental** | This week | Plaud — 2026-08-17 Harley/Lisa call | 🟡 | ⬜ |
+| **[PARTNER] Outline cross-property monetization plan (pool passes, restaurant cross-traffic, Custer Crossing synergies)** | TBD | Plaud — 2026-08-17 Harley/Lisa call | 🟢 | ⬜ |
 ---
 
 
@@ -363,6 +366,7 @@
 | **Route prop-tech proposal to Pace Morby via Jade, Rich, and Jenny** — strict personal timeline; prepare backup plan if Pace delays. Use established channels to avoid bypassing. | **This week** | 07-23 Pace Proposal Routing Meeting — Owners Club opps receive priority; targeting 'yes/no' faster | 🟡 | ⬜ |
 
 | **Harley (neighboring campground owner, SD)** — Planning to sell his park in ~1 year, open to seller financing. Park closes Sept 14; he'll refer guests to Custer Crossing. Stay in touch; first mover when he's ready to sell. | **Sept 2026** | 08-10 Neighboring campground call — Harley + Lisa own park 14 yrs; warm relationship built | 🟢 | ⬜ |
+| **Follow up with Harley — get Lisa's cash-needs numbers (immediate cash vs. seller-financeable amounts)** | This week | Plaud — 2026-08-17 Harley/Lisa call | 🟡 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
