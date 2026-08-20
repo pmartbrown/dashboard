@@ -1,12 +1,12 @@
-# Morning Briefing — Wednesday, August 19, 2026
+# Morning Briefing — Thursday, August 20, 2026
 
 ## The One Thing
-Quarterly Meeting Prep — STRETY due TODAY (Aug 19). Issues, Rocks, personal & professional wins. Block time before noon.
+Quarterly Meeting Prep — STRETY due yesterday (Aug 19), 1 day overdue. Issues, Rocks, wins. Block time before noon.
 
 ## Top 3 Priorities
-1. Quarterly Meeting Prep — DUE TODAY in STRETY. Issues list, Rocks, wins. Before noon.
-2. Capital Raising — Bridger Pennington Black Card 1 PM, Capital block 2:15 PM, Scott Henderson/Tan next steps, Keiretsu decision due tomorrow.
-3. Carry-forward trio — Emma's health forms (physician + Nurse Hafeen), Noa's rent (18+ days overdue), $50K forgery police report.
+1. Quarterly Meeting Prep — STRETY task, 1 day overdue. Issues, Rocks, wins. Before noon.
+2. Keiretsu Capital Expo decision — Seattle. YES or NO by EOD today.
+3. Capital raising play tonight — Fund Launch AI / Bridger Pennington 5 PM (Black Card) + UVREIA Night Meeting 7 PM.
 
 ## Fund Status
 $400,000 raised · $2,000,000 target · 20% · LPs: Paul $50K | Mouri $300K | Faline $50K · Next: one LP at $100K
@@ -27,23 +27,27 @@ OVERDUE:
 • Aug 12 — File Police Report for $50K forgery
 • Aug 12 — Email next steps of fraud process
 • Aug 12 — EMD Explainer Video
+• Aug 19 — Prepare for Quarterly Meeting (Issues, Rocks, wins) — 1 DAY OVERDUE
 THIS WEEK:
-• Aug 19 — Prepare for Quarterly Meeting (Issues, Rocks, wins) — DUE TODAY
+• No new confirmed items — check STRETY live
 
 ## Today's Schedule
-9:30 AM — Coffee with Rich and Jenny
-12:00 PM — Mike Butler | Real Estate & Asset Management (Black Card)
-1:00 PM — Bridger Pennington | Co-founder Fund Launch (Black Card)
-2:15 PM — Capital Raising block
-3:00 PM — Dan Pierson | Real Estate, PE, and Debt (Black Card)
-4:00 PM — Carwash Open Office Hour with Ryan Wagner
+9:30 AM — Meeting: Matthew & Real Quick Funds
+10:15 AM — Follow-up Mtg w Paul
+12:00 PM — RV Masterclass: Special Topics + Q&A (OC)
+2:00 PM — TFH Open Discussion + Q&A
+3:00 PM — Weekly All Level meeting with the Captains (RQF)
+4:30 PM — Raz & Paul Weekly Catch-up
+5:00 PM — Fund Launch AI | Bridger Pennington (Black Card)
+5:30 PM — Reconciliation w EMH & RQF ⚠️ overlaps with Bridger
+7:00 PM — UVREIA Night Meeting
 
 ## Email Action Items
 - URGENT: Emma's health forms — physician signature + Nurse Hafeen + SchoolCash Online
-- OVERDUE: Noa's rent — 18+ days past due
+- OVERDUE: Noa's rent — 19+ days past due
+- DECIDE TODAY: Keiretsu Capital Expo Seattle
 - LEGAL: Collier Ct 4plex buyer default (Jayson Quinones / Adam Stark)
 - LEGAL: $50K repayment — Keefer Brown final demand
-- DECISION by Aug 20: Keiretsu Capital Expo Seattle — decide today
 - DEADLINE Aug 23: Manus data deletion — back up pmartbrown + admin@rqf
 - ACTION: Maura Knutsen, J.P. Morgan — 801-407-5426
 - DEADLINE Aug 31: Utah DMV — Crosstrek 7AMD7, $234.50
