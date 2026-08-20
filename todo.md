@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-08-19 — Morning transcript review — +4 item(s) from 2 new transcripts (2026-08-17 Harley campground, Virg Mateo $8M Oakland deal)**
+**Last updated: 2026-08-20 — Morning transcript review — +13 item(s) from 4 new transcripts (08-17 Oakland $15M deal, 08-18 Transaction Security, 08-18 Fundraising/Deal Processes, 08-18 Life Insurance referral)**
 
 ---
 
@@ -181,6 +181,11 @@
 | **Source ~$8M transactional capital for Virg Mateo's $14.9M Oakland multifamily deal — fee 4-4.5%** | URGENT (week of 8/17) | Plaud — 2026-08-17 Virg Mateo/Alex Kamenetsky call | 🔴 | ⬜ |
 | **[PARTNER] Draft LOI for Harley campground — pre-Feb close, Sturgis deposit structure, 64hr training handover, winter house rental** | This week | Plaud — 2026-08-17 Harley/Lisa call | 🟡 | ⬜ |
 | **[PARTNER] Outline cross-property monetization plan (pool passes, restaurant cross-traffic, Custer Crossing synergies)** | TBD | Plaud — 2026-08-17 Harley/Lisa call | 🟢 | ⬜ |
+| 🔴 **$15M Oakland multifamily (44-unit) closing Mon Aug 24** — Seller carrying 55% note. Working with Donna (funder broker) to source large-tranche capital ($2M–$15M). Send deal package to Donna once final appraisal ($12–$14M) arrives. Chicago Title confirmed. | **Aug 24** | 08-17 Consultation w Donna re large-deal funder sourcing | 🔴 | ⬜ |
+| 🔴 **$8M stack deal closing week of Aug 24** — Primary funder + 2 backups confirmed. Final coordination required before close. | **Aug 24** | 08-18 Fundraising/Deal Processes meeting | 🔴 | ⬜ |
+| **Barn Deal: Open Chase account + confirm capital-partners-direct-to-escrow option** — Chase fraud risk flagged on large wires. Explore allowing capital partners to fund directly to sub-account escrow instead of LLC account. | **This week** | 08-18 Transaction Security meeting | 🔴 | ⬜ |
+| **$2M Alabama barn/wedding venue deal — end of August** — Line up transactional funding. | **End of Aug** | 08-17 Consultation w Donna | 🟡 | ⬜ |
+| **New commercial DSCR deal (up to $5M, no seasoning req) — submit to broker network** — Vanilla commercial from Roger. Need lender with no seasoning requirements. | **This week** | 08-18 Transaction Security meeting | 🟡 | ⬜ |
 ---
 
 
@@ -367,6 +372,10 @@
 
 | **Harley (neighboring campground owner, SD)** — Planning to sell his park in ~1 year, open to seller financing. Park closes Sept 14; he'll refer guests to Custer Crossing. Stay in touch; first mover when he's ready to sell. | **Sept 2026** | 08-10 Neighboring campground call — Harley + Lisa own park 14 yrs; warm relationship built | 🟢 | ⬜ |
 | **Follow up with Harley — get Lisa's cash-needs numbers (immediate cash vs. seller-financeable amounts)** | This week | Plaud — 2026-08-17 Harley/Lisa call | 🟡 | ⬜ |
+| 🔴 **CALL Greg Brown (HNW life insurance) — Friday Aug 21 at 9AM PT** — Greg to provide investor list ($200K–$600K each at 12%) for RezGap Plus fund. Critical for $1.5M capital raise. | **Aug 21** | 08-18 Exploratory Call + Fundraising meeting | 🔴 | ⬜ |
+| **Ask Christina Moser at GT Title for attorney referral (transactional funding specialist)** — Need attorney for Roger's partner questions; Greg Hansen too expensive ($4K–$6K). | **This week** | 08-18 Transaction Security meeting | 🟡 | ⬜ |
+| **Send developer referrals to Greg Brown for IBC/cash-value policy arbitrage** — Mutual referral commitment made; Paul's developer relationships are Greg's target profile. | **This week** | 08-18 Exploratory Call with Greg Brown | 🟢 | ⬜ |
+| **Send Greg Hansen contact info to Roger** — Note Hansen's exclusive arrangement with Tactical TC. | **This week** | 08-18 Transaction Security meeting | 🟢 | ⬜ |
 ---
 
 ## 🏗️ Projects — Build
@@ -790,6 +799,9 @@
 | **Set up separate Claude/AI Cowork account for Manoella + Alfonso** — Avoid sharing Paul's primary account. Create dedicated workspace with appropriate permissions for operational staff. | **This week** | 08-15 L10 Quarterly Review — agreed to separate staff accounts at quarterly | 🟡 | ⬜ |
 | **Check status of RQF CRM glitch — deals submitted but not created in CRM** — as of July 16, multiple submitted deals were failing to appear in the CRM; fix was being rushed; verify with Justin/Roz whether this has been fully resolved | **ASAP** | 07-16 white-label partner call — several submitted deals not entering CRM; active fix reported as underway | 🔴 | ⬜ |
 | **Implement upfront mutual release access for white-label partners** — Tim (partner) proposed getting mutual releases upfront before EMD deal launch to compress tight timelines; create individual approval process for template access to prevent wrong-version risk | **This week** | 07-16 white-label partner call — Tim's proposal agreed in principle; implementation still outstanding | 🟡 | ⬜ |
+| **Implement 48-hour escrow trigger clause / auto-return policy** — Prevents open-ended proof-of-funds holds. Funds auto-returned after 48 hrs if deal doesn't close. | **This week** | 08-18 Fundraising/Deal Processes meeting | 🟡 | ⬜ |
+| **Draft funding-only role disclosure** — RQF funds only; no legal or real estate advice. Use in all deal correspondence and partner onboarding. | **This week** | 08-18 Fundraising/Deal Processes meeting | 🟡 | ⬜ |
+| **Formalize upfront fee policy: 1% collected before wiring for proof-of-funds** — Late extension fees 0.25–0.5%/day. No refunds to reduce admin. | **This week** | 08-18 Fundraising/Deal Processes meeting | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -843,6 +855,7 @@
 | **Post 07-23 Morby/DSCR group call video with subtitles** — committed to members within 24 hours of recording | **2026-07-24** | 07-23 group call — content commitment to community | 🔴 | ⬜ |
 | **Populate shared Google Sheet with all RQF referrals + statuses** — shared with Shannon (EHM); ongoing referral tracking | **This week** | 07-31 Shannon EHM call — referral tracking sheet to be maintained jointly with EHM | 🟡 | ⬜ |
 | **Shift RQF marketing emphasis** — de-emphasize EMD; lead with double-close + stack method across all channels and community comms | **This month** | 07-28 RQF L10 — strategic decision to reposition product marketing | 🟡 | ⬜ |
+| 🔴 **$1.5M capital raise via Greg Brown's HNW client network** — Target: capital-preservation investors placing $200K–$600K at flat 12%/yr. Replaces existing high-cost revolving line (2%/month). Get investor list on Aug 21 call; begin outreach. | **Aug 21+** | 08-18 Exploratory Call + Fundraising meeting | 🔴 | ⬜ |
 ---
 
 ## 🏃 Personal / Standards
