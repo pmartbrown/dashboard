@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-08-22 — Morning transcript review — +3 items from 2 new transcripts (08-20 SKOOL: $8M deal at risk, expedited pricing SOP; CRM migration scope)**
+**Last updated: 2026-08-23 — Morning transcript review — +9 items from 2 transcripts (Drip campaign sync Raz Mihalyi; MN multifamily underwriting Traci/Tony)**
 
 ---
 
@@ -78,7 +78,9 @@
 | **Send Susanville CA + Walterboro SC hotel packages** to Baldwin OC partner | This week | 05-22 | 🟡 | ⬜ |
 | **Follow up with Rochelle Lame** — Buena Vista cabins decision (yes/no on $1.3M bridge at 5-6%/mo) | By 2026-05-30 | 05-29 call | 🔴 | ⬜ |
 | **Reach Reginald Brown** — confirm email delivery of mutual release + payment instructions | 2026-05-29 AM | 05-28 consultation | 🔴 | ⬜ |
-| **Follow-up call with Greg Brown (life insurance broker)** — 30-min call scheduled for **Friday 8/22 at 9:00 AM PT**; Greg writes $50M+ estate-planning policies for 9-figure estate exposure + IBC-style lending arbitrage for developers; his ultra-HNW clients (just-liquefied business owners seeking capital preservation at $200K–$600K) are exactly Pinecone Capital's target LP profile; mutual referral commitments made; Paul's developer relationships = Greg's target clientele for cash-value policies | **2026-08-22 (Friday) 9AM PT — URGENT** | 2026-08-20 Plaud recording — introductory call with Greg Brown + mutual connector; Greg reached via life insurance network; also coordinate with Paul Huang (Baldwin Group, InvestNext LP portal) | 🔴 | ⬜ |
+| **Follow-up call with Greg Brown (life insurance broker)** — 30-min call scheduled for **Friday 8/22 at 9:00 AM PT**; Greg writes $50M+ estate-planning policies for 9-figure estate exposure + IBC-style lending arbitrage for developers; his ultra-HNW clients (just-liquefied business owners seeking capital preservation at $200K–$600K) are exactly Pinecone Capital's target LP profile; mutual referral commitments made; Paul's developer relationships = Greg's target clientele for cash-value policies | **2026-08-22 (Friday) 9AM PT — URGENT** | 2026-08-20 Plaud recording — introductory call with Greg Brown + mutual connector; Greg reached via life insurance network; also coordinate with Paul Huang (Baldwin Group, InvestNext LP portal) | 🔴 | ⬜ || **Notify Alex that his Funding Hub members have invalid email addresses** — drip campaign showing delivery failures on his member list; he needs to update member emails before drip sequences can work | This week | 2026-08-20 Drip campaign sync w/ Raz Mihalyi | 🟡 | ⬜ |
+| **Post in Sub2 + Owner's Club to source Minneapolis multifamily leads for Tony** — Tony (Traci Canning's client) needs 10–20 unit deal using Morby Method / creative finance; target areas: Chaska/Burnsville/Bloomington/Lakeville/Eagan/Blaine; current $8M 20-unit deal is cash-flow negative (~$6K/mo loss) and not viable | This week | 2026-08-19 Client call w/ Traci Canning + Tony re: MN townhome underwriting | 🟡 | ⬜ |
+
 
 ---
 
@@ -141,7 +143,9 @@
 | **Enforce admin@ communication standard** — all deal-related communication must flow through admin@realquickfunds.com only; eliminate individual-email (Manuela's personal account) deal threads to prevent missed client requests | ASAP | 2026-08-19 [L10] — deal was missed for a week after client requested new broker due to communication silo | 🟡 | ⬜ |
 | **HubSpot "Today's Date" discipline** — enforce: click "Today's Date" field BEFORE moving any deal to next pipeline phase; automations trigger on this field and break when phase is advanced first | Standing rule | 2026-08-19 [L10] — recurring data-entry error creating HubSpot data integrity issues; brief all team members | 🟡 | ⬜ |
 
-| **Formalize expedited deal pricing SOP** — document 1.0–2.0% fee premium for urgent closes (<1 week); train team to apply at intake, not after the fact (gap discovered on Memphis 5654 Ashton — had to manually correct to 3.5%) | **This week** | 2026-08-20 SKOOL meeting — pricing policy gap | 🟡 | ⬜ |
+| **Formalize expedited deal pricing SOP** — document 1.0–2.0% fee premium for urgent closes (<1 week); train team to apply at intake, not after the fact (gap discovered on Memphis 5654 Ashton — had to manually correct to 3.5%) | **This week** | 2026-08-20 SKOOL meeting — pricing policy gap | 🟡 | ⬜ || **Fix email formatting in drip emails 6–8** — use Shift+Enter (not Enter) for line breaks to prevent double-spacing in rendered emails | This week | 2026-08-20 Drip campaign sync w/ Raz Mihalyi | 🟢 | ⬜ |
+| **Make {{member.website}} merge tag clickable in all drip emails** — currently renders as plain text instead of a hyperlink | This week | 2026-08-20 Drip campaign sync w/ Raz Mihalyi | 🟡 | ⬜ |
+
 ---
 ## 🏗️ Projects — Build
 
@@ -157,7 +161,9 @@
 | Create borrower onboarding checklist (EMD, double close, Morby) | Sprint 1 | Operational consistency | 🟡 | ⬜ |
 | Draft updated fund PPM with 506(b) language post-restructure | ASAP | 04-25 fund restructure | 🔴 | ⬜ |
 
-| **Scope custom CRM to replace HubSpot** — mid-Nov internal migration, Jan partner portals (deal-status tracking + SMS chat); assign dev lead, build spec, plan DocuSign automation workflows | **Nov 2026** | 2026-08-20 SKOOL CRM roadmap — replacing HubSpot due to API limits | 🟡 | ⬜ |
+| **Scope custom CRM to replace HubSpot** — mid-Nov internal migration, Jan partner portals (deal-status tracking + SMS chat); assign dev lead, build spec, plan DocuSign automation workflows | **Nov 2026** | 2026-08-20 SKOOL CRM roadmap — replacing HubSpot due to API limits | 🟡 | ⬜ || **Sign CRM contract with Raz Mihalyi + process first payment** — Raz ready to begin CRM development immediately after contract signed and payment processed | ASAP | 2026-08-20 Drip campaign sync w/ Raz | 🔴 | ⬜ |
+| **Begin adding new emails to RQF drip sequence** — expand sequence with new content once formatting fixes applied to existing emails | This month | 2026-08-20 Drip campaign sync w/ Raz | 🟡 | ⬜ |
+
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -194,8 +200,12 @@
 | Kirk: new enforceable agreement signed | Kirk | 05-20 Asset Recovery | 🟡 | ⬜ |
 | Adam: liquidity window confirmation for upcoming deals | Adam | 05-21 ops | 🔴 | ⬜ |
 | Devon Alexander: response to foreclosure notice | Devon Alexander / Attorney | 2026-08-19 [L10] | 🔴 | ⬜ |
-| Greg Brown: calendar confirmation for 8/22 9AM PT call | Greg Brown | 2026-08-20 call | 🔴 | ⬜ |
+| Greg Brown: calendar confirmation for 8/22 9AM PT call | Greg Brown | 2026-08-20 call | 🔴 | ⬜ || **Raz Mihalyi — Fix formatting in all existing drip emails** (spacing issues across full sequence, not just emails 6–8) | Raz Mihalyi | 2026-08-20 Drip campaign sync | 🟡 | ⬜ |
+| **Raz Mihalyi — Build email preview tool** so Paul can verify rendering before launch | Raz Mihalyi | 2026-08-20 Drip campaign sync | 🟢 | ⬜ |
+| **Raz Mihalyi — Implement looping sequence** — after final email, loop back to email #2 after 168 hours | Raz Mihalyi | 2026-08-20 Drip campaign sync | 🟢 | ⬜ |
+| **Raz Mihalyi — Begin CRM development** (starts after contract signed + payment processed) | Raz Mihalyi | 2026-08-20 Drip campaign sync | 🟡 | ⬜ |
+
 
 ---
 
-*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added.*
+*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size.*
