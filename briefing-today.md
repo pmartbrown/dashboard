@@ -1,43 +1,37 @@
-# Morning Briefing — Sunday, August 23, 2026
+# Morning Briefing — Monday, August 24, 2026
 
 ## The One Thing
-Dad's house closing is TOMORROW at 9 AM — drive SLC at 8 AM, close 4540 S 600 E, close this chapter.
+Dad's house closing — be present, be sharp, make it count. Settlement at 9 AM, Real Advantage Title, SLC.
 
 ## Top 3 Priorities
-1. Dad's house closing prep — Settlement tomorrow 9 AM. Drive at 8 AM. Be ready.
-2. Manus data backup — DEADLINE TODAY (Aug 23). Pmartbrown + admin@rqf. Irreversible.
-3. Capital raising prep for the week — Parshay + Rizov calls Aug 26; Bridger Pennington Aug 27.
+1. Dad's house closing — Settlement 9 AM, drive by 8 AM, Mondale/4540 S 600 E Murray
+2. Capital raising push — Follow up Scott Henderson (define $8M network needs), follow through Tan intro (Darren Hackle)
+3. Social media & investor outreach system — Find SM candidate + outreach to 30-50 accredited investors
 
 ## Fund Status
-NOT VERIFIED — last confirmed 2026-08-13 (10 days ago — stale, balance suppressed per protocol). Last known: Paul $50K | Naohiro Mouri $300K | Faline Brown $50K | Target $2M
+NOT VERIFIED — last confirmed Aug 13, 2026 (~$400K / $2M · 20%) · LP: Paul $50K ✅ · Naohiro Mouri $300K ✅ · Faline Brown $50K ✅
 
 ## STRETY TO-DOS — NEXT 7 DAYS
-OVERDUE:
-- Jun 30 — Connect w/ 3 recruiting services (Lat Am, India, Vietnam)
-- Jul 3 — Outreach to 30 accredited investors
-- Jul 8 — Chase Bank Process
-- Jul 9 — YT video on recourse vs non-recourse loans
-- Jul 18 — Outreach to 40 accredited investors
-- Jul 22 — Find Social Media strategy/content person
-- Jul 22 — Adjust HML/DSCR agreement responsibilities
-- Jul 25 — Outreach to 50 accredited investors
-- Jul 30 — Social media drive for Pinecone Capital
-- Aug 12 — Follow up Keefer DOI/Licensing Dept
-- Aug 12 — File Police Report $50K forgery
-- Aug 12 — EMD Explainer Video
+OVERDUE: None detected (no due dates visible on current STRETY todos)
 THIS WEEK:
-- Aug 26 — Call with James Parshay (funds for Jay)
-- Aug 26 — Call with Julian Rizov
+- Outreach to 30 accredited investors
+- Outreach to 40 accredited investors
+- Outreach to 50 accredited investors
+- Make YT video on recourse vs non-recourse loans
+- Find Social Media person driving strategy and content
+- Connect with 3 recruiting services (Lat Am, India, Vietnam)
+- Chase Bank Process
+- Adjust HML/DSCR and RQF agreement scope
 
 ## Today's Schedule
-- 1:00 PM — Family Church
+- All Day — Mondale | 4540 S 600 E | Brown | Settlement Deadline
+- 8:00 AM — Drive to SLC (leave by 8 AM, Real Advantage Title, bring ID)
+- 9:00-10:00 AM — Josh | 4540 S 600 E | Brown | Settlement
+- 10:00-11:00 AM — Gabriel Araish | Real Estate & Canadian Compliance (Black Card)
 
 ## Email Action Items
-- URGENT TODAY: Manus data deletion (Aug 23 deadline)
-- URGENT Aug 31: Utah DMV renewal — Subaru Crosstrek 7AMD7, $234.50, emissions first
-- OVERDUE: Noa's Provo rent — 22+ days past due
-- OVERDUE: Travelers claim JFM7762 — authorization owed
-- ESCALATING: Buyer default — Collier Ct 4plex
-- FINAL DEMAND: 1717 Crimson Cir $50K — Keefer Brown
-- ACTION: Maura Knutsen J.P. Morgan — 801-407-5426 (21+ days cooling)
-- Sep 30: SEC EDGAR confirmation (Pinecone filer)
+- OVERDUE: File police report — $50K forgery (overdue since Aug 12)
+- ACTION: Emma's health forms — physician signature + SchoolCash Online
+- ACTION: Noa's rent — 16+ days past due
+- IMPORTANT: Scott Henderson — define $8M network needs
+- IMPORTANT: Tan (via Darren Hackle) — follow introduction through
