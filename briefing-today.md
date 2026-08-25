@@ -1,37 +1,49 @@
-# Morning Briefing — Monday, August 24, 2026
+# Morning Briefing — Tuesday, August 25, 2026
 
 ## The One Thing
-Dad's house closing — be present, be sharp, make it count. Settlement at 9 AM, Real Advantage Title, SLC.
+Get Raz on the northpeakrecovery.com breach — TODAY. 6 days open, fatal errors daily, realquickfunds.com may be next.
 
 ## Top 3 Priorities
-1. Dad's house closing — Settlement 9 AM, drive by 8 AM, Mondale/4540 S 600 E Murray
-2. Capital raising push — Follow up Scott Henderson (define $8M network needs), follow through Tan intro (Darren Hackle)
-3. Social media & investor outreach system — Find SM candidate + outreach to 30-50 accredited investors
+1. Get Raz on northpeakrecovery.com — text before 9 AM, get him engaged today
+2. Dale Herriman / 25454 Normandy — closing Thursday; mortgage payoff + LLC docs + EMD allocation needed NOW
+3. DocuSign envelope limit — blocking EMD/loan-docs firm-wide; upgrade or pay overage today
 
 ## Fund Status
-NOT VERIFIED — last confirmed Aug 13, 2026 (~$400K / $2M · 20%) · LP: Paul $50K ✅ · Naohiro Mouri $300K ✅ · Faline Brown $50K ✅
+NOT VERIFIED — last confirmed 2026-08-13 (stale 12 days) · Target $2M · LP: Paul $50K ✅ · Mouri $300K ✅ · Faline $50K ✅ · Next: one more $100K LP for 25%
 
 ## STRETY TO-DOS — NEXT 7 DAYS
-OVERDUE: None detected (no due dates visible on current STRETY todos)
+OVERDUE:
+- Jun 30 — Outreach to 30 accredited investors
+- Jul 3 — Chase Bank Process
+- Jul 8 — YT video: recourse vs non-recourse loans
+- Jul 9 — Outreach to 40 accredited investors
+- Jul 18 — Find Social Media person
+- Jul 22 — Adjust HML/DSCR and RQF agreement scope
+- Jul 22 — Outreach to 50 accredited investors
+- Jul 25 — Social media drive Pinecone Capital
+- Jul 30 — Keefer: DOI and Licensing Dept follow-up
+- Aug 12 — File Police Report ($50K forgery)
+- Aug 12 — EMD Explainer Video (for borrowers)
+- Aug 12 — Call James Parshay (funds for Jay)
 THIS WEEK:
-- Outreach to 30 accredited investors
-- Outreach to 40 accredited investors
-- Outreach to 50 accredited investors
-- Make YT video on recourse vs non-recourse loans
-- Find Social Media person driving strategy and content
-- Connect with 3 recruiting services (Lat Am, India, Vietnam)
-- Chase Bank Process
-- Adjust HML/DSCR and RQF agreement scope
+- Aug 26 — Call Julian Rizov
 
 ## Today's Schedule
-- All Day — Mondale | 4540 S 600 E | Brown | Settlement Deadline
-- 8:00 AM — Drive to SLC (leave by 8 AM, Real Advantage Title, bring ID)
-- 9:00-10:00 AM — Josh | 4540 S 600 E | Brown | Settlement
-- 10:00-11:00 AM — Gabriel Araish | Real Estate & Canadian Compliance (Black Card)
+- 1:00 PM — RV Masterclass: Live Deal Review
+- 1:00 PM — Ben Julius | Real Estate (Black Card)
+- 3:00 PM — Level 22 (Owner's Club)
+- 6:00 PM — Open Discussion + Q&A (TxF Hub Community)
 
 ## Email Action Items
-- OVERDUE: File police report — $50K forgery (overdue since Aug 12)
-- ACTION: Emma's health forms — physician signature + SchoolCash Online
-- ACTION: Noa's rent — 16+ days past due
-- IMPORTANT: Scott Henderson — define $8M network needs
-- IMPORTANT: Tan (via Darren Hackle) — follow introduction through
+- URGENT: northpeakrecovery.com breach (6 days, escalating)
+- URGENT: Dale Herriman Normandy closing Thursday
+- URGENT BLOCKING: DocuSign envelope limit firm-wide
+- URGENT 6 days: Emma UVU enrollment by Aug 31
+- URGENT: Utah DMV renewal ($234.50, emissions first)
+- OVERDUE 23 days: Noa's Provo rent past due
+- URGENT: AT&T AutoPay card expired
+- IMPORTANT: Raz CRM proposal — spend decision needed
+- IMPORTANT: Keefer Brown — Ridgefield WA executed notes
+- IMPORTANT: Darin Heckel — 2551 San Pablo pushback
+- IMPORTANT: Airbnb Wendi $4,837.15 Island Park
+- IMPORTANT: OC Sponsorship Jesse James T Llamelo
