@@ -47,6 +47,7 @@
 | **Kirk debt — refuse to sign release form** — require a new, legally-binding affirmation agreement (Utah-enforceable) before Paul signs anything; Speaker 3 to communicate non-negotiable stance to Kirk | When Kirk responds | 05-20 Asset Recovery — Kirk's wife is physician; Paul resolute on documented enforceable arrangement | 🟡 | ⬜ |
 | **Initiate foreclosure proceedings on Devon Alexander delinquent loans** — immediate action; history of non-payment across multiple loans; work with attorney to begin formal foreclosure process; decisive risk-mitigation strategy approved at L10 | ASAP | 2026-08-19 [L10] CRM Build, Delinquent Loans, Pricing Model Review — Justin + Paul agreed; cannot allow continued non-payment | 🔴 | ⬜ |
 | **Resolve $8M stack deal at risk** — client missed COE date, no PSAs or closing instructions provided; get docs immediately or pull funding commitment | **ASAP** | 2026-08-20 SKOOL Group Review — $8M stack deal stalled | 🔴 | ⬜ |
+| **Get legal opinion on employer-employee dynamics for Dave (Acrux) GP arrangement in RezGap Plus** | This week | 08-25 Partnership & Investment Vehicle exploration call | 🟡 | Not started |
 ---
 ## 📞 Follow-Ups / Outreach
 
@@ -82,6 +83,8 @@
 | **Post in Sub2 + Owner's Club to source Minneapolis multifamily leads for Tony** — Tony (Traci Canning's client) needs 10–20 unit deal using Morby Method / creative finance; target areas: Chaska/Burnsville/Bloomington/Lakeville/Eagan/Blaine; current $8M 20-unit deal is cash-flow negative (~$6K/mo loss) and not viable | This week | 2026-08-19 Client call w/ Traci Canning + Tony re: MN townhome underwriting | 🟡 | ⬜ |
 
 
+| **Email Bruce — request Georgia (+ Oklahoma) surplus funds list; compare quality against Matt's list** | ASAP | 08-26 Surplus Funds & Post-Foreclosure mtg | 🔴 | Not started |
+| **Contact Ted about generating enhanced post-foreclosure datasets; explore calling collaboration** | This week | 08-26 Surplus Funds & Post-Foreclosure mtg | 🟡 | Not started |
 ---
 
 ## 🧭 Personal / Standards
@@ -164,6 +167,7 @@
 | **Scope custom CRM to replace HubSpot** — mid-Nov internal migration, Jan partner portals (deal-status tracking + SMS chat); assign dev lead, build spec, plan DocuSign automation workflows | **Nov 2026** | 2026-08-20 SKOOL CRM roadmap — replacing HubSpot due to API limits | 🟡 | ⬜ || **Sign CRM contract with Raz Mihalyi + process first payment** — Raz ready to begin CRM development immediately after contract signed and payment processed | ASAP | 2026-08-20 Drip campaign sync w/ Raz | 🔴 | ⬜ |
 | **Begin adding new emails to RQF drip sequence** — expand sequence with new content once formatting fixes applied to existing emails | This month | 2026-08-20 Drip campaign sync w/ Raz | 🟡 | ⬜ |
 
+| **North Peak Recovery: decide secondary state (Oklahoma vs. NJ) after Georgia pilot gets underway** | This week | 08-24 & 08-26 NPR go-to-market strategy sessions | 🟡 | Not started |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -182,6 +186,7 @@
 | **Send fund overview to Colton Moyes / Vestus Capital** | This week | 05-21 — SDIRA-eligible accredited investor | 🟡 | ⬜ |
 | **Review RQF pricing model — evaluate tiered structure vs. current 2.5% flat fee** — 2.5% is unprofitable on larger/more complex deals (e.g., $2M barn deal); model tiered approach that captures more value on larger transactions; present options at next L10 | This week | 2026-08-19 [L10] — strategic pricing review initiated; aim to increase profitability per deal complexity | 🟡 | ⬜ |
 
+| **Prepare "try before you buy" GP proposal for Dave (Acrux) to join RezGap Plus as capital-raising GP** | This week | 08-25 Partnership & Investment Vehicle exploration call | 🟡 | Not started |
 ---
 
 ## ⏳ Waiting On
