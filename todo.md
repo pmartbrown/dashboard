@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-08-27 — Morning transcript review — +5 items from 4 transcripts (NPR surplus funds, Dave/Acrux GP partnership)**
+**Last updated: 2026-08-28 — Morning transcript review — +10 items from 4 new transcripts (L10 08-26: Dave GP, TC mandate, Jeremy lender risk, Shannon reconciliation; EXEC 08-20: Devon demand letters, California leads/Bruce, Becca hire)**
 
 ---
 
@@ -48,6 +48,10 @@
 | **Initiate foreclosure proceedings on Devon Alexander delinquent loans** — immediate action; history of non-payment across multiple loans; work with attorney to begin formal foreclosure process; decisive risk-mitigation strategy approved at L10 | ASAP | 2026-08-19 [L10] CRM Build, Delinquent Loans, Pricing Model Review — Justin + Paul agreed; cannot allow continued non-payment | 🔴 | ⬜ |
 | **Resolve $8M stack deal at risk** — client missed COE date, no PSAs or closing instructions provided; get docs immediately or pull funding commitment | **ASAP** | 2026-08-20 SKOOL Group Review — $8M stack deal stalled | 🔴 | ⬜ |
 | **Get legal opinion on employer-employee dynamics for Dave (Acrux) GP arrangement in RezGap Plus** | This week | 08-25 Partnership & Investment Vehicle exploration | 🟡 | Not started |
+| **Finalize Dave (Acrux) GP documentation for RezGap Plus** — Dave confirmed as GP at 2% management fee; immediate action: formalize docs, update fund structure, begin capital raise | ASAP | 2026-08-26 [L10] GP Onboarding — Dave on board; Paul + Justin approved | 🔴 | ⬜ |
+| **Communicate cash-only extension policy to Justin re: Devon $740k loan** — no free extensions; any extension requires full extension fee wired upfront as cash payment | ASAP | 2026-08-20 [EXEC] California Lead Partnership and Cash-Only Extension Policy | 🔴 | ⬜ |
+| **Review attorney emails re: Devon $740k demand letters** — answer attorney questions; decide whether to accelerate all amounts due on defaulted note | ASAP | 2026-08-20 [EXEC] California Lead Partnership and Cash-Only Extension Policy — two demand letters pending | 🔴 | ⬜ |
+| **Meet with Shannon to reconcile ~$52k referral fee discrepancy** — Shannon payment process is opaque and distorts RQF financials; address communication + process issues on call | This week | 2026-08-26 [L10] GP Onboarding, TC Requirement and Lender Risk | 🟡 | ⬜ |
 ---
 ## 📞 Follow-Ups / Outreach
 
@@ -85,6 +89,8 @@
 
 | **Email Bruce — request Georgia (+ Oklahoma) surplus funds list; compare against Matt's list** | ASAP | 08-26 Surplus Funds & Post-Foreclosure mtg | 🔴 | Not started |
 | **Contact Ted about generating enhanced post-foreclosure datasets; explore calling collaboration** | This week | 08-26 Surplus Funds & Post-Foreclosure mtg | 🟡 | Not started |
+| **Confront Jeremy about converting RQF transactional leads to his own HM/DSCR products** — direct, non-nuanced conversation; if behavior continues, stop referring leads to him | This week | 2026-08-26 [L10] GP Onboarding — critical revenue threat to RQF core business | 🔴 | ⬜ |
+| **Get California leads from brother and send to Bruce for engagement** — Bruce confirmed non-exclusive partnership, willing to work CA deals; brother already in contact with sellers | This week | 2026-08-20 [EXEC] California Lead Partnership — Bruce has 400k-lead infrastructure | 🟡 | ⬜ |
 ---
 
 ## 🧭 Personal / Standards
@@ -149,6 +155,8 @@
 | **Formalize expedited deal pricing SOP** — document 1.0–2.0% fee premium for urgent closes (<1 week); train team to apply at intake, not after the fact (gap discovered on Memphis 5654 Ashton — had to manually correct to 3.5%) | **This week** | 2026-08-20 SKOOL meeting — pricing policy gap | 🟡 | ⬜ || **Fix email formatting in drip emails 6–8** — use Shift+Enter (not Enter) for line breaks to prevent double-spacing in rendered emails | This week | 2026-08-20 Drip campaign sync w/ Raz Mihalyi | 🟢 | ⬜ |
 | **Make {{member.website}} merge tag clickable in all drip emails** — currently renders as plain text instead of a hyperlink | This week | 2026-08-20 Drip campaign sync w/ Raz Mihalyi | 🟡 | ⬜ |
 
+| **Make TCs mandatory for all new RQF deals** — require TC on every deal; refer to Chelsea Westover and Anna ($500 upfront or $0 as exception); reduces internal workload and closing risk | This week | 2026-08-26 [L10] GP Onboarding, TC Requirement and Lender Risk — approved by Paul + Justin | 🟡 | ⬜ |
+| **Set EMD minimum threshold; route small EMDs to Skool community** — high-effort low-reward small EMDs go to Jarrett/Mandy in community; RQF takes sourcing fee | This week | 2026-08-26 [L10] GP Onboarding, TC Requirement and Lender Risk | 🟡 | ⬜ |
 ---
 ## 🏗️ Projects — Build
 
@@ -168,6 +176,8 @@
 | **Begin adding new emails to RQF drip sequence** — expand sequence with new content once formatting fixes applied to existing emails | This month | 2026-08-20 Drip campaign sync w/ Raz | 🟡 | ⬜ |
 
 | **North Peak Recovery: decide secondary state (Oklahoma vs. NJ) after Georgia pilot gets underway** | This week | 08-24 & 08-26 NPR go-to-market strategy sessions | 🟡 | Not started |
+| **Hire Hard Money / DSCR coordinator** — dedicated role to own HM/DSCR partner relationships, streamline processes, manage deal flow; this product line generates the most internal complaints | This month | 2026-08-26 [L10] GP Onboarding, TC Requirement and Lender Risk — approved by Paul + Justin | 🟡 | ⬜ |
+| **Evaluate Becca for capital partner relationship management role** — relationship-building strength; proposed role: attend events, build/nurture capital partner network, hand off deal-closing to team | When possible | 2026-08-20 [EXEC] California Lead Partnership | 🟢 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
