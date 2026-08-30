@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-08-29 — Morning transcript review — +7 items from 5 new transcripts (Bruce Williams AROS/CA surplus; Debt Fund GP Dave: fund summary/RV park/THOWS/disclosure; North Peak Recovery: Brent state list; Personal: Noah CRV)**
+**Last updated: 2026-08-30 — Morning transcript review — +14 items from 8 new transcripts (EHM reconciliation/Odessa echo loan; TC partnership Justin Thompson; Phoenix co-living; NP Recovery Georgia; surplus strategy)**
 
 ---
 
@@ -111,6 +111,14 @@
 | **Reactivate North Peak Recovery** — recover debt on the 5419 Palmer Ave deal (Curtis situation); Paul confirmed he personally holds this debt position and does not want to write it off | When Curtis responds | 05-22 bookkeeping directive voice note — Paul explicitly said "I will get this money back" | 🟡 | ⬜ |
 | **Call Bruce Williams — discuss CA/WA surplus deal collaboration via AROS platform** — Paul has CA and WA wholesaler inquiries for surplus fund deals; Bruce's AROS is the right vehicle (400M leads, 16/27/50% tiers, attorney network); needs to structure workable arrangement | This week | 2026-08-23 [CLIENT] call with Bruce Williams — AROS surplus platform | 🔴 | ⬜ |
 | **Take Noah's Honda CRV to mechanic before buying** — 2017 CRV, 144K miles, $14K; full inspection + lube + filter change; if mechanic approves, buy and put remainder of car allowance into investment account | This week | 2026-08-26 [PERSONAL] family car discussion | 🟢 | ⬜ |
+| **Prepare $120K echo loan for Shannon (EHM) Odessa deal** — wire directly to title company (bypass Relay/Truve); fee $3,000 (2.5%) | This week | EHM Odessa echo loan | 🔴 | |
+| **Confirm VOF fees with Shannon/Jeremy: Bonnie Bray ($10,200), Khokhar ($5,000), Parker House ($5,000)** — Jeremy to provide proof via title co | This week | EHM reconciliation call 2026-08-26 | 🟡 | |
+| **RQF exclusive funding partner for Justin Thompson deals** — reciprocal TC partnership; JT has 3 deals closing this week/next | This week | TC partnership call 2026-08-26 | 🟡 | |
+| **Phoenix co-living deal (Rylend Duve, $537K)** — vet DSCR lender viability; advise seller carryback ($30K–$50K) as preferred equity (not second lien) | ASAP | Phoenix consultation 2026-08-26 | 🟡 | |
+| **Email Bruce (surplus partner)** — ask if he can sell Georgia list (+ possibly Oklahoma); compare with Matt's data | This week | North Peak Recovery state call 2026-08-26 | 🟡 | |
+| **Contact Ted** — discuss AI-generated post-foreclosure datasets for Georgia; potential 5% rev-share per closed deal | This week | North Peak Recovery state call 2026-08-26 | 🟡 | |
+| **Connect Justin Thompson (TC partner) with HNW buyer** needing tax-deductible STR deals | This week | TC partnership call 2026-08-26 | 🟡 | |
+| **Formalize TC/funding referral partnership terms with Justin Thompson** — JT's team does TC for RQF stack deals; RQF exclusive funder for JT deals | This week | TC partnership call 2026-08-26 | 🟡 | |
 
 ---
 
@@ -227,6 +235,12 @@
 | **Research RV park market fundamentals for Dave fund deck** — 45K+ parks in US; purchasing trends; 12%+ annual return targets + equity at refi events; unicorn underwriting criteria | This week | 2026-08-26 [EXEC] Debt Fund GP — RV park fund thesis | 🟡 | ⬜ |
 | **Investigate THOWS tax treatment for Dave fund deck** — tiny homes on wheels as personal property (not real estate); accelerated depreciation / negative K-1 eligibility; Box House model ($500K sell, $100K down, $400K seller finance, managed placement) | This week | 2026-08-26 [EXEC] Debt Fund GP — tax mitigation thesis | 🟡 | ⬜ |
 | **Draft one-page GP disclosure template for Dave** — non-advisory referrer who also invests personally in RezGap Plus; for employees who ask about investing (power harassment mitigation) | This week | 2026-08-26 [EXEC] Debt Fund GP — employer-employee concern | 🟡 | ⬜ |
+| **North Peak Recovery: Georgia-first scope** — state selection + contract signing + hand off to Matt/Bruce for processing; do not expand scope yet | Ongoing | NP Recovery strategy 2026-08-26 | 🟢 | |
+| **Shannon Martin (EHM)** — wire $55,297.75 by 2026-09-01 | 2026-09-01 | EHM reconciliation call | 🔴 | |
+| **Shannon/Jeremy** — proof of VOF fee payments (Bonnie Bray, Khokhar, Parker House) | This week | EHM reconciliation | 🟡 | |
+| **Kiefer** — pull Janet's attorney list; request Matt's Georgia dataset | This week | NP Recovery state call | 🟡 | |
+| **Brent & Shanti** — begin Georgia surplus verification and outreach (target start 2026-08-27) | This week | NP Recovery state call | 🟡 | |
+| **Rylend Duve** — submit Phoenix co-living deal to RQF for DSCR vetting | ASAP | Phoenix consultation | 🟡 | |
 
 ---
 
