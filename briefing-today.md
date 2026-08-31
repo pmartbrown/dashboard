@@ -1,41 +1,45 @@
-# Morning Briefing — Sunday, August 30, 2026
+# Morning Briefing — Monday, August 31, 2026
 
 ## The One Thing
-Emma UVU Concurrent Enrollment — Deadline TOMORROW (Aug 31). Handle today.
+Emma's UVU Concurrent Enrollment — DEADLINE TODAY (Aug 31). UVU enrollment + UVID must be done BEFORE Temple at 11:15 AM.
 
 ## Top 3 Priorities
-1. Emma UVU Enrollment — deadline Aug 31 (tomorrow). Handle today.
-2. northpeakrecovery.com breach — Day 12 — 2 backdoor admins live. Roz Monday AM.
-3. Alaska Trip (Sep 6, tentative) — 7 days away. Confirm flights + David Lisi this week.
+1. **Emma UVU Enrollment** — Do it NOW. Before Temple 11:15 AM. No extensions.
+2. **northpeakrecovery.com Breach — Day 19+** — 2 backdoor admins live. Get Raz on this before Alaska.
+3. **Capital Raising + Jesse Llamelo (5 PM)** — Capital block 3:30–5 PM. JVL Legacy call at 5 PM. Alaska in 6 days.
 
 ## Fund Status
-NOT VERIFIED — last confirmed 2026-08-13 (17 days stale). Informational: Paul $50K + Mouri $300K + Faline $50K = ~$400K · Target $2M · ~20%
+NOT VERIFIED — last confirmed 2026-08-13 (18 days stale). LP table (informational): Paul $50K · Mouri $300K · Faline $50K = $400K total · Target $2M · ~20%
 
 ## STRETY TO-DOS — NEXT 7 DAYS
-OVERDUE (from Aug 27 last known):
-- Jun 30 — Connect w three recruiting services
-- Jun 30 — Outreach to 30 accredited investors
-- Jul 3 — Chase Bank Process
-- Jul 8 — YT video on recourse vs non-recourse loans
-- Jul 18 — Find Social Media person
-- Jul 22 — Adjust agreement (HML/DSCR and RQF scope)
-- Jul 25 — Social media drive Pinecone Capital
-- Jul 30 — Follow up Keefer — DOI and Licensing Dept
-- Aug 12 — File Police Report for $50K forgery
-- Aug 12 — EMD Explainer Video (for borrowers)
-- Aug 12 — Call with James Parshay (funds for Jay)
-- Aug 26 — Call with Julian Rizov
+OVERDUE (14 items — all assigned to Leadership):
+- [HIGHEST] Jun 30 — Recruiting: 3 services (Lat Am/India/Vietnam)
+- [HIGHEST] Jul 3 — Outreach to 30 accredited investors
+- [HIGHEST] Jul 8 — Chase Bank Process
+- [HIGHEST] Jul 9 — YT video: recourse vs non-recourse loans
+- [HIGHEST] Jul 18 — Outreach to 40 accredited investors
+- [Normal] Jul 22 — Find Social Media person
+- [Normal] Jul 22 — Adjust agreement (HML/DSCR and RQF scope)
+- [HIGHEST] Jul 25 — Outreach to 50 accredited investors
+- [Normal] Jul 30 — Social media drive Pinecone Capital
+- [Normal] Aug 12 — Follow up Keefer DOI and Licensing
+- [Normal] Aug 12 — File Police Report ($50K forgery)
+- [Normal] Aug 12 — EMD Explainer Video
+- [Normal] Aug 26 — Call James Parshay (funds for Jay)
+- [Normal] Aug 26 — Call Julian Rizov
 THIS WEEK: No new items.
 
 ## Today's Schedule
-- 1:00 PM — Family Church
+- 11:15 AM – 3:15 PM — Temple
+- 12:00 PM – 12:30 PM — Anna TL WL (overlaps Temple — confirm)
+- 3:30 PM – 5:00 PM — Capital Raising
+- 5:00 PM – 5:30 PM — Call: Jesse Llamelo (JVL Legacy Group)
 
 ## Email Action Items
-- DEADLINE TOMORROW: Emma UVU Enrollment (Aug 31)
-- DEADLINE TOMORROW: Utah DMV renewal — emissions + $234.50 (Aug 31)
-- URGENT DAY 12: northpeakrecovery.com breach
-- BLOCKING DAY 8: DocuSign envelope limit (since Aug 22)
+- TODAY: Emma UVU Concurrent Enrollment deadline
+- URGENT D19+: northpeakrecovery.com breach — Get Raz
+- URGENT: Utah DMV renewal ($234.50, emissions test first)
+- URGENT: AT&T AutoPay card expired (account 1295)
 - OVERDUE: Noa's Provo rent — late fees compounding
-- ACTION: AT&T AutoPay card expired (+ Norton/PlayStation/Xpress cluster)
 - DECISION: Raz Mihalyi CRM proposal
-- CONFIRM: Alaska Trip Sep 6 — tentative, needs locked down
+- BLOCKING: DocuSign envelope limit (stalling EMD firm-wide since Aug 22)
