@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-08-30 — Morning transcript review — +14 items from 8 new transcripts (EHM reconciliation/Odessa echo loan; TC partnership Justin Thompson; Phoenix co-living; NP Recovery Georgia; surplus strategy)**
+**Last updated: 2026-09-01 — Morning transcript review — +3 items from 24 new transcripts (Minnesota multifamily pivot; drip campaign unblocked; Charlotte Hudgins Morby follow-up)**
 
 ---
 
@@ -119,6 +119,8 @@
 | **Contact Ted** — discuss AI-generated post-foreclosure datasets for Georgia; potential 5% rev-share per closed deal | This week | North Peak Recovery state call 2026-08-26 | 🟡 | |
 | **Connect Justin Thompson (TC partner) with HNW buyer** needing tax-deductible STR deals | This week | TC partnership call 2026-08-26 | 🟡 | |
 | **Formalize TC/funding referral partnership terms with Justin Thompson** — JT's team does TC for RQF stack deals; RQF exclusive funder for JT deals | This week | TC partnership call 2026-08-26 | 🟡 | |
+| **Help Tony (Minneapolis) source viable creative-finance multifamily deal** — 20-unit at $8M rejected (CF negative ~$6k/mo at market rates); pivot to finding assumable loan or seller-carry opportunity in Minneapolis area | This month | 08-19 Client call w Traci Canning + Tony | 🟢 | |
+| **Follow up with Charlotte Hudgins on Morby Method structuring for ice plant and agro-tourism deals** — she's exploring creative finance for these unique asset types; needs structuring guidance | This week | 08-19 Client consultation Charlotte Hudgins | 🟢 | |
 
 ---
 
@@ -241,6 +243,7 @@
 | **Kiefer** — pull Janet's attorney list; request Matt's Georgia dataset | This week | NP Recovery state call | 🟡 | |
 | **Brent & Shanti** — begin Georgia surplus verification and outreach (target start 2026-08-27) | This week | NP Recovery state call | 🟡 | |
 | **Rylend Duve** — submit Phoenix co-living deal to RQF for DSCR vetting | ASAP | Phoenix consultation | 🟡 | |
+| **Expand RQF white-label drip campaign** — formatting/link bug is now fixed as of 08-20; campaign unblocked for expansion; add emails #4+ | This week | 08-20 Raz Mihalyi weekly sync | 🟡 | |
 
 ---
 
