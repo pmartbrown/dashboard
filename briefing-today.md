@@ -1,41 +1,50 @@
-# Morning Briefing — Tuesday, September 1, 2026
+# Morning Briefing — Wednesday, September 2, 2026
 
 ## The One Thing
-Jim Riggio | Hedge Fund — 10:00 AM (Black Card). A single hedge fund relationship could rewrite the entire capital story. Walk in prepared and clear on your ask.
+Call Wells Fargo by phone — verify/reverse the 8/31 password change. Potential account takeover. One call protects everything.
 
 ## Top 3 Priorities
-1. **Jim Riggio | Hedge Fund call — 10:00 AM** — Prep capital story, fund terms, clear ask
-2. **RQF L10 Leadership Meeting — 7:30 PM** — Lead it like a CEO, clean IDS, align the team
-3. **Investor outreach — restart the STRETY campaign** — Accredited investor todos overdue since July
+1. Call Wells Fargo — confirm/reverse unauthorized password change
+2. Emma's UVU Concurrent Enrollment — course registration closes SEPT 4 (2 days)
+3. Assign northpeakrecovery.com to Roz — Day 15+, no owner assigned
 
 ## Fund Status
-NOT VERIFIED — last confirmed 2026-08-13 (19 days stale). Last known: $400K / $2M (20%). LP table: Paul $50K · Mouri $300K · Faline $50K. Update tracker after next capital event.
+NOT VERIFIED — last confirmed 2026-08-13 (20 days stale). Last known: $400K / $2M (20%). LPs: Paul $50K · Mouri $300K · Faline $50K. Update tracker!
 
 ## STRETY TO-DOS — NEXT 7 DAYS
-OVERDUE (14 items — all assigned to Leadership):
-- Jun 30 — Connect w recruiting services (Lat Am, India, Vietnam)
+OVERDUE (13 items — cached from 9/1, /todos URL returned 404):
+- Jun 30 — Connect w three recruiting services
 - Jul 3 — Outreach to 30 accredited investors
 - Jul 8 — Chase Bank Process
-- Jul 9 — YT video: recourse vs non-recourse loans
+- Jul 9 — YT video: recourse vs non-recourse
 - Jul 18 — Outreach to 40 accredited investors
-- Jul 22 — Find Social Media person for strategy/content
-- Jul 22 — Adjust agreement (HML/DSCR and RQF scope)
+- Jul 22 — Find Social Media candidates
+- Jul 22 — Adjust HML/DSCR agreement
 - Jul 25 — Outreach to 50 accredited investors
-- Jul 30 — Social media drive for Pinecone Capital
-- Aug 12 — Follow up Keefer DOI and Licensing
-- Aug 12 — File Police Report ($50K forgery) — CRITICAL
-- Aug 12 — EMD Explainer Video (borrowers)
-- Aug 12 — Call James Parshay (funds for Jay)
-THIS WEEK: No new items.
+- Jul 30 — Pinecone Capital social media drive
+- Aug 12 — Keefer DOI/Licensing follow-up
+- Aug 12 — FILE POLICE REPORT ($50K forgery) CRITICAL
+- Aug 12 — EMD Explainer Video
+- Aug 12 — James Parshay call
+THIS WEEK: None
 
 ## Today's Schedule
-- 9:00 AM — Pay Noa Rent + Pull 529 Funds
-- 10:00 AM — Jim Riggio | Hedge Fund (Black Card)
-- 10:30 AM — RQF / 5Star RV
-- 4:15 PM — Meeting: OTD & Paul about Skool
-- 6:00 PM — Open Discussion + Q&A (TF Hub)
-- 7:00 PM — #SquadUp UT
-- 7:30 PM — RQF L10 Leadership Meeting
+- Birthday: Ted Sanders (all day)
+- 10:00 AM — Barn Closing Zoom
+- 12:00 PM — Mike Butler | Real Estate (Black Card)
+- 1:00 PM — Bridger Pennington | Fund Launch (Black Card)
+- 1:45 PM — Jesse Llamelo call (JVL Legacy Group)
+- 2:30 PM — Capital Raising block
+- 4:15 PM — Taxes!
+- 7:30 PM — I Love You Bro Mtg
 
 ## Email Action Items
-EOD report not found for 8/31. Scan inbox directly.
+- CRITICAL: Call Wells Fargo — potential account takeover
+- DEADLINE: Emma UVU course registration closes Sept 4
+- CRITICAL: northpeakrecovery.com — assign Roz immediately
+- URGENT: Protective Life paramed on hold 7 days
+- URGENT: Vernetta Sealy/OpenGate warm inbound lead
+- URGENT: Tauna Ellis blocked on San Pablo deal
+- URGENT: Josh Trujillo borrower intro — 36 days
+- IMPORTANT: Composio pricing change Sept 10
+- IMPORTANT: 6 QBO wires stuck in For Review (27 days)
