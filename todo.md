@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-01 — Morning transcript review — +3 items from 24 new transcripts (Minnesota multifamily pivot; drip campaign unblocked; Charlotte Hudgins Morby follow-up)**
+**Last updated: 2026-09-03 — Morning transcript review — +10 items from 6 new transcripts (Harley campground Oct 15 close; Five Star Bank CRE lender; Ridgefield extension policy; Greg Brown 506b intro; Mohs surgery consult)**
 
 ---
 
@@ -52,6 +52,9 @@
 | **Communicate cash-only extension policy to Justin re: Devon $740k loan** — no free extensions; any extension requires full extension fee wired upfront as cash payment | ASAP | 2026-08-20 [EXEC] California Lead Partnership and Cash-Only Extension Policy | 🔴 | ⬜ |
 | **Review attorney emails re: Devon $740k demand letters** — answer attorney questions; decide whether to accelerate all amounts due on defaulted note | ASAP | 2026-08-20 [EXEC] California Lead Partnership and Cash-Only Extension Policy — two demand letters pending | 🔴 | ⬜ |
 | **Meet with Shannon to reconcile ~$52k referral fee discrepancy** — Shannon payment process is opaque and distorts RQF financials; address communication + process issues on call | This week | 2026-08-26 [L10] GP Onboarding, TC Requirement and Lender Risk | 🟡 | ⬜ |
+| **Campground acquisition — Harley** — Target close Oct 15, 2026; 50% down + 50% seller carry structured as Harley becoming LLC member (avoids foreclosure complexity; spreads capital gains tax); competing "all-cash" offer is actually bank-contingent (6–12 mo); Paul offered to take over remaining improvement tasks (chinking + 3 roofs) post-close as deductible expense for Harley | **Oct 15, 2026** | 08-26 campground negotiation with Harley | 🔴 | ⬜ |
+| **Silver Spurs TX (ex-KOA) — refer Marco/RVX to hard money network** — distressed property in foreclosure with Huntington Bank; owner in bankruptcy; Marco needs cash offer + 60-day close; RQF fund not eligible (SEC-regulated transactional/seller-carry only); refer to HM/bridge lending contacts | ASAP | 08-26 Marco/RVX funding inquiry call | 🟡 | ⬜ |
+| **Ridgefield deal extension — enforce pay-to-play policy** — borrower requesting extension; extensions are high-risk ("neon sign to foreclose"); new policy: any extension = new transaction; require significant non-refundable upfront fee wired before new terms granted; shifts risk back to borrower | ASAP | 08-26 surplus funds strategy meeting — consensus policy | 🟡 | ⬜ |
 ---
 ## 📞 Follow-Ups / Outreach
 
@@ -91,6 +94,9 @@
 | **Contact Ted about generating enhanced post-foreclosure datasets; explore calling collaboration** | This week | 08-26 Surplus Funds & Post-Foreclosure mtg | 🟡 | Not started |
 | **Confront Jeremy about converting RQF transactional leads to his own HM/DSCR products** — direct, non-nuanced conversation; if behavior continues, stop referring leads to him | This week | 2026-08-26 [L10] GP Onboarding — critical revenue threat to RQF core business | 🔴 | ⬜ |
 | **Get California leads from brother and send to Bruce for engagement** — Bruce confirmed non-exclusive partnership, willing to work CA deals; brother already in contact with sellers | This week | 2026-08-20 [EXEC] California Lead Partnership — Bruce has 400k-lead infrastructure | 🟡 | ⬜ |
+| **Send Greg Brown compliant 506(b) intro blurb** — company info, title, and 1–2 line vague high-level description (506(b) compliance: keep vague before formal disclosure); Greg returning favor with 3 text introductions for Paul to his HNW client base by Monday | **By Monday 2026-09-07** | 08-26 506(b) fund collaboration meeting | 🔴 | ⬜ |
+| **Establish Five Star Bank as qualified RV/MHP CRE referral partner** — Jason Hartman (Five Star, $4.5B assets, commission-based); qualifying criteria: $1M+ loan ($1.6M+ purchase), 1.35x DSCR on ALL debt incl. carryback, conventional only, 10-yr terms; hard declines: bankruptcy/foreclosure/fraud/moral turpitude; run LexisNexis early; route qualifying RV/MHP deals here | This week | 09-01 Five Star Bank lender alignment call | 🟡 | ⬜ |
+| **Review HNW tax strategy materials from Josh** — Josh's contact specializes in estate-tax mitigation + IBC cash-value policies for recently-liquefied 9-figure business owners; Josh sending bullet-point summary; evaluate as value-add service for Pinecone Capital LPs | When received | 08-26 Josh deal financing + tax referral meeting | 🟢 | ⬜ |
 ---
 
 ## 🧭 Personal / Standards
@@ -134,6 +140,7 @@
 | Reduce processed sugar — swap afternoon snacks | Ongoing | Energy management | 🟢 | ⬜ |
 | Schedule dentist appointment | By end of month | Routine care | 🟢 | ⬜ |
 
+| **Schedule Mohs surgery consult — skin lesion on lip** — dermatologist identified growth on lip as likely skin cancer; Paul expressed significant anxiety about upcoming outpatient procedure; Harley (experienced Mohs + chemo patient) provided context; schedule consult promptly | ASAP | 08-26 personal conversation with Harley | 🔴 | ⬜ |
 ---
 
 ## 📅 Calendar / Events
@@ -169,6 +176,8 @@
 
 | **Make TCs mandatory for all new RQF deals** — require TC on every deal; refer to Chelsea Westover and Anna ($500 upfront or $0 as exception); reduces internal workload and closing risk | This week | 2026-08-26 [L10] GP Onboarding, TC Requirement and Lender Risk — approved by Paul + Justin | 🟡 | ⬜ |
 | **Set EMD minimum threshold; route small EMDs to Skool community** — high-effort low-reward small EMDs go to Jarrett/Mandy in community; RQF takes sourcing fee | This week | 2026-08-26 [L10] GP Onboarding, TC Requirement and Lender Risk | 🟡 | ⬜ |
+| **Restructure RQF into Standard vs. Custom service tiers** — Standard: streamlined TC-backed process (Justin Thompson @ $2,500/stack deal); Custom: flexible per-deal but track uncompensated TC work separately to quantify true cost; eliminates informal "Burger King" model inefficiency | This month | 08-26 JT TC partnership discussion | 🟡 | ⬜ |
+| **Resolve admin email account access issue for surplus team member** — one team member locked out of admin email; investigate and restore access | ASAP | 08-26 North Peak Recovery / AI data strategy meeting | 🟡 | ⬜ |
 ---
 ## 🏗️ Projects — Build
 
@@ -190,6 +199,7 @@
 | **North Peak Recovery: decide secondary state (Oklahoma vs. NJ) after Georgia pilot gets underway** | This week | 08-24 & 08-26 NPR go-to-market strategy sessions | 🟡 | Not started |
 | **Hire Hard Money / DSCR coordinator** — dedicated role to own HM/DSCR partner relationships, streamline processes, manage deal flow; this product line generates the most internal complaints | This month | 2026-08-26 [L10] GP Onboarding, TC Requirement and Lender Risk — approved by Paul + Justin | 🟡 | ⬜ |
 | **Evaluate Becca for capital partner relationship management role** — relationship-building strength; proposed role: attend events, build/nurture capital partner network, hand off deal-closing to team | When possible | 2026-08-20 [EXEC] California Lead Partnership | 🟢 | ⬜ |
+| **North Peak Recovery: choose Nevada vs. Utah as secondary state (with Kiefer)** — Primary states: Georgia + Oklahoma; NPR struggling in Nevada due to aggressive competitor "Peak Recovery"; acquire lists from BOTH Bruce AND Ted for chosen state to compare data quality before committing | This week | 08-26 North Peak Recovery state strategy session | 🟡 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
