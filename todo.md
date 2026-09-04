@@ -219,6 +219,7 @@
 | **Review RQF pricing model — evaluate tiered structure vs. current 2.5% flat fee** — 2.5% is unprofitable on larger/more complex deals (e.g., $2M barn deal); model tiered approach that captures more value on larger transactions; present options at next L10 | This week | 2026-08-19 [L10] — strategic pricing review initiated; aim to increase profitability per deal complexity | 🟡 | ⬜ |
 
 | **Prepare "try before you buy" GP proposal for Dave (Acrux) to join RezGap Plus as capital-raising GP** | This week | 08-25 Partnership & Investment Vehicle exploration | 🟡 | Not started |
+| **Justin to post $12k August referral payout** in Skool community to motivate referral partners | This week | Plaud — 2026-09-02 L10 w/ Justin Pilakka | 🟡 | |
 ---
 
 ## ⏳ Waiting On
