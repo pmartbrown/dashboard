@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-03 — Morning transcript review — +10 items from 6 new transcripts (Harley campground Oct 15 close; Five Star Bank CRE lender; Ridgefield extension policy; Greg Brown 506b intro; Mohs surgery consult)**
+**Last updated: 2026-09-08 — Morning transcript review — +3 items from 1 new transcript (Jacob partnership stacking policy, deal attribution fix, lender intake guide)**
 
 ---
 
@@ -55,6 +55,7 @@
 | **Campground acquisition — Harley** — Target close Oct 15, 2026; 50% down + 50% seller carry structured as Harley becoming LLC member (avoids foreclosure complexity; spreads capital gains tax); competing "all-cash" offer is actually bank-contingent (6–12 mo); Paul offered to take over remaining improvement tasks (chinking + 3 roofs) post-close as deductible expense for Harley | **Oct 15, 2026** | 08-26 campground negotiation with Harley | 🔴 | ⬜ |
 | **Silver Spurs TX (ex-KOA) — refer Marco/RVX to hard money network** — distressed property in foreclosure with Huntington Bank; owner in bankruptcy; Marco needs cash offer + 60-day close; RQF fund not eligible (SEC-regulated transactional/seller-carry only); refer to HM/bridge lending contacts | ASAP | 08-26 Marco/RVX funding inquiry call | 🟡 | ⬜ |
 | **Ridgefield deal extension — enforce pay-to-play policy** — borrower requesting extension; extensions are high-risk ("neon sign to foreclose"); new policy: any extension = new transaction; require significant non-refundable upfront fee wired before new terms granted; shifts risk back to borrower | ASAP | 08-26 surplus funds strategy meeting — consensus policy | 🟡 | ⬜ |
+| **Confirm stacking and second-lien policy with hard money partners** (Easy Street et al.) — can partners stack a second behind primary HML? What are state-specific or lender-specific constraints? Written policy needed before Jacob's 10-20 deals/day volume kicks in | ASAP | 09-07 call with Jacob (high-volume HML/TF partnership) — policy gap is blocking deal flow | 🔴 | ⬜ |
 ---
 ## 📞 Follow-Ups / Outreach
 
@@ -178,6 +179,8 @@
 | **Set EMD minimum threshold; route small EMDs to Skool community** — high-effort low-reward small EMDs go to Jarrett/Mandy in community; RQF takes sourcing fee | This week | 2026-08-26 [L10] GP Onboarding, TC Requirement and Lender Risk | 🟡 | ⬜ |
 | **Restructure RQF into Standard vs. Custom service tiers** — Standard: streamlined TC-backed process (Justin Thompson @ $2,500/stack deal); Custom: flexible per-deal but track uncompensated TC work separately to quantify true cost; eliminates informal "Burger King" model inefficiency | This month | 08-26 JT TC partnership discussion | 🟡 | ⬜ |
 | **Resolve admin email account access issue for surplus team member** — one team member locked out of admin email; investigate and restore access | ASAP | 08-26 North Peak Recovery / AI data strategy meeting | 🟡 | ⬜ |
+| **Fix deal attribution for Jacob's partner-submitted deals** — tie all deals submitted under partner email to Jacob's account in HubSpot/CRM so commissions and reporting are accurate | This week | 09-07 call with Jacob — partners submitting under different email causing misassignment | 🟡 | ⬜ |
+| **Create lender intake guide for Jacob** — one-page doc clarifying which submissions get DSCR/hard money term sheets vs transactional funding follow-ups; needed before scaling to 10-20 deals/day | This week | 09-07 call with Jacob — confusion between TF (no term sheet) and primary lender workflows | 🟡 | ⬜ |
 ---
 ## 🏗️ Projects — Build
 
