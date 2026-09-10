@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-09 — Morning transcript review — +9 items from 1 new transcript (09-08 L10 meeting)**
+**Last updated: 2026-09-10 — Morning transcript review — +3 items from 1 new transcript (09-02 Josh deal call)**
 
 ---
 
@@ -99,6 +99,7 @@
 | **Establish Five Star Bank as qualified RV/MHP CRE referral partner** — Jason Hartman (Five Star, $4.5B assets, commission-based); qualifying criteria: $1M+ loan ($1.6M+ purchase), 1.35x DSCR on ALL debt incl. carryback, conventional only, 10-yr terms; hard declines: bankruptcy/foreclosure/fraud/moral turpitude; run LexisNexis early; route qualifying RV/MHP deals here | This week | 09-01 Five Star Bank lender alignment call | 🟡 | ⬜ |
 | **Review HNW tax strategy materials from Josh** — Josh's contact specializes in estate-tax mitigation + IBC cash-value policies for recently-liquefied 9-figure business owners; Josh sending bullet-point summary; evaluate as value-add service for Pinecone Capital LPs | When received | 08-26 Josh deal financing + tax referral meeting | 🟢 | ⬜ |
 | **Communicate deal quality expectations to lending partners re: Jacob & Jonas Yoder** | This week | 09-08 L10: New referral partners onboarding — risk of low-quality deals | 🟡 | ⬜ |
+| **Get HNW tax contact bullet points from Josh → share with Darren** — Josh committed to sending bullet points on ultra-HNW life insurance/estate tax strategies; forward to Darren as value-add intro | This week | Plaud — 09-02 Josh deal call | 🟢 | ⬜ |
 ---
 
 ## 🧭 Personal / Standards
@@ -228,6 +229,7 @@
 | **Justin to post $12k August referral payout** in Skool community to motivate referral partners | This week | Plaud — 2026-09-02 L10 w/ Justin Pilakka | 🟡 | |
 | **Fix social media strategy — VIP acquisition off-track; define action plan** | This week | 09-08 L10: Social media & VIP member acq. both flagged red | 🔴 | ⬜ |
 | **Host Skool design meeting for community feedback on new systems** | This week | 09-08 L10: Good engagement play while gathering UX input | 🟢 | ⬜ |
+| **Evaluate HNW tax specialist as Pinecone LP value-add** — contact specializes in life insurance + estate tax for ultra-HNW clients post-liquidity event; consider offering intro to existing/prospective LPs | This month | Plaud — 09-02 Josh deal call | 🟢 | ⬜ |
 ---
 
 ## ⏳ Waiting On
@@ -265,6 +267,7 @@
 | **Expand RQF white-label drip campaign** — formatting/link bug is now fixed as of 08-20; campaign unblocked for expansion; add emails #4+ | This week | 08-20 Raz Mihalyi weekly sync | 🟡 | |
 
 | **Justin Pilakka: EMD process docs + DocuSign updates** (nearly complete) | This week | 09-08 L10: SOPs for Hard Money & DSCR also done, pending final review | 🟡 | ⬜ |
+| **Josh — bullet points on ultra-HNW tax strategy contact** (life insurance/estate planning for sold-company wealthy) | Josh | Plaud — 09-02 call | 🟢 | ⬜ |
 ---
 
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size. Morning run 2026-08-29: 5 new transcripts processed (Bruce Williams AROS/CA questions 2026-08-26; Debt Fund GP partnership 2026-08-26; GP Onboarding/TC/Lender Risk 2026-08-26; North Peak Recovery state selection 2026-08-26; Personal Noah CRV 2026-08-26), 7 action items added.*
