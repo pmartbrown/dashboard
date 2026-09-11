@@ -56,6 +56,7 @@
 | **Silver Spurs TX (ex-KOA) — refer Marco/RVX to hard money network** — distressed property in foreclosure with Huntington Bank; owner in bankruptcy; Marco needs cash offer + 60-day close; RQF fund not eligible (SEC-regulated transactional/seller-carry only); refer to HM/bridge lending contacts | ASAP | 08-26 Marco/RVX funding inquiry call | 🟡 | ⬜ |
 | **Ridgefield deal extension — enforce pay-to-play policy** — borrower requesting extension; extensions are high-risk ("neon sign to foreclose"); new policy: any extension = new transaction; require significant non-refundable upfront fee wired before new terms granted; shifts risk back to borrower | ASAP | 08-26 surplus funds strategy meeting — consensus policy | 🟡 | ⬜ |
 | **Confirm stacking and second-lien policy with hard money partners** (Easy Street et al.) — can partners stack a second behind primary HML? What are state-specific or lender-specific constraints? Written policy needed before Jacob's 10-20 deals/day volume kicks in | ASAP | 09-07 call with Jacob (high-volume HML/TF partnership) — policy gap is blocking deal flow | 🔴 | ⬜ |
+| **Define target lender roster of 10 lenders across hard money / DSCR / categories; design sourcing algorithm in CRM** | This week | 09-10 weekly mtg — scale inbound 5-10 deal/wk volume | 🟡 | 🔲 |
 ---
 ## 📞 Follow-Ups / Outreach
 
@@ -207,6 +208,9 @@
 | **North Peak Recovery: choose Nevada vs. Utah as secondary state (with Kiefer)** — Primary states: Georgia + Oklahoma; NPR struggling in Nevada due to aggressive competitor "Peak Recovery"; acquire lists from BOTH Bruce AND Ted for chosen state to compare data quality before committing | This week | 08-26 North Peak Recovery state strategy session | 🟡 | ⬜ |
 | **Test contract-based social media manager** (short-term before committing to hire) | This week | 09-08 L10: Measure impact before full-time hire | 🟡 | ⬜ |
 | **Hire branch manager for primary lending division** — finance/RE background, commission model | This month | 09-08 L10: Resolves "black hole" in lending comms & deal tracking | 🟡 | ⬜ |
+| **Rebuild North Peak Recovery website (northpeakrecovery.com) — platform/timeline TBD; consider full Cloudflare domain transfer** | This week | 09-10 weekly mtg — site was compromised and deleted | 🔴 | 🔲 |
+| **Host 'Step Seven' brainstorming session with Skool community on contact mgmt / nurture campaign requirements** | 2026-09-12 | 09-10 weekly mtg — follow-up working session to map outcomes into CRM design | 🔴 | 🔲 |
+| **Define criteria for shifting from direct leads to affiliate-driven model; update website copy to funnel through affiliates** | This week | 09-10 weekly mtg — affiliate geo-matching strategy | 🟡 | 🔲 |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -230,6 +234,7 @@
 | **Fix social media strategy — VIP acquisition off-track; define action plan** | This week | 09-08 L10: Social media & VIP member acq. both flagged red | 🔴 | ⬜ |
 | **Host Skool design meeting for community feedback on new systems** | This week | 09-08 L10: Good engagement play while gathering UX input | 🟢 | ⬜ |
 | **Evaluate HNW tax specialist as Pinecone LP value-add** — contact specializes in life insurance + estate tax for ultra-HNW clients post-liquidity event; consider offering intro to existing/prospective LPs | This month | Plaud — 09-02 Josh deal call | 🟢 | ⬜ |
+| **Register realquickfunds.com in Google Search Console + capture baseline performance report** | This week | 09-10 weekly mtg — visitor behavior & affiliate conversion | 🟡 | 🔲 |
 ---
 
 ## ⏳ Waiting On
