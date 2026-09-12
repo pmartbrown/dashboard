@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-10 — Morning transcript review — +3 items from 1 new transcript (09-02 Josh deal call)**
+**Last updated: 2026-09-12 — Morning transcript review — +13 items from 3 new transcripts (Sep 8 L10, Sep 9 Megan Royer, Sep 10 TXF Hub)**
 
 ---
 
@@ -57,6 +57,10 @@
 | **Ridgefield deal extension — enforce pay-to-play policy** — borrower requesting extension; extensions are high-risk ("neon sign to foreclose"); new policy: any extension = new transaction; require significant non-refundable upfront fee wired before new terms granted; shifts risk back to borrower | ASAP | 08-26 surplus funds strategy meeting — consensus policy | 🟡 | ⬜ |
 | **Confirm stacking and second-lien policy with hard money partners** (Easy Street et al.) — can partners stack a second behind primary HML? What are state-specific or lender-specific constraints? Written policy needed before Jacob's 10-20 deals/day volume kicks in | ASAP | 09-07 call with Jacob (high-volume HML/TF partnership) — policy gap is blocking deal flow | 🔴 | ⬜ |
 | **Define target lender roster of 10 lenders across hard money / DSCR / categories; design sourcing algorithm in CRM** | This week | 09-10 weekly mtg — scale inbound 5-10 deal/wk volume | 🟡 | 🔲 |
+| **Ensure Devin pays extension fee before signing Kiefer's agreement** | **ASAP** | L10 Sep 8 — Kiefer drafted; fee must be paid before execution | 🔴 | Not started |
+| **Finalize 50bps referral fee partnership with Megan Royer's brokerage for primary lending referrals (DSCR, fix-and-flip, multifamily, RV parks) — structure fee as 'marketing expense'** | **This week** | Sep 9 — Megan consulting attorney; no referral fees on primary residences | 🔴 | Not started |
+| **Send Megan Royer the $600k RV park deal for her lenders to evaluate** | **This week** | Sep 9 — Megan's lender network can fund RV parks; needs strong comps | 🟡 | Not started |
+| **Explore Megan Royer's digital HELOC product as lower-cost capital for RQF ($400k no-appraisal, 5-day funding, ~10% vs current 14-24% cost)** | **Next week** | Sep 9 — up to 90% LTV primary, 75-80% investment; income verified via Plaid | 🟡 | Not started |
 ---
 ## 📞 Follow-Ups / Outreach
 
@@ -101,6 +105,8 @@
 | **Review HNW tax strategy materials from Josh** — Josh's contact specializes in estate-tax mitigation + IBC cash-value policies for recently-liquefied 9-figure business owners; Josh sending bullet-point summary; evaluate as value-add service for Pinecone Capital LPs | When received | 08-26 Josh deal financing + tax referral meeting | 🟢 | ⬜ |
 | **Communicate deal quality expectations to lending partners re: Jacob & Jonas Yoder** | This week | 09-08 L10: New referral partners onboarding — risk of low-quality deals | 🟡 | ⬜ |
 | **Get HNW tax contact bullet points from Josh → share with Darren** — Josh committed to sending bullet points on ultra-HNW life insurance/estate tax strategies; forward to Darren as value-add intro | This week | Plaud — 09-02 Josh deal call | 🟢 | ⬜ |
+| **Get feedback from Jeremy and Josh on Jacob Barker & Jonas Yoder deal quality (high-volume brokers, submitting unqualified deals)** | **This week** | L10 Sep 8 — 5+ stack deals/month potential but unqualified submissions | 🟡 | Not started |
+| **Schedule call with Anna (White Label) and Megan Royer (Broker referral partnership)** | **This week** | L10 Sep 8 — Justin action item | 🟡 | Not started |
 ---
 
 ## 🧭 Personal / Standards
@@ -184,6 +190,10 @@
 | **Resolve admin email account access issue for surplus team member** — one team member locked out of admin email; investigate and restore access | ASAP | 08-26 North Peak Recovery / AI data strategy meeting | 🟡 | ⬜ |
 | **Fix deal attribution for Jacob's partner-submitted deals** — tie all deals submitted under partner email to Jacob's account in HubSpot/CRM so commissions and reporting are accurate | This week | 09-07 call with Jacob — partners submitting under different email causing misassignment | 🟡 | ⬜ |
 | **Create lender intake guide for Jacob** — one-page doc clarifying which submissions get DSCR/hard money term sheets vs transactional funding follow-ups; needed before scaling to 10-20 deals/day | This week | 09-07 call with Jacob — confusion between TF (no term sheet) and primary lender workflows | 🟡 | ⬜ |
+| **Restart lead nurturing campaign — 12-email drip malfunctioned (sent in <1 week instead of 11+ weeks due to 'hours since last email' error)** | **ASAP** | L10 Sep 8 — restart for all leads | 🔴 | Not started |
+| **Schedule Skool community 'design session' meeting on new CRM/white label features** | **This week** | L10 Sep 8 — Admin RQF action item | 🟡 | Not started |
+| **Complete SOPs for Hard Money/DSCR lending — currently off track as a rock** | **This week** | L10 Sep 8 — rock off track | 🟡 | Not started |
+| **Check if admin@realquickfunds.com CRM emails landing in Promotions or Spam — consider creating paul@ address for CRM outreach if delivery issues** | **This week** | Sep 10 — Raz flagged spam risk after Google Admin domain delegation setup | 🟡 | Not started |
 ---
 ## 🏗️ Projects — Build
 
@@ -211,6 +221,7 @@
 | **Rebuild North Peak Recovery website (northpeakrecovery.com) — platform/timeline TBD; consider full Cloudflare domain transfer** | This week | 09-10 weekly mtg — site was compromised and deleted | 🔴 | 🔲 |
 | **Host 'Step Seven' brainstorming session with Skool community on contact mgmt / nurture campaign requirements** | 2026-09-12 | 09-10 weekly mtg — follow-up working session to map outcomes into CRM design | 🔴 | 🔲 |
 | **Define criteria for shifting from direct leads to affiliate-driven model; update website copy to funnel through affiliates** | This week | 09-10 weekly mtg — affiliate geo-matching strategy | 🟡 | 🔲 |
+| **Hire Primary Lending Manager — interviews scheduled Tue Sep 15 at 4:45 PM ET; prep interview questions (values + growth mindset focus)** | **Sep 15** | L10 Sep 8 — dedicated manager to own primary lending channel, base+commission structure | 🔴 | Interviews scheduled |
 ---
 
 ## 📣 Marketing / Capital Raising
@@ -235,6 +246,8 @@
 | **Host Skool design meeting for community feedback on new systems** | This week | 09-08 L10: Good engagement play while gathering UX input | 🟢 | ⬜ |
 | **Evaluate HNW tax specialist as Pinecone LP value-add** — contact specializes in life insurance + estate tax for ultra-HNW clients post-liquidity event; consider offering intro to existing/prospective LPs | This month | Plaud — 09-02 Josh deal call | 🟢 | ⬜ |
 | **Register realquickfunds.com in Google Search Console + capture baseline performance report** | This week | 09-10 weekly mtg — visitor behavior & affiliate conversion | 🟡 | 🔲 |
+| **Pilot local social media manager for 2 months at max $1,500/month — measure success by new VIPs and deal submissions (not just engagement)** | **This week** | L10 Sep 8 — social media inactive is top growth bottleneck | 🟡 | Not started |
+| **Develop white-label affiliate strategy to capture growing organic HM/DSCR leads (5-10/week with zero marketing via TXF Hub 'Become an Affiliate' page)** | **This week** | Sep 10 — TXF Hub DNS migrated to Cloudflare; affiliate page driving Skool signups | 🟡 | Not started |
 ---
 
 ## ⏳ Waiting On
