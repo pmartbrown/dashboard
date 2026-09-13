@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-12 — Morning transcript review — +13 items from 3 new transcripts (Sep 8 L10, Sep 9 Megan Royer, Sep 10 TXF Hub)**
+**Last updated: 2026-09-13 — Morning transcript review — +5 items from 2 new transcripts (Sep 8 Skool Q&A, Sep 11 Nicki Miller sober living)**
 
 ---
 
@@ -61,6 +61,7 @@
 | **Finalize 50bps referral fee partnership with Megan Royer's brokerage for primary lending referrals (DSCR, fix-and-flip, multifamily, RV parks) — structure fee as 'marketing expense'** | **This week** | Sep 9 — Megan consulting attorney; no referral fees on primary residences | 🔴 | Not started |
 | **Send Megan Royer the $600k RV park deal for her lenders to evaluate** | **This week** | Sep 9 — Megan's lender network can fund RV parks; needs strong comps | 🟡 | Not started |
 | **Explore Megan Royer's digital HELOC product as lower-cost capital for RQF ($400k no-appraisal, 5-day funding, ~10% vs current 14-24% cost)** | **Next week** | Sep 9 — up to 90% LTV primary, 75-80% investment; income verified via Plaid | 🟡 | Not started |
+| **Nicki Miller sober living Stack deals — confirm deal structure and routing** — submitting via Josh Trujillo referral portal; confirm DSCR primary + preferred equity seller carryback structure; connect her with TC (Anna, $2,500 fee); verify Josh gets referral credit | This week | 09-11 client call — Nicki's investor clients acquiring sober living homes using Morby Method; ready to submit first deal | 🟡 | ⬜ |
 ---
 ## 📞 Follow-Ups / Outreach
 
@@ -107,6 +108,8 @@
 | **Get HNW tax contact bullet points from Josh → share with Darren** — Josh committed to sending bullet points on ultra-HNW life insurance/estate tax strategies; forward to Darren as value-add intro | This week | Plaud — 09-02 Josh deal call | 🟢 | ⬜ |
 | **Get feedback from Jeremy and Josh on Jacob Barker & Jonas Yoder deal quality (high-volume brokers, submitting unqualified deals)** | **This week** | L10 Sep 8 — 5+ stack deals/month potential but unqualified submissions | 🟡 | Not started |
 | **Schedule call with Anna (White Label) and Megan Royer (Broker referral partnership)** | **This week** | L10 Sep 8 — Justin action item | 🟡 | Not started |
+| **Add Charlotte Hudgins to Morby deal email chain** — Charlotte coordinated with Justin but needs to be on the update thread | ASAP | 09-08 Skool Q&A — Charlotte's deal in progress; not currently on email chain | 🔴 | ⬜ |
+| **Finalize Thursday community call time and announce** — decide between 10 or 11 AM MT and notify Skool community | This week | 09-08 Skool Q&A — recurring call time still undecided | 🟡 | ⬜ |
 ---
 
 ## 🧭 Personal / Standards
@@ -194,6 +197,7 @@
 | **Schedule Skool community 'design session' meeting on new CRM/white label features** | **This week** | L10 Sep 8 — Admin RQF action item | 🟡 | Not started |
 | **Complete SOPs for Hard Money/DSCR lending — currently off track as a rock** | **This week** | L10 Sep 8 — rock off track | 🟡 | Not started |
 | **Check if admin@realquickfunds.com CRM emails landing in Promotions or Spam — consider creating paul@ address for CRM outreach if delivery issues** | **This week** | Sep 10 — Raz flagged spam risk after Google Admin domain delegation setup | 🟡 | Not started |
+| **Analyze third-party second lender stack deal structure** — community member proposed variant where third-party lender (not seller) provides second position; evaluate compliance and fraud risk before promoting in community | This week | 09-08 Skool Q&A — new deal structure idea; needs legal/compliance review | 🟡 | ⬜ |
 ---
 ## 🏗️ Projects — Build
 
@@ -222,6 +226,7 @@
 | **Host 'Step Seven' brainstorming session with Skool community on contact mgmt / nurture campaign requirements** | 2026-09-12 | 09-10 weekly mtg — follow-up working session to map outcomes into CRM design | 🔴 | 🔲 |
 | **Define criteria for shifting from direct leads to affiliate-driven model; update website copy to funnel through affiliates** | This week | 09-10 weekly mtg — affiliate geo-matching strategy | 🟡 | 🔲 |
 | **Hire Primary Lending Manager — interviews scheduled Tue Sep 15 at 4:45 PM ET; prep interview questions (values + growth mindset focus)** | **Sep 15** | L10 Sep 8 — dedicated manager to own primary lending channel, base+commission structure | 🔴 | Interviews scheduled |
+| **Launch member success interview series** — interview Jeff, Ed, Jarrett + other successful Skool members on deal-finding strategies to inspire community | This month | 09-08 Skool Q&A — RQF community growth initiative; Paul committed to launch | 🟢 | ⬜ |
 ---
 
 ## 📣 Marketing / Capital Raising
