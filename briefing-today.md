@@ -1,39 +1,37 @@
-# Morning Briefing — Saturday, September 12, 2026
+# Morning Briefing — Sunday, September 13, 2026
 
 ## The One Thing
-File the $50K Police Report — or lock in Monday as the day it gets done. 31 days overdue (STRETY Aug 12). Check Utah online reporting portal (utah.gov). If station required, Monday is the first act.
+File the police report for the $50K forgery — critical, overdue since Aug 12, prerequisite for any legal escalation.
 
 ## Top 3 Priorities
-1. File Police Report — $50K Forgery (CRITICAL · 31 days overdue · Online if possible; Monday if not)
-2. Hire HML & DSCR Lead (3 days overdue — was due Sep 9 · Monday: post or initiate outreach)
-3. Be fully present for Date Night with Akemi (6:00 PM tonight · Phone down)
+1. File police report for $50K forgery — Critical, overdue since Aug 12.
+2. Hire HML & DSCR Lead — Overdue since Sep 9. Unlocks RQF deal volume.
+3. Capital raising push to $500K — One LP at $100K gets to 25%. Follow up Mouri referrals + Dylan Stewart.
 
 ## Fund Status
-NOT VERIFIED — last confirmed 2026-08-13 (30 days stale). LP table (unverified): Paul $50K · Mouri $300K · Faline $50K = ~$400K | Target: $2M | ~20%
+NOT VERIFIED (last confirmed Aug 13) · $400,000 / $2,000,000 (20%) · LPs: Paul Brown $50K, Naohiro Mouri $300K, Faline Brown $50K
 
 ## STRETY TO-DOS — NEXT 7 DAYS
-OVERDUE (oldest first):
-• [CRITICAL] Aug 12 — File Police Report for $50K forgery
-• [OVERDUE] Sep 9 — Hire HML & DSCR Lead
-• Aug 26 — Call with Julian Rizov
-• Aug 26 — Call with James Parshay (funds for Jay)
-• Aug 12 — Follow up with Keefer — DOI and Licensing Dept
-• Aug 12 — EMD Explainer Video
-• Jul 30 — Social media drive for Pinecone Capital
-• Jul 25 — Outreach to 50 accredited investors
-• Jul 22 — Find Social Media person candidates
-• Jul 22 — Adjust HML/DSCR scope of work agreement
-• Jul 9 — YouTube: recourse vs non-recourse loans
-• Jun 30 — Connect w/ 3 recruiting services
+OVERDUE:
+- Jun 30 — Connect w three recruiting services
+- Jul 9 [HIGHEST] — Make YT video on recourse vs non-recourse loans
+- Jul 22 — Adjust HML/DSCR agreement (explicit responsibilities)
+- Jul 22 — Find Social Media person
+- Jul 30 — Social media drive for Pinecone Capital
+- Aug 12 — File Police Report for $50k forgery
+- Aug 12 — EMD Explainer Video (for borrowers)
+- Aug 12 — Follow up with Keefer on DOI/Licensing Dept
+- Aug 26 — Call with Julian Rizov
+- Aug 26 — Call with James Parshay (funds for Jay)
+- Sep 9 — Hire HML & DSCR Lead
+THIS WEEK: No items due Sept 13-20. Next: Sep 25 Collect from Ryan Medlock.
 
 ## Today's Schedule
-11:30 AM — Tell Calendar What I Want in Life
-6:00 PM — Date Night with Akemi
+- 9:00 AM — Church (until 11:00 AM)
+- 1:00 PM — Family Church Study (45 min)
+- 10:00 PM — Read the Scriptures as a Family
 
 ## Email Action Items
-• URGENT: Wells Fargo — potential account takeover (call by phone)
-• IMPORTANT: Noa Provo rent 36+ days past due
-• IMPORTANT: SEC EDGAR annual confirmation — deadline ~Sept 30 (18 days)
-• ACTION: Vernetta Sealy / OpenGate — warm inbound lead
-• ACTION: Kamalesh Jha — 21+ days silent
-• DELEGATE: 6 QBO wires in For Review — $223,400
+- Dylan Stewart — capital raising follow-up needed
+- URA Portal — download Delaware letters for RezGap Plus LP + RQF LLC
+- Naohiro Mouri — ask for warm referrals
