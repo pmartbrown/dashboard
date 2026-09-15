@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-14 — Morning transcript review — +1 item from 8 new transcripts (Lloyd's PPI via Jonas Yoder; 7 files already processed in prior run)**
+**Last updated: 2026-09-15 — Morning transcript review — +2 item(s) from 1 new transcript (Owners Club guest spot)**
 
 ---
 
@@ -112,6 +112,9 @@
 | **Schedule call with Anna (White Label) and Megan Royer (Broker referral partnership)** | **This week** | L10 Sep 8 — Justin action item | 🟡 | Not started |
 | **Add Charlotte Hudgins to Morby deal email chain** — Charlotte coordinated with Justin but needs to be on the update thread | ASAP | 09-08 Skool Q&A — Charlotte's deal in progress; not currently on email chain | 🔴 | ⬜ |
 | **Finalize Thursday community call time and announce** — decide between 10 or 11 AM MT and notify Skool community | This week | 09-08 Skool Q&A — recurring call time still undecided | 🟡 | ⬜ |
+| **Submit Speaker 2 guest spot request for Owners Club Huntington Beach event** — Paul committed to entering her info into the internal system for the guest day program (end of Sep) | **ASAP — before end of Sep** | 09-14 Owners Club consultation call — prospect and husband interested in RV parks; Paul offered to sponsor her guest day slot at HB event | 🔴 | ⬜ |
+| **Follow up on guest spot status for Owners Club HB event; if unavailable, explore Phoenix (Jan) alternative** — check that the submission went through and she got a slot | **This week** | 09-14 Owners Club consultation — if HB doesn't work, Phoenix in Jan is the backup | 🟡 | ⬜ |
+
 ---
 
 ## 🧭 Personal / Standards
