@@ -1,46 +1,76 @@
-# Morning Briefing — Tuesday, September 15, 2026
+# Morning Briefing — Wednesday, September 16, 2026
 
-## The One Thing
-Lock in the $50K police report before 10 AM — file online at utah.gov or book a station appointment. 34 days overdue. 5 minutes to close.
+**Location:** Lehi, UT | **Weather:** 54°F, Patchy rain | Hi 78°F / Lo 53°F
 
-## Top 3 Priorities
-1. File Police Report — $50K Forgery — CRITICAL, 34 days overdue · Online first (utah.gov)
-2. RQF L10 Meeting — Prep + Attend (7:30 PM) — Block 30 min prior
-3. VA Interviews — Remote Leverage (2:45 PM) — Know your criteria going in
+---
 
-## Fund Status
-NOT VERIFIED — last confirmed 2026-08-13 (33 days stale) · LP table (unverified): Paul $50K + Mouri $300K + Faline $50K = ~$400K / $2M (~20%)
+## ⚡ THE ONE THING
+**Advance the HML / DSCR Lead hire** — get Javier Pena a response or make the decision today. Sep 30 Rock. Primary lending is running ahead of plan but this role is the multiplier.
 
-## STRETY TO-DOS — NEXT 7 DAYS
-OVERDUE:
-- Jun 30 — Connect w/ 3 recruiting services (Lat Am, India, Vietnam)
-- Jul 9 — Make YouTube video: recourse vs non-recourse loans
-- Jul 22 — Adjust HML/DSCR scope of work agreement
-- Jul 22 — Find Social Media person candidates
-- Jul 25 — Outreach to 50 accredited investors
-- Jul 30 — Social media drive for Pinecone Capital
-- Aug 12 [CRITICAL] — File Police Report for $50K Forgery
-- Aug 12 — EMD Explainer Video (for borrowers)
-- Aug 12 — Follow up with Keefer — DOI and Licensing Dept
-- Aug 26 — Call with Julian Rizov
-- Aug 26 — Call with James Parshay (funds for Jay)
-- Sep 9 [HIGH] — Hire HML & DSCR Lead
-THIS WEEK: No new items — all active todos are overdue.
+---
 
-## Today's Schedule
-- 9:00 AM — Peter Privon | Formation, Operations & Compliance (Black Card)
-- 10:00 AM — PCS Q&A / Prime Corporate Services (Gator)
-- 11:00 AM — The Real Deal with Heather Kiddo & Team (Gator)
-- 1:00 PM — RV Masterclass: Live Deal Review (Owners Club)
-- 2:45 PM — VA Interviews — Remote Leverage
-- 4:00 PM — Cherry Bekaert | Tax & Audit (Black Card)
-- 6:00 PM — TFH Open Discussion + Q&A (TFH Community)
-- 7:30 PM — RQF L10 Meeting (Leadership) [KEY]
+## 🎯 TOP 3 PRIORITIES
+*(No COD found for 2026-09-15 — seeded from STRETY Rocks + active todos)*
 
-## Email Action Items
-- URGENT: Wells Fargo — potential account takeover
-- IMPORTANT: Noa's Provo rent — 36+ days overdue
-- IMPORTANT: SEC EDGAR annual confirmation — due ~Sep 30 (15 days)
-- ACTION: Vernetta Sealy / OpenGate — warm inbound capital lead
-- ACTION: Kamalesh Jha — 24+ days silent
-- DELEGATE: 6 QBO wires in For Review — ~$223,400 (Manoela)
+1. **Hire HML & DSCR Lead** — Sep 30 Rock. Contact Javier Pena (Remote Leverage). Budget $8-10/hr, LATAM.
+2. **Collect on Overdue Debts** — Sep 30 Rock. File police report (overdue Aug 12). Ryan Medlock due Sep 25.
+3. **Call Tanya Waymire (Sep 23)** — FBI, FOIA, bank call update. 7 days out.
+
+---
+
+## 💰 REZGAP PLUS FUND I
+> ⚠️ NOT VERIFIED — last confirmed 2026-08-13 (34 days stale)
+
+- Last known: $400,000 / $2,000,000 (20%)
+- LPs: Paul Brown $50K, Naohiro Mouri $300K, Faline Brown $50K
+- Next: $500K needs 1 more LP at $100K. Dylan Stewart is warm.
+
+---
+
+## 📋 STRETY — OVERDUE (11 items)
+
+| Due | Item | Priority |
+|-----|------|----------|
+| Jun 30 | Connect w three recruiting services | — |
+| Jul 9 | YT video: recourse vs non-recourse loans | P1 |
+| Jul 22 | Adjust HML/DSCR agreement responsibilities | — |
+| Jul 22 | Find Social Media person candidates | — |
+| Jul 30 | Social media drive for Pinecone Capital | — |
+| Aug 12 | Follow up with Keefer DOI/Licensing | — |
+| Aug 12 | EMD Explainer Video for borrowers | — |
+| Aug 12 | **File Police Report $50K forgery** | CRITICAL |
+| Aug 26 | Call with James Parshay | — |
+| Aug 26 | Call with Julian Rizov | — |
+| Sep 9 | Hire HML & DSCR Lead | ROCK |
+
+## 🔵 THIS WEEK
+- Sep 23: Call Tanya Waymire (FBI/FOIA/Bank)
+- Sep 23: Get apology letter from bank
+- Sep 23: Get FOIA request response
+- Sep 25: Collect from Ryan Medlock
+
+---
+
+## 📅 TODAY (Wed Sep 16)
+
+| Time | Event |
+|------|-------|
+| 9:30 AM | ☕ Coffee hour with Rich and Jenny |
+| 12:00 PM | 🎓 Mike Butler — Real Estate & Asset Management (Black Card) |
+| 1:00 PM | 🎓 Bridger Pennington — Co-founder Fund Launch (Black Card) |
+| 3:00 PM | 🎓 Dan Pierson — Real Estate, PE, and Debt (Black Card) |
+| 4:00 PM | 🚗 Carwash Open Office Hour with Ryan Wagner |
+| 7:30 PM | 🤝 I Love You Bro Mtg |
+
+## 📆 REST OF WEEK
+- **Thu 9/17:** Jeff Tiefenthaler | Crypto (Black Card 11 AM MT); YM/YW Activity 7 PM
+- **Fri 9/18:** Matt Teifke | Real Estate (Black Card 12 PM MT)
+- **Sun 9/20:** Family Church (1 PM MT)
+
+**⚠️ Sep 23 TRIPLE DEADLINE:** Tanya Waymire · Apology letter · FOIA response
+**📌 Sep 30 ROCK DEADLINE:** HML Lead · Collect Debts · Broker Trial Process
+
+---
+
+*Generated: 2026-09-16 | STRETY + Google Calendar (5 accounts) + Basic Memory + wttr.in*
+*No COD for 2026-09-15 | Capital Raising Tracker stale since 2026-08-13*
