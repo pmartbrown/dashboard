@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-16 — Morning transcript review — +6 item(s) from 1 new transcript (Lorena interview — referral-lending role)**
+**Last updated: 2026-09-17 — Morning transcript review — +13 item(s) from 9 new transcripts (Dave GP 09-15, Kiefer 09-03, Collaboration 09-03, EMD Referral 09-03, August Results 09-03, 506b Compliance 09-03, Owners Club Assessment 09-14, L10 09-15, Lorena Interview 09-15)**
 
 ---
 
@@ -63,6 +63,7 @@
 | **Explore Megan Royer's digital HELOC product as lower-cost capital for RQF ($400k no-appraisal, 5-day funding, ~10% vs current 14-24% cost)** | **Next week** | Sep 9 — up to 90% LTV primary, 75-80% investment; income verified via Plaid | 🟡 | Not started |
 | **Nicki Miller sober living Stack deals — confirm deal structure and routing** — submitting via Josh Trujillo referral portal; confirm DSCR primary + preferred equity seller carryback structure; connect her with TC (Anna, $2,500 fee); verify Josh gets referral credit | This week | 09-11 client call — Nicki's investor clients acquiring sober living homes using Morby Method; ready to submit first deal | 🟡 | ⬜ |
 | **Evaluate Lloyd's of London PPI product via Jonas Yoder (Yoder Funding)** — Personal Payment Insurance protects private lenders against borrower default; Jonas brokering via Lloyd's of London; evaluate fit for protecting RQF capital/lender base | This month | 09-07 call w/ Jonas Yoder (jonas@yoderfunding.com) — Jonas mentioned Lloyd's of London PPI product as lender protection | 🟡 | ⬜ |
+| **Produce 2–3 investor-ready deal walkthroughs for Dave (Acrux) — LP pitch materials** — create escrow flow narrative, double-close timeline, title-partner role, risk controls, and RQF deal history for Dave to use pitching McRae and other HNW prospects | **This week** | 2026-09-15 Dave GP call — Dave ready to pitch first LP (McRae, ~$1M available); needs a scripted walkthrough he can deliver confidently | 🟡 | ⬜ |
 
 ---
 ## 📞 Follow-Ups / Outreach
@@ -207,6 +208,9 @@
 | **Complete SOPs for Hard Money/DSCR lending — currently off track as a rock** | **This week** | L10 Sep 8 — rock off track | 🟡 | Not started |
 | **Check if admin@realquickfunds.com CRM emails landing in Promotions or Spam — consider creating paul@ address for CRM outreach if delivery issues** | **This week** | Sep 10 — Raz flagged spam risk after Google Admin domain delegation setup | 🟡 | Not started |
 | **Analyze third-party second lender stack deal structure** — community member proposed variant where third-party lender (not seller) provides second position; evaluate compliance and fraud risk before promoting in community | This week | 09-08 Skool Q&A — new deal structure idea; needs legal/compliance review | 🟡 | ⬜ |
+| **Automate partner payment calendar — pay Adam and revenue-share partners by 1st of month** — eliminate 10-11 day payment delay; set Relay calendar reminders or auto-pay; August payment to Adam (~$30K) ran ~2 weeks late | **ASAP** | 2026-09-03 August Results call — late payments damage partner relationships; must be systematized | 🔴 | ⬜ |
+| **Identify Georgia-based title attorneys familiar with creative financing** — source recommendations for Georgia wholesale partners and note broker needing compliant in-state title connections | **This week** | 2026-09-03 EMD Referral call — Georgia title attorney connections are gating progress on Georgia wholesale partnership | 🟡 | ⬜ |
+| **Build GitHub team reference page for Justin's team** — simple page explaining AI system (Claude + Telegram bot integration, what's automated, how to interact) | **This week** | 2026-09-03 August Results call — Justin's team unclear on AI system capabilities and workflow | 🟡 | ⬜ |
 ---
 ## 🏗️ Projects — Build
 
@@ -240,6 +244,12 @@
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
 | **Revise job description for referral-lending role** — remove CRM maintenance, add client/lender partner communication emphasis | This week | 09-15 hiring debrief | 🟡 | |
+| **Schedule joint investor call with Dave (Acrux) + McRae** — Paul to co-present Pinecone/RezGap Plus fund structure; McRae is Dave's HNW contact with ~$1M available; start with $50K commitment conversation | **This week** | 2026-09-15 Dave GP call — McRae knows Dave from prior business relationship; warm intro channel | 🔴 | ⬜ |
+| **Set up conference call with Georgia wholesale shop re: EMD / double-close / creative-finance partnership** — PAST DUE (was week of 09-07); confirm contact info with Justin | **ASAP** | 2026-09-03 EMD Referral call — Georgia shop wants to funnel EMD + stack deals to RQF; send fee schedules + white-label setup info | 🔴 | ⬜ |
+| **Follow-up call with note broker re: non-refundable EMD conflict resolution** — confirm Georgia title company referral was helpful; schedule call to close the loop | **This week** | 2026-09-03 EMD Referral call — note broker had issue with non-refundable EMD language; title referral provided | 🟡 | ⬜ |
+| **Verify Roger's deal status — did it close?** — seller available Sept 7; update was due Sept 8 (PAST DUE); confirm Paige & Michael received EMD Mutual Release template from Justin | **ASAP** | 2026-09-03 Collaboration Protocol call — Roger's deal timeline slipped; Paige & Michael doing 39+ closings/month are high-priority TC partnership | 🔴 | ⬜ |
+| **Onboard Paige & Michael (Stack/Morby TC partners, 39 closings/month)** — send white-label setup info, VIP School membership details, standardized title doc package (addenda, sample HUDs, double-close steps) | **This week** | 2026-09-03 Collaboration Protocol call — Paige & Michael are major pipeline TC partners; primarily Stack/Morby closings | 🟡 | ⬜ |
+| **North Peak Recovery: Launch 6-month proof-of-concept with Ted** — data platform pipeline: data ingestion → cleaning → skip trace → postcards → ringless voicemail → CRM; territory franchise model ($10K upfront + $1K/month + 8-25% fee tiers); MVP states: Utah/Idaho/Montana | **Q4 2026** | 2026-09-03 Kiefer call — North Peak Recovery reactivated; Ted building the data tech stack; Kiefer managing territory development | 🔴 | ⬜ |
 ## 📣 Marketing / Capital Raising
 
 | Item | Due | Context | Priority | Progress |
@@ -266,6 +276,7 @@
 | **Develop white-label affiliate strategy to capture growing organic HM/DSCR leads (5-10/week with zero marketing via TXF Hub 'Become an Affiliate' page)** | **This week** | Sep 10 — TXF Hub DNS migrated to Cloudflare; affiliate page driving Skool signups | 🟡 | Not started |
 ---
 
+| **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
 ## ⏳ Waiting On
 
 | Item | Waiting For | Context | Priority | Progress |
@@ -302,6 +313,8 @@
 
 | **Justin Pilakka: EMD process docs + DocuSign updates** (nearly complete) | This week | 09-08 L10: SOPs for Hard Money & DSCR also done, pending final review | 🟡 | ⬜ |
 | **Josh — bullet points on ultra-HNW tax strategy contact** (life insurance/estate planning for sold-company wealthy) | Josh | Plaud — 09-02 call | 🟢 | ⬜ |
+| **Paige & Michael** — confirm receipt of white-label onboarding package + VIP School invite | Paige & Michael | 2026-09-03 Collaboration Protocol call — 39+ closings/month TC partners; Justin to confirm EMD Mutual Release template was sent | 🟡 | ⬜ |
+| **Georgia wholesale shop** — respond to Paul's conference call request for EMD/creative-finance partnership (PAST DUE from week of 09-07) | Georgia wholesale contact | 2026-09-03 EMD Referral call — Paul to confirm contact details with Justin | 🔴 | ⬜ |
 ---
 
-*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size. Morning run 2026-08-29: 5 new transcripts processed (Bruce Williams AROS/CA questions 2026-08-26; Debt Fund GP partnership 2026-08-26; GP Onboarding/TC/Lender Risk 2026-08-26; North Peak Recovery state selection 2026-08-26; Personal Noah CRV 2026-08-26), 7 action items added.*
+*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size. Morning run 2026-08-29: 5 new transcripts processed (Bruce Williams AROS/CA questions 2026-08-26; Debt Fund GP partnership 2026-08-26; GP Onboarding/TC/Lender Risk 2026-08-26; North Peak Recovery state selection 2026-08-26; Personal Noah CRV 2026-08-26), 7 action items added.* Morning run 2026-09-17: 9 new transcripts processed (Dave GP 09-15, Kiefer 09-03, Roger Collaboration 09-03, EMD Referral 09-03, August Results 09-03, 506b Compliance 09-03, Owners Club Assessment 09-14, L10 Six-Month 09-15, Lorena Interview Panel 09-15), 13 action items added.
