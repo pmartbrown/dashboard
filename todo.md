@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-17 — Morning transcript review — +13 item(s) from 9 new transcripts (Dave GP 09-15, Kiefer 09-03, Collaboration 09-03, EMD Referral 09-03, August Results 09-03, 506b Compliance 09-03, Owners Club Assessment 09-14, L10 09-15, Lorena Interview 09-15)**
+**Last updated: 2026-09-18 — Morning transcript review — +19 items from 9 new transcripts (campground LOI; CA surplus funds; creative finance tactics; Jacob/RQF partner onboarding; drip campaign expansion; Roger barn deal)**
 
 ---
 
@@ -65,6 +65,10 @@
 | **Evaluate Lloyd's of London PPI product via Jonas Yoder (Yoder Funding)** — Personal Payment Insurance protects private lenders against borrower default; Jonas brokering via Lloyd's of London; evaluate fit for protecting RQF capital/lender base | This month | 09-07 call w/ Jonas Yoder (jonas@yoderfunding.com) — Jonas mentioned Lloyd's of London PPI product as lender protection | 🟡 | ⬜ |
 | **Produce 2–3 investor-ready deal walkthroughs for Dave (Acrux) — LP pitch materials** — create escrow flow narrative, double-close timeline, title-partner role, risk controls, and RQF deal history for Dave to use pitching McRae and other HNW prospects | **This week** | 2026-09-15 Dave GP call — Dave ready to pitch first LP (McRae, ~$1M available); needs a scripted walkthrough he can deliver confidently | 🟡 | ⬜ |
 
+| **Confirm stacking policy with HM partners** — document whether second-position liens are permitted for Gator/stack transactions; written policy needed for partner onboarding (Jacob case) | This week | 2026-09-07 Jacob/RQF partner onboarding — HM partner needs clarity before submitting deals | 🟡 | ⬜ |
+| **CA surplus funds — get client signatures on preliminary agreement + third-party authorization** — Bruce provides docs; Paul signs/returns for existing CA leads | ASAP [STALE Aug 23] | 2026-08-23 Bruce Williams/CA Surplus call — step 1 of CA surplus recovery process | 🟡 | ⬜ |
+| **Draft and send LOI for Harley campground acquisition** — pre-February close; Sturgis deposit, training scope, house rental terms; Mundo + Christian site walk coordination | STALE Aug 17 | 2026-08-17 Campground/Harley deal discussion — creative finance acquisition | 🟡 | ⬜ |
+| **Capital planning — Roger's barn project close** — align RQF liquidity for Aug 28–31 close; coordinate April/Jason/Mo three-way call | STALE Aug 20 | 2026-08-20 Daytona Beach/Lender call — EHM (Shannon) deal | 🟡 | ⬜ |
 ---
 ## 📞 Follow-Ups / Outreach
 
@@ -120,6 +124,12 @@
 | **Recruiter to message Esteban** re: $10/hr cap + future growth potential | This week | 09-15 hiring debrief | 🟡 | |
 | **Interview remaining candidates** Stefan, Eric, Gabriel, Mario (schedule for 09-22 panel) | 2026-09-22 | 09-15 hiring debrief | 🟡 | |
 
+| **Share surplus funds state research with Brent and Shanti** [STALE Aug 23] | This week [STALE] | 2026-08-23 Surplus Funds/Brent+Shanti — single-state focus; Oregon candidate | 🟡 | ⬜ |
+| **Assign CA surplus funds leads to Brent and Shanti** — hand off existing CA leads for outreach [STALE Aug 23] | This week [STALE] | 2026-08-23 CA Surplus/Bruce — non-exclusive arrangement confirmed | 🟡 | ⬜ |
+| **Poll Gator/Sub2 community — tactics to overcome agent resistance to creative financing** — compile and share with Kristen [STALE Aug 20] | This week [STALE] | 2026-08-20 Creative Finance/Kristen — agents listing "no creative financing" clauses | 🟢 | ⬜ |
+| **Send Kristen the RQF stack calculator link** — mobile-friendly Morby/Stack tool on RQF website [STALE Aug 20] | ASAP [STALE] | 2026-08-20 Creative Finance/Kristen — zero-down deal modeling | 🟢 | ⬜ |
+| **Call Bruce Williams — discuss incoming CA deal collaboration** [STALE Aug 20] | ASAP [STALE] | 2026-08-20 Dissolved JV/Bruce Williams — CA deal flow opportunity post-JV | 🟡 | ⬜ |
+| **Coordinate Roger/April/Jason/Mo three-way call** — send Roger's number to April; set up Daytona lender call [STALE Aug 20] | ASAP [STALE] | 2026-08-20 Daytona Beach/Lender — Roger barn project closing | 🟡 | ⬜ |
 ---
 
 ## 🧭 Personal / Standards
@@ -176,6 +186,8 @@
 | Block 4 days for deep work sprint (no calls, no meetings) | Next 2 weeks | Founder recovery time | 🟡 | ⬜ |
 | Schedule June quarterly business review with Justin | By June 15 | Quarterly rhythm | 🟡 | ⬜ |
 
+| **Schedule follow-up call with Brent, Shanti, and Kiefer** — finalize target states for surplus funds pilot [STALE Aug 23] | Confirm if still needed | 2026-08-23 Surplus Funds Model — Tuesday morning was set as target | 🔴 | ⬜ |
+| **Text Mundo + Christian — campground site walk** — schedule for Tuesday after 9am [STALE Aug 17] | ASAP [STALE] | 2026-08-17 Campground/Harley — due diligence walk for acquisition | 🔴 | ⬜ |
 ---
 
 ## 🤖 Systems / AI
@@ -211,6 +223,8 @@
 | **Automate partner payment calendar — pay Adam and revenue-share partners by 1st of month** — eliminate 10-11 day payment delay; set Relay calendar reminders or auto-pay; August payment to Adam (~$30K) ran ~2 weeks late | **ASAP** | 2026-09-03 August Results call — late payments damage partner relationships; must be systematized | 🔴 | ⬜ |
 | **Identify Georgia-based title attorneys familiar with creative financing** — source recommendations for Georgia wholesale partners and note broker needing compliant in-state title connections | **This week** | 2026-09-03 EMD Referral call — Georgia title attorney connections are gating progress on Georgia wholesale partnership | 🟡 | ⬜ |
 | **Build GitHub team reference page for Justin's team** — simple page explaining AI system (Claude + Telegram bot integration, what's automated, how to interact) | **This week** | 2026-09-03 August Results call — Justin's team unclear on AI system capabilities and workflow | 🟡 | ⬜ |
+| **Fix Jacob deal attribution in CRM/dashboard** — tie Jacob's partner-submitted deals to his account for accurate commissions and reporting | This week | 2026-09-07 Jacob/RQF onboarding — attribution broken; commissions at risk | 🟡 | ⬜ |
+| **Integrate EHM underwriting criteria into RQF white-label platform** [STALE Aug 20] — embed Shannon/EHM standards into deal intake filtering | This week [STALE] | 2026-08-20 Daytona Beach/Lender — standardize EHM criteria for white-label | 🟡 | ⬜ |
 ---
 ## 🏗️ Projects — Build
 
@@ -317,4 +331,4 @@
 | **Georgia wholesale shop** — respond to Paul's conference call request for EMD/creative-finance partnership (PAST DUE from week of 09-07) | Georgia wholesale contact | 2026-09-03 EMD Referral call — Paul to confirm contact details with Justin | 🔴 | ⬜ |
 ---
 
-*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size. Morning run 2026-08-29: 5 new transcripts processed (Bruce Williams AROS/CA questions 2026-08-26; Debt Fund GP partnership 2026-08-26; GP Onboarding/TC/Lender Risk 2026-08-26; North Peak Recovery state selection 2026-08-26; Personal Noah CRV 2026-08-26), 7 action items added.* Morning run 2026-09-17: 9 new transcripts processed (Dave GP 09-15, Kiefer 09-03, Roger Collaboration 09-03, EMD Referral 09-03, August Results 09-03, 506b Compliance 09-03, Owners Club Assessment 09-14, L10 Six-Month 09-15, Lorena Interview Panel 09-15), 13 action items added.
+*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size. Morning run 2026-08-29: 5 new transcripts processed (Bruce Williams AROS/CA questions 2026-08-26; Debt Fund GP partnership 2026-08-26; GP Onboarding/TC/Lender Risk 2026-08-26; North Peak Recovery state selection 2026-08-26; Personal Noah CRV 2026-08-26), 7 action items added.* Morning run 2026-09-17: 9 new transcripts processed (Dave GP 09-15, Kiefer 09-03, Roger Collaboration 09-03, EMD Referral 09-03, August Results 09-03, 506b Compliance 09-03, Owners Club Assessment 09-14, L10 Six-Month 09-15, Lorena Interview Panel 09-15), 13 action items added. Morning run 2026-09-18: 9 new transcripts processed (1 file — Lending Partner Fallout — unreadable due to file size), 19 action items added.
