@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-18 — Morning transcript review — +19 items from 9 new transcripts (campground LOI; CA surplus funds; creative finance tactics; Jacob/RQF partner onboarding; drip campaign expansion; Roger barn deal)**
+**Last updated: 2026-09-19 — Morning transcript review — +1 item from 2 new transcripts (Citizens Bank callback; 1 large file unreadable — will retry)**
 
 ---
 
@@ -329,6 +329,8 @@
 | **Josh — bullet points on ultra-HNW tax strategy contact** (life insurance/estate planning for sold-company wealthy) | Josh | Plaud — 09-02 call | 🟢 | ⬜ |
 | **Paige & Michael** — confirm receipt of white-label onboarding package + VIP School invite | Paige & Michael | 2026-09-03 Collaboration Protocol call — 39+ closings/month TC partners; Justin to confirm EMD Mutual Release template was sent | 🟡 | ⬜ |
 | **Georgia wholesale shop** — respond to Paul's conference call request for EMD/creative-finance partnership (PAST DUE from week of 09-07) | Georgia wholesale contact | 2026-09-03 EMD Referral call — Paul to confirm contact details with Justin | 🔴 | ⬜ |
+| **Citizens Bank (Lisa Booth)** — return Paul's call re: unresolved branch issue at 204 East Broad St; left voicemail 09-14 with callback # | Lisa Booth / Citizens Bank | Plaud — 09-14 voicemail | 🟢 | ⬜ |
+
 ---
 
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size. Morning run 2026-08-29: 5 new transcripts processed (Bruce Williams AROS/CA questions 2026-08-26; Debt Fund GP partnership 2026-08-26; GP Onboarding/TC/Lender Risk 2026-08-26; North Peak Recovery state selection 2026-08-26; Personal Noah CRV 2026-08-26), 7 action items added.* Morning run 2026-09-17: 9 new transcripts processed (Dave GP 09-15, Kiefer 09-03, Roger Collaboration 09-03, EMD Referral 09-03, August Results 09-03, 506b Compliance 09-03, Owners Club Assessment 09-14, L10 Six-Month 09-15, Lorena Interview Panel 09-15), 13 action items added. Morning run 2026-09-18: 9 new transcripts processed (1 file — Lending Partner Fallout — unreadable due to file size), 19 action items added.
