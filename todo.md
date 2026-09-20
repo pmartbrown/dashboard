@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-19 — Morning transcript review — +1 item from 2 new transcripts (Citizens Bank callback; 1 large file unreadable — will retry)**
+**Last updated: 2026-09-20 — Morning transcript review — +12 items from 4 new transcripts (09-09 Podcast, 09-10 RQF team, 09-15 Skool Q&A, 09-17 Skool acquisitions call)**
 
 ---
 
@@ -69,6 +69,10 @@
 | **CA surplus funds — get client signatures on preliminary agreement + third-party authorization** — Bruce provides docs; Paul signs/returns for existing CA leads | ASAP [STALE Aug 23] | 2026-08-23 Bruce Williams/CA Surplus call — step 1 of CA surplus recovery process | 🟡 | ⬜ |
 | **Draft and send LOI for Harley campground acquisition** — pre-February close; Sturgis deposit, training scope, house rental terms; Mundo + Christian site walk coordination | STALE Aug 17 | 2026-08-17 Campground/Harley deal discussion — creative finance acquisition | 🟡 | ⬜ |
 | **Capital planning — Roger's barn project close** — align RQF liquidity for Aug 28–31 close; coordinate April/Jason/Mo three-way call | STALE Aug 20 | 2026-08-20 Daytona Beach/Lender call — EHM (Shannon) deal | 🟡 | ⬜ |
+| **Vet Anna (TC) for Morby Method double-close deals** — she offers $2,500 TC fee (vs $3k) and $1,500 second-close fee (vs $2.5k–$4.5k); Anna facilitates two-close structure where primary close funds are held before second close | This week | 09-10 RQF team call — community members flagged Anna as highly effective and cost-efficient compared to current TC pricing | 🟡 | ⬜ |
+| **Update TF intake checklist with red flags** — add: non-refundable EMD (decline), double closes with >24-hr gap (decline), primary lenders with sourcing/seasoning requirements (decline), title companies that allow pass-through funding (decline); communicate red flag list to community | This week | 09-10 RQF team call — team discussion on transactional funding red flags that should disqualify deals at intake | 🟡 | ⬜ |
+| **Hire new lending staff member for HM/DSCR deal status tracking** — new CRM will handle TF via API but HM/DSCR will require manual weekly updates; identify and onboard person for this role as CRM goes live | By Q4 2026 | 09-15 Skool Q&A — CRM deal portal build underway; hard money/DSCR volume will require manual tracking staff as deal volume grows | 🟡 | ⬜ |
+
 ---
 ## 📞 Follow-Ups / Outreach
 
@@ -130,6 +134,9 @@
 | **Send Kristen the RQF stack calculator link** — mobile-friendly Morby/Stack tool on RQF website [STALE Aug 20] | ASAP [STALE] | 2026-08-20 Creative Finance/Kristen — zero-down deal modeling | 🟢 | ⬜ |
 | **Call Bruce Williams — discuss incoming CA deal collaboration** [STALE Aug 20] | ASAP [STALE] | 2026-08-20 Dissolved JV/Bruce Williams — CA deal flow opportunity post-JV | 🟡 | ⬜ |
 | **Coordinate Roger/April/Jason/Mo three-way call** — send Roger's number to April; set up Daytona lender call [STALE Aug 20] | ASAP [STALE] | 2026-08-20 Daytona Beach/Lender — Roger barn project closing | 🟡 | ⬜ |
+| **Follow up on Megan (lender) Friday close timeline** — verify if Jeff emailed Justin & admin@realquickfunds.com re: Megan's commercial/fix-and-flip timeline for new client close; confirm Megan is in RQF lender directory | ASAP | 09-10 RQF team call — Jeff was assigned to email Justin & admin@ about Megan's availability; verify this was done | 🟡 | ⬜ |
+| **Personal: Ask Akemi about her childhood money conversations** — podcast interview prompt re: how childhood money experiences shape adult financial behavior | Personal | 09-09 Podcast interview — host prompted this reflection; Paul flagged to follow up with Akemi | 🟢 | ⬜ |
+
 ---
 
 ## 🧭 Personal / Standards
@@ -225,6 +232,8 @@
 | **Build GitHub team reference page for Justin's team** — simple page explaining AI system (Claude + Telegram bot integration, what's automated, how to interact) | **This week** | 2026-09-03 August Results call — Justin's team unclear on AI system capabilities and workflow | 🟡 | ⬜ |
 | **Fix Jacob deal attribution in CRM/dashboard** — tie Jacob's partner-submitted deals to his account for accurate commissions and reporting | This week | 2026-09-07 Jacob/RQF onboarding — attribution broken; commissions at risk | 🟡 | ⬜ |
 | **Integrate EHM underwriting criteria into RQF white-label platform** [STALE Aug 20] — embed Shannon/EHM standards into deal intake filtering | This week [STALE] | 2026-08-20 Daytona Beach/Lender — standardize EHM criteria for white-label | 🟡 | ⬜ |
+| **Angel: set up podcast clip repurposing workflow for community members** — members doing podcast appearances should send recordings to Angel; she can cut clips at $7/video OR members can do it free by completing classroom teach-back assignment; formalize this process | This week | 09-17 Skool community call — podcast credibility strategy adopted; Angel is already community social media manager; need clear submission process | 🟡 | ⬜ |
+
 ---
 ## 🏗️ Projects — Build
 
@@ -254,6 +263,10 @@
 | **Define criteria for shifting from direct leads to affiliate-driven model; update website copy to funnel through affiliates** | This week | 09-10 weekly mtg — affiliate geo-matching strategy | 🟡 | 🔲 |
 | **Hire Primary Lending Manager — interviews scheduled Tue Sep 15 at 4:45 PM ET; prep interview questions (values + growth mindset focus)** | **Sep 15** | L10 Sep 8 — dedicated manager to own primary lending channel, base+commission structure | 🔴 | Interviews scheduled |
 | **Launch member success interview series** — interview Jeff, Ed, Jarrett + other successful Skool members on deal-finding strategies to inspire community | This month | 09-08 Skool Q&A — RQF community growth initiative; Paul committed to launch | 🟢 | ⬜ |
+| **CRM deal status portal — prioritize TF (API) + HM/DSCR (manual) build** — link preview feature is live; next milestone is deal status portal visible to white-label community members; TF data via API, hard money/DSCR via manual weekly staff entry | By Q4 2026 | 09-15 Skool Q&A — Justin leading CRM dev; hard money/DSCR volume makes manual tracking unsustainable long-term | 🟡 | ⬜ |
+| **Fix white-label platform link preview bug** — if Company Name = Page Title the preview shows name twice; fix = differentiate Page Title from Company Name in profile settings; communicate fix instructions to all white-label members | This week | 09-15 Skool Q&A — link preview feature just went live; bug identified in testing when Company Name matches Page Title | 🟢 | ⬜ |
+| **Develop multifamily housing nonprofit initiative** — Paul's vision: re-enter multifamily RE, allocate 10% of units as free or subsidized housing for single parents in crisis; structure as nonprofit; connect with church intake process; explore financial education component | Long-term / ongoing | 09-09 Podcast interview — Paul shared this vision publicly; host suggested nonprofit structure + church referral pipeline | 🟢 | ⬜ |
+
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
@@ -288,6 +301,10 @@
 | **Register realquickfunds.com in Google Search Console + capture baseline performance report** | This week | 09-10 weekly mtg — visitor behavior & affiliate conversion | 🟡 | 🔲 |
 | **Pilot local social media manager for 2 months at max $1,500/month — measure success by new VIPs and deal submissions (not just engagement)** | **This week** | L10 Sep 8 — social media inactive is top growth bottleneck | 🟡 | Not started |
 | **Develop white-label affiliate strategy to capture growing organic HM/DSCR leads (5-10/week with zero marketing via TXF Hub 'Become an Affiliate' page)** | **This week** | Sep 10 — TXF Hub DNS migrated to Cloudflare; affiliate page driving Skool signups | 🟡 | Not started |
+| **Shift Skool community calls to acquisitions focus** — move away from operational Q&A (LLC setup, contracts) toward marketing, lead gen, and sales; feature diverse guest speakers on varied marketing tactics (in-person networking, social media, direct mail, etc.) | This month | 09-17 Skool community call — decided to restructure calls to drive revenue; low attendance on daytime calls was a trigger | 🟡 | ⬜ |
+| **Coordinate next 2–3 podcast appearances for Paul** — podcast interviews build credibility, reach new audiences, and generate repurposable clips; Angel repurposes into short clips | Next 30 days | 09-09 Podcast completed (Faith/Money/Multifamily); 09-17 Skool call — podcast strategy adopted for all community members; Paul should lead by example | 🟡 | ⬜ |
+| **Free finance education initiative** — Paul committed to offering free personal finance and real estate leverage education; define format (webinar, classroom, podcast series?), target audience (single parents, community members, general public) | Next 60 days | 09-09 Podcast interview — Paul publicly committed to this; aligns with his faith and mission to combat generational poverty | 🟢 | ⬜ |
+
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
