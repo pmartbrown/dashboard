@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-20 — Morning transcript review — +12 items from 4 new transcripts (09-09 Podcast, 09-10 RQF team, 09-15 Skool Q&A, 09-17 Skool acquisitions call)**
+**Last updated: 2026-09-21 — Morning transcript review — +10 items from 5 new transcripts (09-16 Providence land, 09-18 Hans Peterson/Relay, 09-18 multi-faceted, 09-18 casual personal, 09-18 capital raising)**
 
 ---
 
@@ -74,6 +74,21 @@
 | **Hire new lending staff member for HM/DSCR deal status tracking** — new CRM will handle TF via API but HM/DSCR will require manual weekly updates; identify and onboard person for this role as CRM goes live | By Q4 2026 | 09-15 Skool Q&A — CRM deal portal build underway; hard money/DSCR volume will require manual tracking staff as deal volume grows | 🟡 | ⬜ |
 
 ---
+
+## 🏘️ Deals — Acquisition Review
+
+| Item | Due | Context | Priority | Progress |
+|------|-----|---------|----------|----------|
+| **Providence UT (17 acres @ $1.25M) — Pull Cache County zoning code + hillside overlay regulations** (min lot size, density, subdivision standards) | ASAP | Plaud 09-16: feasibility call — 17-acre parcel near Logan; hillside elements; plan to subdivide into ~10 one-acre lots | 🟡 | ⬜ |
+| **Providence UT — Engage local civil engineer for conceptual site yield** (lot layout, road plan, utility feasibility, Class 1 cost estimate) | This week | Plaud 09-16: subdivision feasibility before advancing owner-finance conversation | 🟡 | ⬜ |
+| **Providence UT — Commission geotechnical screening** for slope stability + foundation feasibility on homesite and subdivision roads | This week | Plaud 09-16: hillside parcel — geotech required before any pro forma is credible | 🟢 | ⬜ |
+| **Providence UT — Call seller: clarify lien amount, payoff req, openness to owner-finance with lot-release provisions post-plat** | This week | Plaud 09-16: seller owes on property, juggling 5 projects; owner-finance contingent on clearing liens | 🔴 | ⬜ |
+| **Providence UT — Run lot sales comp study**: raw 1-acre lots in Providence/Logan area, last 24 months; validate $200–300K/lot assumption | This week | Plaud 09-16: must verify absorption rate and pricing before committing | 🟡 | ⬜ |
+| **Providence UT — Build pro forma**: (a) 10 lots @ $200K and $300K, (b) reduced lot count due to zoning/hillside; include entitlement timeline and carry costs | This week | Plaud 09-16: binary deal — works if lot sales recycle capital + fund cabin; fails if density cut or infra costs blow out | 🟡 | ⬜ |
+| **Providence UT — Verify water rights/shares** and municipal water/sewer capacity for the subdivision | ASAP | Plaud 09-16: water shares needed; must confirm before any financing conversation | 🟡 | ⬜ |
+
+---
+
 ## 📞 Follow-Ups / Outreach
 
 | Item | Due | Context | Priority | Progress |
@@ -136,6 +151,9 @@
 | **Coordinate Roger/April/Jason/Mo three-way call** — send Roger's number to April; set up Daytona lender call [STALE Aug 20] | ASAP [STALE] | 2026-08-20 Daytona Beach/Lender — Roger barn project closing | 🟡 | ⬜ |
 | **Follow up on Megan (lender) Friday close timeline** — verify if Jeff emailed Justin & admin@realquickfunds.com re: Megan's commercial/fix-and-flip timeline for new client close; confirm Megan is in RQF lender directory | ASAP | 09-10 RQF team call — Jeff was assigned to email Justin & admin@ about Megan's availability; verify this was done | 🟡 | ⬜ |
 | **Personal: Ask Akemi about her childhood money conversations** — podcast interview prompt re: how childhood money experiences shape adult financial behavior | Personal | 09-09 Podcast interview — host prompted this reflection; Paul flagged to follow up with Akemi | 🟢 | ⬜ |
+
+| **Request Relay wire authority for Justin Palakka** on the RQF account — confirm with Relay that authority was granted after 09-18 call | ASAP | Plaud 09-18: Hans Peterson call — Relay support confirmed $350K wire transferred; need to add Palakka as authorized | 🔴 | ⬜ |
+| **Hans Peterson follow-up** — debrief on land deals discussed; Providence parcel outcome; confirm his lending needs | This week | Plaud 09-18: Hans consulting Paul on private lending model (double-close, EMD); multiple land deals reviewed | 🟡 | ⬜ |
 
 ---
 
@@ -233,6 +251,8 @@
 | **Fix Jacob deal attribution in CRM/dashboard** — tie Jacob's partner-submitted deals to his account for accurate commissions and reporting | This week | 2026-09-07 Jacob/RQF onboarding — attribution broken; commissions at risk | 🟡 | ⬜ |
 | **Integrate EHM underwriting criteria into RQF white-label platform** [STALE Aug 20] — embed Shannon/EHM standards into deal intake filtering | This week [STALE] | 2026-08-20 Daytona Beach/Lender — standardize EHM criteria for white-label | 🟡 | ⬜ |
 | **Angel: set up podcast clip repurposing workflow for community members** — members doing podcast appearances should send recordings to Angel; she can cut clips at $7/video OR members can do it free by completing classroom teach-back assignment; formalize this process | This week | 09-17 Skool community call — podcast credibility strategy adopted; Angel is already community social media manager; need clear submission process | 🟡 | ⬜ |
+
+| **Review Hanks Ventures LLC bookkeeping** — instructions referenced in Hans Peterson 09-18 call | This week | Plaud 09-18: bookkeeping review for Hanks Ventures mentioned alongside wire authorization task | 🟡 | ⬜ |
 
 ---
 ## 🏗️ Projects — Build
@@ -350,4 +370,4 @@
 
 ---
 
-*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size. Morning run 2026-08-29: 5 new transcripts processed (Bruce Williams AROS/CA questions 2026-08-26; Debt Fund GP partnership 2026-08-26; GP Onboarding/TC/Lender Risk 2026-08-26; North Peak Recovery state selection 2026-08-26; Personal Noah CRV 2026-08-26), 7 action items added.* Morning run 2026-09-17: 9 new transcripts processed (Dave GP 09-15, Kiefer 09-03, Roger Collaboration 09-03, EMD Referral 09-03, August Results 09-03, 506b Compliance 09-03, Owners Club Assessment 09-14, L10 Six-Month 09-15, Lorena Interview Panel 09-15), 13 action items added. Morning run 2026-09-18: 9 new transcripts processed (1 file — Lending Partner Fallout — unreadable due to file size), 19 action items added.
+*Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size. Morning run 2026-08-29: 5 new transcripts processed (Bruce Williams AROS/CA questions 2026-08-26; Debt Fund GP partnership 2026-08-26; GP Onboarding/TC/Lender Risk 2026-08-26; North Peak Recovery state selection 2026-08-26; Personal Noah CRV 2026-08-26), 7 action items added.* Morning run 2026-09-17: 9 new transcripts processed (Dave GP 09-15, Kiefer 09-03, Roger Collaboration 09-03, EMD Referral 09-03, August Results 09-03, 506b Compliance 09-03, Owners Club Assessment 09-14, L10 Six-Month 09-15, Lorena Interview Panel 09-15), 13 action items added. Morning run 2026-09-18: 9 new transcripts processed (1 file — Lending Partner Fallout — unreadable due to file size), 19 action items added. Morning run 2026-09-21: 5 new transcripts processed (09-16 Providence 17-acre subdivision feasibility, 09-18 Hans Peterson real estate consult + Relay wire auth, 09-18 Multi-Faceted RE discussion, 09-18 Casual personal conversation, 09-18 Capital Raising/SEC Compliance), 10 action items added.
