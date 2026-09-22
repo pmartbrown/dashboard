@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-21 — Morning transcript review — +10 items from 5 new transcripts (09-16 Providence land, 09-18 Hans Peterson/Relay, 09-18 multi-faceted, 09-18 casual personal, 09-18 capital raising)**
+**Last updated: 2026-09-22 — Morning transcript review — +5 items from 1 new transcript (09-21 tax consult with Ewan Morkel + RQF Study Sync metrics)**
 
 ---
 
@@ -72,6 +72,8 @@
 | **Vet Anna (TC) for Morby Method double-close deals** — she offers $2,500 TC fee (vs $3k) and $1,500 second-close fee (vs $2.5k–$4.5k); Anna facilitates two-close structure where primary close funds are held before second close | This week | 09-10 RQF team call — community members flagged Anna as highly effective and cost-efficient compared to current TC pricing | 🟡 | ⬜ |
 | **Update TF intake checklist with red flags** — add: non-refundable EMD (decline), double closes with >24-hr gap (decline), primary lenders with sourcing/seasoning requirements (decline), title companies that allow pass-through funding (decline); communicate red flag list to community | This week | 09-10 RQF team call — team discussion on transactional funding red flags that should disqualify deals at intake | 🟡 | ⬜ |
 | **Hire new lending staff member for HM/DSCR deal status tracking** — new CRM will handle TF via API but HM/DSCR will require manual weekly updates; identify and onboard person for this role as CRM goes live | By Q4 2026 | 09-15 Skool Q&A — CRM deal portal build underway; hard money/DSCR volume will require manual tracking staff as deal volume grows | 🟡 | ⬜ |
+
+| **1031 exchange: sell 921 Poinsettia Dr (Rose Park) → Sandy property** — may need reverse 1031 due to timing | ASAP | Tax consult 09-21 | 🟡 | ⬜ |
 
 ---
 
@@ -154,6 +156,10 @@
 
 | **Request Relay wire authority for Justin Palakka** on the RQF account — confirm with Relay that authority was granted after 09-18 call | ASAP | Plaud 09-18: Hans Peterson call — Relay support confirmed $350K wire transferred; need to add Palakka as authorized | 🔴 | ⬜ |
 | **Hans Peterson follow-up** — debrief on land deals discussed; Providence parcel outcome; confirm his lending needs | This week | Plaud 09-18: Hans consulting Paul on private lending model (double-close, EMD); multiple land deals reviewed | 🟡 | ⬜ |
+
+| **Upload entity list to Ewan Morkel (CPA)** — all LLCs: state, ownership, activity level | Sept 26 | Tax consult 09-21 (Ewan Morkel CPA) | 🔴 | ⬜ |
+| **Upload 2024 tax return to Ewan Morkel** — context for 2026 tax planning scope | Sept 26 | Tax consult 09-21 (Ewan Morkel CPA) | 🔴 | ⬜ |
+| **Follow-up CPA meeting w/ Ewan Morkel** — Oct 5, 10:00 AM MT; finalize scope + pricing ($3K pkg) | Oct 5 | Tax consult 09-21 (Ewan Morkel CPA) | 🟡 | ⬜ |
 
 ---
 
@@ -253,6 +259,8 @@
 | **Angel: set up podcast clip repurposing workflow for community members** — members doing podcast appearances should send recordings to Angel; she can cut clips at $7/video OR members can do it free by completing classroom teach-back assignment; formalize this process | This week | 09-17 Skool community call — podcast credibility strategy adopted; Angel is already community social media manager; need clear submission process | 🟡 | ⬜ |
 
 | **Review Hanks Ventures LLC bookkeeping** — instructions referenced in Hans Peterson 09-18 call | This week | Plaud 09-18: bookkeeping review for Hanks Ventures mentioned alongside wire authorization task | 🟡 | ⬜ |
+
+| **Wire 2 new metrics into RQF Study Sync morning task** — new metrics: 1 week prior + current week only (NOT full history like existing metrics); confirm what existing metrics currently check | ASAP | Voice memo 09-21 | 🔴 | ⬜ |
 
 ---
 ## 🏗️ Projects — Build
