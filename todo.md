@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-22 — Morning transcript review — +5 items from 1 new transcript (09-21 tax consult with Ewan Morkel + RQF Study Sync metrics)**
+**Last updated: 2026-09-23 — Morning transcript review — +9 items from 2 new transcripts (Pinecone mid-year review + ops/PM candidate interviews)**
 
 ---
 
@@ -75,6 +75,14 @@
 
 | **1031 exchange: sell 921 Poinsettia Dr (Rose Park) → Sandy property** — may need reverse 1031 due to timing | ASAP | Tax consult 09-21 | 🟡 | ⬜ |
 
+| **Formalize Justin Palaka to Pinecone investment committee** — first IC member; oversees RQF deal underwriting and capital placement | **By Oct 22** | Pinecone Capital mid-year review 09-22; Paul proposed Palaka; 30-day window | 🔴 | ⬜ |
+| **Finalize Dave at Acrocs as Pinecone GP and IC member** — capital raising responsibilities; discussions progressing, expected within a month | **By Oct 22** | Pinecone Capital mid-year review 09-22; majority-vote IC; Paul breaks ties | 🔴 | ⬜ |
+| **Identify and appoint 4th Pinecone IC member** — complete investment committee with majority-vote structure | **By Oct 22** | Pinecone Capital mid-year review 09-22; 4-member IC needed | 🟡 | ⬜ |
+| **Engage CPA for Pinecone/ResCap Plus year-end tax accounting** — solicit proposals; select firm; no candidates identified yet | **ASAP** | Pinecone Capital mid-year review 09-22 | 🔴 | ⬜ |
+| **Update Pinecone–RQF investment agreement** — document 3.6%/quarter preferred return calculation, capital use terms, IC decision addendum process | **By Oct 22** | Pinecone Capital mid-year review 09-22; current agreement missing new waterfall terms | 🔴 | ⬜ |
+| **Furnish LPs with Q3 unaudited financials** — within 60 days of Sep 30 Q3 close; adopted resolution | **By Nov 29** | Pinecone Capital mid-year review 09-22; Heather Park (Sabertooth) to prepare | 🟡 | ⬜ |
+| **Confirm Form D amendment status with Clyde Snow & Sessions** — compliance review under Rule 503 | **This week** | Pinecone Capital mid-year review 09-22; Michael Wattsworth is securities counsel | 🟡 | ⬜ |
+| **Schedule Q4 Pinecone quarterly board meeting** — within 30 days of Sep 30 Q3 close; resolve IC appointment items | **By Oct 30** | Pinecone Capital mid-year review 09-22 | 🟡 | ⬜ |
 ---
 
 ## 🏘️ Deals — Acquisition Review
@@ -295,6 +303,7 @@
 | **Fix white-label platform link preview bug** — if Company Name = Page Title the preview shows name twice; fix = differentiate Page Title from Company Name in profile settings; communicate fix instructions to all white-label members | This week | 09-15 Skool Q&A — link preview feature just went live; bug identified in testing when Company Name matches Page Title | 🟢 | ⬜ |
 | **Develop multifamily housing nonprofit initiative** — Paul's vision: re-enter multifamily RE, allocate 10% of units as free or subsidized housing for single parents in crisis; structure as nonprofit; connect with church intake process; explore financial education component | Long-term / ongoing | 09-09 Podcast interview — Paul shared this vision publicly; host suggested nonprofit structure + church referral pipeline | 🟢 | ⬜ |
 
+| **Review 09-22 interview transcript and finalize offer decisions** — ops/PM candidates; pipeline tracking, fintech/lending experience focus | **ASAP** | Plaud 09-22 interview; offer decisions pending per transcript title | 🔴 | ⬜ |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
