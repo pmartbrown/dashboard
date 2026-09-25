@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-24 — Morning transcript review — +4 items from 2 new transcripts (RCIC surplus recovery system onboarding)**
+**Last updated: 2026-09-25 — Morning transcript review — +4 items from 1 new transcript (09-22 Skool Stack Method & Lending Risk)**
 
 ---
 
@@ -172,6 +172,7 @@
 | **Attend RCIC surplus Zoom Monday 09/28** — dedicated surplus/overage session; pull live lists; evaluate system for North Peak Recovery pipeline | 2026-09-28 | 09-23 RCIC lecture — Monday nights dedicated to surplus overbids/overages starting 09/28; Paul is evaluating RCIC for surplus funds business | 🟡 | ⬜ |
 
 
+| **Invite Christina Moser (GT Title) to future Skool call** — escrow/title partnership conversation | This week | 09-22 Skool Community Call | 🟢 | ⬜ |
 ---
 
 ## 🧭 Personal / Standards
@@ -275,6 +276,7 @@
 | **Set up RCIC system for surplus recovery** — Install Core Router, Foreclosure Source Navigator, Skip Wizard V3, Probated Heir Intelligence skills + Gmail/Dropbox plugins; configure buy box for lending/surplus focus | By 2026-09-27 | 09-23 RCIC lecture — Paul attended onboarding; RCIC is ChatGPT-based surplus funds/foreclosure intel system (Nate's group); could power North Peak Recovery pipeline | 🟡 | ⬜ |
 
 
+| **Route small deals (<$1k fee) to Skool community for member practice reps** — plan web app automation to auto-route these | When possible | 09-22 Skool Community Call — Stack Method & Lending Risk Limits | 🟡 | ⬜ |
 ---
 ## 🏗️ Projects — Build
 
@@ -309,6 +311,7 @@
 | **Develop multifamily housing nonprofit initiative** — Paul's vision: re-enter multifamily RE, allocate 10% of units as free or subsidized housing for single parents in crisis; structure as nonprofit; connect with church intake process; explore financial education component | Long-term / ongoing | 09-09 Podcast interview — Paul shared this vision publicly; host suggested nonprofit structure + church referral pipeline | 🟢 | ⬜ |
 
 | **Review 09-22 interview transcript and finalize offer decisions** — ops/PM candidates; pipeline tracking, fintech/lending experience focus | **ASAP** | Plaud 09-22 interview; offer decisions pending per transcript title | 🔴 | ⬜ |
+| **Schedule RQF back-office live walkthrough for Skool community** — training on deal flow, underwriting, and operations | This month | 09-22 Skool Community Call | 🟢 | ⬜ |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
@@ -349,6 +352,7 @@
 | **Evaluate RCIC for North Peak Recovery surplus pipeline** — RCIC provides county-level foreclosure/excess funds lists, skip tracing (Skip Wizard), and 50-state compliance guide; ~$354M estimated unclaimed across 18K-20K open cases nationally; fee structure 30-40% | This week | 09-23 RCIC sessions — Tyler v. Hennepin (9-0 SCOTUS) made surplus recovery legal in ~45 states; RCIC generates surplus lists, researches heirs, checks liens; potential fit for North Peak relaunch | 🟡 | ⬜ |
 
 
+| **Plan & fund outbound marketing test with Brent (Sequent Funding)** — email/LinkedIn targeting large wholesalers and escrow officers | This week | 09-22 Skool Community Call — Stack Method & Lending Risk Limits | 🟡 | ⬜ |
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
