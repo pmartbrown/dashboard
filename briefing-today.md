@@ -1,67 +1,49 @@
-# Morning Briefing — Friday, September 25, 2026
+# Morning Briefing 2026-09-26
 
-Weather: 56F | Cloudy | Hi: 74F / Lo: 55F - Lehi, UT
-
-## HARD DEADLINE TODAY
-Collect from Ryan Medlock — This closes today or it doesn't close.
-
-## The One Thing
-Collect from Ryan Medlock. Hard deadline. Everything else is secondary today.
-
-## Today's Top 3
-1. Confirm Ryan Medlock collection <- HARD DEADLINE TODAY
-2. Final capital push before OC Retreat departs Sunday (2 days)
-3. Prep talking points for OC Retreat capital conversations
-
-## Countdowns
-- Ryan Medlock Collect: 0 days (TODAY)
-- OC Retreat Departs Sun: 2 days
-- Q3 Closes Sep 30: 5 days
-- $50K Police Report Overdue: 43 days
-- Fund Close Jun 30 '27: 278 days
-
-## Today's Calendar
-- 11:00 AM — Time with Akemi
-- 12:00 PM — Brent Campbell | Crypto [Black Card]
-- 2:00 PM — AI Office Hours with Owen [Owners Club]
-
-## Week Ahead
-- Sat Sep 26: Vu Tran | Capital Markets (8 AM), Date Night
-- Sun Sep 27: Church 9 AM, Drive to HB, OC Retreat Registration 5 PM
-- Mon Sep 28 (OC Day 1): OC Retreat sessions all day
-
-## Fund Pulse — RezGap Plus LP
-NOT VERIFIED — last confirmed Aug 13, 2026 (43 days ago)
-Target: $2,000,000 | Balance: SUPPRESSED (stale)
-Structure: 506(b), 12% Preferred Return, Close Jun 30 2027
-Pipeline: Dylan Stewart, Ed/Don Davis, Norm, OC Retreat contacts
-
-## STRETY Overdue (Sep 24 data — browser not authenticated)
-- File Police Report $50K forgery: +43 days
-- Connect w 3 recruiting services: +86 days
-- YT Video recourse vs non-recourse: +76 days
-- Adjust HML/DSCR + RQF agreement: +63 days
-- Find Social Media candidates: +63 days
-- Social media drive Pinecone Capital: +55 days
-- Follow up Keefer DOI & Licensing: +43 days
-- EMD Explainer Video: +43 days
-- Call James Parshay: +29 days
-- Call Julian Rizov: +29 days
-- Hire HML & DSCR Lead: +15 days
-- Call Tanya Waymire FBI/FOIA/Bank: +2 days
-- Get apology letter from bank: +2 days
-- Get FOIA request response: +2 days
-This Week Due TODAY: Collect from Ryan Medlock
+**Date:** Saturday, September 26, 2026 · Lehi, UT
+**Weather:** 56°F | Partly Cloudy | Hi: 74°F / Lo: 54°F
 
 ## Yesterday's Win
-Hanks Ventures Mid-Year Business Review completed. Three entity reviews in three days. Mondale due diligence pushed through.
+Hanks Ventures Mid-Year Business Review completed — three entity reviews in three days. Mondale due diligence deadline pushed through.
 
-## 90-Day Goals
-- Lose 12 lbs
-- Raise $2M in RezGap Plus Fund
+## One Thing
+OC Retreat starts Sunday — arrive ready to raise capital.
 
-## Source Notes
-- Calendar: Google Calendar 5 accounts via Composio
-- STRETY: Not authenticated, using Sep 24 data
-- Capital Raising Tracker: Stale, last updated Aug 13 2026
-- EOD Report: Folder not connected
+## Top 3
+1. Final capital push pitch — OC Retreat conversations ready
+2. OC Retreat prep complete
+3. Date Night with Akemi ✅ (6 PM)
+
+## Fund Status
+⚠️ NOT VERIFIED — last confirmed Aug 13, 2026 (44 days stale)
+- Target: $2,000,000
+- LPs: Paul Brown $50K, Naohiro Mouri $300K, Faline Brown $50K
+- Balance: SUPPRESSED (verify with tracker before OC Retreat)
+
+## STRETY To-Dos
+Not authenticated — browser session not connected. Known overdue items from prior session:
+- $50K fraud police report (44+ days overdue)
+- Recruiting pipeline (86+ days)
+- Legal / entity compliance items (overdue)
+- + 11 additional overdue items
+
+## Today's Schedule
+- 8:00 AM — Vu Tran | Pitching Capital Markets
+- 11:30 AM — Tell Calendar What I Want in Life
+- 6:00 PM — Date Night with Akemi
+
+## Rest of Week
+- **Sun Sep 27:** Church · OC Retreat departs for Huntington Beach
+- **Mon Sep 28:** OC Retreat Day 1 + RQF L10
+- **Tue Sep 29:** OC Retreat Day 2
+- **Wed Sep 30:** OC Retreat Day 3 + Raz & Paul · **Q3 CLOSES**
+- Q3 closes Sep 30 (4 days) — Critical milestone
+- 3D Capital Wind-Down Sep 30
+
+## Mindset
+Tonight is Date Night — protect it. Tomorrow OC Retreat. Q3 closes in 4 days. Everything points to showing up ready.
+
+---
+*Generated: September 26, 2026*
+*Sources: Basic Memory, Google Calendar (5 accounts), Weather: wttr.in (Lehi, UT)*
+*Not available: STRETY (not authenticated) | EOD Report (folder not connected) | Capital Raising Tracker (44 days stale)*
