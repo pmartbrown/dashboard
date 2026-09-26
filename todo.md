@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-25 — Morning transcript review — +4 items from 1 new transcript (09-22 Skool Stack Method & Lending Risk)**
+**Last updated: 2026-09-26 — Morning transcript review — +44 items from 4 new transcripts (09-23 marketing/growth, 09-25 real estate analysis, 09-25 due diligence brief, 09-25 voice memo)**
 
 ---
 
@@ -83,6 +83,13 @@
 | **Furnish LPs with Q3 unaudited financials** — within 60 days of Sep 30 Q3 close; adopted resolution | **By Nov 29** | Pinecone Capital mid-year review 09-22; Heather Park (Sabertooth) to prepare | 🟡 | ⬜ |
 | **Confirm Form D amendment status with Clyde Snow & Sessions** — compliance review under Rule 503 | **This week** | Pinecone Capital mid-year review 09-22; Michael Wattsworth is securities counsel | 🟡 | ⬜ |
 | **Schedule Q4 Pinecone quarterly board meeting** — within 30 days of Sep 30 Q3 close; resolve IC appointment items | **By Oct 30** | Pinecone Capital mid-year review 09-22 | 🟡 | ⬜ |
+| **Investigate Chris Craig’s fund** — Identify the manager and verify the fund and claimed 6–7% monthly returns | ASAP | Chris mentioned the fund via WhatsApp | 🔴 | — |
+| **Consult Mundo** about DSCR and Morbi-method transaction protocols. | This week | Listed as a follow-up for the property financing | 🟡 | — |
+| **Text Scott to establish a JV agreement, then send him the RV park financials.** | This week | Financials are to follow the JV agreement | 🟡 | — |
+| **Resolve whether to walk away** — Set firm terms with the Alabama seller-carryback borrower. | ASAP | $1.6–$1.8M deal; borrower is pushing price and conditions | 🔴 | — |
+| **Secure $500K DSCR financing** — Needed to close Paul’s seller-carryback purchase. | ASAP | Paul said he needs the loan in two weeks | 🔴 | — |
+| **Send materials to prospective GP partner** — advance his entry into the fund to help raise additional capital. | ASAP | Paul said this was his number-one task today. | 🟡 | — |
+| **Review pricing and margins on unusual deals** where the team saves a transaction. | ASAP | Paul said they are working out how to adjust pricing. | 🟡 | — |
 ---
 
 ## 🏘️ Deals — Acquisition Review
@@ -97,6 +104,13 @@
 | **Providence UT — Build pro forma**: (a) 10 lots @ $200K and $300K, (b) reduced lot count due to zoning/hillside; include entitlement timeline and carry costs | This week | Plaud 09-16: binary deal — works if lot sales recycle capital + fund cabin; fails if density cut or infra costs blow out | 🟡 | ⬜ |
 | **Providence UT — Verify water rights/shares** and municipal water/sewer capacity for the subdivision | ASAP | Plaud 09-16: water shares needed; must confirm before any financing conversation | 🟡 | ⬜ |
 
+| **Hire a roofer** to inspect the property roof. | ASAP | Property inspection; roof inspection requested | 🔴 | — |
+| **Hire a licensed electrician** to investigate and repair electrical issues. | ASAP | Several lights and electrical points were not working | 🔴 | — |
+| **Complete the property disclosure** and obtain access to it. | ASAP | Paul said the disclosure needs to be completed | 🔴 | — |
+| **Confirm sewer or septic status** and determine any related implications. | ASAP | Property may be on septic despite sewer in the road | 🔴 | — |
+| **Request and complete a radon test** using a free Utah test kit. | This week | Paul said he should test the property | 🟡 | — |
+| **Send Montana RV park financials** — Share them with the prospective partner for modeling. | ASAP | Paul said he would send the numbers when home | 🔴 | — |
+| **Find and forward the 14-cap RV park deal** — Send it to the partner group for review. | ASAP | Paul said he would find and send it today | 🔴 | — |
 ---
 
 ## 📞 Follow-Ups / Outreach
@@ -173,6 +187,16 @@
 
 
 | **Invite Christina Moser (GT Title) to future Skool call** — escrow/title partnership conversation | This week | 09-22 Skool Community Call | 🟢 | ⬜ |
+| **Review Ryan Corbett’s emails** — He also texted from 949-324-0655 | ASAP | Paul asked to check Ryan Corbett’s emails | 🟡 | — |
+| **Connect with Sanjay Fernandez** — Build a WhatsApp relationship and explore Morbi Method deals | This week | Sanjay is sourcing Morbi Method deals | 🟡 | — |
+| **Contact the Alabama funding client** to formally end the relationship. | ASAP | Paul wants to walk away from the low-profit deal | 🔴 | — |
+| **Ping Justin for the $1.8M deal status** and whether the end buyer fell through. | ASAP | Pending funding-status follow-up | 🔴 | — |
+| **Coordinate with David at Chase** on a new business account and DBA change. | This week | Listed banking follow-up | 🟡 | — |
+| **Call Mundo** — Ask for pointers on buying through the seller-carryback structure. | ASAP | Paul said he had questions for Mundo | 🟡 | — |
+| **Ask Scott for term-sheet wording** — Request a sample to inform Paul’s agreement draft. | This week | Paul asked Scott if he would share his terms sheet | 🟡 | — |
+| **Get introduced to paid search consultant Matt** — connect with him to start Google Ads management. | ASAP | Matthew committed to email an introduction. | 🟡 | — |
+| **Maintain the relationship with Pace Morby** — thank him for referrals and community shout-outs. | This week | Paul said he regularly texts Pace to thank him. | 🟡 | — |
+| **Reconnect with Narrative Bent** about organic search, AI search, and PR once paid ads show reliable results. | Jan–Feb 2027 | Matthew suggested reconnecting after ad results | 🟡 | — |
 ---
 
 ## 🧭 Personal / Standards
@@ -312,6 +336,10 @@
 
 | **Review 09-22 interview transcript and finalize offer decisions** — ops/PM candidates; pipeline tracking, fintech/lending experience focus | **ASAP** | Plaud 09-22 interview; offer decisions pending per transcript title | 🔴 | ⬜ |
 | **Schedule RQF back-office live walkthrough for Skool community** — training on deal flow, underwriting, and operations | This month | 09-22 Skool Community Call | 🟢 | ⬜ |
+| **Assess the kitchenette and unit-conversion plan** for the property's main floor. | This week | Paul wants to create separate rental living spaces | 🟡 | — |
+| **Draft a funding commitment agreement** — Explore term-sheet language and a lien-based protection. | This week | Scott suggested a term sheet; Paul committed to drafting one | 🔴 | — |
+| **Arrange a pre-list inspection** — Get a report for the duplex in Paul’s father’s estate. | This week | Paul said he should inspect it before sharing with buyers | 🟡 | — |
+| **Complete the custom CRM rebuild** — add AI automations and workflows to support more deal flow. | ASAP | Paul said the CRM is being rebuilt with an external developer. | 🟡 | — |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
@@ -353,6 +381,13 @@
 
 
 | **Plan & fund outbound marketing test with Brent (Sequent Funding)** — email/LinkedIn targeting large wholesalers and escrow officers | This week | 09-22 Skool Community Call — Stack Method & Lending Risk Limits | 🟡 | ⬜ |
+| **Prepare high-intent keyword list** — focus on transactional funding and creative investor needs. | ASAP | Matthew committed to draft campaign keywords. | 🟡 | — |
+| **Consider a 12-month organic content and PR program** if paid search is stable and affordable. | January or February 2027 | Organic engagement is conditional on paid-search results. | 🟡 | — |
+| **Explore Facebook ads for the bird-dog community** to recruit deal-sourcing partners. | ASAP | Paul raised ads as a way to grow the Skool community. | 🟡 | — |
+| **Find a paid-search contractor** experienced with real estate investors; ask Matthew for his referral. | ASAP | Matthew offered to introduce a paid-search contractor | 🔴 | — |
+| **Discuss a phased marketing plan with Justin** before committing to paid ads and later organic marketing. | ASAP | Paul said he would discuss phasing with his partner | 🔴 | — |
+| **Launch Google Ads** with roughly $5,000/month in ad spend and a paid-search manager. | Oct 1 | Paul considered starting ads October 1 | 🔴 | — |
+| **Review ad results after 3–4 months** and decide whether the channel is profitable enough to scale. | Dec 31 | Matthew recommended a three-to-four-month test | 🔴 | — |
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
@@ -396,6 +431,10 @@
 | **Georgia wholesale shop** — respond to Paul's conference call request for EMD/creative-finance partnership (PAST DUE from week of 09-07) | Georgia wholesale contact | 2026-09-03 EMD Referral call — Paul to confirm contact details with Justin | 🔴 | ⬜ |
 | **Citizens Bank (Lisa Booth)** — return Paul's call re: unresolved branch issue at 204 East Broad St; left voicemail 09-14 with callback # | Lisa Booth / Citizens Bank | Plaud — 09-14 voicemail | 🟢 | ⬜ |
 
+| **Get Dave's Crux Electric contact and referral email.** | This week | Dave said he would email the contact information | 🟡 | — |
+| **Obtain the parking-business app account** from the current property owner. | ASAP | Owner said she would transfer the account username | 🟡 | — |
+| **Get the inspector’s contact details** — Save the full contact information for follow-up. | ASAP | Paul asked the inspector to send complete contact details | 🟢 | — |
+| **Send Paul an introduction** to Matt, the paid-search contractor. | ASAP | Matthew promised to email an introduction | 🟡 | — |
 ---
 
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size. Morning run 2026-08-29: 5 new transcripts processed (Bruce Williams AROS/CA questions 2026-08-26; Debt Fund GP partnership 2026-08-26; GP Onboarding/TC/Lender Risk 2026-08-26; North Peak Recovery state selection 2026-08-26; Personal Noah CRV 2026-08-26), 7 action items added.* Morning run 2026-09-17: 9 new transcripts processed (Dave GP 09-15, Kiefer 09-03, Roger Collaboration 09-03, EMD Referral 09-03, August Results 09-03, 506b Compliance 09-03, Owners Club Assessment 09-14, L10 Six-Month 09-15, Lorena Interview Panel 09-15), 13 action items added. Morning run 2026-09-18: 9 new transcripts processed (1 file — Lending Partner Fallout — unreadable due to file size), 19 action items added. Morning run 2026-09-21: 5 new transcripts processed (09-16 Providence 17-acre subdivision feasibility, 09-18 Hans Peterson real estate consult + Relay wire auth, 09-18 Multi-Faceted RE discussion, 09-18 Casual personal conversation, 09-18 Capital Raising/SEC Compliance), 10 action items added.
