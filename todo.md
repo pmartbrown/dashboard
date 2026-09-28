@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-09-26 — Morning transcript review — +44 items from 4 new transcripts (09-23 marketing/growth, 09-25 real estate analysis, 09-25 due diligence brief, 09-25 voice memo)**
+**Last updated: 2026-09-28 — Morning transcript review — +16 items from 5 new transcripts (09-17 acquisitions focus, 09-22 stack method, 09-23 RCIC overview, 09-24 lead gen strategy)**
 
 ---
 
@@ -90,6 +90,7 @@
 | **Secure $500K DSCR financing** — Needed to close Paul’s seller-carryback purchase. | ASAP | Paul said he needs the loan in two weeks | 🔴 | — |
 | **Send materials to prospective GP partner** — advance his entry into the fund to help raise additional capital. | ASAP | Paul said this was his number-one task today. | 🟡 | — |
 | **Review pricing and margins on unusual deals** where the team saves a transaction. | ASAP | Paul said they are working out how to adjust pricing. | 🟡 | — |
+| **Fund outbound marketing test campaign with Brent (Sequent Funding)** — email + LinkedIn outreach to wholesalers and escrow officers; split test messaging | This week | 09-22 Skool call (Paul, Brent/Sequent, Amira, Traci, Casey, Wesley, Jason) — joint marketing to expand RQF + Sequent deal flow | 🟡 | ⬜ |
 ---
 
 ## 🏘️ Deals — Acquisition Review
@@ -197,6 +198,11 @@
 | **Get introduced to paid search consultant Matt** — connect with him to start Google Ads management. | ASAP | Matthew committed to email an introduction. | 🟡 | — |
 | **Maintain the relationship with Pace Morby** — thank him for referrals and community shout-outs. | This week | Paul said he regularly texts Pace to thank him. | 🟡 | — |
 | **Reconnect with Narrative Bent** about organic search, AI search, and PR once paid ads show reliable results. | Jan–Feb 2027 | Matthew suggested reconnecting after ad results | 🟡 | — |
+| **Schedule one-on-one with Nate (RCIC)** via Messenger — deep-dive on RCIC implementation for surplus funds | This week | 09-23 RCIC session — Nate offered 1:1 to walk through setup | 🟡 | ⬜ |
+| **Join RCIC Facebook groups** — RCIC Systems, surplus funds, and associates groups for community + support | When possible | 09-23 RCIC session — Nate recommended joining all three groups | 🟢 | ⬜ |
+| **Network with transaction coordinators (TCs) experienced in seller carrybacks** — build referral pipeline for Stack/Morby method deals | This week | 09-24 RQF Skool call — TCs who understand creative finance are high-value referral partners | 🟡 | ⬜ |
+| **Invite Christina Moser (GT Title)** to future RQF Skool call — share title company perspective on Stack/Morby method closings | When possible | 09-22 Skool call — Christina knowledgeable on creative finance closings; valuable for community education | 🟢 | ⬜ |
+| **Invite Justin Pilakka to future Skool call** — discuss back-end acquisitions process and how RQF can support creative finance deals | When possible | 09-17 Skool call (Paul, Anthony Baez, Tim Floyd, Traci Canning) — Justin active in acquisitions; good community voice | 🟢 | ⬜ |
 ---
 
 ## 🧭 Personal / Standards
@@ -228,6 +234,7 @@
 | **Help Tony (Minneapolis) source viable creative-finance multifamily deal** — 20-unit at $8M rejected (CF negative ~$6k/mo at market rates); pivot to finding assumable loan or seller-carry opportunity in Minneapolis area | This month | 08-19 Client call w Traci Canning + Tony | 🟢 | |
 | **Follow up with Charlotte Hudgins on Morby Method structuring for ice plant and agro-tourism deals** — she's exploring creative finance for these unique asset types; needs structuring guidance | This week | 08-19 Client consultation Charlotte Hudgins | 🟢 | |
 
+| **Attend RCIC surplus session Monday 2026-09-28** — Nate's weekly surplus funds training call | 2026-09-28 | 09-23 RCIC session — recurring Monday sessions; Paul should attend | 🔴 | ⬜ |
 ---
 
 ## 💪 Health
@@ -301,6 +308,9 @@
 
 
 | **Route small deals (<$1k fee) to Skool community for member practice reps** — plan web app automation to auto-route these | When possible | 09-22 Skool Community Call — Stack Method & Lending Risk Limits | 🟡 | ⬜ |
+| **Install RCIC plugins/skills core setup** — configure RCIC system tools in Claude/Composio for North Peak Recovery / surplus funds workflow | ASAP | 09-23 RCIC session — Nate walked through full system; Paul evaluating for North Peak Recovery | 🟡 | ⬜ |
+| **Share small deals (<$1K fee) in RQF Skool community** — let member reps handle and earn; builds community engagement | When possible | 09-22 Skool call — low-fee deals not worth Paul's direct time; good training deals for members | 🟢 | ⬜ |
+| **Fix calendar/Skool link issue** — old meeting link sending attendees to wrong session; update all published links to correct Skool meeting URL | ASAP | 09-17 Skool call — attendees being misdirected; fix before next call | 🟡 | ⬜ |
 ---
 ## 🏗️ Projects — Build
 
@@ -340,6 +350,8 @@
 | **Draft a funding commitment agreement** — Explore term-sheet language and a lien-based protection. | This week | Scott suggested a term sheet; Paul committed to drafting one | 🔴 | — |
 | **Arrange a pre-list inspection** — Get a report for the duplex in Paul’s father’s estate. | This week | Paul said he should inspect it before sharing with buyers | 🟡 | — |
 | **Complete the custom CRM rebuild** — add AI automations and workflows to support more deal flow. | ASAP | Paul said the CRM is being rebuilt with an external developer. | 🟡 | — |
+| **Ask dev team: multi-language UI feasibility** — can RQF deal submission portal support Spanish and Russian interfaces? | This week | 09-24 RQF Skool call (Paul, Ed, Traci, Ali) — expanding to non-English-speaking wholesaler markets | 🟡 | ⬜ |
+| **Add auto-enroll feature to deal submission portal** — deal submitters auto-added to RQF nurturing email campaigns (log to dev chat) | This week | 09-24 RQF Skool call — increase conversion from lead submission to active client | 🟡 | ⬜ |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
@@ -388,6 +400,10 @@
 | **Discuss a phased marketing plan with Justin** before committing to paid ads and later organic marketing. | ASAP | Paul said he would discuss phasing with his partner | 🔴 | — |
 | **Launch Google Ads** with roughly $5,000/month in ad spend and a paid-search manager. | Oct 1 | Paul considered starting ads October 1 | 🔴 | — |
 | **Review ad results after 3–4 months** and decide whether the channel is profitable enough to scale. | Dec 31 | Matthew recommended a three-to-four-month test | 🔴 | — |
+| **Test Google Ads campaign for RQF lead gen** — ~$7.5K/mo budget; track cost per lead vs organic/referral channels | This week | 09-24 RQF Skool call — paid acquisition test to scale deal flow beyond Gator/Sub2 community | 🟡 | ⬜ |
+| **Pursue podcast appearances + meetup presentations** for RQF outreach — target wholesaler and investor audiences | When possible | 09-24 RQF Skool call — content/speaking as lead gen channel | 🟡 | ⬜ |
+| **Schedule guest speakers on marketing/sales for RQF Skool calls** — bring in experts to teach lead gen and conversion | This week | 09-17 Skool call — community wants tactical marketing/sales training from practitioners | 🟡 | ⬜ |
+| **Create RQF community post: members share podcast recommendations** — crowdsource best real estate/business podcasts for community resource | When possible | 09-17 Skool call — engagement activity + builds community knowledge base | 🟢 | ⬜ |
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
