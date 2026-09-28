@@ -1,112 +1,90 @@
-# Morning Briefing — Sunday, September 27, 2026
+# Morning Briefing — Monday, September 28, 2026
 
-**Location:** Huntington Beach, CA (OC Retreat Day 0)
-**Weather:** 73°F | Overcast | Hi 81°F / Lo 72°F
+**Location:** Huntington Beach, CA — Hyatt Regency OC Retreat  
+**Weather:** 71°F | Clear | Hi: 76°F / Lo: 70°F
 
 ---
 
 ## Yesterday's Win
-EOD report not accessible — folder not connected to session. Most recent logged win: Hanks Ventures Mid-Year Business Review completed — three entity reviews in three days. Mondale due diligence deadline pushed through.
-
----
-
-## Pinecone Capital — Fund Status
-🚫 NOT VERIFIED — last confirmed Aug 13, 2026 (45 days stale). Balance suppressed per data authority rules.
-
-**Active Pipeline:**
-- OC Retreat contacts 🔥 — this weekend, already there
-- Dylan Stewart — 4% fee, brochure sent
-- Ed / Don Davis — in conversation
-- Norm — needs a call
+Arrived at the Owner's Club Retreat in Huntington Beach. OC Retreat Day 1 starts today.
 
 ---
 
 ## The One Thing
-**Work the room at OC Retreat — make 3+ capital conversations today.**
+Make 3+ qualified capital conversations at tonight's Networking Event (6 PM PDT) — names, amounts discussed, follow-ups booked before leaving the room.
 
 ---
 
-## Top 3 Priorities
-1. Capital conversations at OC Retreat — pitch ready, make the asks
-2. Registration at 5 PM — meet the room, land strong at the Hyatt
-3. Travel smooth — Church → drive HB → hotel by 9:30 PM
+## Top 3
+1. **Capital conversations — Networking Event 6 PM PDT** — Minimum 3 qualified prospects. Follow-ups scheduled before leaving.
+2. **Payroll & Investor Payments** — 7:30 AM, 9:00 AM, 9:30 AM PDT. Knock out before general session.
+3. **Q3 wrap checklist** — Identify open items before Wed Sep 30 close.
 
 ---
 
-## STRETY To-Dos (Overdue — cached Sep 25, STRETY not authenticated)
-- Collect from Ryan Medlock — PAST DUE Sep 25
-- File Police Report $50K forgery — 45+ days
-- Connect w/ 3 recruiting services — 88+ days
-- YT Video recourse vs non-recourse — 78+ days
-- Adjust HML/DSCR + RQF agreement — 65+ days
-- Find Social Media candidates — 65+ days
-- Social media drive — Pinecone Capital — 57+ days
-- Follow up w/ Keefer DOI & Licensing — 45+ days
-- EMD Explainer Video — 45+ days
-- Call James Parshay — 31+ days
-- Call Julian Rizov — 31+ days
-- Hire HML & DSCR Lead — 17+ days
-- Call Tanya Waymire re FBI/FOIA/Bank — 4 days
-- Get apology letter from bank — 4 days
-- Get FOIA request response — 4 days
+## Pinecone Capital — Fund Status
+⚠️ NOT VERIFIED — last confirmed Aug 13, 2026 (46 days stale). Balance suppressed.  
+Target: $2,000,000  
+LPs (unverified): Paul Brown $50K · Naohiro Mouri $300K · Faline Brown $50K
 
 ---
 
-## Today's Calendar — Sun Sep 27
-- 9:00 AM — Church
-- 11:15 AM — Drive to Huntington Beach
-- 1:00 PM — Family Church Study
-- 5:00 PM — Owners Club Registration (OC Retreat)
-- 9:30 PM — Hotel Check-In Hyatt Regency HB
+## Today's Schedule (PDT)
+- 7:00 AM — Owners Club Breakfast & Registration
+- 7:30 AM — ⚡ Payroll (paul@realquickfunds.com)
+- 8:30 AM — OC Doors Open / General Session Day 1
+- 9:00 AM — ⚡ Payroll & Investors Pay (admin@realquickfunds.com)
+- 9:00 AM — Gabriel Araish | Real Estate & Canadian Compliance (Black Card)
+- 9:30 AM — ⚡ Investor Payments — Adam Valene Etc (admin@realquickfunds.com)
+- 9:00 AM–12:30 PM — Day 1 HB Live Stream Morning Session
+- 12:30 PM — Owners Club Lunch
+- 2:00 PM — Day 1 Live Stream + OC General Session Afternoon
+- 2:00 PM — LIVE BONUS: Gator Orientation for Newbies
+- 3:30 PM — BONUS ZOOM: Basic Gator Underwriting
+- **6:00 PM–8:00 PM — 🌟 Owners Club Networking Event [PRIME capital prospecting]**
 
 ---
 
-## Email Action Items
-EOD folder not connected — check email manually.
+## STRETY — OVERDUE (15 items)
+- Jun 30 — Connect w/ 3 recruiting services (Lat Am, India, Vietnam)
+- Jul 9 — Make YT video on recourse vs non-recourse loans
+- Jul 22 — Adjust agreement re: HML/DSCR and RQF scope
+- Jul 22 — Find candidates for Social Media strategy & content
+- Jul 22 — Social media drive for Pinecone Capital
+- Jul 30 — Follow up with Keefer on DOI and Licensing Dept reporting
+- Aug 12 — EMD Explainer Video (for borrowers)
+- **Aug 12 — File Police Report for $50K forgery ⚠️ CRITICAL (47 days overdue!)**
+- Aug 26 — Call with James Parshay (funds for Jay)
+- Aug 26 — Call with Julian Rizov
+- Sep 9 — Hire HML & DSCR Lead
+- Sep 23 — Call Tanya Waymire (FBI, FOIA, Bank Call update)
+- Sep 23 — Get "apology" letter from the bank
+- Sep 23 — Get FOIA request response
+- Sep 25 — Collect from Ryan Medlock
+
+### Upcoming (outside 7-day window)
+- Oct 16 — Collect $5K EMD
+- Oct 16 — Collect $20K EMD (borrower an @$$)
+- Nov 20 — Collect $50K EMD (fraud case)
 
 ---
 
-## Rest of Week
-
-**Mon Sep 28 (OC Day 1)**
-- 8:30 AM Payroll | 9 AM Gabriel Araish [Black Card]
-- 💸 10:00 AM Payroll & Investors Pay [RQF Admin]
-- 💸 10:30 AM Investor Payments — Adam, Valene, etc [RQF Admin]
-- 7:00 PM Networking Event
-
-**Tue Sep 29 (OC Day 2 — Level 2)**
-- 8:45 AM Walking Meditation
-- 10:00 AM General Session Level 2 | 2:30 PM continued
-- 7:30 PM RQF L10 Leadership Meeting
-
-**Wed Sep 30 (OC Day 3 — Q3 ENDS)**
-- 10:30 AM MT 3D Capital Wind-Down Review [Hanks Ventures]
-- 12:00 PM PDT Bridger Pennington Fund Launch [Black Card]
-- 7:30 PM I Love You Bro Mtg [RQF Admin]
-
-**Thu Oct 1 (Q4 STARTS)**
-- Monthly: Pay Noa's Rent + Pull 529 Funds ⚡
-- 11:30 AM Surplus+ Accountability [RQF]
-- 2:00 PM White Label w/ Edgar
-- 4:30 PM Raz & Paul Weekly [RQF Admin]
-- 7:00 PM YM/YW Activity (family)
-
-**Fri Oct 2 — Travel Home**
-- 9:00 AM PDT Ben Reiter PE/VC [Black Card]
-- 11:00 AM PDT Daniel Roberts Savvi Legal [Black Card]
-- 12:00 PM Hotel Check-Out | 12:15 PM Drive Home to Lehi
+## Rest of the Week
+- **Tue Sep 29** — OC Day 2 · TFH Community Q&A 5 PM · RQF L10 6:30 PM PDT
+- **Wed Sep 30 ⚠️ Q3 CLOSES** — OC Day 3 · 3D Capital Wind-Down 9:30 AM · Bridger Pennington Fund Launch 12 PM · I Love You Bro Mtg 6:30 PM
+- **Thu Oct 1** — 🏠 Home · Surplus+ Call 10:30 AM · Raz & Paul Weekly 3:30 PM · Pay Noa's Rent
+- **Fri Oct 2** — ✈️ Drive home to Lehi · Hotel Check-Out 11 AM · Ben Reiter PE/VC 9 AM · Daniel Roberts Savvi Legal 11 AM
+- **Sat Oct 3** — 💕 Date Night with Akemi 5 PM
+- **Sun Oct 4** — ⛪ Church 9 AM MDT
 
 ---
 
 ## Mindset
-OC Retreat is capital creation — not a conference, not a vacation. Pitch ready. Fund real. Show up fully, ask great questions, let the conversations do the work. Three conversations today. That's the whole job. Go raise some money. 💰
+"What has to be true for this to be the best thing that ever happened to me?"
+
+You are in the best room you've been in all quarter. Every hallway conversation, every dinner, every late-night riff is a potential LP relationship. Q3 closes in 2 days — the contacts made tonight fund Q4 and beyond.
+
+**Answer: This retreat is where the $2M fund closes.** Walk in tonight with conviction. You're not hoping — you're collecting.
 
 ---
-
-## Tomorrow's Top 3 (seed for Sep 28 briefing)
-1. Make investor capital asks — Day 1 of OC Retreat, conversations warmed up
-2. Payroll & Investor Payments — 10 AM and 10:30 AM [RQF Admin]
-3. Networking Event 7 PM — continue building OC relationships
-
-## Tomorrow's One Thing
-**OC Retreat Day 1 — close at least one capital conversation.**
+*Generated: 2026-09-28 · Artifact: https://claude.ai/artifact/6bwj1UEUzW71Tq9s7MnKXF*
