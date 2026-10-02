@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-01 — Morning transcript review — +25 items from 6 new transcripts (09-28 Owners Club/Adversity, 09-29 Workshop/Analysis/Dinner, Investor Networking)**
+**Last updated: 2026-10-02 — Morning transcript review — +26 items from 11 new INBOX recordings (Aug 25–Sep 10)**
 
 ---
 
@@ -97,6 +97,11 @@
 | **Document KP requirements ($2M liquid, $25M assets) from lender; maintain standing KP roster for future large deals** | This week | 09-29 Dinner — key principal threshold for large deal structures | 🟡 | ⬜ |
 | **Determine strategy to split surplus funds into North Peak Recovery and execute fund routing** | ASAP | 09-28 Adversity — North Peak reactivation + surplus funds routing | 🟡 | ⬜ |
 | **Coordinate follow-up call with Jamil Damji re: property payoff — call seller for payoff amount; compile and send payoff numbers; forward funds/fees to Fernando** | ASAP | 09-28 Adversity — property payoff with Jamil Damji; multi-step close-out | 🔴 | ⬜ |
+| Confirm written stacking policy with hard money partners (seconds/2nd-position lien allowed?) | ASAP | 09-07 mtg — Jacob ready to send 10-20 deals/day pending confirmation | 🔴 | — |
+| Identify referral lender for sub-$1M CRE deals (Five Star won't touch below $1M loan) | By end of month | 09-01 mtg — Jason Hartman Five Star Bank | 🟡 | — |
+| Ridgefield deal: send demand letter requiring upfront extension fee (15-25K) or foreclose ASAP | ASAP | 08-26 mtg — Chris/Justin flagged; firm policy decision | 🔴 | — |
+| Review Ryland & Zeke Phoenix co-living deal ($537K) with DSCR/HM lender contacts for assessment | When submitted | 08-26 mtg — seller carryback structure, possible ADU add | 🟡 | — |
+| Investigate THOWS (tiny homes on wheels) tax treatment — negative K-1 / accelerated depreciation | When possible | 08-25 mtg — potential new investment vehicle for Pinecone | 🟢 | — |
 ---
 
 ## 🏘️ Deals — Acquisition Review
@@ -121,6 +126,7 @@
 | **Two RV parks near Bellefontaine, OH — seller asking $5-5.5M ($2M debt at Richwood Bank); offering only $500K SC (need ~40% = ~$2M). Re-engage if seller restructures carryback; get T12 financials first** | This week | Investor Networking — Owners Club; Canadian firm also circling; Speaker 1 is the connection | 🟡 | ⬜ |
 | **Tyler, TX mobile home park — revisit structure (90% SC, 0% interest, 21-yr amortization, 8-yr balloon) with updated financials when seller returns** | When seller returns | 09-29 Analysis — deal flagged for revisit; seller temporarily unavailable | 🟢 | ⬜ |
 | **Perform cost segregation study on Wildwood RV park — quantify accelerated depreciation (water park, cabins, store); explore STR structure (<7 avg stay) to offset active income without RE pro status** | This quarter | 09-29 Analysis — depreciation strategy; STR RV parks may qualify without RE professional status | 🟡 | ⬜ |
+| **Harley's campground** — Send LOI (50% down / 50% seller-carry as LLC membership), Oct 15 target close | URGENT | 08-26 mtg — Harley has competing cash offer | 🔴 | — |
 ---
 
 ## 📞 Follow-Ups / Outreach
@@ -220,6 +226,12 @@
 | **Send Pinecone pitch deck and fund investment details to Julian for potential capital raise collaboration** | This week | 09-28 Adversity — Julian expressed interest at retreat | 🟡 | ⬜ |
 | **Follow up re: capital raising opportunities and creatively-acquired deals for Lance Morgan** | This week | 09-29 Workshop — Lance Morgan connection from Owners Club retreat | 🟢 | ⬜ |
 | **Evaluate CREIC conference (Commercial Real Estate Investment Conference) Nov 6-7 — includes sponsors, capital raisers, fund managers; good LP visibility** | Register by Oct 15 | Investor Networking — Paul flagged at Owners Club; capital raising opportunity | 🟡 | ⬜ |
+| Follow up with Jason Hartman (Five Star Bank) on submitted RV/MHP deal ($1M+ loan min, CRE) | Overdue | 09-01 mtg — follow-up was due 09-08 | 🔴 | — |
+| Email Bruce — ask to sell Georgia (and possibly Oklahoma) surplus lists for North Peak Recovery | ASAP | 08-26 mtg — compare vs Matt's data | 🟡 | — |
+| Contact Logan UT buyer (high-income investor) re: authorization to share info w/ JT's TC team | This week | 08-26 mtg — potential referral partner JT | 🟡 | — |
+| Consult Justin on TC/referral partnership with JT; follow up with JT to move partnership forward | This week | 08-26 mtg — JT offers high-touch TC at $2.5K for carryback deals | 🟡 | — |
+| Contact Ted re: generating enhanced post-foreclosure datasets for North Peak Recovery (GA focus) | ASAP | 08-26 North Peak mtg — Ted is data expert | 🟡 | — |
+| Connect Mary with Jason Wooten (Utah VC) re: venture fundraising in regulated (medical device) industry | When ready | 08-25 mtg — Mary doing angel round for med device startup | 🟢 | — |
 ---
 
 ## 🧭 Personal / Standards
@@ -334,6 +346,13 @@
 | **Coordinate with Ross on API integration between custom CRM and debt fund management tools** | This week | 09-28 Adversity — tech buildout for fund operations | 🟡 | ⬜ |
 | **Audit P&L against benchmarks: 15% COGS, 25% Marketing, 15% G&A, 25% Payroll, 35% Profit; implement monthly 'trim the fat' meeting with integrator and bookkeeper** | Monthly | 09-29 Workshop — Jerry's financial benchmarks session; ROAS min 3x (5x excellent) | 🟡 | ⬜ |
 | **Build searchable 'video vault' of RV park manager operations (Osmo recordings) with AI layer for standardized review responses and de-escalation scripts** | This quarter | 09-29 Analysis — ops standardization across parks; training playbook infrastructure | 🟢 | ⬜ |
+| Set up Cloudflare for txfhub.com (move DNS from Hostinger for smart routing/member previews) | ASAP | 09-10 weekly mtg w/ Roz | 🔴 | — |
+| Configure Google Workspace domain-wide delegation for RQF CRM (send/read from mailboxes) | ASAP | 09-10 mtg w/ Roz | 🔴 | — |
+| Implement Square API integration in RQF CRM for invoices; define >$5K wire vs Square policy | This week | 09-10 mtg w/ Roz | 🟡 | — |
+| Tie Jacob's partner-submitted deals to Jacob's account in dashboard (fix attribution) | This week | 09-07 mtg — Jacob | 🟡 | — |
+| Create intake guide: which submissions get term sheets (DSCR/HM) vs transactional follow-ups | This week | 09-07 mtg — Jacob onboarding | 🟢 | — |
+| Distribute Five Star Bank underwriting criteria to RQF screening team when received | When received | 09-01 mtg — Jason Hartman | 🟢 | — |
+| Beta-test Ted's AI surplus data tool (multi-source, skip-trace, parcel assembly) for North Peak | ASAP | 08-26 mtg — superior data vs Matt's lists | 🟡 | — |
 ---
 ## 🏗️ Projects — Build
 
@@ -376,6 +395,9 @@
 | **Ask dev team: multi-language UI feasibility** — can RQF deal submission portal support Spanish and Russian interfaces? | This week | 09-24 RQF Skool call (Paul, Ed, Traci, Ali) — expanding to non-English-speaking wholesaler markets | 🟡 | ⬜ |
 | **Add auto-enroll feature to deal submission portal** — deal submitters auto-added to RQF nurturing email campaigns (log to dev chat) | This week | 09-24 RQF Skool call — increase conversion from lead submission to active client | 🟡 | ⬜ |
 | **Execute 90-day land deal plan — Wk 1: select market (Zillow: sold > for-sale last 6mo); Wk 2: call 50 owners via PropWire (5+ yr ownership); Wk 4: begin offers (~40:1 ratio); lock with 90-day DD period** | Start this week | 09-28 Adversity — land flipping for active income ('today money'); strategy from conference | 🟡 | ⬜ |
+| Rebuild North Peak Recovery website (was compromised/deleted; consider full Cloudflare transfer) | This week | 09-10 mtg — Roz flagged security breach | 🟡 | — |
+| Design geo-matching logic to route RQF prospects to nearest affiliate by IP location | This month | 09-10 mtg — key for affiliate program | 🟡 | — |
+| Plan + host 'Step Seven' contact management/nurturing brainstorm with Skool community | ASAP | 09-10 mtg — CRM feature discussion | 🟡 | — |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
@@ -429,6 +451,10 @@
 | **Schedule guest speakers on marketing/sales for RQF Skool calls** — bring in experts to teach lead gen and conversion | This week | 09-17 Skool call — community wants tactical marketing/sales training from practitioners | 🟡 | ⬜ |
 | **Create RQF community post: members share podcast recommendations** — crowdsource best real estate/business podcasts for community resource | When possible | 09-17 Skool call — engagement activity + builds community knowledge base | 🟢 | ⬜ |
 | **Initiate Zoom call with prospective capital partners to pitch Pinecone debt fund — use 'bond-level risk, S&P 500-level returns' framing; fish don't jump in the boat** | This week | 09-28 Adversity — active capital raise action; 506(b) approach | 🔴 | ⬜ |
+| Text Greg: Pinecone Capital info + compliant 506(b) intro blurb for reciprocal referral program | ASAP | 08-26 mtg — Greg to send 3 intros by Monday | 🟡 | — |
+| Get formal legal opinion on 506(b) employer-employee dynamics for Dave GP arrangement | This month | 08-25 mtg — Dave wants GP experience before launching own fund | 🟡 | — |
+| Draft 1-page disclosure template for Dave's employees who inquire about Pinecone fund | This month | 08-25 mtg — 506(b) power harassment risk mitigation | 🟡 | — |
+| Prepare 1-2 page summary for Dave: GP pathway, fund capacity, RV park thesis, THOWS strategy | This month | 08-25 mtg — Dave potentially major capital raiser | 🟡 | — |
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
