@@ -1,50 +1,57 @@
-# Morning Briefing — Friday, October 2, 2026
-**Q4 Day 2 | Travel Day: Huntington Beach, CA → Lehi, UT**
+# Morning Briefing — Saturday, October 3, 2026
+**Q4 Day 3 · Lehi, UT — Home**
 
 ---
-
-## Weather / Location
-Travel Day — Hyatt Regency OC checkout 11 AM PDT, drive home ~8 hrs.
 
 ## Yesterday's Win
-OC Retreat Day 3 complete. Q4 officially launched from the Pacific.
+Made it home from OC Retreat. 8-hour drive, landed both Black Card calls on the road — Ben Reiter (PE/VC) + Daniel Roberts (Savvi Legal). Q4 is off the ground.
 
-## Fund Status
-⚠️ **NOT VERIFIED** — last confirmed Aug 13, 2026 (50 days stale)
-Balance suppressed per standing rule (>7 days stale = no number shown).
-👉 Action: Update Capital Raising Tracker when back at desk.
+## Fund Status — Rez Gap Plus Fund I
+⚠️ **Balance Suppressed** — Capital Raising Tracker last confirmed Aug 13, 2026 (51 days stale). Per standing rule: balance not displayed when tracker >7 days stale.
+- Target: $2,000,000 · Close: June 30, 2027
+- **Action Required:** Update Capital Raising Tracker today or Monday.
 
 ## The One Thing
-Complete Ben Reiter (PE/VC) + Daniel Roberts (Savvi Legal) calls before hotel checkout, then drive. Lock in OC follow-ups before midnight.
+**Send personalized follow-up messages to every OC Retreat capital conversation — today is the last effective day of the window.**
 
 ## Top 3 Priorities
-1. **Black Card Calls** — Ben Reiter 10AM MDT + Daniel Roberts 12PM MDT (⚠️ overlap with checkout)
-2. **OC Retreat Follow-Through** — Send follow-up messages to retreat contacts tonight
-3. **Police Report (DELEGATE)** — Manoella files $50K forgery report TODAY (83+ days overdue)
+1. **OC Retreat Follow-Through** — Personalized messages to every capital contact.
+2. **The One Thing with Pace @ 3 PM** — Owners Club call. Show up prepared.
+3. **Date Night with Akemi @ 6 PM** — Sacred. Full presence. No phone.
 
 ## STRETY To-Dos
-- 🔴 Overdue: 15 items (oldest Jun 30)
-- 🟡 Upcoming: 3 items (Oct 16 ×2, Nov 20)
-- ⚠️ Live scrape unavailable — Oct 1 data used
+*Carried from Oct 1 — live scrape unavailable.*
+- 🔴 CRITICAL: Police Report $50K Forgery — 85+ days overdue · Delegate to Manoella TODAY
+- 🔴 Call Tanya Waymire — 10 days overdue
+- 🔴 Collect from Ryan Medlock — 8 days overdue · 1PM block today
+- 🔴 Hire HML & DSCR Lead — 24 days overdue
+- + 11 more overdue items (oldest Jun 30)
+- Oct 16: Collect $5K + $20K EMD
+- Nov 20: Collect $50K EMD
 
 ## Today's Schedule (MDT)
-- 9:00 AM — Ben Reiter PE/VC Call (Black Card)
-- 11:00 AM — Hotel Check-Out (Hyatt Regency OC) ⚠️
-- 12:00 PM — Daniel Roberts Savvi Legal Call ⚠️ CONFLICT with checkout
-- 🚗 Drive: Huntington Beach → Lehi, UT (~8 hrs)
+- 1:00 PM — Work Ryan Medlock Collection Forward
+- 3:00 PM — 🔥 The One Thing with Pace (Owners Club)
+- 6:00 PM — 🌹 Date Night with Akemi
 
-## Email Action Items
-1. Naohiro Mouri — Japan LP status follow-up
-2. $50K Forgery — Send police report task to Manoella (TODAY)
-3. RQF Oct pipeline — Review pending funder intros
-4. Pinecone Capital LP updates — Any new interest?
+## Email Actions
+- 🚨 $50K Forgery → Delegate to Manoella NOW
+- Naohiro Mouri — Japan LP status follow-up
+- Update Capital Raising Tracker
 
-## Rest of Weekend
-- SAT: Date night with Akemi
-- SUN: Church | Family
+## Rest of Week
+- **Sun Oct 4** — Church 9AM · Family time
+- **Mon Oct 5** — Payroll 8:30AM ⚠️ · Tax Call Ewen Morkel 10AM · Rhonda Klch Capital Raising 3PM
+- **Tue Oct 6** — Jim Riggio Hedge Fund 10AM · RQF L10 7:30PM · #SquadUp UT 7PM
+- **Wed Oct 7** — Stephen Hall Tax 8AM · Doc Visit Revere Health 10AM ⚠️ · Dermatology 11AM · Travel begins
+- **Thu Oct 8** — Dustin Gomez RIA 8AM · Fund Launch AI Bridger 11AM · Raz & Paul 4:30PM
+- **Fri Oct 9** — Know More Owners 11AM · AI Office Hours Owen 2PM
+- ⚠️ HARD DEADLINE Oct 16: Two EMD Collections ($5K + $20K)
 
-## The Mindset
-Q4 Day 2. Launched the quarter from the ocean. The 8-hour drive home is uninterrupted thinking time. Ben and Daniel calls are momentum builders. Everything happens FOR you.
+## Mindset
+The OC Retreat wasn't the win — the follow-through is. Every conversation is still warm. Follow up before someone else does.
+
+*"What has to be true for this to be the best thing that ever happened to me?"*
 
 ---
-*Generated: Oct 2, 2026 | Scheduled pipeline*
+*Generated: Oct 3, 2026 | Scheduled pipeline*
