@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-02 — Morning transcript review — +26 items from 11 new INBOX recordings (Aug 25–Sep 10)**
+**Last updated: 2026-10-03 — Morning transcript review — +5 items from 13 new NEEDS-REVIEW transcripts (Aug 20–Sep 24)**
 
 ---
 
@@ -294,6 +294,8 @@
 | **Text Mundo + Christian — campground site walk** — schedule for Tuesday after 9am [STALE Aug 17] | ASAP [STALE] | 2026-08-17 Campground/Harley — due diligence walk for acquisition | 🔴 | ⬜ |
 ---
 
+| **Update "Funding Box" community doc — add large deal pricing policy** — clarify pre-quote required for deals >$750k–$1M; add expedited premium (1–2% extra for <1 week close); close gap where staff used standard 2.5% on urgent deals | This week | 08-20 Group Deal Review — operational gap identified; Memphis $257k deal undercharged | 🟡 | ⬜ |
+| **Update Formit/web app to redirect large deals (>$750k) to white-label direct-quote flow** — members submitting large stack deals should bypass standard form | This week | 08-20 Group Deal Review — Jeryt assigned; verify implementation | 🟡 | ⬜ |
 ## 🤖 Systems / AI
 
 | Item | Due | Context | Priority | Progress |
@@ -354,6 +356,8 @@
 | Distribute Five Star Bank underwriting criteria to RQF screening team when received | When received | 09-01 mtg — Jason Hartman | 🟢 | — |
 | Beta-test Ted's AI surplus data tool (multi-source, skip-trace, parcel assembly) for North Peak | ASAP | 08-26 mtg — superior data vs Matt's lists | 🟡 | — |
 ---
+| **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
+| **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
 ## 🏗️ Projects — Build
 
 | Item | Due | Context | Priority | Progress |
@@ -458,6 +462,7 @@
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
+| **Shift RQF marketing messaging toward Morby/seller carryback deal type** — update lead gen content to highlight stack method and seller finance (not just EMD/double close); test messaging with Ali Fordyce + Traci team | This week | 09-24 Lead Gen Strategy call — seller carry deals have less competition; market differentiation opportunity | 🟡 | ⬜ |
 ## ⏳ Waiting On
 
 | Item | Waiting For | Context | Priority | Progress |
