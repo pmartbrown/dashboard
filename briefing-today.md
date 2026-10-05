@@ -1,34 +1,24 @@
-# Morning Briefing — Sunday, October 4, 2026
-
-## The One Thing
-Set Monday up to win — prep for Ewen Morkel tax call (10 AM), research Rhonda Klch before capital call (3 PM), review payroll numbers (8:30 AM).
-
-## Top 3 Priorities
-1. Monday prep — go in ready to execute, not figure out
-2. OC Retreat final follow-ups — 96-hour window closing today
-3. Church + Full Family Presence — no phone, no deals
-
-## Fund Status
-NOT VERIFIED — last confirmed Aug 13, 2026 (52 days stale). Last known: ~$400K / $2M target / 20% · LPs: Paul $50K · Mouri $300K · Faline $50K
-
-## STRETY TO-DOS — NEXT 7 DAYS
-STRETY not authenticated — carried from Oct 3
-OVERDUE:
-- [CRITICAL] File Police Report — $50K Forgery (85+ days overdue)
-- [OVERDUE] Call Tanya Waymire — FBI/FOIA/Bank (11 days overdue)
-- [OVERDUE] Get bank apology letter (11 days overdue)
-- [OVERDUE] Collect from Ryan Medlock (9 days overdue)
-- [OVERDUE] Hire HML & DSCR Lead (25 days overdue)
-THIS WEEK:
-- Oct 16: Collect $5K EMD
-- Oct 16: Collect $20K EMD (difficult borrower)
-- Nov 20: Collect $50K EMD (fraud case)
-
-## Today's Schedule
-9:00 AM — Church
-1:00 PM — Family Church Study
-
-## Email Action Items
-- ACTION: Naohiro Mouri — Japan LP follow-up + ask for warm intros
-- URGENT: Update Capital Raising Tracker (52 days stale)
-- ACTION: Dylan Stewart — capital introducer follow-up
+IyBNb3JuaW5nIEJyaWVmaW5nIOKAlCBNb25kYXksIE9jdG9iZXIgNSwgMjAy
+NgoKKipRNCBEYXkgNSDigLIgTGVoaSwgVVQqKgoKLS0tCgojIyBUaGUgT25l
+IFRoaW5nCk1ha2UgdGhlIFJob25kYSBLbGNoIDMgUE0gY2FsbCB0aGUgYmVz
+dCA2MCBtaW51dGVzIG9mIHRoZSBtb250aC4gU2hlJ3MgdGhlIG5leHQgTFAu
+CgojIyBUb3AgMyBQcmlvcml0aWVzCjEuIFBheXJvbGwgKyBJbnZlc3RvciBQ
+YXkgLS0gODozMCBBTQoyLiBUYXggQ2FsbDogRXdlbiBNb3JrZWwgLS0gMTAg
+QU0KMy4gUmhvbmRhIEtsY2ggQ2FwaXRhbCBDYWxsIC0tIDMgUE0gW0JsYWNr
+IENhcmRdCgojIyBGdW5kIFN0YXR1cwpOT1QgVkVSSUZJRUQg4oCUIGxhc3Qg
+Y29uZmlybWVkIEF1ZyAxMywgMjAyNiAoNTMgZGF5cyBzdGFsZSkuClVwZGF0
+ZSBDYXBpdGFsIFJhaXNpbmcgVHJhY2tlciAtLSBVUkdFTlQuCgojIyBUb2Rh
+eSdzIFNjaGVkdWxlCi0gODozMCBBTSAtLSBQYXlyb2xsICsgSW52ZXN0b3Ig
+UGF5Ci0gMTA6MDAgQU0gLS0gVGF4IENhbGw6IEV3ZW4gTW9ya2VsCi0gMzow
+MCBQTSAtLSBSaG9uZGEgS2xjaCB8IENhcGl0YWwgUmFpc2luZywgRGVhbCBG
+bG93LCBCcmFuZCBbQmxhY2sgQ2FyZF0KCiMjIFJlc3Qgb2YgV2VlawotIFR1
+ZSBPY3QgNjogSmltIFJpZ2dpbyBIZWRnZSBGdW5kIDEwIEFNIC8gUlFGIEwx
+MCA3OjMwIFBNCi0gV2VkIE9jdCA3OiBTdGVwaGVuIEhhbGwgVGF4IDggQU0g
+LyBEZXJtIDExIEFNIC8gSSBMb3ZlIFlvdSBCcm8gNzozMCBQTQotIFRodSBP
+Y3QgODogRHVzdGluIEdvbWV6IFJJQSA4IEFNIC8gQnJpZGdlciBQZW5uaW5n
+dG9uIDExIEFNIC8gUmF6ICYgUGF1bCA0OjMwIFBNCi0gRnJpIE9jdCA5OiBL
+bm93IE1vcmUgT3duZXJzIDExIEFNIC8gQUkgT2ZmaWNlIEhvdXJzIDIgUE0K
+CiMjIE1pbmRzZXQKRXZlcnl0aGluZyBoYXBwZW5zIEZPUiBtZS4KQ2FwaXRh
+bCBnYXVudGxldCB3ZWVrIC0tIDUgaW52ZXN0b3IgdG91Y2hwb2ludHMuIE9u
+ZSBvZiB0aGVtIGNvdWxkIGJlIHRoZSBicmVha3Rocm91Z2guIFNob3cgdXAg
+ZnVsbHkuIEV4ZWN1dGUuCg==
