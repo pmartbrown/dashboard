@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-03 — Morning transcript review — +5 items from 13 new NEEDS-REVIEW transcripts (Aug 20–Sep 24)**
+**Last updated: 2026-10-05 — Morning transcript review — +8 items from 7 new transcripts (Sep 23–29)**
 
 ---
 
@@ -102,6 +102,8 @@
 | Ridgefield deal: send demand letter requiring upfront extension fee (15-25K) or foreclose ASAP | ASAP | 08-26 mtg — Chris/Justin flagged; firm policy decision | 🔴 | — |
 | Review Ryland & Zeke Phoenix co-living deal ($537K) with DSCR/HM lender contacts for assessment | When submitted | 08-26 mtg — seller carryback structure, possible ADU add | 🟡 | — |
 | Investigate THOWS (tiny homes on wheels) tax treatment — negative K-1 / accelerated depreciation | When possible | 08-25 mtg — potential new investment vehicle for Pinecone | 🟢 | — |
+| **Investigate Closed Title/Jay kickback** — Closed Title appears to be steering RQF's own borrowers to competitor Jay (2.5% + $3K TC fee + kickback); confirm the pattern and decide whether to stop routing through Closed Title | ASAP | 2026-09-24 RQF CRM call with Raz — multiple SC deals referred to Jay; one borrower already pushed back | 🔴 | ⬜ |
+| **Resolve $1.8M deal — borrower demands Jay be removed** — current borrower on $1.8M seller-carryback has explicitly demanded Jay be cut from the transaction; coordinate with Raz and title to restructure without Jay | ASAP | 2026-09-24 RQF CRM call with Raz — direct borrower conflict; deal at risk | 🔴 | ⬜ |
 ---
 
 ## 🏘️ Deals — Acquisition Review
@@ -232,6 +234,7 @@
 | Consult Justin on TC/referral partnership with JT; follow up with JT to move partnership forward | This week | 08-26 mtg — JT offers high-touch TC at $2.5K for carryback deals | 🟡 | — |
 | Contact Ted re: generating enhanced post-foreclosure datasets for North Peak Recovery (GA focus) | ASAP | 08-26 North Peak mtg — Ted is data expert | 🟡 | — |
 | Connect Mary with Jason Wooten (Utah VC) re: venture fundraising in regulated (medical device) industry | When ready | 08-25 mtg — Mary doing angel round for med device startup | 🟢 | — |
+| **Send transactional funding resources to new contact from Owners Club lender session** — share: TF overview link, Funding Hub Skool community, Anna's TC pricing, DSCR lender options | This week | 2026-09-29 Lender call at Owners Club — new contact asked about TF resources; Paul committed to follow up | 🟡 | ⬜ |
 ---
 
 ## 🧭 Personal / Standards
@@ -355,6 +358,10 @@
 | Create intake guide: which submissions get term sheets (DSCR/HM) vs transactional follow-ups | This week | 09-07 mtg — Jacob onboarding | 🟢 | — |
 | Distribute Five Star Bank underwriting criteria to RQF screening team when received | When received | 09-01 mtg — Jason Hartman | 🟢 | — |
 | Beta-test Ted's AI surplus data tool (multi-source, skip-trace, parcel assembly) for North Peak | ASAP | 08-26 mtg — superior data vs Matt's lists | 🟡 | — |
+| **Get Manoela and Alfonso to review new CRM pipeline stages** — loop in RQF power users before Raz finalizes the CRM build so stage names and workflows match daily ops | This week | 2026-09-24 CRM call with Raz — user input needed before locking the build | 🟡 | ⬜ |
+| **Send Raz RQF invoice and payoff statement templates** — standard RQF invoice and payoff statement formats needed for CRM invoice/payoff automation | ASAP | 2026-09-24 CRM call with Raz — build blocked without these templates | 🟡 | ⬜ |
+| **Set up GHL CRM for North Peak Recovery wholesaling team** — get added to Emmy's shared GHL account ($33/user/mo); build pipelines with relative-data appending (spouse, parent) for skip tracing | This week | 2026-09-24 Surplus+ Accountability call with Brent & Keefer — quick, affordable CRM solution | 🟡 | ⬜ |
+| **Document no-subordinate/no-gap-lending policy in investor-facing materials** — add explicit statement to PPM, investor deck, or fund overview that subordinate and gap lending are outside RQF/Pinecone scope | This month | 2026-09-29 Owners Club dinner — policy reaffirmed; needs to be in writing for LP protection | 🟢 | ⬜ |
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
@@ -402,6 +409,7 @@
 | Rebuild North Peak Recovery website (was compromised/deleted; consider full Cloudflare transfer) | This week | 09-10 mtg — Roz flagged security breach | 🟡 | — |
 | Design geo-matching logic to route RQF prospects to nearest affiliate by IP location | This month | 09-10 mtg — key for affiliate program | 🟡 | — |
 | Plan + host 'Step Seven' contact management/nurturing brainstorm with Skool community | ASAP | 09-10 mtg — CRM feature discussion | 🟡 | — |
+| **Pull first surplus funds list using RCIC/Atom data tool** — run a test list using the new RCIC data source; compare quality to prior Ted data; build foundation for GHL skip-trace workflow | This week | 2026-09-24 Surplus+ Accountability call — Brent pulling a list by weekend; Paul committed to do the same | 🟡 | ⬜ |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
