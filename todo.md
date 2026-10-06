@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-05 — Morning transcript review — +8 items from 7 new transcripts (Sep 23–29)**
+**Last updated: 2026-10-06 — Morning transcript review — +20 items from 5 new transcripts (Sep 30–Oct 5)**
 
 ---
 
@@ -104,6 +104,11 @@
 | Investigate THOWS (tiny homes on wheels) tax treatment — negative K-1 / accelerated depreciation | When possible | 08-25 mtg — potential new investment vehicle for Pinecone | 🟢 | — |
 | **Investigate Closed Title/Jay kickback** — Closed Title appears to be steering RQF's own borrowers to competitor Jay (2.5% + $3K TC fee + kickback); confirm the pattern and decide whether to stop routing through Closed Title | ASAP | 2026-09-24 RQF CRM call with Raz — multiple SC deals referred to Jay; one borrower already pushed back | 🔴 | ⬜ |
 | **Resolve $1.8M deal — borrower demands Jay be removed** — current borrower on $1.8M seller-carryback has explicitly demanded Jay be cut from the transaction; coordinate with Raz and title to restructure without Jay | ASAP | 2026-09-24 RQF CRM call with Raz — direct borrower conflict; deal at risk | 🔴 | ⬜ |
+| **Send intro emails connecting Joss (Jocelyn) to lender partners** — separate emails to Josh (DSCR Kings), Jeremy+Kay (EHM Strategies), Megan, Julian; position Joss as RQF's primary lending channel lead | **ASAP** | 10-05 Lending Channel Build-Out meeting — Joss onboarding as Primary Lending channel manager | 🔴 | ⬜ |
+| **Resolve 138 stale CRM lending deals** — 61 hard money 'forwarded to broker' + 77 DSCR unknown status; contact brokers for current deal status | **This week** | 10-05 Lending Channel Build-Out meeting — CRM cleanup before HubSpot→Ross CRM migration | 🟡 | ⬜ |
+| **Contact Stephen Loewer** — explore establishing a line of credit for double closes at his title companies in Colorado and Tennessee; competitor 'free double close funds' impacting RQF deal flow | **This week** | 09-30 OC Owners Club event — need friendly title LC to stay competitive on double-close model | 🟡 | ⬜ |
+| **Call Dan at Closed Title** — confirm preferred TC acceptance, resolve bias concerns, confirm 'second' transaction process for Paul's deals | **This week** | 09-30 OC event — Justin coordinating Anna/Adrian for 'second' closing workflow; need alignment from title leadership | 🟡 | ⬜ |
+| **Confirm with Adam — $500K funding availability** and timeline for RV park deal closing; align dates for upcoming transaction | **ASAP** | 09-30 OC event — Roger's deal with Mercury account setup; early October close target | 🔴 | ⬜ |
 ---
 
 ## 🏘️ Deals — Acquisition Review
@@ -129,6 +134,9 @@
 | **Tyler, TX mobile home park — revisit structure (90% SC, 0% interest, 21-yr amortization, 8-yr balloon) with updated financials when seller returns** | When seller returns | 09-29 Analysis — deal flagged for revisit; seller temporarily unavailable | 🟢 | ⬜ |
 | **Perform cost segregation study on Wildwood RV park — quantify accelerated depreciation (water park, cabins, store); explore STR structure (<7 avg stay) to offset active income without RE pro status** | This quarter | 09-29 Analysis — depreciation strategy; STR RV parks may qualify without RE professional status | 🟡 | ⬜ |
 | **Harley's campground** — Send LOI (50% down / 50% seller-carry as LLC membership), Oct 15 target close | URGENT | 08-26 mtg — Harley has competing cash offer | 🔴 | — |
+| **Contact Harry Eubanks (Sand Creek RV Park, Capitol Reef area)** — send preliminary info request: basic park facts (acreage, unit count, occupancy, revenue if willing) to frame an offer; Harry open to offers, 5 acres, not listing but would entertain | **This week** | 10-02 Southern Utah RV park scouting drive — Wonderland RV Park (neighboring) was completely full on Oct 2 (strong demand signal) | 🟡 | ⬜ |
+| **Research land owner behind Sand Creek RV Park** — retired U of Utah professor; check development intentions before approaching Harry Eubanks on deal | **When possible** | 10-02 Southern Utah RV park scouting — due diligence on neighboring ownership | 🟢 | ⬜ |
+| **Archive 180-acre Capitol Reef parcel as no-go** — constraints: bridge rebuild ~$200K+, flood mitigation required, steep access, no sewage/water infrastructure; document for future reference | **Logged** | 10-02 Southern Utah RV park scouting — beautiful land but non-buildable; clear pass | 🟢 | ⬜ |
 ---
 
 ## 📞 Follow-Ups / Outreach
@@ -235,6 +243,7 @@
 | Contact Ted re: generating enhanced post-foreclosure datasets for North Peak Recovery (GA focus) | ASAP | 08-26 North Peak mtg — Ted is data expert | 🟡 | — |
 | Connect Mary with Jason Wooten (Utah VC) re: venture fundraising in regulated (medical device) industry | When ready | 08-25 mtg — Mary doing angel round for med device startup | 🟢 | — |
 | **Send transactional funding resources to new contact from Owners Club lender session** — share: TF overview link, Funding Hub Skool community, Anna's TC pricing, DSCR lender options | This week | 2026-09-29 Lender call at Owners Club — new contact asked about TF resources; Paul committed to follow up | 🟡 | ⬜ |
+| **Text Harry Eubanks** — get Tracy's contact info at Wonderland RV Park; Wonderland was completely full on Oct 2 Friday — strong demand signal for the area | **ASAP** | 10-02 Southern Utah RV park scouting drive — Tracy is the contact at Wonderland; Paul wants to explore acquisition | 🔴 | ⬜ |
 ---
 
 ## 🧭 Personal / Standards
@@ -268,6 +277,9 @@
 
 | **Attend RCIC surplus session Monday 2026-09-28** — Nate's weekly surplus funds training call | 2026-09-28 | 09-23 RCIC session — recurring Monday sessions; Paul should attend | 🔴 | ⬜ |
 | **Plan Japan anniversary trip with Akemi (November) — prioritize New Year shrine, first sunrise on mountain summit, non-tourist Hokkaido ski resorts with onsen hotels** | By end of October | 09-29 Dinner — Paul and Akemi; Akemi's family from Sapporo area; anniversary trip | 🟡 | ⬜ |
+| **Show up more deliberately at Gator/OC events** — schedule specific upcoming events; stop letting opportunities pass by default; commit to 1-2 events per month at minimum | **This month** | 09-30 conversation w/ Dave (Alaska lodge/OC) — Paul reflecting he needs to commit more to in-person networking and showing up | 🟡 | ⬜ |
+| **Start sharing deal stories + wins publicly in community** — post what you're doing in Sub2/OC forums; present as the high-level operator you are (RQF, creative finance, AI-powered deals) | **This month** | 09-30 conversation w/ Dave — both agreed telling the story is what builds authority in community | 🟡 | ⬜ |
+| **Register for Creative Listing marketplace and fill out Buyers Box** — refer 5 people to platform; platform hitting 100K users; Owners Club members strongly encouraged | **When possible** | 09-30 OC Huntington Beach event — Ingrid Hernandez/Raz Mahali platform; free marketplace with Buyers Box feature for OC members | 🟢 | ⬜ |
 ---
 
 ## 💪 Health
@@ -362,6 +374,10 @@
 | **Send Raz RQF invoice and payoff statement templates** — standard RQF invoice and payoff statement formats needed for CRM invoice/payoff automation | ASAP | 2026-09-24 CRM call with Raz — build blocked without these templates | 🟡 | ⬜ |
 | **Set up GHL CRM for North Peak Recovery wholesaling team** — get added to Emmy's shared GHL account ($33/user/mo); build pipelines with relative-data appending (spouse, parent) for skip tracing | This week | 2026-09-24 Surplus+ Accountability call with Brent & Keefer — quick, affordable CRM solution | 🟡 | ⬜ |
 | **Document no-subordinate/no-gap-lending policy in investor-facing materials** — add explicit statement to PPM, investor deck, or fund overview that subordinate and gap lending are outside RQF/Pinecone scope | This month | 2026-09-29 Owners Club dinner — policy reaffirmed; needs to be in writing for LP protection | 🟢 | ⬜ |
+| **Export HubSpot CRM lending submissions to Google Sheet** — interim tracking for Joss during CRM transition; include all pending deals with broker status, loan type, borrower contact | **This week** | 10-05 Lending Channel Build-Out meeting — waiting for Ross's new CRM (~1 month); Google Sheet as bridge | 🟡 | ⬜ |
+| **Give Joss VIP status + white-label access** in RQF platform — assign task to Justin | **This week** | 10-05 Lending Channel Build-Out meeting — Joss needs platform access to serve as primary lending contact for members | 🟡 | ⬜ |
+| **Defer HubSpot seat purchase (~$1,200/yr)** — wait for Ross's new CRM (~1 month from Oct 5, target Nov 5) | **By Nov 2026** | 10-05 Lending Channel Build-Out meeting — Ross building CRM replacement that will cover this need | 🟢 | ⬜ |
+| **Test Mercury account control with Justin** — change login, email, phone number on at least one account to validate zero-trust control prior to funding large deals | **This week** | 09-30 OC event — bank account security audit for RQF funding operations; Roger's Mercury account as test case | 🟡 | ⬜ |
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
@@ -467,6 +483,10 @@
 | Get formal legal opinion on 506(b) employer-employee dynamics for Dave GP arrangement | This month | 08-25 mtg — Dave wants GP experience before launching own fund | 🟡 | — |
 | Draft 1-page disclosure template for Dave's employees who inquire about Pinecone fund | This month | 08-25 mtg — 506(b) power harassment risk mitigation | 🟡 | — |
 | Prepare 1-2 page summary for Dave: GP pathway, fund capacity, RV park thesis, THOWS strategy | This month | 08-25 mtg — Dave potentially major capital raiser | 🟡 | — |
+| **Post team intro in school/community** — position Joss (Jocelyn) as primary lending point person for RQF members needing hard money or DSCR loans | **This week** | 10-05 Lending Channel Build-Out meeting — community announcement to redirect lending inquiries to Joss | 🟡 | ⬜ |
+| **Plan Joss on live community call** — intro Joss to community as primary lending contact; target ~1 month out (~Nov 5) | **By Nov 5** | 10-05 Lending Channel Build-Out meeting — live call intro builds credibility and redirects deal flow to Joss | 🟡 | ⬜ |
+| **Pilot free VIP status for transactional coordinators** — expand VIP access to TCs as test program | **This month** | 10-05 Lending Channel Build-Out meeting — VIP program expansion concept | 🟢 | ⬜ |
+| **Launch paid ads for VIP program** within next month | **By Nov 5** | 10-05 Lending Channel Build-Out meeting — VIP program growth via paid acquisition | 🟢 | ⬜ |
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
