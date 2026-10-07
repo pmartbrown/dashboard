@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-06 — Morning transcript review — +20 items from 5 new transcripts (Sep 30–Oct 5)**
+**Last updated: 2026-10-07 — Morning transcript review — +8 items from 4 new transcripts (Oct 6–Oct 7)**
 
 ---
 
@@ -109,6 +109,9 @@
 | **Contact Stephen Loewer** — explore establishing a line of credit for double closes at his title companies in Colorado and Tennessee; competitor 'free double close funds' impacting RQF deal flow | **This week** | 09-30 OC Owners Club event — need friendly title LC to stay competitive on double-close model | 🟡 | ⬜ |
 | **Call Dan at Closed Title** — confirm preferred TC acceptance, resolve bias concerns, confirm 'second' transaction process for Paul's deals | **This week** | 09-30 OC event — Justin coordinating Anna/Adrian for 'second' closing workflow; need alignment from title leadership | 🟡 | ⬜ |
 | **Confirm with Adam — $500K funding availability** and timeline for RV park deal closing; align dates for upcoming transaction | **ASAP** | 09-30 OC event — Roger's deal with Mercury account setup; early October close target | 🔴 | ⬜ |
+| Review RV park/tiny home deal submitted by Ricky — underwrite for RQF funding | ASAP | 2026-10-06 Gator Lending Q&A & Morby Method Community Call | 🔴 | ⬜ |
+| Verify Meredith's 989 4th Ave SW deal status — confirm deal is active and in system | ASAP | 2026-10-06 Gator Lending Q&A & Morby Method Community Call | 🔴 | ⬜ |
+
 ---
 
 ## 🏘️ Deals — Acquisition Review
@@ -244,6 +247,8 @@
 | Connect Mary with Jason Wooten (Utah VC) re: venture fundraising in regulated (medical device) industry | When ready | 08-25 mtg — Mary doing angel round for med device startup | 🟢 | — |
 | **Send transactional funding resources to new contact from Owners Club lender session** — share: TF overview link, Funding Hub Skool community, Anna's TC pricing, DSCR lender options | This week | 2026-09-29 Lender call at Owners Club — new contact asked about TF resources; Paul committed to follow up | 🟡 | ⬜ |
 | **Text Harry Eubanks** — get Tracy's contact info at Wonderland RV Park; Wonderland was completely full on Oct 2 Friday — strong demand signal for the area | **ASAP** | 10-02 Southern Utah RV park scouting drive — Tracy is the contact at Wonderland; Paul wants to explore acquisition | 🔴 | ⬜ |
+| Follow up with Marcus — schedule discussion (RQF/Gator community) | This week | 2026-10-06 Gator Lending Q&A & Morby Method Community Call | 🟡 | ⬜ |
+
 ---
 
 ## 🧭 Personal / Standards
@@ -378,6 +383,11 @@
 | **Give Joss VIP status + white-label access** in RQF platform — assign task to Justin | **This week** | 10-05 Lending Channel Build-Out meeting — Joss needs platform access to serve as primary lending contact for members | 🟡 | ⬜ |
 | **Defer HubSpot seat purchase (~$1,200/yr)** — wait for Ross's new CRM (~1 month from Oct 5, target Nov 5) | **By Nov 2026** | 10-05 Lending Channel Build-Out meeting — Ross building CRM replacement that will cover this need | 🟢 | ⬜ |
 | **Test Mercury account control with Justin** — change login, email, phone number on at least one account to validate zero-trust control prior to funding large deals | **This week** | 09-30 OC event — bank account security audit for RQF funding operations; Roger's Mercury account as test case | 🟡 | ⬜ |
+| Ensure all RQF VIP members use 'we' not 'I' in marketing — update messaging guidelines | This week | 2026-10-06 Marketing Ethics, Stack Method Legality & Platform Updates | 🟡 | ⬜ |
+| Coordinate with CRM team on deal status verification — fix Dani/Meredith glitches | ASAP | 2026-10-06 Marketing Ethics, Stack Method Legality & Platform Updates | 🔴 | ⬜ |
+| Roz to provide weekly manual primary loan updates until CRM automation is live | This week | 2026-10-06 Marketing Ethics, Stack Method Legality & Platform Updates | 🟡 | ⬜ |
+| Investigate Danny's failed deal submission — diagnose technical issue in CRM/portal | This week | 2026-10-06 Gator Lending Q&A & Morby Method Community Call | 🟡 | ⬜ |
+
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
@@ -487,6 +497,8 @@
 | **Plan Joss on live community call** — intro Joss to community as primary lending contact; target ~1 month out (~Nov 5) | **By Nov 5** | 10-05 Lending Channel Build-Out meeting — live call intro builds credibility and redirects deal flow to Joss | 🟡 | ⬜ |
 | **Pilot free VIP status for transactional coordinators** — expand VIP access to TCs as test program | **This month** | 10-05 Lending Channel Build-Out meeting — VIP program expansion concept | 🟢 | ⬜ |
 | **Launch paid ads for VIP program** within next month | **By Nov 5** | 10-05 Lending Channel Build-Out meeting — VIP program growth via paid acquisition | 🟢 | ⬜ |
+| Discuss Anthony's challenge idea with RQF team — evaluate for community engagement | When possible | 2026-10-06 Marketing Ethics, Stack Method Legality & Platform Updates | 🟢 | ⬜ |
+
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
