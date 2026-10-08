@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-07 — Morning transcript review — +8 items from 4 new transcripts (Oct 6–Oct 7)**
+**Last updated: 2026-10-08 — Morning transcript review — +13 items from 4 new transcripts (Oct 5–Oct 6)**
 
 ---
 
@@ -111,6 +111,8 @@
 | **Confirm with Adam — $500K funding availability** and timeline for RV park deal closing; align dates for upcoming transaction | **ASAP** | 09-30 OC event — Roger's deal with Mercury account setup; early October close target | 🔴 | ⬜ |
 | Review RV park/tiny home deal submitted by Ricky — underwrite for RQF funding | ASAP | 2026-10-06 Gator Lending Q&A & Morby Method Community Call | 🔴 | ⬜ |
 | Verify Meredith's 989 4th Ave SW deal status — confirm deal is active and in system | ASAP | 2026-10-06 Gator Lending Q&A & Morby Method Community Call | 🔴 | ⬜ |
+| **Resolve $1.7M Roger deal funding gap** — find $500K to close; Justin reaching out to Adam for bridge capital | URGENT — ASAP | L10 Oct 6 — Roger deal at risk; funding gap identified | 🔴 | [ ] |
+| **Direct $700K overdue debt borrower to Keefer's legal team** — borrower unresponsive; escalate to legal | This week | L10 Oct 6 — overdue borrower needs legal escalation | 🟡 | [ ] |
 
 ---
 
@@ -248,6 +250,7 @@
 | **Send transactional funding resources to new contact from Owners Club lender session** — share: TF overview link, Funding Hub Skool community, Anna's TC pricing, DSCR lender options | This week | 2026-09-29 Lender call at Owners Club — new contact asked about TF resources; Paul committed to follow up | 🟡 | ⬜ |
 | **Text Harry Eubanks** — get Tracy's contact info at Wonderland RV Park; Wonderland was completely full on Oct 2 Friday — strong demand signal for the area | **ASAP** | 10-02 Southern Utah RV park scouting drive — Tracy is the contact at Wonderland; Paul wants to explore acquisition | 🔴 | ⬜ |
 | Follow up with Marcus — schedule discussion (RQF/Gator community) | This week | 2026-10-06 Gator Lending Q&A & Morby Method Community Call | 🟡 | ⬜ |
+| **Introduce Joss Tenorio to 4 lenders via email** — Josh (DSCR Kings), Jeremy/Kay (EHM), Megan, Julian; include Joss's bio and lender matrix context | This week | Joss onboarding Oct 5 — needed for lender channel launch | 🟡 | [ ] |
 
 ---
 
@@ -391,6 +394,14 @@
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
+| **Restructure Morby Method process to require asset-backed loans** — no undisclosed third-party funding; update intake form and partner agreement language | This week | L10 Oct 6 — legal/compliance risk flagged by Justin | 🔴 | [ ] |
+| **Develop formal EMD dispute escalation process** — define when/how RQF gets involved, thresholds for legal action, and member communication protocol | This week | L10 Oct 6 — recurring EMD disputes need standardized process | 🟡 | [ ] |
+| **Create new secure internal email address for deal notifications** — separate from public-facing; use for lender alerts and EMD confirmations | This week | L10 Oct 6 — security/ops improvement | 🟡 | [ ] |
+| **Create process for Manoela to host monthly RQF member office hours** — define format, scheduling, and topics covered | This month | L10 Oct 6 — delegation of member support | 🟢 | [ ] |
+| **Finalize school member onboarding checklist** — define steps from signup to first deal submission | This month | L10 Oct 6 | 🟢 | [ ] |
+| **Provide Joss with white-label site and HubSpot pipeline download** — walk through CRM setup and lender tracking workflow | This week | Joss onboarding Oct 5 | 🟡 | [ ] |
+| **Discuss Anthony's white-label tech challenge idea with team** — potential community engagement around setting up tech stack | This month | VIP call Oct 6 — Anthony suggested a challenge format | 🟢 | [ ] |
+
 ## 🏗️ Projects — Build
 
 | Item | Due | Context | Priority | Progress |
@@ -446,6 +457,8 @@
 | **Verify Roger's deal status — did it close?** — seller available Sept 7; update was due Sept 8 (PAST DUE); confirm Paige & Michael received EMD Mutual Release template from Justin | **ASAP** | 2026-09-03 Collaboration Protocol call — Roger's deal timeline slipped; Paige & Michael doing 39+ closings/month are high-priority TC partnership | 🔴 | ⬜ |
 | **Onboard Paige & Michael (Stack/Morby TC partners, 39 closings/month)** — send white-label setup info, VIP School membership details, standardized title doc package (addenda, sample HUDs, double-close steps) | **This week** | 2026-09-03 Collaboration Protocol call — Paige & Michael are major pipeline TC partners; primarily Stack/Morby closings | 🟡 | ⬜ |
 | **North Peak Recovery: Launch 6-month proof-of-concept with Ted** — data platform pipeline: data ingestion → cleaning → skip trace → postcards → ringless voicemail → CRM; territory franchise model ($10K upfront + $1K/month + 8-25% fee tiers); MVP states: Utah/Idaho/Montana | **Q4 2026** | 2026-09-03 Kiefer call — North Peak Recovery reactivated; Ted building the data tech stack; Kiefer managing territory development | 🔴 | ⬜ |
+| **Draft non-circumvention agreements for VIPs and lenders** — cover deal sourcing, introductions, and IP protections | This month | L10 Oct 6 — legal protection for RQF relationships | 🟡 | [ ] |
+
 ## 📣 Marketing / Capital Raising
 
 | Item | Due | Context | Priority | Progress |
@@ -503,6 +516,9 @@
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
 | **Shift RQF marketing messaging toward Morby/seller carryback deal type** — update lead gen content to highlight stack method and seller finance (not just EMD/double close); test messaging with Ali Fordyce + Traci team | This week | 09-24 Lead Gen Strategy call — seller carry deals have less competition; market differentiation opportunity | 🟡 | ⬜ |
+| **Investigate Family Office Club for capital raising** — assess fit for Pinecone Capital LP outreach; check membership and event calendar | This month | L10 Oct 6 — potential accredited investor channel | 🟡 | [ ] |
+| **Audit RQF marketing materials for "we" vs "I" language** — ensure all funding capacity claims use "we" to reflect fund backing, not personal funds | This week | VIP call Oct 6 — compliance/marketing alignment | 🟡 | [ ] |
+
 ## ⏳ Waiting On
 
 | Item | Waiting For | Context | Priority | Progress |
