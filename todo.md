@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-10 — Morning transcript review — +5 items from 2 new transcripts (Oct 7–8)**
+**Last updated: 2026-10-11 — Morning transcript review — +3 items from 2 new transcripts (Oct 8 Partner Q&A, Sep 30 OC)**
 
 ---
 
@@ -7,6 +7,7 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Confirm with Adam — $500K POF availability for Malcolm's Briarwood Ave deal** — verify capital is available and closing timeline still valid | ASAP | Sep 30 Owners Club — early next week closing was noted; verify if still active or closed | 🔴 | ⬜ |
 | **Create loan documents for Adam Anderson** — draft promissory note, security/collateral docs, personal guaranty if applicable; confirm loan terms (amount, rate, term, payment schedule) before drafting | **URGENT — ASAP** | Added 2026-05-29 — Paul flagged as urgent; entity (RQF / Hanks / Pinecone) and deal type TBD | 🔴 | ⬜ |
 | **File Delaware Annual Franchise Tax — Real Quick Funds, LLC** — **$300 flat by 6/1/2026** (LLC File Number: **005689630**). Pay online: corp.delaware.gov (8AM–11:45PM ET). Late = $507.50 by 7/1, $515 by 8/1, $522.50 by 9/1, then administrative dissolution. "THIS IS THE ONLY NOTICE YOU WILL RECEIVE" per Delaware. DIY (corp.delaware.gov) vs URA service (855-236-9172) | **By 2026-06-01** | Physical Delaware L.L.C. Tax Notice received 4/28 via URA; URA calendar alert 5/6; PDF in admin@pineconegp inbox + Registered Agent folder; one-week reminder scheduled for 2026-05-25 8AM MT | 🔴 | ⬜ |
 | Confirm with lender: will JV agreement (without OA changes) satisfy $2M liquidity verification for Mike's 46-lot construction refi? | ASAP | 04-28 meeting — Tomer/Jeffrey broker team; Mike liquidity-constrained post-permitting delays | 🔴 | ⬜ |
@@ -159,6 +160,7 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Invite Owen Mecham** to lead next partner call on GrokBot AI automation for partners — schedule date, confirm topic, get on calendar | This week | Oct 8 VIP Partner Q&A — Owen presented GrokBot capabilities; Paul wants him to lead next session | 🟡 | ⬜ |
 | Call Rod back — confirm deal moving forward | Today | 04-28 meeting | 🔴 | ⬜ |
 | Email Mike's team: JV agreement draft + capital partner confirmation | Today | 04-28 meeting | 🔴 | ⬜ |
 | Contact Mike Jepsen at BH Properties | This week | 04-28 meeting — interest in direct deal | 🟡 | ⬜ |
@@ -307,6 +309,7 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Follow up on Mohs surgery lymph node check** — confirm lymph node status after lip lesion procedure; functional health follow-through | This month | Sep 30 Owners Club personal health update | 🟡 | ⬜ |
 | Schedule physical / annual checkup | This month | Preventive care | 🟡 | ⬜ |
 | Restart consistent morning workout routine (gym or home) | This week | Personal health goal | 🟡 | ⬜ |
 | Track water intake — target 100oz/day | Daily | Health optimization | 🟢 | ⬜ |
