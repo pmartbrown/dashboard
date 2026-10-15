@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-14 — Morning transcript review — +10 items from 2 new transcripts (2026-10-13 Cozy Corner RV Park acquisition, 2026-10-08 Custer Crossings OA/IC Veto); 1 file unreadable (Surplus+ entity not found); 2 non-work files skipped**
+**Last updated: 2026-10-15 — Morning transcript review — +10 items from 2 new transcripts (2026-10-13 SKOOL Community Call Long-Term POF, 2026-10-13 L10 Devin/Duck Creek Tax Planning); 3 previously processed files now tracked (Cozy Corner, TEAM Joss Onboarding, L10 Sept Record Month)**
 
 ---
 
@@ -114,6 +114,10 @@
 | Verify Meredith's 989 4th Ave SW deal status — confirm deal is active and in system | ASAP | 2026-10-06 Gator Lending Q&A & Morby Method Community Call | 🔴 | ⬜ |
 | **Resolve $1.7M Roger deal funding gap** — find $500K to close; Justin reaching out to Adam for bridge capital | URGENT — ASAP | L10 Oct 6 — Roger deal at risk; funding gap identified | 🔴 | [ ] |
 | **Direct $700K overdue debt borrower to Keefer's legal team** — borrower unresponsive; escalate to legal | This week | L10 Oct 6 — overdue borrower needs legal escalation | 🟡 | [ ] |
+| **Review Tim Floyd's $5M NYC Long-Term POF deal** — $5M escrow for $86M condo purchase; high-risk EMD exposure; review full contract and $250K fee structure before committing capital | ASAP | 2026-10-13 [SKOOL] Community call — requires asset lien structure for non-disclosed funding | 🔴 | ⬜ |
+| **Send formal Devin payoff letter via Keefer** — accept $300K partial payoff; defer remaining fees; route all communication through legal | ASAP | 2026-10-13 [L10] Devin loan resolution — Keefer to draft | 🔴 | ⬜ |
+| **Duck Creek RV Park (Grand Rapids MI) — pursue equity via Morby Method** — reach out to RV park Morby Method lenders; Justin sourcing contacts; equity position target | This week | 2026-10-13 [L10] — identified as next RV park equity play | 🟡 | ⬜ |
+| **Explore bad debt write-offs with CPA** — Devin loan + other overdue borrowers; reduce 2026 tax liability; coordinate with CPA before year-end | This month | 2026-10-13 [L10] — $40K 2025 tax bill context; multiple overdue loans | 🟡 | ⬜ |
 
 ---
 
@@ -278,6 +282,7 @@
 | **Text Harry Eubanks** — get Tracy's contact info at Wonderland RV Park; Wonderland was completely full on Oct 2 Friday — strong demand signal for the area | **ASAP** | 10-02 Southern Utah RV park scouting drive — Tracy is the contact at Wonderland; Paul wants to explore acquisition | 🔴 | ⬜ |
 | Follow up with Marcus — schedule discussion (RQF/Gator community) | This week | 2026-10-06 Gator Lending Q&A & Morby Method Community Call | 🟡 | ⬜ |
 | **Introduce Joss Tenorio to 4 lenders via email** — Josh (DSCR Kings), Jeremy/Kay (EHM), Megan, Julian; include Joss's bio and lender matrix context | This week | Joss onboarding Oct 5 — needed for lender channel launch | 🟡 | [ ] |
+| **Decide on Roger referral relationship** — Justin recommends strategic distancing; determine if RQF continues accepting Roger's deal flow | This week | 2026-10-13 [L10] — ongoing tension; Roger not cooperative on $1.7M deal | 🟡 | ⬜ |
 
 ---
 
@@ -425,6 +430,8 @@
 | Coordinate with CRM team on deal status verification — fix Dani/Meredith glitches | ASAP | 2026-10-06 Marketing Ethics, Stack Method Legality & Platform Updates | 🔴 | ⬜ |
 | Roz to provide weekly manual primary loan updates until CRM automation is live | This week | 2026-10-06 Marketing Ethics, Stack Method Legality & Platform Updates | 🟡 | ⬜ |
 | Investigate Danny's failed deal submission — diagnose technical issue in CRM/portal | This week | 2026-10-06 Gator Lending Q&A & Morby Method Community Call | 🟡 | ⬜ |
+| **Explore S-Corp election for RQF with CPA** — evaluate tax savings for 2026 fiscal year; coordinate with accountant on election deadline | This month | 2026-10-13 [L10] — $40K 2025 tax bill; S-Corp could significantly reduce SE taxes | 🟡 | ⬜ |
+| **Require base-case underwriting alongside high-upside strategy** — for all multi-strategy deals, model standard scenario + best-case; add to intake SOP | This month | 2026-10-13 [SKOOL] — community education; prevents over-optimistic deal pitches | 🟢 | ⬜ |
 
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
@@ -550,6 +557,9 @@
 | **Pilot free VIP status for transactional coordinators** — expand VIP access to TCs as test program | **This month** | 10-05 Lending Channel Build-Out meeting — VIP program expansion concept | 🟢 | ⬜ |
 | **Launch paid ads for VIP program** within next month | **By Nov 5** | 10-05 Lending Channel Build-Out meeting — VIP program growth via paid acquisition | 🟢 | ⬜ |
 | Discuss Anthony's challenge idea with RQF team — evaluate for community engagement | When possible | 2026-10-06 Marketing Ethics, Stack Method Legality & Platform Updates | 🟢 | ⬜ |
+| **Build VIP Funding Hub AI agent repository** — plan and launch AI agent system for RQF VIP members; centralize deal resources and automation tools | This month | 2026-10-13 [SKOOL] — community-requested; Tim Floyd and others expressed strong interest | 🟡 | ⬜ |
+| **Draft new borrower agreements** — add asset lien clause (promissory note + unrecorded deed of trust) and anti-circumvention language; replace current templates | This month | 2026-10-13 [L10] — Morby Method risk mitigation; required for new deal structure | 🟡 | ⬜ |
+| **Draft new referral partner agreements** — formalize referral terms; include non-circumvention and deal-specific protections | This month | 2026-10-13 [L10] — protect against bypass by lenders + partners | 🟡 | ⬜ |
 
 ---
 
