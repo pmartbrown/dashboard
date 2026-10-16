@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-15 — Morning transcript review — +10 items from 2 new transcripts (2026-10-13 SKOOL Community Call Long-Term POF, 2026-10-13 L10 Devin/Duck Creek Tax Planning); 3 previously processed files now tracked (Cozy Corner, TEAM Joss Onboarding, L10 Sept Record Month)**
+**Last updated: 2026-10-16 — Morning transcript review — +6 items from 1 new transcript (Oct 15 Community Mastermind + AI Infrastructure Review)**
 
 ---
 
@@ -284,6 +284,7 @@
 | **Introduce Joss Tenorio to 4 lenders via email** — Josh (DSCR Kings), Jeremy/Kay (EHM), Megan, Julian; include Joss's bio and lender matrix context | This week | Joss onboarding Oct 5 — needed for lender channel launch | 🟡 | [ ] |
 | **Decide on Roger referral relationship** — Justin recommends strategic distancing; determine if RQF continues accepting Roger's deal flow | This week | 2026-10-13 [L10] — ongoing tension; Roger not cooperative on $1.7M deal | 🟡 | ⬜ |
 
+| **Send Julian's contact to Joss** — Julian = new lender with API-enabled deal tracking; route DSCR/HM deals + request API integration for portal status feeds | ASAP | Plaud — Oct 15 Community Mastermind + AI Infrastructure session | 🟡 | ⬜ |
 ---
 
 | **Connect Troy Vorse with ground-up construction lenders — Paradise CA rebuild project** — Troy needs a construction lender offering deferred debt service for rebuilding burned-out lots in Paradise CA; seller is financing the lots; ~$400K net profit target per home; lender will need first-position lien (seller lien subordinate); also needs help raising investor reserves (ground-up lenders require significant liquidity) | **This week** | 2026-10-08 Partner Q'A — Troy Vorse (lender partner) presented Paradise CA project; Lot acquisition via seller carry; construction loan with deferred debt service is the target structure | 🟡 | ⬜ |
@@ -433,6 +434,10 @@
 | **Explore S-Corp election for RQF with CPA** — evaluate tax savings for 2026 fiscal year; coordinate with accountant on election deadline | This month | 2026-10-13 [L10] — $40K 2025 tax bill; S-Corp could significantly reduce SE taxes | 🟡 | ⬜ |
 | **Require base-case underwriting alongside high-upside strategy** — for all multi-strategy deals, model standard scenario + best-case; add to intake SOP | This month | 2026-10-13 [SKOOL] — community education; prevents over-optimistic deal pitches | 🟢 | ⬜ |
 
+| **Deliver three-part Grok training series** — live setup of new Grok bot on fresh iPhone; adapt Owen Mecklem's presentation; cover agentic AI basics, Grok setup, model-agnostic ops brain | This week+ | Plaud — Oct 15 Community Mastermind + AI Infrastructure session | 🟡 | ⬜ |
+| **Build GitHub AI Ops Brain + sub-repo sync** — create master GitHub repo; add RQF, Pinecone Capital, North Peak Recovery sub-repos; configure nightly sync and tiered permissions | This week | Plaud — Oct 15 Community Mastermind + AI Infrastructure session | 🟡 | ⬜ |
+| **Write step-by-step GitHub AI brain setup guide** — document for community: GitHub account, company repo, Ops Brain connection, Composio API integration (emails, calendar, CRM, social) | This week | Plaud — Oct 15 Community Mastermind + AI Infrastructure session | 🟡 | ⬜ |
+| **Compile paid data service research for Ted (North Peak Recovery)** — assess county records data providers: coverage, cost, accuracy vs manual research for surplus fund recovery | This week | Plaud — Oct 15 Community Mastermind + AI Infrastructure session | 🟢 | ⬜ |
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
@@ -561,6 +566,7 @@
 | **Draft new borrower agreements** — add asset lien clause (promissory note + unrecorded deed of trust) and anti-circumvention language; replace current templates | This month | 2026-10-13 [L10] — Morby Method risk mitigation; required for new deal structure | 🟡 | ⬜ |
 | **Draft new referral partner agreements** — formalize referral terms; include non-circumvention and deal-specific protections | This month | 2026-10-13 [L10] — protect against bypass by lenders + partners | 🟡 | ⬜ |
 
+| **Upload raw video clips to Google Drive for Lila** — Lila clips, captions, and schedules via Metricool; keep folder current so content pipeline stays fed | This week | Plaud — Oct 15 Community Mastermind + AI Infrastructure session | 🟢 | ⬜ |
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
