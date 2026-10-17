@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-16 — Morning transcript review — +6 items from 1 new transcript (Oct 15 Community Mastermind + AI Infrastructure Review)**
+**Last updated: 2026-10-17 — Morning transcript review — +18 items from 5 new transcripts (Oct 14–16: EXEC Q3, SKOOL AI, Surplus+, Raz CRM, Lender call)**
 
 ---
 
@@ -140,6 +140,10 @@
 | **Update Pinecone Capital ↔ RealQuick Funds investment agreement** — document 3.6% quarterly return calculation, capital deployment criteria, escrow vs bridge lending limits; add investment committee decision addendum process | By Oct 22 | Sep 22 Pinecone Capital mid-year board review — formal agreement update needed before next LP distributions | 🟡 | ⬜ |
 | **Send Q3 unaudited financials to ResCap Plus LP limited partners** (Valine $50K, Mori $300K) — prepare and distribute within 60 days of Sep 30 quarter-end | By Nov 29 | Sep 22 Pinecone Capital mid-year board review — formal resolution adopted | 🟡 | ⬜ |
 | **Explore GP-owned life insurance options** — buy-sell policy and collateralization strategy for fund/deal use; align ownership with GP entity; note 60-day setup window | This month | Sep 29 Owners Club lender panel — Paul committed to explore; cited as underused tool for deal structures | 🟢 | ⬜ |
+| **Secure $1M for $2.5M deal closing THIS WEEK** — contact Bobby or Scott (Justin to record funding explanation video first) | This week | 2026-10-16 Q3 Financial Review (EXEC) | 🔴 | ☐ |
+| **Investigate $60k intercompany balance owed to Hank's Ventures** — confirm source and resolve | This week | 2026-10-16 Q3 Financial Review (EXEC) | 🟡 | ☐ |
+| **Update fund servicing agreement** — increase rate to ~1.4% to cover Dave GP 2% annual fee | This week | 2026-10-16 Q3 Financial Review (EXEC) | 🟡 | ☐ |
+| **Full loan write-off review** — assess probability of recovery for each outstanding loan (likely >$30k total) | This month | 2026-10-16 Q3 Financial Review (EXEC) | 🟡 | ☐ |
 ## 🏘️ Deals — Acquisition Review
 
 | Item | Due | Context | Priority | Progress |
@@ -290,6 +294,10 @@
 | **Connect Troy Vorse with ground-up construction lenders — Paradise CA rebuild project** — Troy needs a construction lender offering deferred debt service for rebuilding burned-out lots in Paradise CA; seller is financing the lots; ~$400K net profit target per home; lender will need first-position lien (seller lien subordinate); also needs help raising investor reserves (ground-up lenders require significant liquidity) | **This week** | 2026-10-08 Partner Q'A — Troy Vorse (lender partner) presented Paradise CA project; Lot acquisition via seller carry; construction loan with deferred debt service is the target structure | 🟡 | ⬜ |
 | **Follow up with Owners Club dinner contact re: EMD/lending collaboration** — coordinate intro call between their lending team and RQF; scheduling commitment made for within 2 weeks | OVERDUE | Sep 29 Owners Club dinner — concrete commitment to meet within 1-2 weeks; now past that window | 🔴 | ⬜ |
 | **Send transactional funding resource links to Owners Club contact** — Funding Hub school community link, TC referral (Anna's pricing), DSCR lender options | This week | Sep 29 Owners Club lender panel — Paul committed to send resources to interested attendee | 🟡 | ⬜ |
+| **Push EHM for ~$15k in outstanding referral fees** — must clear before Oct 20 payment run | Oct 20 | 2026-10-16 Q3 Financial Review (EXEC) | 🔴 | ☐ |
+| **Follow up on overdue Paul Johnson attorney invoice** — confirm status and payment | This week | 2026-10-16 Q3 Financial Review (EXEC) | 🟡 | ☐ |
+| **Forward Alexandria, LA 6-unit deal info to Legacy072025@gmail.com** (Eva/Pierproperty Holdings group) | ASAP | 2026-10-14 Capital Deployment / RQF Fund call (LENDER) | 🟡 | ☐ |
+| **Follow up with Eva/Pierproperty Holdings group** — confirm deal criteria text received; add to RQF deal-flow pipeline | This week | 2026-10-14 Capital Deployment / RQF Fund call (LENDER) | 🟢 | ☐ |
 ## 🧭 Personal / Standards
 
 | Item | Due | Context | Priority | Progress |
@@ -448,6 +456,13 @@
 | **Finalize school member onboarding checklist** — define steps from signup to first deal submission | This month | L10 Oct 6 | 🟢 | [ ] |
 | **Provide Joss with white-label site and HubSpot pipeline download** — walk through CRM setup and lender tracking workflow | This week | Joss onboarding Oct 5 | 🟡 | [ ] |
 | **Discuss Anthony's white-label tech challenge idea with team** — potential community engagement around setting up tech stack | This month | VIP call Oct 6 — Anthony suggested a challenge format | 🟢 | [ ] |
+| **Begin weekly HubSpot/QuickBooks data cleanup** — weekly WhatsApp report of mismatched deals to Justin | This week | 2026-10-16 Q3 Financial Review (EXEC) | 🟡 | ☐ |
+| **Request Relay referral link for RQF; set up Summit REI DBA account** | This week | 2026-10-16 Q3 Financial Review (EXEC) | 🟡 | ☐ |
+| **Build AI-automated due diligence for title companies/escrow officers** — green/yellow/red CRM risk flag system | When possible | 2026-10-16 Q3 Financial Review (EXEC) | 🟢 | ☐ |
+| **Continue lender matching system build with Joss & Roz** — focus on API integrations (EHM active, Josh/DSCR Kings next) | This week | 2026-10-15 Agentic AI & Lender Matching (SKOOL) | 🟡 | ☐ |
+| **Get Georgia research workflow doc from Brent; send to Ted** — Ted to evaluate vs his ~$2k/month paid data service | This week | 2026-10-15 Surplus+ Accountability / North Peak Recovery (PARTNER) | 🟡 | ☐ |
+| **Record Bruce Williams (North Peak Recovery) onboarding call on Saturday** | Oct 17 (Sat) | 2026-10-15 Surplus+ Accountability / North Peak Recovery (PARTNER) | 🔴 | ☐ |
+| **Communicate RQF CRM rollout plan to team** — portal.realquickfunds.com live for shadow-mode testing; EMD pilot next, then full HubSpot migration | This week | 2026-10-15 CRM Go-Live & EMD Automation (PARTNER w/ Raz) | 🟡 | ☐ |
 
 ## 🏗️ Projects — Build
 
@@ -510,6 +525,7 @@
 | **Formalize Justin Pilakka to Pinecone Capital investment committee** — draft board resolution, update Pinecone Capital LLC operating agreement or side letter | By Oct 22 | Sep 22 Pinecone Capital mid-year board review — proposed and agreed; needs formal documentation | 🟡 | ⬜ |
 | **Finalize Dave (Acrocs) as Pinecone Capital GP and investment committee member** — complete discussions, draft operating agreement amendment, define capital raise responsibilities | By Oct 22 | Sep 22 Pinecone Capital mid-year board review — discussions ongoing 1+ month; expected within 30 days | 🟡 | ⬜ |
 | **Identify and appoint 4th Pinecone Capital investment committee member** — vet candidates who add governance credibility or industry expertise | By Oct 22 | Sep 22 Pinecone Capital mid-year board review — committee needs 4 members for majority-vote structure; Paul's vote is tiebreaker | 🟢 | ⬜ |
+| **Host 3-part GrokBot training series** — starts NEXT WEEK; borrowed from Owen Mecham/Carvana framework | Next week | 2026-10-15 Agentic AI & Lender Matching (SKOOL) | 🔴 | ☐ |
 ## 📣 Marketing / Capital Raising
 
 | Item | Due | Context | Priority | Progress |
@@ -573,6 +589,8 @@
 | **Shift RQF marketing messaging toward Morby/seller carryback deal type** — update lead gen content to highlight stack method and seller finance (not just EMD/double close); test messaging with Ali Fordyce + Traci team | This week | 09-24 Lead Gen Strategy call — seller carry deals have less competition; market differentiation opportunity | 🟡 | ⬜ |
 | **Investigate Family Office Club for capital raising** — assess fit for Pinecone Capital LP outreach; check membership and event calendar | This month | L10 Oct 6 — potential accredited investor channel | 🟡 | [ ] |
 | **Audit RQF marketing materials for "we" vs "I" language** — ensure all funding capacity claims use "we" to reflect fund backing, not personal funds | This week | VIP call Oct 6 — compliance/marketing alignment | 🟡 | [ ] |
+| **Share Google Ads campaign results with community** (SKOOL) | This week | 2026-10-15 Agentic AI & Lender Matching (SKOOL) | 🟡 | ☐ |
+| **Research Nick Fisher (New Reach) keyword tools** for Google Ads targeting refinement | This week | 2026-10-15 CRM Go-Live & EMD Automation (PARTNER w/ Raz) | 🟡 | ☐ |
 
 ## ⏳ Waiting On
 
