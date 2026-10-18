@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-17 — Morning transcript review — +18 items from 5 new transcripts (Oct 14–16: EXEC Q3, SKOOL AI, Surplus+, Raz CRM, Lender call)**
+**Last updated: 2026-10-18 — Morning transcript review — +9 items from 4 new transcripts (Oct 13–16: ResGap Plus Q3, L10 Devin, Community Mastermind, Skool POF/EMD)**
 
 ---
 
@@ -119,6 +119,12 @@
 | **Duck Creek RV Park (Grand Rapids MI) — pursue equity via Morby Method** — reach out to RV park Morby Method lenders; Justin sourcing contacts; equity position target | This week | 2026-10-13 [L10] — identified as next RV park equity play | 🟡 | ⬜ |
 | **Explore bad debt write-offs with CPA** — Devin loan + other overdue borrowers; reduce 2026 tax liability; coordinate with CPA before year-end | This month | 2026-10-13 [L10] — $40K 2025 tax bill context; multiple overdue loans | 🟡 | ⬜ |
 
+| **Distribute Q3 LP payments for ResGap Plus fund** — wire to Modi and Villeen, internal transfer to Brown; confirm exact amounts per LP agreement | ASAP | ResGap Plus Q3 L10 — Oct 16 | 🔴 | ⬜ |
+| **Send $500 reimbursement to Pinecone Capital** from ResGap Plus operations account | This week | ResGap Plus Q3 L10 — Oct 16 | 🟡 | ⬜ |
+| **Hold IC (Investment Committee) meeting before Q4 end** — agenda: Q3 fund performance, Q4 capital raise plan, LPA update approval | Before Dec 31 | ResGap Plus Q3 L10 — Oct 16 | 🟡 | ⬜ |
+| **Get ACRUX legal name and formation state** — confirm with attorneys; required before Pinecone Capital LPA can be updated | This week | ResGap Plus Q3 L10 — Oct 16 | 🟡 | ⬜ |
+| **Update Pinecone Capital LPA** — incorporate ACRUX entity as GP, set servicing rate to 1.37% for Q4, include operational Q4 updates | Q4 2026 | ResGap Plus Q3 L10 — Oct 16 | 🟡 | ⬜ |
+| **Conduct Q4 owner capital audit for ResGap Plus** — reconcile Paul's capital contributions vs. operational fund transfers; resolve 3DCM tracking discrepancy | By end of Q4 | ResGap Plus Q3 L10 — Oct 16 | 🟡 | ⬜ |
 ---
 
 | **Correct gas station deal contract** — change seller-financing term from 12 to 120 months (typo in contract); negotiate $50K hard EMD requirement down; ensure inspection contingencies in place before executing | **ASAP** | 2026-10-06 [EXEC] Weekly Strategy — Justin + Paul; contract error discovered during deal review | 🔴 | ⬜ |
@@ -446,6 +452,9 @@
 | **Build GitHub AI Ops Brain + sub-repo sync** — create master GitHub repo; add RQF, Pinecone Capital, North Peak Recovery sub-repos; configure nightly sync and tiered permissions | This week | Plaud — Oct 15 Community Mastermind + AI Infrastructure session | 🟡 | ⬜ |
 | **Write step-by-step GitHub AI brain setup guide** — document for community: GitHub account, company repo, Ops Brain connection, Composio API integration (emails, calendar, CRM, social) | This week | Plaud — Oct 15 Community Mastermind + AI Infrastructure session | 🟡 | ⬜ |
 | **Compile paid data service research for Ted (North Peak Recovery)** — assess county records data providers: coverage, cost, accuracy vs manual research for surplus fund recovery | This week | Plaud — Oct 15 Community Mastermind + AI Infrastructure session | 🟢 | ⬜ |
+| **Set up ACH payment system for LP quarterly distributions** — automate LP payment cycle; eliminate manual wire process for Modi, Villeen, Brown | This month | ResGap Plus Q3 L10 — Oct 16 | 🟡 | ⬜ |
+| **Confirm Connor Tensai (GrokBot) community setup is live** — verify Connor@RealQuickFunds.com is active, Skool DMs enabled, moderation rules and tier-based permissions configured | This week | Community Mastermind Oct 15 — AI agent roster build-out | 🟡 | ⬜ |
+| **Configure Composio as API router for RQF operations** — connect Gmail (multi-account), RQF CRM, social platforms, calendars; replace browser automation to reduce token costs | This month | Community Mastermind Oct 15 — model-agnostic AI infrastructure | 🟡 | ⬜ |
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
