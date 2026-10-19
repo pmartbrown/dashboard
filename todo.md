@@ -125,6 +125,13 @@
 | **Get ACRUX legal name and formation state** — confirm with attorneys; required before Pinecone Capital LPA can be updated | This week | ResGap Plus Q3 L10 — Oct 16 | 🟡 | ⬜ |
 | **Update Pinecone Capital LPA** — incorporate ACRUX entity as GP, set servicing rate to 1.37% for Q4, include operational Q4 updates | Q4 2026 | ResGap Plus Q3 L10 — Oct 16 | 🟡 | ⬜ |
 | **Conduct Q4 owner capital audit for ResGap Plus** — reconcile Paul's capital contributions vs. operational fund transfers; resolve 3DCM tracking discrepancy | By end of Q4 | ResGap Plus Q3 L10 — Oct 16 | 🟡 | ⬜ |
+| **Review Commerce Title and Abstract Company** — vet before proceeding with portfolio transaction; Paul flagged as priority review | ASAP | 10-17 RQF Q3 Results EXEC review | 🔴 | ⬜ |
+| **Push Jeremy's team for EMD referral payment reconciliation** — identify source of ~$15K shortfall; get deal-by-deal breakdown | This week | 10-17 RQF Q3 Results — referral revenue gap flagged | 🔴 | ⬜ |
+| **Hold first Pinecone IC meeting before Q4 end** — Investment Committee (Paul, Justin, Dave Forrest/ACRUX, Adam Anderson, 5 votes total); set agenda for underwriting guidelines | By Dec 31 | 10-16 ResGap Plus Q3 — IC formally established | 🟡 | ⬜ |
+| **Switch LP payments to ACH for Q4** — set up ACH for Modi and Villeen (Brown stays internal transfer); avoid wiring each quarter | By Q4 distribution | 10-16 ResGap Plus Q3 — approved during meeting | 🟡 | ⬜ |
+| **Define Duke Creek syndication package** — standard PPM/LPA for $1M–$1.5M raise; set max bridge credit line and front-end EMD coverage terms; clarify bond (12%/yr) vs. equity tiers | ASAP | 10-17 Duke Creek Partner call — Morby method, seller note at 4.25% | 🔴 | ⬜ |
+| **Arrange transactional/lending funds for Duke Creek (~$1.6M)** — first-position lender policy; cap at ≤20% of quarterly deployed capital; require 50%+ raise secured before funding | By 10-23 | 10-17 Duke Creek — bank officer meeting Friday | 🔴 | ⬜ |
+| **Review Scarlet Peak item (Richard's LLC)** — missing documentation; determine if balance is open, resolved, or undocumented | This week | 10-17 RQF Q3 Results — balance sheet exception | 🟡 | ⬜ |
 ---
 
 | **Correct gas station deal contract** — change seller-financing term from 12 to 120 months (typo in contract); negotiate $50K hard EMD requirement down; ensure inspection contingencies in place before executing | **ASAP** | 2026-10-06 [EXEC] Weekly Strategy — Justin + Paul; contract error discovered during deal review | 🔴 | ⬜ |
@@ -182,6 +189,8 @@
 | **Cozy Corner — Research utility/permitting for 20-acre expansion** — sand-filtration sewer system in place; confirm permitting path for new sites | **This week** | 2026-10-13 [CLIENT] Cozy Corner RV Park — expansion is key value-add thesis | 🟡 | ⬜ |
 | **Cozy Corner — Review Bobby and Noel's pro forma models** — compare revenue/expense assumptions; validate deal at $4.3–4.5M | **This week** | 2026-10-13 [CLIENT] Cozy Corner RV Park — models exist; review before advancing | 🟡 | ⬜ |
 | **Cozy Corner — Confirm laundry and premium site upgrade potential** — laundry room and premium pricing on existing sites are value-add opportunities | **When possible** | 2026-10-13 [CLIENT] Cozy Corner RV Park — revenue optimization items to verify | 🟢 | ⬜ |
+| **Duke Creek RV Park — Michigan 37-acre campground acquisition** — LOI with contingencies (municipal/township approvals, appraisal, Phase 1 EPA, engineering); EMD goes hard after 25–30 day feasibility; on-site inspection + bank officer meeting Friday 10/23 (Detroit) | 10-23 | 10-17 — Morby method; seller note 4.25%; 30yr/10yr balloon; NOI ~$240K–$290K | 🔴 | ⬜ |
+| **Duke Creek — Review financials + evaluate bank DSCR terms** — validate P&L ($201K tax return + $30K addbacks + $55K unlisted rentals = ~$290K adj NOI); finalize underwriting; review DSCR with local bank (7.5% target) | Before 10-23 | 10-17 Duke Creek call — site expansion potential to $10M valuation | 🔴 | ⬜ |
 ---
 
 ## 📞 Follow-Ups / Outreach
@@ -455,6 +464,10 @@
 | **Set up ACH payment system for LP quarterly distributions** — automate LP payment cycle; eliminate manual wire process for Modi, Villeen, Brown | This month | ResGap Plus Q3 L10 — Oct 16 | 🟡 | ⬜ |
 | **Confirm Connor Tensai (GrokBot) community setup is live** — verify Connor@RealQuickFunds.com is active, Skool DMs enabled, moderation rules and tier-based permissions configured | This week | Community Mastermind Oct 15 — AI agent roster build-out | 🟡 | ⬜ |
 | **Configure Composio as API router for RQF operations** — connect Gmail (multi-account), RQF CRM, social platforms, calendars; replace browser automation to reduce token costs | This month | Community Mastermind Oct 15 — model-agnostic AI infrastructure | 🟡 | ⬜ |
+| **Record portfolio-funding process walkthrough** — Fathom/Google Meet; cover fund flow, title-company checks, escrow-officer validation, each transaction step | ASAP | 10-17 RQF Q3 Results — Paul assigned | 🟡 | ⬜ |
+| **Fix HubSpot / QuickBooks data gap** — weekly WhatsApp bullet listing HubSpot records missing return wires; team reconciles before booking run; resolve $592K HubSpot vs $169K QB gap | This week | 10-17 RQF Q3 — major reporting gap flagged | 🔴 | ⬜ |
+| **Update CRM 'money wired' stage workflow** — require actual wire amount + date entry when deal moves to 'money wired'; prevents QB mismatch; coordinate with Roz to implement | This week | 10-17 RQF Q3 — new workflow discussed with Roz | 🔴 | ⬜ |
+| **Set up Grok account + connect to GitHub and RQF** — so AI agent can access company data; coordinate with Roz on setup | By 10-21 | 10-17 RQF Q3 Results — Paul + Roz assigned 10-16 | 🟡 | ⬜ |
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
