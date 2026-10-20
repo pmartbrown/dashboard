@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-18 — Morning transcript review — +9 items from 4 new transcripts (Oct 13–16: ResGap Plus Q3, L10 Devin, Community Mastermind, Skool POF/EMD)**
+**Last updated: 2026-10-20 — Morning transcript review — +4 item(s) from 1 new transcript (10-19: Operational Systems, RV Park Michigan, Kiefer onboarding)**
 
 ---
 
@@ -132,6 +132,7 @@
 | **Define Duke Creek syndication package** — standard PPM/LPA for $1M–$1.5M raise; set max bridge credit line and front-end EMD coverage terms; clarify bond (12%/yr) vs. equity tiers | ASAP | 10-17 Duke Creek Partner call — Morby method, seller note at 4.25% | 🔴 | ⬜ |
 | **Arrange transactional/lending funds for Duke Creek (~$1.6M)** — first-position lender policy; cap at ≤20% of quarterly deployed capital; require 50%+ raise secured before funding | By 10-23 | 10-17 Duke Creek — bank officer meeting Friday | 🔴 | ⬜ |
 | **Review Scarlet Peak item (Richard's LLC)** — missing documentation; determine if balance is open, resolved, or undocumented | This week | 10-17 RQF Q3 Results — balance sheet exception | 🟡 | ⬜ |
+| **Michigan RV park — underwrite in person** — travel to meet Mundo & Christian; target ~25% equity stake (Morby method, no transactional funding needed) | This week | Plaud 10-19 — same team as prior $2.8M RV park deal | 🟡 | ⬜ |
 ---
 
 | **Correct gas station deal contract** — change seller-financing term from 12 to 120 months (typo in contract); negotiate $50K hard EMD requirement down; ensure inspection contingencies in place before executing | **ASAP** | 2026-10-06 [EXEC] Weekly Strategy — Justin + Paul; contract error discovered during deal review | 🔴 | ⬜ |
@@ -304,6 +305,7 @@
 | **Decide on Roger referral relationship** — Justin recommends strategic distancing; determine if RQF continues accepting Roger's deal flow | This week | 2026-10-13 [L10] — ongoing tension; Roger not cooperative on $1.7M deal | 🟡 | ⬜ |
 
 | **Send Julian's contact to Joss** — Julian = new lender with API-enabled deal tracking; route DSCR/HM deals + request API integration for portal status feeds | ASAP | Plaud — Oct 15 Community Mastermind + AI Infrastructure session | 🟡 | ⬜ |
+| **Reply to Josh** — confirm you signed the DocuSign document received from Mandy | ASAP | Plaud 10-19 — verbal directive during call with Kiefer | 🔴 | ⬜ |
 ---
 
 | **Connect Troy Vorse with ground-up construction lenders — Paradise CA rebuild project** — Troy needs a construction lender offering deferred debt service for rebuilding burned-out lots in Paradise CA; seller is financing the lots; ~$400K net profit target per home; lender will need first-position lien (seller lien subordinate); also needs help raising investor reserves (ground-up lenders require significant liquidity) | **This week** | 2026-10-08 Partner Q'A — Troy Vorse (lender partner) presented Paradise CA project; Lot acquisition via seller carry; construction loan with deferred debt service is the target structure | 🟡 | ⬜ |
@@ -348,6 +350,7 @@
 | **Start sharing deal stories + wins publicly in community** — post what you're doing in Sub2/OC forums; present as the high-level operator you are (RQF, creative finance, AI-powered deals) | **This month** | 09-30 conversation w/ Dave — both agreed telling the story is what builds authority in community | 🟡 | ⬜ |
 | **Register for Creative Listing marketplace and fill out Buyers Box** — refer 5 people to platform; platform hitting 100K users; Owners Club members strongly encouraged | **When possible** | 09-30 OC Huntington Beach event — Ingrid Hernandez/Raz Mahali platform; free marketplace with Buyers Box feature for OC members | 🟢 | ⬜ |
 | **Roll over AIG 401(k) (~$1M) to self-directed IRA** — 401k has been sitting idle since leaving AIG ~3 years ago; Paul wants more control over how it's invested; evaluate Entrust or similar SDIRA custodian; possible vehicles include Canadian value fund, SPY/QQQ, or Pinecone-style lending | **This month** | 2026-10-07 Canadian Fund Manager call — Paul explicitly said "I need to address it"; wife prefers non-real-estate allocation for retirement accounts; rollover requires appropriate SDIRA custodian | 🟡 | ⬜ |
+| **Akemi dental — Dr. Kerr** — cracked crown, possible root canal or new crown; complete intake form online before appt; DMBA dental insurance | Wed 10/22 8:45 AM | Plaud 10-19 — scheduled during call | 🔴 | ⬜ |
 ---
 
 | **Enforce ethical disclosure protocol in Morby Method deals** — require seller signature on single-page disclosure (purchase price, total debt, cash to buyer) before funding any over-leveraged or Morby/Echo deal | Ongoing | Sep 29 Owners Club lender panel — Paul affirmed this as firm RQF policy; document in lender guidelines | 🟢 | ⬜ |
@@ -468,6 +471,7 @@
 | **Fix HubSpot / QuickBooks data gap** — weekly WhatsApp bullet listing HubSpot records missing return wires; team reconciles before booking run; resolve $592K HubSpot vs $169K QB gap | This week | 10-17 RQF Q3 — major reporting gap flagged | 🔴 | ⬜ |
 | **Update CRM 'money wired' stage workflow** — require actual wire amount + date entry when deal moves to 'money wired'; prevents QB mismatch; coordinate with Roz to implement | This week | 10-17 RQF Q3 — new workflow discussed with Roz | 🔴 | ⬜ |
 | **Set up Grok account + connect to GitHub and RQF** — so AI agent can access company data; coordinate with Roz on setup | By 10-21 | 10-17 RQF Q3 Results — Paul + Roz assigned 10-16 | 🟡 | ⬜ |
+| **Configure North Peak Recovery GitHub for Kiefer** — grant access to NPR debt & surplus sub-brains only; exclude RQF, personal, all other data; Mihai to send config code | This week | Plaud 10-19 — AI knowledge system build with Kiefer | 🟡 | ⬜ |
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
