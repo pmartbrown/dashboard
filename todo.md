@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-21 — Morning transcript review — +9 item(s) from 3 new transcripts (10/17 Exec Q3/Reporting, 10/17 Partner Duke Creek, 10/19 Personal North Peak)**
+**Last updated: 2026-10-24 — Morning transcript review — +27 item(s) from 11 new transcripts (Oct 19–24)**
 
 ---
 
@@ -136,6 +136,14 @@
 | **Sign LOI for Duke Creek RV Park (Michigan, 37 acres) — Morby method, seller 4.25%, $1.6M transactional funds needed; feasibility 25-30 days** | ASAP | From 10/17 Partner call w/ Christian Clark & Mundo Sanchez — EMD goes hard after feasibility | 🔴 | ⬜ |
 | **Two large open RQF loans (~$700K total) — one closing 10/23, one expected 10/16; confirm return status** | ASAP | From 10/17 Exec review — total open loans $1.17M; equity thin at 12% | 🔴 | ⬜ |
 | **Reconcile EMD referral payments with Jeremy's team deal-by-deal — identify ~$15K shortfall; October is cash-tight** | This week | From 10/17 Exec review — EMD is 27-28% of RQF revenue | 🔴 | ⬜ |
+| **Consult Christina Moser at GT Title** re: Glendale AZ flip title transfer to Jeff Ritter — seller not on title; transfer required before Jeff can list/close | ASAP | Oct 24 LENDER call — flip property at $530K appraisal, $473K debt; Christina to advise on transfer path | 🔴 | ⬜ |
+| **Analyze ownership transfer models + tax loss mitigation for Glendale AZ property** ($530K appraisal, $473K debt: $338K HM 1st + $135K HM 2nd) — quitclaim vs. subject-to vs. short sale; evaluate buyer assuming debt at discount | This week | Oct 24 LENDER call — Paul/Christina/Josh/David attorney discussion; tax loss scenario key | 🔴 | ⬜ |
+| **Bobby outreach — confirm ~$1M commitment for $3.2M equity bridge deal** | ASAP | Oct 24 CLIENT call — equity kicker structure; closing timeline critical; need written confirmation | 🔴 | ⬜ |
+| **Scott process brief for shared-account controls on $3.2M bridge deal** — set up shared control/visibility without full account merge | This week | Oct 24 CLIENT call — Scott handling deal admin; wire controls and visibility needed | 🔴 | ⬜ |
+| **Coordinate new quick-turn capital partner (~$1M) for $3.2M equity bridge deal** | ASAP | Oct 24 CLIENT call — Bobby to confirm; backup partner needed if Bobby unavailable | 🔴 | ⬜ |
+| **Ask Anna/Gannon for Texas attorney referral** for DOT trustee — Kiefer lien $300K recovery out of $700K exposure | This week | Oct 24 CLIENT call — need TX-licensed attorney to handle deed of trust foreclosure trustee process | 🔴 | ⬜ |
+| Record RQF funding process walkthrough for operations playbook | This week | Oct 24 CLIENT call — systematize for onboarding and team reference | 🟡 | ⬜ |
+
 ---
 
 | **Correct gas station deal contract** — change seller-financing term from 12 to 120 months (typo in contract); negotiate $50K hard EMD requirement down; ensure inspection contingencies in place before executing | **ASAP** | 2026-10-06 [EXEC] Weekly Strategy — Justin + Paul; contract error discovered during deal review | 🔴 | ⬜ |
@@ -312,6 +320,13 @@
 | **Reply to Josh** — confirm you signed the DocuSign document received from Mandy | ASAP | Plaud 10-19 — verbal directive during call with Kiefer | 🔴 | ⬜ |
 | **Confirm Michigan trip logistics (Detroit) for Duke Creek on-site inspection + bank meeting — Fri Oct 23** | 10/22 | From 10/17 Partner call w/ Christian & Mundo | 🔴 | ⬜ |
 | **Respond to Josh — confirm DocuSign doc from Mandy is signed** | ASAP | From 10/19 Personal transcript w/ Kiefer Brown | 🔴 | ⬜ |
+| **Report Michigan bank meeting outcome to Noel Wade**; verify South State Bank loan viability for Cozy Corner RV park | ASAP | Oct 24 PARTNER call (Noel Wade) — Noel scouting local bank financing; South State Bank is preferred lender candidate | 🔴 | ⬜ |
+| **Introduce Noel Wade to TC Anna** ($500 upfront, $2,500 total; 18 deals with RQF) for Cozy Corner RV park acquisition transaction coordination | This week | Oct 24 PARTNER call (Noel Wade) — Noel needs reliable TC; Anna is proven performer | 🟡 | ⬜ |
+| **Offer to join call with Missouri RV park seller** (Cozy Corner LOI at 50/50 JV with Noel) | This week | Oct 24 PARTNER call (Noel Wade) — seller relationship may benefit from Paul joining the conversation | 🟡 | ⬜ |
+| **Run Cozy Corner RV park PSA through Paxton AI** for Missouri-specific legal review | This week | Oct 24 PARTNER call (Noel Wade) — verify MO-specific contract clauses and contingencies before signing | 🟡 | ⬜ |
+| **Follow up with Jami Hearn** re: her fund — she'll text availability; Paul may be traveling Thu/Fri | This week | Oct 24 PARTNER call (White-Label) — potential capital/partnership discussion; timing TBD | 🟡 | ⬜ |
+| **Follow up with 7Diamantes** on VIP $97/mo vs. free referral form decision | When available | Oct 24 PARTNER call (7Diamantes) — they were evaluating which tier; circle back after their internal discussion | 🟢 | ⬜ |
+
 ---
 
 | **Connect Troy Vorse with ground-up construction lenders — Paradise CA rebuild project** — Troy needs a construction lender offering deferred debt service for rebuilding burned-out lots in Paradise CA; seller is financing the lots; ~$400K net profit target per home; lender will need first-position lien (seller lien subordinate); also needs help raising investor reserves (ground-up lenders require significant liquidity) | **This week** | 2026-10-08 Partner Q'A — Troy Vorse (lender partner) presented Paradise CA project; Lot acquisition via seller carry; construction loan with deferred debt service is the target structure | 🟡 | ⬜ |
@@ -480,6 +495,13 @@
 | **Configure North Peak Recovery GitHub for Kiefer** — grant access to NPR debt & surplus sub-brains only; exclude RQF, personal, all other data; Mihai to send config code | This week | Plaud 10-19 — AI knowledge system build with Kiefer | 🟡 | ⬜ |
 | **Record portfolio-funding process walkthrough in Fathom (fund flow, title-company checks, escrow validation) for capital partner sharing** | This week | From 10/17 Exec — $1.6M portfolio deal needs documented process before sharing with Adam/Bobby/Scott | 🟡 | ⬜ |
 | **Set up shared RV park GitHub repo + configure deal bot to forward qualifying parks (NOI≥$300K, 10-cap or better) to Christian Clark** | This week | From 10/17 Partner — AI deal flow automation for Christian & Mundo | 🟡 | ⬜ |
+| **Launch YouTube Shorts content** via Lila AI CMO — 2-4 shorts/day on Real Quick Funds channel + new Funding Hub channel to drive top-of-funnel deal flow | ASAP | Oct 24 L10 — stagnant deal flow Q4; social is primary growth lever; Lila CMO bot activated | 🔴 | ⬜ |
+| Move SKOOL community call time from noon ET to 3 PM ET | This week | Oct 24 SKOOL AI Bots call — scheduling conflict identified; update calendar and notify members | 🟡 | ⬜ |
+| **Build 'My Deals' section in white-label partner platform** (Priority 1 — Now) | Sprint Now | Oct 24 SKOOL AI Bots call — top-priority feature for partner deal tracking on white-label platform | 🟡 | ⬜ |
+| Explore creative refinance structure to bypass transactional funding; monetize via referral fees from partner lenders | This month | Oct 24 SKOOL AI Bots call — alternative revenue stream; positions RQF as deal architect beyond EMD | 🟡 | ⬜ |
+| Have Mihai set up Google Voice number for Alfonso | ASAP | Oct 24 L10 — communication setup for team/partner member | 🟡 | ⬜ |
+| Dec/Jan: Add calculators + custom domains for white-label partner platform | Dec 2026 | Oct 24 SKOOL AI Bots call — roadmap item for platform expansion and partner retention | 🟢 | ⬜ |
+
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
@@ -543,6 +565,15 @@
 | Design geo-matching logic to route RQF prospects to nearest affiliate by IP location | This month | 09-10 mtg — key for affiliate program | 🟡 | — |
 | Plan + host 'Step Seven' contact management/nurturing brainstorm with Skool community | ASAP | 09-10 mtg — CRM feature discussion | 🟡 | — |
 | **Pull first surplus funds list using RCIC/Atom data tool** — run a test list using the new RCIC data source; compare quality to prior Ted data; build foundation for GHL skip-trace workflow | This week | 2026-09-24 Surplus+ Accountability call — Brent pulling a list by weekend; Paul committed to do the same | 🟡 | ⬜ |
+| **File NPR recovery cases without delay between steps** — avoid stagnation in case processing pipeline | ASAP | Oct 24 TEAM call — North Peak Recovery operational discipline; delays between steps kill momentum | 🔴 | ⬜ |
+| **Create complete list of all NPR recovery matters** with statuses + expected recovery amounts | This week | Oct 24 TEAM call — full pipeline visibility for North Peak Recovery | 🔴 | ⬜ |
+| **Prep North Peak Recovery 3Q review** (delayed from week of Oct 19); consider inviting Brett and Shanti to observe Q4 planning | By Oct 31 | Oct 24 TEAM call — quarterly review overdue; Q4 observer strategy for investor confidence | 🟡 | ⬜ |
+| **Keefer to migrate all NPR deal files** from local desktop to shared North Peak Recovery Google Drive | This week | Oct 24 PARTNER call (Surplus+ CRM) — centralize deal file access for distributed team coordination | 🟡 | ⬜ |
+| **Change CRM 'Open Amount' field** from 'Contract Value' to 'Capital Deployed' | ASAP | Oct 24 PARTNER call (Surplus+ CRM) — terminology misalignment causing reporting confusion | 🟡 | ⬜ |
+| **Schedule dedicated meeting to build employee progression framework**; start with paid holidays at 90-day milestone | This month | Oct 24 L10 — team retention and clarity on career advancement path | 🟡 | ⬜ |
+| **Redefine Q4 Rocks** to focus only on highest-priority items | This week | Oct 24 L10 — current rocks too broad; need tighter focus for remaining Q4 | 🟡 | ⬜ |
+| **Vet escrow agent** (via Miles) for bonding and E&O insurance compliance | This week | Oct 24 L10 — escrow agent qualification for deal pipeline integrity and client protection | 🟡 | ⬜ |
+
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
