@@ -11,7 +11,7 @@
 ## Deals / Funding
 
 | **$2M RV Park — Alex Mervis / Nathan (western PA near Pittsburgh)**: structure as Morby stack — RQF fronts ~$600K cash-to-close, repaid via 2nd lien or preferred equity in buyer LLC; 2.5% fee; optional $100K bridge for seller's home at 5%/mo | ASAP | Plaud 07-07 — Alex submitted via nathan.txfhub.com | 🔴 | |
-| **Beverly Hills double-close (Melanie Gordon, 1754 Franklin Canyon Drive, $2.55M)** — coordinate Justin/Alana/Manuela via group email (not repeated 1-on-1 Justin calls); mutual release signed 07-07; watch cancellation docs risk | ASAP | Plaud 07-07 L10 — complex triple→double close | 🔴 | |
+| **Beverly Hills double-close (Melanie Gordon, 1754 Franklin Canyon Drive, $2.55M)** — coordinate Justin/Alana/Manoela via group email (not repeated 1-on-1 Justin calls); mutual release signed 07-07; watch cancellation docs risk | ASAP | Plaud 07-07 L10 — complex triple→double close | 🔴 | |
 | **Get contract for ~$10M commercial EMD deal** (LinkedIn-sourced) before evaluating; skeptical it's true EMD vs. escrow deposit | ASAP | Plaud 07-07 L10 meeting | 🟡 | |
 | **Connect with Floyd (Tyson's capital contact)** re: investing in Pinecone 506(b) fund at 12%; text Tyson when free for 3-way intro call; Floyd has unsecured personal loan program up to $500K | This week | Plaud 07-08 — Tyson call; Paul prefers fund investment route | 🟡 | |
 | **Family office term sheet for 2nd mortgage on 2 storage properties** (~$2M each) — ~1.5 weeks out; Plan B/C backup to Morby stack on Alex Mervis RV Park deal | ASAP | Plaud 07-07 — RV Park meeting | 🟡 | |
