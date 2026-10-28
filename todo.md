@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-24 — Morning transcript review — +27 item(s) from 11 new transcripts (Oct 19–24)**
+**Last updated: 2026-10-28 — Morning transcript review — +9 item(s) from 1 new transcript (10-27 NPR Q3 Review)**
 
 ---
 
@@ -327,6 +327,8 @@
 | **Follow up with Jami Hearn** re: her fund — she'll text availability; Paul may be traveling Thu/Fri | This week | Oct 24 PARTNER call (White-Label) — potential capital/partnership discussion; timing TBD | 🟡 | ⬜ |
 | **Follow up with 7Diamantes** on VIP $97/mo vs. free referral form decision | When available | Oct 24 PARTNER call (7Diamantes) — they were evaluating which tier; circle back after their internal discussion | 🟢 | ⬜ |
 
+| **Follow up with Devon Alexander (NPR) — set litigation deadline** — requested title info on 2nd property + deed of trust rework for Ridgefield & Big Sandy fees; payoff letter sent; if no response, proceed with litigation | ASAP | 2026-10-27 [NPR Q3 Review] — has not responded despite multiple follow-ups; Ridgefield only yields ~$60K at foreclosure | 🔴 | ⬜ |
+| **Follow up with Matt on $5K mentorship fee** — get value from it; categorize as consulting expense for North Peak | This week | 2026-10-27 [NPR Q3 Review] — fee paid but value not yet extracted | 🟢 | ⬜ |
 ---
 
 | **Connect Troy Vorse with ground-up construction lenders — Paradise CA rebuild project** — Troy needs a construction lender offering deferred debt service for rebuilding burned-out lots in Paradise CA; seller is financing the lots; ~$400K net profit target per home; lender will need first-position lien (seller lien subordinate); also needs help raising investor reserves (ground-up lenders require significant liquidity) | **This week** | 2026-10-08 Partner Q'A — Troy Vorse (lender partner) presented Paradise CA project; Lot acquisition via seller carry; construction loan with deferred debt service is the target structure | 🟡 | ⬜ |
@@ -502,6 +504,13 @@
 | Have Mihai set up Google Voice number for Alfonso | ASAP | Oct 24 L10 — communication setup for team/partner member | 🟡 | ⬜ |
 | Dec/Jan: Add calculators + custom domains for white-label partner platform | Dec 2026 | Oct 24 SKOOL AI Bots call — roadmap item for platform expansion and partner retention | 🟢 | ⬜ |
 
+| **Establish expense approval process for North Peak Recovery** — low cash reserves (~$5-6K); all expenses need approval before being incurred | ASAP | 2026-10-27 [NPR Q3 Review] — agreed in principle; critical given limited cash | 🔴 | ⬜ |
+| **Meet with bookkeeper to close North Peak Recovery 2025 books** — correct misclassifications; issue K-1s (and any required 1099s) within 2 weeks; co-partner gets K-1, not 1099 | Nov 7 | 2026-10-27 [NPR Q3 Review] — 2025 books still open; equity offsets to be confirmed | 🔴 | ⬜ |
+| **Draft and sign North Peak Recovery operating agreement** — equity 50/50; profit sharing 65/35 for debt recovery, 50/50 for other lines; critical to maintain LLC veil protection | This week | 2026-10-27 [NPR Q3 Review] — currently unsigned; piercing corporate veil risk | 🔴 | ⬜ |
+| **Reclassify North Peak Recovery pass-through transactions** — revenue = fees retained only; payouts = expenses; recode Q3 legal bill from holding account; treat Q4 $500 as service fee; confirm July 2026 JF Capital Partners/$5,066 commission from Gary Journey | This week | 2026-10-27 [NPR Q3 Review] — bookkeeper using incorrect net accounting | 🟡 | ⬜ |
+| **Assign unassigned NPR deals + clean deal data** — assign all unassigned to co-partner; add state for 32 deals missing state; clean status labels; fix address ambiguity (subject property vs borrower/LLC) | This week | 2026-10-27 [NPR Q3 Review] — 105 deals in tracker; data quality blocking portfolio analysis | 🟡 | ⬜ |
+| **Revise North Peak Recovery client contracts to flat servicing fees** — replace current percentage-of-attorney-fees terms with flat amount agreed in writing; attorney should not pay NPR a fee | This month | 2026-10-27 [NPR Q3 Review] — compliance risk with current contract structure | 🟡 | ⬜ |
+| **Confirm 1099 requirement for attorney payments at North Peak Recovery** — get authoritative guidance on whether invoiced attorney payments require 1099 issuance; update policy | This week | 2026-10-27 [NPR Q3 Review] — open question from Q3 review | 🟡 | ⬜ |
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
