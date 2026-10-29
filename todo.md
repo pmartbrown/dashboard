@@ -329,6 +329,7 @@
 
 | **Follow up with Devon Alexander (NPR) — set litigation deadline** — requested title info on 2nd property + deed of trust rework for Ridgefield & Big Sandy fees; payoff letter sent; if no response, proceed with litigation | ASAP | 2026-10-27 [NPR Q3 Review] — has not responded despite multiple follow-ups; Ridgefield only yields ~$60K at foreclosure | 🔴 | ⬜ |
 | **Follow up with Matt on $5K mentorship fee** — get value from it; categorize as consulting expense for North Peak | This week | 2026-10-27 [NPR Q3 Review] — fee paid but value not yet extracted | 🟢 | ⬜ |
+| **Respond to Yana Valitova re: transactional lending inquiry** — Yana (ops CEO, targeting $300M portfolio w/ Adam) noted as reaching out to Paul about transactional lending/financing; confirm RQF fit | This week | 10-28 OC Pod 21/22 joint call | 🟡 | ⬜ |
 ---
 
 | **Connect Troy Vorse with ground-up construction lenders — Paradise CA rebuild project** — Troy needs a construction lender offering deferred debt service for rebuilding burned-out lots in Paradise CA; seller is financing the lots; ~$400K net profit target per home; lender will need first-position lien (seller lien subordinate); also needs help raising investor reserves (ground-up lenders require significant liquidity) | **This week** | 2026-10-08 Partner Q'A — Troy Vorse (lender partner) presented Paradise CA project; Lot acquisition via seller carry; construction loan with deferred debt service is the target structure | 🟡 | ⬜ |
@@ -583,6 +584,7 @@
 | **Redefine Q4 Rocks** to focus only on highest-priority items | This week | Oct 24 L10 — current rocks too broad; need tighter focus for remaining Q4 | 🟡 | ⬜ |
 | **Vet escrow agent** (via Miles) for bonding and E&O insurance compliance | This week | Oct 24 L10 — escrow agent qualification for deal pipeline integrity and client protection | 🟡 | ⬜ |
 
+| **Hire part-time marketing + project management/accountability support** — Paul stated this need at OC Pod call; prefers human over AI-only solution | This week | 10-28 OC Pod 21/22 joint call | 🟡 | ⬜ |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
