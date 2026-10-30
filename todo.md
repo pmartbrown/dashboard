@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-28 — Morning transcript review — +9 item(s) from 1 new transcript (10-27 NPR Q3 Review)**
+**Last updated: 2026-10-30 — Morning transcript review — +38 item(s) from 6 new transcripts (10-28 Community Meeting, 10-28 Business Ops, 10-27 Ops, 10-27 RQF Briefing, 10-28 Multi-Topic, 10-29 EMD Recovery)**
 
 ---
 
@@ -144,6 +144,18 @@
 | **Ask Anna/Gannon for Texas attorney referral** for DOT trustee — Kiefer lien $300K recovery out of $700K exposure | This week | Oct 24 CLIENT call — need TX-licensed attorney to handle deed of trust foreclosure trustee process | 🔴 | ⬜ |
 | Record RQF funding process walkthrough for operations playbook | This week | Oct 24 CLIENT call — systematize for onboarding and team reference | 🟡 | ⬜ |
 
+| **Draft denial-of-financing letter** citing Kiavi decline / no rural comps — send via DocuSign to enable EMD release | Today (2026-10-29) | Plaud — 10-29 EMD Recovery call w/ Justin | 🔴 | ⬜ |
+| **Send firm notice to Devin**: "today is last day of waiting; suit filed tomorrow morning" — include filing county | Today (2026-10-29) | Plaud — 10-29 EMD Recovery call w/ Justin | 🔴 | ⬜ |
+| **File suit against both Devin parties** for capital recovery + attorney costs; instruct Kiefer on urgency & fee scope | 2026-10-30 | Plaud — 10-29 EMD Recovery, Legal Escalation call | 🔴 | ⬜ |
+| **File lien on Devin's additional asset** (~$100K equity) to improve position; defer bundling other fees | ASAP | Plaud — 10-29 EMD Recovery, Legal Escalation call | 🔴 | ⬜ |
+| **Reply to EY** in actual dialogue thread: P&Ls per entity finishing, K-1s in progress, targeting Nov 13 completion; ask EY to schedule final filing steps (bank requested 2025 tax return) | This week | Plaud — 10-28 Business Ops | 🔴 | ⬜ |
+| **Return $300K to counterparty** — non-payment of agreed fees (Justin to execute) | 2026-10-28 | Plaud — 10-27 Operations/Marketing call | 🔴 | ⬜ |
+| **Initiate litigation against Dale Rod** for non-payment (Kiefer to file); provide timeline | ASAP | Plaud — 10-27 Operations + 10-27 RQF Briefing | 🔴 | ⬜ |
+| **Distribute Mutual Referral Agreement** to Jeremy, Josh, Jeff, Megan, Julian for signature | This week | Plaud — 10-27 RQF Community Briefing | 🔴 | ⬜ |
+| **Oklahoma land deal** (1,800 acres, $6M ask): require signed state-bond docs, debt breakdown, draw schedule, developer track record before any funding consideration | This week | Plaud — 10-27 RQF Community Briefing | 🟡 | ⬜ |
+| **North Peak: add $1K/month owner's draw** for Kiefer childcare for all 2026 months; reevaluate capital balances (Andres) | This week | Plaud — 10-28 Business Ops | 🟡 | ⬜ |
+| **Miles + Andres: examine Form 1065** — why required for partnerships, any penalties, can Paul file himself | This week | Plaud — 10-28 Business Ops | 🟡 | ⬜ |
+| **Investigate 3 Jeremy verification-of-funds items** with April; ask for system login to verify funded deal data | This week | Plaud — 10-28 Business Ops | 🟡 | ⬜ |
 ---
 
 | **Correct gas station deal contract** — change seller-financing term from 12 to 120 months (typo in contract); negotiate $50K hard EMD requirement down; ensure inspection contingencies in place before executing | **ASAP** | 2026-10-06 [EXEC] Weekly Strategy — Justin + Paul; contract error discovered during deal review | 🔴 | ⬜ |
@@ -204,6 +216,7 @@
 | **Duke Creek RV Park — Michigan 37-acre campground acquisition** — LOI with contingencies (municipal/township approvals, appraisal, Phase 1 EPA, engineering); EMD goes hard after 25–30 day feasibility; on-site inspection + bank officer meeting Friday 10/23 (Detroit) | 10-23 | 10-17 — Morby method; seller note 4.25%; 30yr/10yr balloon; NOI ~$240K–$290K | 🔴 | ⬜ |
 | **Duke Creek — Review financials + evaluate bank DSCR terms** — validate P&L ($201K tax return + $30K addbacks + $55K unlisted rentals = ~$290K adj NOI); finalize underwriting; review DSCR with local bank (7.5% target) | Before 10-23 | 10-17 Duke Creek call — site expansion potential to $10M valuation | 🔴 | ⬜ |
 | **Duke Creek Campground (Michigan, 37 acres) — targeting 25% equity via Morby method; Christian Clark & Mundo Sanchez as operators; site visit + bank meeting Fri 10/23** | Site visit 10/23 | From 10/17 Partner call — projected NOI $240-290K, expansion to $10M valuation, $1.6M TF needed | 🔴 | ⬜ |
+| **RV park PSA in progress** — proceed to close; target a second RV park close by December | December 2026 | Plaud — 10-28 Community Meeting pod call | 🔴 | ⬜ |
 ---
 
 ## 📞 Follow-Ups / Outreach
@@ -330,6 +343,10 @@
 | **Follow up with Devon Alexander (NPR) — set litigation deadline** — requested title info on 2nd property + deed of trust rework for Ridgefield & Big Sandy fees; payoff letter sent; if no response, proceed with litigation | ASAP | 2026-10-27 [NPR Q3 Review] — has not responded despite multiple follow-ups; Ridgefield only yields ~$60K at foreclosure | 🔴 | ⬜ |
 | **Follow up with Matt on $5K mentorship fee** — get value from it; categorize as consulting expense for North Peak | This week | 2026-10-27 [NPR Q3 Review] — fee paid but value not yet extracted | 🟢 | ⬜ |
 | **Respond to Yana Valitova re: transactional lending inquiry** — Yana (ops CEO, targeting $300M portfolio w/ Adam) noted as reaching out to Paul about transactional lending/financing; confirm RQF fit | This week | 10-28 OC Pod 21/22 joint call | 🟡 | ⬜ |
+| **Capital-raising lunch meeting Friday** with local contact | 2026-10-31 (Fri) | Plaud — 10-27 Operations/Marketing call | 🟡 | ⬜ |
+| **Send Christian** (RV park operator): apology for late meetings + request historicals with addbacks + 5-yr pro forma (with/without new section) | This week | Plaud — 10-27 Operations/Marketing call | 🟡 | ⬜ |
+| **Pod 22**: poll members for new Tuesday meeting time (avoid Jamil overlap); coordinate with Dorena; set poll deadline | This week | Plaud — 10-28 Community Meeting | 🟡 | ⬜ |
+| **Group text thread with Justin + Adam** for capital coordination during Japan travel | Before Sunday | Plaud — 10-27 RQF Briefing + 10-27 Ops | 🟡 | ⬜ |
 ---
 
 | **Connect Troy Vorse with ground-up construction lenders — Paradise CA rebuild project** — Troy needs a construction lender offering deferred debt service for rebuilding burned-out lots in Paradise CA; seller is financing the lots; ~$400K net profit target per home; lender will need first-position lien (seller lien subordinate); also needs help raising investor reserves (ground-up lenders require significant liquidity) | **This week** | 2026-10-08 Partner Q'A — Troy Vorse (lender partner) presented Paradise CA project; Lot acquisition via seller carry; construction loan with deferred debt service is the target structure | 🟡 | ⬜ |
@@ -375,6 +392,7 @@
 | **Register for Creative Listing marketplace and fill out Buyers Box** — refer 5 people to platform; platform hitting 100K users; Owners Club members strongly encouraged | **When possible** | 09-30 OC Huntington Beach event — Ingrid Hernandez/Raz Mahali platform; free marketplace with Buyers Box feature for OC members | 🟢 | ⬜ |
 | **Roll over AIG 401(k) (~$1M) to self-directed IRA** — 401k has been sitting idle since leaving AIG ~3 years ago; Paul wants more control over how it's invested; evaluate Entrust or similar SDIRA custodian; possible vehicles include Canadian value fund, SPY/QQQ, or Pinecone-style lending | **This month** | 2026-10-07 Canadian Fund Manager call — Paul explicitly said "I need to address it"; wife prefers non-real-estate allocation for retirement accounts; rollover requires appropriate SDIRA custodian | 🟡 | ⬜ |
 | **Akemi dental — Dr. Kerr** — cracked crown, possible root canal or new crown; complete intake form online before appt; DMBA dental insurance | Wed 10/22 8:45 AM | Plaud 10-19 — scheduled during call | 🔴 | ⬜ |
+| **Japan travel coverage**: coordinate DocuSign authority + capital flows coverage Sun Nov 1 through Mon Nov 9 (13-hr time diff); team responsibilities documented | Before Sunday | Plaud — 10-27 RQF Briefing + 10-27 Ops | 🔴 | ⬜ |
 ---
 
 | **Enforce ethical disclosure protocol in Morby Method deals** — require seller signature on single-page disclosure (purchase price, total debt, cash to buyer) before funding any over-leveraged or Morby/Echo deal | Ongoing | Sep 29 Owners Club lender panel — Paul affirmed this as firm RQF policy; document in lender guidelines | 🟢 | ⬜ |
@@ -512,6 +530,20 @@
 | **Assign unassigned NPR deals + clean deal data** — assign all unassigned to co-partner; add state for 32 deals missing state; clean status labels; fix address ambiguity (subject property vs borrower/LLC) | This week | 2026-10-27 [NPR Q3 Review] — 105 deals in tracker; data quality blocking portfolio analysis | 🟡 | ⬜ |
 | **Revise North Peak Recovery client contracts to flat servicing fees** — replace current percentage-of-attorney-fees terms with flat amount agreed in writing; attorney should not pay NPR a fee | This month | 2026-10-27 [NPR Q3 Review] — compliance risk with current contract structure | 🟡 | ⬜ |
 | **Confirm 1099 requirement for attorney payments at North Peak Recovery** — get authoritative guidance on whether invoiced attorney payments require 1099 issuance; update policy | This week | 2026-10-27 [NPR Q3 Review] — open question from Q3 review | 🟡 | ⬜ |
+| **Mihai: Resolve Composio auth prompts** (150x/day manual "allow" clicks) — diagnose root cause, eliminate permanently | ASAP | Plaud — 10-28 Multi-Topic + 10-28 Business Ops | 🔴 | ⬜ |
+| **Condense T&C doc** from 14 pages to ~5: Schedule One to page 1, remove exhibits, retitle 180-day fee section, 50/50 column split, email+mailing address as separate rows | This week | Plaud — 10-28 Multi-Topic Ops | 🔴 | ⬜ |
+| **Draft T&C with non-circumvention clauses** + ~75% minimum fee at closing; flexible pricing fields incl. double-close surcharge & >$1M bespoke pricing (Justin/Unify; Scott Henderson template) | This week | Plaud — 10-27 Operations/Marketing | 🔴 | ⬜ |
+| **Audit Strati data pipelines** (HubSpot, Funding Hub, QuickBooks) for zero-token overnight automation via Claude | This week | Plaud — 10-28 Multi-Topic Ops | 🟡 | ⬜ |
+| **Draft referral contract for primary lending partners** (Mihai + Claude + Paxton; as short as possible) | This week | Plaud — 10-28 Multi-Topic Ops | 🟡 | ⬜ |
+| **Roz: Disable CRM auto-assignment**; shift to manual daily lead routing; add product-level toggles (Hard Money, DSCR, Construction); enable custom form redirects | This week | Plaud — 10-27 RQF Briefing + 10-28 Multi-Topic | 🟡 | ⬜ |
+| **Mihai: Mac Mini auto-restart** after power loss; stabilize Microsoft sessions + WhatsApp automation for correct logged-in account | This week | Plaud — 10-27 Operations + 10-28 Business Ops | 🟡 | ⬜ |
+| **Pull old Zoom calls** from Eunice's Google Drive ("Old Zoom Calls") into the AI brain, connected to appropriate hubs | This week | Plaud — 10-28 Business Ops | 🟡 | ⬜ |
+| **Update wire instruction templates** to include alternate/Google contact numbers (list two numbers) to reduce title company verification friction | This week | Plaud — 10-27 Ops + 10-27 RQF Briefing | 🟡 | ⬜ |
+| **Create Outbound Lead Hunter (Megan) + Google Ads Strategist (Ethan) AI agent personas** — Radar to propose names, profiles, titles, reporting lines first | This week | Plaud — 10-27 Ops + 10-27 RQF Briefing | 🟡 | ⬜ |
+| **Complete Relay account setup** via email link from representative; standardize corporate identity (email, website, company name) | This week | Plaud — 10-29 EMD Recovery call | 🟡 | ⬜ |
+| **Implement stricter valuation due diligence** standards: comps validation, lender fit screening, Google Earth/location review before funding | Ongoing | Plaud — 10-29 EMD Recovery call | 🟡 | ⬜ |
+| **InvestNext vs. in-house portal** evaluation: define criteria, features, cost-benefit, decision owner + timeline | This week | Plaud — 10-28 Community Meeting | 🟡 | ⬜ |
+| **Roz: Stop auto-forwarding deals** — all new deals enter central new-deals queue for manual sourcing | This week | Plaud — 10-28 Business Ops | 🟡 | ⬜ |
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
@@ -585,6 +617,7 @@
 | **Vet escrow agent** (via Miles) for bonding and E&O insurance compliance | This week | Oct 24 L10 — escrow agent qualification for deal pipeline integrity and client protection | 🟡 | ⬜ |
 
 | **Hire part-time marketing + project management/accountability support** — Paul stated this need at OC Pod call; prefers human over AI-only solution | This week | 10-28 OC Pod 21/22 joint call | 🟡 | ⬜ |
+| **Establish Funding Hub YouTube channel** focused on converting prospects to VIP paid members | This week | Plaud — 10-27 Ops + 10-27 RQF Briefing | 🟡 | ⬜ |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
@@ -659,6 +692,9 @@
 | **Draft new referral partner agreements** — formalize referral terms; include non-circumvention and deal-specific protections | This month | 2026-10-13 [L10] — protect against bypass by lenders + partners | 🟡 | ⬜ |
 
 | **Upload raw video clips to Google Drive for Lila** — Lila clips, captions, and schedules via Metricool; keep folder current so content pipeline stays fed | This week | Plaud — Oct 15 Community Mastermind + AI Infrastructure session | 🟢 | ⬜ |
+| **Update LinkedIn profile** — refresh images + messaging for Pinecone capital raising (not RQF transactional) | This week | Plaud — 10-28 Multi-Topic Ops | 🟡 | ⬜ |
+| **Execute Pinecone/ResGap compliance + UX updates**: copy, images, logo, reorder content, make resgapplus.com live; provide InvestNext login | This week | Plaud — 10-28 Community Meeting | 🔴 | ⬜ |
+| **Circulate RQF funding one-pager** (terms/eligibility/process) to Owners Club pod members | This week | Plaud — 10-28 Community Meeting | 🟡 | ⬜ |
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
@@ -713,6 +749,8 @@
 | **Get the inspector’s contact details** — Save the full contact information for follow-up. | ASAP | Paul asked the inspector to send complete contact details | 🟢 | — |
 | **Send Paul an introduction** to Matt, the paid-search contractor. | ASAP | Matthew promised to email an introduction | 🟡 | — |
 | **Attorney open invoices — follow up on billing inconsistency; prior payments made in March + August but additional invoices remain open ($515/hr rate)** | This week | From 10/17 Exec review — engagement letter terms vs actual billing don't match | 🟡 | ⬜ |
+| **Alfonso → Meredith**: text update on Amsterdam, NY EMD funded deal status | ASAP | Plaud — 10-27 RQF Community Briefing | 🟡 | ⬜ |
+| **Kiefer**: text confirmation of $600 and $800 payments as owner distributions + clarify "Scan-P" (text, not email; do not ask twice in same day) | This week | Plaud — 10-28 Business Ops | 🟡 | ⬜ |
 ---
 
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. Morning run 2026-10-10: 2 new transcripts processed (2026-10-07 [PERSONAL] Capital Raising and Value-Investing Fund Comparison, 2026-10-08 [UNCLEAR] Partner Q&A Primary Lending Handoff Echo Deals LLC Shield); 5 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size. Morning run 2026-08-29: 5 new transcripts processed (Bruce Williams AROS/CA questions 2026-08-26; Debt Fund GP partnership 2026-08-26; GP Onboarding/TC/Lender Risk 2026-08-26; North Peak Recovery state selection 2026-08-26; Personal Noah CRV 2026-08-26), 7 action items added.* Morning run 2026-09-17: 9 new transcripts processed (Dave GP 09-15, Kiefer 09-03, Roger Collaboration 09-03, EMD Referral 09-03, August Results 09-03, 506b Compliance 09-03, Owners Club Assessment 09-14, L10 Six-Month 09-15, Lorena Interview Panel 09-15), 13 action items added. Morning run 2026-09-18: 9 new transcripts processed (1 file — Lending Partner Fallout — unreadable due to file size), 19 action items added. Morning run 2026-10-10: 2 new transcripts processed (2026-10-07 [PERSONAL] Capital Raising and Value-Investing Fund Comparison, 2026-10-08 [UNCLEAR] Partner Q&A Primary Lending Handoff Echo Deals LLC Shield); 5 action items added. Morning run 2026-09-21: 5 new transcripts processed (09-16 Providence 17-acre subdivision feasibility, 09-18 Hans Peterson real estate consult + Relay wire auth, 09-18 Multi-Faceted RE discussion, 09-18 Casual personal conversation, 09-18 Capital Raising/SEC Compliance), 10 action items added. Morning run 2026-10-09: 6 new transcripts processed (2026-09-30 [PARTNER] Networking/Dave, 2026-10-02 [PARTNER] RV Park Scouting Capitol Reef, 2026-10-05 [TEAM] Lending Channel Build-Out, 2026-10-06 [EXEC] Weekly Strategy, 2026-10-06 [LENDER] Transactional Lending Models, 2026-10-07 [PARTNER] Custer LLC); 6 non-work/skipped files; 9 action items added. Morning run 2026-10-10: 2 new transcripts processed (2026-10-07 [PERSONAL] Capital Raising and Value-Investing Fund Comparison, 2026-10-08 [UNCLEAR] Partner Q&A Primary Lending Handoff Echo Deals LLC Shield); 5 action items added. Morning run 2026-10-14: 2 new transcripts processed (2026-10-13 [CLIENT] Cozy Corner RV Park Acquisition Analysis — Noel Wade, 2026-10-08 [PARTNER] Custer Crossings OA and IC Veto — Christian Clark, Mundo Sanchez, Andre Shepherd); 1 file unreadable/entity-not-found (2026-10-08 [PARTNER] Surplus+ Accountability); 2 non-work files skipped (Plaud vendor marketing, Plaud vendor tutorial); 10 action items added.
