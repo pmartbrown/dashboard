@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-30 — Morning transcript review — +38 item(s) from 6 new transcripts (10-28 Community Meeting, 10-28 Business Ops, 10-27 Ops, 10-27 RQF Briefing, 10-28 Multi-Topic, 10-29 EMD Recovery)**
+**Last updated: 2026-10-31 — Morning transcript review — +3 item(s) from 1 new transcript (10-30 Owen Mecom Hive Mind AI Workshop)**
 
 ---
 
@@ -561,6 +561,10 @@
 | **Get Georgia research workflow doc from Brent; send to Ted** — Ted to evaluate vs his ~$2k/month paid data service | This week | 2026-10-15 Surplus+ Accountability / North Peak Recovery (PARTNER) | 🟡 | ☐ |
 | **Record Bruce Williams (North Peak Recovery) onboarding call on Saturday** | Oct 17 (Sat) | 2026-10-15 Surplus+ Accountability / North Peak Recovery (PARTNER) | 🔴 | ☐ |
 | **Communicate RQF CRM rollout plan to team** — portal.realquickfunds.com live for shadow-mode testing; EMD pilot next, then full HubSpot migration | This week | 2026-10-15 CRM Go-Live & EMD Automation (PARTNER w/ Raz) | 🟡 | ☐ |
+
+| **Sign up for Creative Hive AI / Hive Mind Owners Club rollout** — use same Owners Club email; download Grok template; completes Hive bot setup in ~3 steps | This week | Plaud — 10-30 Owen Mecom AI Workshop (Owners Club) — rollout starts Monday | 🟡 | ⬜ |
+| **Update Hive Mind buy/lending box profile** — original onboarding may be 6 months old; define narrow RQF lending criteria (deal types, loan sizes, states) for better deal/partner matching | This week | Plaud — 10-30 Owen Mecom AI Workshop — broad boxes produce poor matches; narrow boxes essential | 🟡 | ⬜ |
+| **Evaluate Composio for multi-AI workflow integration** — connects 1,700+ services to Grok/Claude via single connection; review for RQF deal intake and email automation | When possible | Plaud — 10-30 Owen Mecom AI Workshop (Owners Club) | 🟢 | ⬜ |
 
 ## 🏗️ Projects — Build
 
