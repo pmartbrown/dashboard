@@ -565,6 +565,8 @@
 | **Sign up for Creative Hive AI / Hive Mind Owners Club rollout** — use same Owners Club email; download Grok template; completes Hive bot setup in ~3 steps | This week | Plaud — 10-30 Owen Mecom AI Workshop (Owners Club) — rollout starts Monday | 🟡 | ⬜ |
 | **Update Hive Mind buy/lending box profile** — original onboarding may be 6 months old; define narrow RQF lending criteria (deal types, loan sizes, states) for better deal/partner matching | This week | Plaud — 10-30 Owen Mecom AI Workshop — broad boxes produce poor matches; narrow boxes essential | 🟡 | ⬜ |
 | **Evaluate Composio for multi-AI workflow integration** — connects 1,700+ services to Grok/Claude via single connection; review for RQF deal intake and email automation | When possible | Plaud — 10-30 Owen Mecom AI Workshop (Owners Club) | 🟢 | ⬜ |
+| **Draft mandatory Terms & Conditions agreement for all RQF borrowers** — cover payment obligations and fee enforcement irrespective of deal outcome; have Miles draft and Paxton AI audit; protects against non-payment situations | ASAP | Oct 27 SKOOL community briefing — prompted by Dale Rod non-payment situation; cross-entity risk mitigation | 🟡 | ⬜ |
+
 
 ## 🏗️ Projects — Build
 
@@ -639,6 +641,9 @@
 | **Finalize Dave (Acrocs) as Pinecone Capital GP and investment committee member** — complete discussions, draft operating agreement amendment, define capital raise responsibilities | By Oct 22 | Sep 22 Pinecone Capital mid-year board review — discussions ongoing 1+ month; expected within 30 days | 🟡 | ⬜ |
 | **Identify and appoint 4th Pinecone Capital investment committee member** — vet candidates who add governance credibility or industry expertise | By Oct 22 | Sep 22 Pinecone Capital mid-year board review — committee needs 4 members for majority-vote structure; Paul's vote is tiebreaker | 🟢 | ⬜ |
 | **Host 3-part GrokBot training series** — starts NEXT WEEK; borrowed from Owen Mecham/Carvana framework | Next week | 2026-10-15 Agentic AI & Lender Matching (SKOOL) | 🔴 | ☐ |
+| **Build deal tracker for RQF referrers** — shows deal status and last contact date; gives referrers visibility to help chase unresponsive borrowers; eliminates manual Joss follow-ups | This month | Oct 29 SKOOL AI Brain call — Stack Method routing changed; deal tracker will restore referrer visibility during lender transition | 🟡 | ⬜ |
+| **Hire two new roles via Radar** — (1) Lead Generation Specialist (Facebook/group scraping for leads), (2) Paid Ads Manager (Google Ads campaigns); have Radar propose names, profiles, titles, and reporting lines | This week | Oct 27 SKOOL community briefing — scaling RQF marketing pipeline to drive deal flow | 🟡 | ⬜ |
+
 ## 📣 Marketing / Capital Raising
 
 | Item | Due | Context | Priority | Progress |
