@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-10-31 — Morning transcript review — +3 item(s) from 1 new transcript (10-30 Owen Mecom Hive Mind AI Workshop)**
+**Last updated: 2026-11-01 — Morning transcript review — +3 item(s) from 5 new transcripts (Oct 27–29 SKOOL/Pod/community calls)**
 
 ---
 
