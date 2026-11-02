@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-01 — Morning transcript review — +3 item(s) from 5 new transcripts (Oct 27–29 SKOOL/Pod/community calls)**
+**Last updated: 2026-11-02 — Morning transcript review — +29 item(s) from 26 new transcripts (Oct 15–29)**
 
 ---
 
@@ -156,6 +156,17 @@
 | **North Peak: add $1K/month owner's draw** for Kiefer childcare for all 2026 months; reevaluate capital balances (Andres) | This week | Plaud — 10-28 Business Ops | 🟡 | ⬜ |
 | **Miles + Andres: examine Form 1065** — why required for partnerships, any penalties, can Paul file himself | This week | Plaud — 10-28 Business Ops | 🟡 | ⬜ |
 | **Investigate 3 Jeremy verification-of-funds items** with April; ask for system login to verify funded deal data | This week | Plaud — 10-28 Business Ops | 🟡 | ⬜ |
+| **Resolve $423K HubSpot/QuickBooks discrepancy** — HubSpot shows $592K past due vs QB $169K; immediate cleanup required to restore financial reporting accuracy | ASAP | Plaud — 10-16 Q3 Financial Review, HubSpot Data Gap | 🔴 | ⬜ |
+| **Diversify revenue away from EHM concentration** — EHM was 27% of Q3 revenue; Lamy's group partnership ended; build replacement referral pipeline | This month | Plaud — 10-16 Q3 Financial Review | 🟡 | ⬜ |
+| **Formalize ACRUX GP addition** (Dave Forrest, 15% equity, 2% annual fee) to ResGap Plus LP operating documents; increase servicing fee to fund compensation | This week | Plaud — 10-16 ResGap Plus Q3 Distributions | 🟡 | ⬜ |
+| **Repay Pinecone ~$2.8K in TPA fees** — start with $500 payment; formalize expense reserves for ResGap Plus LP | This week | Plaud — 10-16 ResGap Plus Q3 Distributions | 🟡 | ⬜ |
+| **File suit against William Marty Phillips** (guarantor on ~$230K Fernando loan) — properties underwater; pursue title insurance claim as primary recovery path | ASAP | Plaud — 10-27 Fernando Capital Recovery | 🔴 | ⬜ |
+| **Arrange DSCR refinance for Jessica Lamont Ohio loan** (~$31K Fernando capital) — high-probability recovery; RQF to personally arrange refi | This week | Plaud — 10-27 Fernando Capital Recovery | 🟡 | ⬜ |
+| **Push Awadala SC property sale** — draft LOI + hire flat-fee broker to bypass owner stall; projected net ~$105K for Fernando covering Renetta + Nick losses + Awadala capital | ASAP | Plaud — 10-26 Surplus+ Distressed Deal Recovery | 🔴 | ⬜ |
+| **File suit against Renetta Williams on personal guarantee** — 4 MO properties foreclosed Jan–May 2025; fraud angle; use flat-fee attorney for initial filing | This week | Plaud — 10-26 Surplus+ Distressed Deal Recovery | 🔴 | ⬜ |
+| **File suit against Nick Kiamani on personal guarantee** — MO property foreclosed Sep 2025; debt unsecured; flat-fee attorney for initial filing to create settlement leverage | This week | Plaud — 10-26 Surplus+ Distressed Deal Recovery | 🟡 | ⬜ |
+| **North Peak Q3 bookkeeping cleanup** — reclassify pass-throughs as net revenue not expenses; fix Q1 data anomalies; correct $500 year-end item to service fee; update investor deck | This week | Plaud — 10-27 North Peak Q3 Review | 🟡 | ⬜ |
+| **Bridge funding for $3.2M deal** — assemble capital ($8.8M senior, $4.5M seller carry, $110K EMD posted); contact Bobby or Scott to fill equity gap; record explanation video first (Justin) | ASAP | Plaud — 10-15 Bridge Funding, Second Closing Controls | 🔴 | ⬜ |
 ---
 
 | **Correct gas station deal contract** — change seller-financing term from 12 to 120 months (typo in contract); negotiate $50K hard EMD requirement down; ensure inspection contingencies in place before executing | **ASAP** | 2026-10-06 [EXEC] Weekly Strategy — Justin + Paul; contract error discovered during deal review | 🔴 | ⬜ |
@@ -217,6 +228,9 @@
 | **Duke Creek — Review financials + evaluate bank DSCR terms** — validate P&L ($201K tax return + $30K addbacks + $55K unlisted rentals = ~$290K adj NOI); finalize underwriting; review DSCR with local bank (7.5% target) | Before 10-23 | 10-17 Duke Creek call — site expansion potential to $10M valuation | 🔴 | ⬜ |
 | **Duke Creek Campground (Michigan, 37 acres) — targeting 25% equity via Morby method; Christian Clark & Mundo Sanchez as operators; site visit + bank meeting Fri 10/23** | Site visit 10/23 | From 10/17 Partner call — projected NOI $240-290K, expansion to $10M valuation, $1.6M TF needed | 🔴 | ⬜ |
 | **RV park PSA in progress** — proceed to close; target a second RV park close by December | December 2026 | Plaud — 10-28 Community Meeting pod call | 🔴 | ⬜ |
+| **Missouri RV Park — formalize LOI with Noel Wade** — seller proposes 50/50 (seller carries 50% equity, buyers secure 50% from primary bank); proceed to contract | This week | Plaud — 10-21 RV Park Acquisition Strategy | 🟡 | ⬜ |
+| **Texas RV Park — re-evaluate with Lawrence** — original buyer re-traded; synergy with Heather's Park (7 min away, Lawrence partner, Dallas operator available) | This week | Plaud — 10-21 RV Park Acquisition Strategy | 🟡 | ⬜ |
+| **Glendale AZ flip restructuring** — Jeff Ritter (private lender) to consider DSCR refi + title transfer from Tua; appraisal $530K, debt $473K; evaluate tax implications | This week | Plaud — 10-22 Glendale AZ Flip Debt Restructuring | 🟡 | ⬜ |
 ---
 
 ## 📞 Follow-Ups / Outreach
@@ -347,6 +361,9 @@
 | **Send Christian** (RV park operator): apology for late meetings + request historicals with addbacks + 5-yr pro forma (with/without new section) | This week | Plaud — 10-27 Operations/Marketing call | 🟡 | ⬜ |
 | **Pod 22**: poll members for new Tuesday meeting time (avoid Jamil overlap); coordinate with Dorena; set poll deadline | This week | Plaud — 10-28 Community Meeting | 🟡 | ⬜ |
 | **Group text thread with Justin + Adam** for capital coordination during Japan travel | Before Sunday | Plaud — 10-27 RQF Briefing + 10-27 Ops | 🟡 | ⬜ |
+| **Follow up with 7Diamantes (Antonina D.)** on RQF bird-dog partnership — offer free referral form or VIP $97/mo; 50/50 profit split on transactional deals | This week | Plaud — 10-20 7Diamantes Transactional Funding Partnership | 🟡 | ⬜ |
+| **Send Jami Hearn / Karley McNamara white-label proposal** — RQF VIP program ($97/mo), 50/50 transactional / 25/25 double close profit splits; TC flexibility key differentiator | This week | Plaud — 10-20 White-Label Lending Program | 🟡 | ⬜ |
+| **Relay Banking partnership setup** — convert Brown Palaka & Associates to Relay Firm account (Victoria Smith); get referral link for Funding Hub (~800 members) | This week | Plaud — 10-29 Relay Banking Referral Partnership | 🟡 | ⬜ |
 ---
 
 | **Connect Troy Vorse with ground-up construction lenders — Paradise CA rebuild project** — Troy needs a construction lender offering deferred debt service for rebuilding burned-out lots in Paradise CA; seller is financing the lots; ~$400K net profit target per home; lender will need first-position lien (seller lien subordinate); also needs help raising investor reserves (ground-up lenders require significant liquidity) | **This week** | 2026-10-08 Partner Q'A — Troy Vorse (lender partner) presented Paradise CA project; Lot acquisition via seller carry; construction loan with deferred debt service is the target structure | 🟡 | ⬜ |
@@ -544,6 +561,15 @@
 | **Implement stricter valuation due diligence** standards: comps validation, lender fit screening, Google Earth/location review before funding | Ongoing | Plaud — 10-29 EMD Recovery call | 🟡 | ⬜ |
 | **InvestNext vs. in-house portal** evaluation: define criteria, features, cost-benefit, decision owner + timeline | This week | Plaud — 10-28 Community Meeting | 🟡 | ⬜ |
 | **Roz: Stop auto-forwarding deals** — all new deals enter central new-deals queue for manual sourcing | This week | Plaud — 10-28 Business Ops | 🟡 | ⬜ |
+| **Commission outbound lead hunter AI agent + Google Ads strategist AI agent** — two specialized agent personas for marketing expansion; standardize content pipelines | This week | Plaud — 10-27 Marketing Agents, Outbound Leads | 🟡 | ⬜ |
+| **Launch YouTube Shorts at 2–4/day** — deal flow is the primary RQF bottleneck (not capital); high-volume content is the fix | ASAP | Plaud — 10-20 L10 Stagnant Deal Flow | 🔴 | ⬜ |
+| **CRM portal rollout at portal.realquickfunds.com** — onboard processor team to live-deal testing; HubSpot remains system of record; challenge team to design optimal workflow | This week | Plaud — 10-29 CRM Portal Rollout — Raz Mihalyi | 🟡 | ⬜ |
+| **Implement VOF "spin-off" feature for DSCR/hard money loans** — automates current manual deal duplication in HubSpot; approved for development | This week | Plaud — 10-29 CRM Portal Rollout — Raz Mihalyi | 🟡 | ⬜ |
+| **Integrate OpenRouter.ai for AI document intelligence** — signature detection and document analysis in CRM; model-agnostic gateway (OpenAI, Kimi switchable) | This week | Plaud — 10-29 CRM Portal Rollout — Raz Mihalyi | 🟡 | ⬜ |
+| **Implement delegation routing** — tech issues → Mihai, communications → Una, legal → Miles, financial/strategic → Andres; reduce unnecessary escalation to Paul | This week | Plaud — 10-28 AI-Team Infrastructure | 🟡 | ⬜ |
+| **Revise lending contracts** — add protections to prevent borrower non-payment exposure (trigger: $700 EMD borrower went unresponsive; suit filed Oct 29) | This week | Plaud — 10-28 Workflow Automation, Lending Contracts | 🟡 | ⬜ |
+| **Vet escrow agent for bonding and E&O insurance** — they hold all client funds; fraud risk mitigation required | This week | Plaud — 10-20 L10 Stagnant Deal Flow | 🟡 | ⬜ |
+| **Fix Mac Mini / WhatsApp technical issues** — route to Mihai; use Claude/Mac Mini workflows to code routine tasks instead of manual handling | This week | Plaud — 10-28 AI-Team Infrastructure | 🟡 | ⬜ |
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
@@ -624,6 +650,7 @@
 
 | **Hire part-time marketing + project management/accountability support** — Paul stated this need at OC Pod call; prefers human over AI-only solution | This week | 10-28 OC Pod 21/22 joint call | 🟡 | ⬜ |
 | **Establish Funding Hub YouTube channel** focused on converting prospects to VIP paid members | This week | Plaud — 10-27 Ops + 10-27 RQF Briefing | 🟡 | ⬜ |
+| **NPR files migration to organizational brain** — bring old Zoom calls/transcripts from Old Zoom Calls folder into knowledge base; connect isolated Obsidian nodes to relevant hubs | This week | Plaud — 10-28 Tax Compliance and AI-Team Infrastructure | 🟡 | ⬜ |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
@@ -704,6 +731,8 @@
 | **Update LinkedIn profile** — refresh images + messaging for Pinecone capital raising (not RQF transactional) | This week | Plaud — 10-28 Multi-Topic Ops | 🟡 | ⬜ |
 | **Execute Pinecone/ResGap compliance + UX updates**: copy, images, logo, reorder content, make resgapplus.com live; provide InvestNext login | This week | Plaud — 10-28 Community Meeting | 🔴 | ⬜ |
 | **Circulate RQF funding one-pager** (terms/eligibility/process) to Owners Club pod members | This week | Plaud — 10-28 Community Meeting | 🟡 | ⬜ |
+| **LinkedIn brand repositioning for capital raising** — reframe positioning to attract accredited investors and capital partners | This month | Plaud — 10-28 Workflow Automation, LinkedIn Positioning | 🟡 | ⬜ |
+| **Prioritize fund capital returns to Fernando Mendoza** — communicate recovery plan status (Awadala sale, Lamont refi, Phillips lawsuit); ~$350K frozen for 2+ years | ASAP | Plaud — 10-27 Fernando Capital Recovery | 🔴 | ⬜ |
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
