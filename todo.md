@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-03 — Morning transcript review — +5 item(s) from 8 new transcripts (Oct 20–29)**
+**Last updated: 2026-11-04 — Morning transcript review — +32 item(s) from 12 new transcripts (Oct 27–29)**
 
 ---
 
@@ -7,6 +7,13 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Sign Devon Alexander conditional payoff doc** — $300K payoff + $60K allocation to additional property lien; awaiting title docs | ASAP | Oct 28 TEAM — Tax & Partnership meeting | 🔴 | ⬜ |
+| **File suit against Devin Alexander and both parties** — last day of waiting was Oct 29; proceed with lien on additional asset (~$100K equity) | ASAP | Oct 28–29 TEAM — EMD Recovery | 🔴 | ⬜ |
+| **Draft and sign Kiavi denial letter for EMD release** — cite 'inability to estimate value due to lack of comparable properties in reasonable geographic area' | ASAP | Oct 29 TEAM — EMD Recovery & Collateral Strategy | 🔴 | ⬜ |
+| **Write LOI for John Awadala sale — force signing this week** (North Peak) | ASAP | Oct 27 Fernando Capital Recovery call | 🔴 | ⬜ |
+| **Foreclose on Snyder's TN property** (North Peak) | ASAP | Oct 26–27 Surplus+ calls | 🔴 | ⬜ |
+| **File $700 EMD lawsuit** — no contact received by Oct 30 deadline | ASAP | Oct 28 L10 — Deal Flow & Capital Raising | 🔴 | ⬜ |
+| **Finalize and sign North Peak Recovery operating agreement with Keefer** — 50/50 equity, 65/35 profit split | ASAP | Oct 27–29 Surplus+ Q3 Review | 🔴 | ⬜ |
 | **Confirm with Adam — $500K POF availability for Malcolm's Briarwood Ave deal** — verify capital is available and closing timeline still valid | ASAP | Sep 30 Owners Club — early next week closing was noted; verify if still active or closed | 🔴 | ⬜ |
 | **Create loan documents for Adam Anderson** — draft promissory note, security/collateral docs, personal guaranty if applicable; confirm loan terms (amount, rate, term, payment schedule) before drafting | **URGENT — ASAP** | Added 2026-05-29 — Paul flagged as urgent; entity (RQF / Hanks / Pinecone) and deal type TBD | 🔴 | ⬜ |
 | **File Delaware Annual Franchise Tax — Real Quick Funds, LLC** — **$300 flat by 6/1/2026** (LLC File Number: **005689630**). Pay online: corp.delaware.gov (8AM–11:45PM ET). Late = $507.50 by 7/1, $515 by 8/1, $522.50 by 9/1, then administrative dissolution. "THIS IS THE ONLY NOTICE YOU WILL RECEIVE" per Delaware. DIY (corp.delaware.gov) vs URA service (855-236-9172) | **By 2026-06-01** | Physical Delaware L.L.C. Tax Notice received 4/28 via URA; URA calendar alert 5/6; PDF in admin@pineconegp inbox + Registered Agent folder; one-week reminder scheduled for 2026-05-25 8AM MT | 🔴 | ⬜ |
@@ -238,6 +245,15 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Instruct Roz: stop auto-forwarding deals** — all new deals → central queue for Josh only | ASAP | Oct 28 TEAM — Tax & Partnership | 🔴 | ⬜ |
+| **Review/approve all drafts before any communication with Kiefer or Heather** | Ongoing | Oct 28 TEAM — Tax & Partnership | 🔴 | ⬜ |
+| **EY response re: partnership P&Ls + K-1s** — coordinate response by Nov 13 | Nov 13 | Oct 28 TEAM — Tax & Partnership | 🟡 | ⬜ |
+| Capital-raising lunch with local contact | This week | Oct 27 TEAM — Marketing Agents & Liquidity call | 🟡 | ⬜ |
+| **Set up Relay Firm account** — convert Brown Palaka & Associates per Victoria Smith's email; get referral link for Funding Hub | This week | Oct 29 Relay Banking Partnership call | 🟡 | ⬜ |
+| Contact Missouri trustee re: surplus funds from Renetta Williams foreclosure (North Peak) | This week | Oct 27 Fernando Capital Recovery call | 🟡 | ⬜ |
+| Arrange DSCR refinance for Jessica Lamont loan (North Peak) | This week | Oct 27 Fernando call + Oct 26 Surplus+ Distressed Deals call | 🟡 | ⬜ |
+| Add Fernando Mendoza to Toby's mission email list | This week | Oct 27 Fernando Capital Recovery call | 🟢 | ⬜ |
+| Ask contacts for Utah Valley GC referrals for Fernando Mendoza's restaurant | This week | Oct 27 Fernando Capital Recovery call | 🟢 | ⬜ |
 | **Invite Owen Mecham** to lead next partner call on GrokBot AI automation for partners — schedule date, confirm topic, get on calendar | This week | Oct 8 VIP Partner Q&A — Owen presented GrokBot capabilities; Paul wants him to lead next session | 🟡 | ⬜ |
 | Call Rod back — confirm deal moving forward | Today | 04-28 meeting | 🔴 | ⬜ |
 | Email Mike's team: JV agreement draft + capital partner confirmation | Today | 04-28 meeting | 🔴 | ⬜ |
@@ -378,6 +394,8 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| Write welcome-home note for Akemi | ASAP | Oct 28 TEAM meeting | 🔴 | ⬜ |
+| Set up group text thread with Adam and Dave for travel coordination | This week | Oct 27 TEAM — Marketing call | 🟢 | ⬜ |
 | Review and sign updated operating agreement with Justin | This week | 04-28 ops discussion | 🔴 | ⬜ |
 | Discuss equity vesting schedule + buy-sell agreement framework | This week | 04-25 business review | 🟡 | ⬜ |
 | Research and choose best business checking account (Mercury, Relay, or Bluevine) | This week | Cash management optimization | 🟡 | ⬜ |
@@ -450,6 +468,14 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Add second contact number to all wire instruction documents** | ASAP | Oct 28 L10 — Deal Flow & Capital Raising | 🔴 | ⬜ |
+| **Instruct Mihai: fix Composio auth prompts** (triggering 150×/day) + Mac Mini Node.js popup | ASAP | Oct 28 TEAM — Workflow Automation & LinkedIn | 🔴 | ⬜ |
+| Instruct processors to begin testing CRM portal at portal.realquickfunds.com (deals fork from HubSpot) | This week | Oct 29 Raz & Paul Weekly — CRM Portal Rollout | 🟡 | ⬜ |
+| Create clean list of HubSpot pipeline automations for Raz to implement in new CRM portal | This week | Oct 29 Raz & Paul Weekly — CRM Portal Rollout | 🟡 | ⬜ |
+| Instruct bookkeeper: implement net accounting method + close 2025 North Peak books; issue K-1s | Nov 13 | Oct 27–29 Surplus+ Q3 Review & Q3 Financials | 🟡 | ⬜ |
+| Schedule recurring 'NPR Working Session' — Wednesdays 12 PM ET starting Nov 11 | Nov 11 | Oct 29 Surplus+ Accountability Call | 🟡 | ⬜ |
+| Optimize 3 Strati data pipelines (HubSpot, Funding Hub, QuickBooks) to zero token usage | Sprint 1 | Oct 28 TEAM — Workflow Automation | 🟡 | ⬜ |
+| Set up team@realquickfunds.com for CRM portal test email visibility | This week | Oct 29 Raz & Paul Weekly | 🟢 | ⬜ |
 | Build Morby/Stack Method deal calculator (interactive tool or spreadsheet) | Sprint 1 | 05-16 OC Planning Meeting — top-priority build for Gator community members | 🔴 | ⬜ |
 | Build automated follow-up sequence in HubSpot (post-deal-close) | Sprint 1 | 05-16 OC Planning Meeting — operational automation priority | 🟡 | ⬜ |
 | Implement Claude-based AI triage for admin@rqf inbox | Sprint 2 | Ongoing — operational leverage | 🟡 | ⬜ |
@@ -599,6 +625,11 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| Establish Funding Hub YouTube channel for VIP conversions | Sprint 1 | Oct 27 TEAM — Marketing Agents & Liquidity call | 🟡 | ⬜ |
+| Condense RQF T&C document from 14 pages to ~1/3 | Sprint 1 | Oct 28 TEAM — Workflow Automation & LinkedIn | 🟡 | ⬜ |
+| Create T&C agreement template for all borrowers | Sprint 1 | Oct 28 L10 — Deal Flow & Capital Raising | 🟡 | ⬜ |
+| Update North Peak financial deck with 'Quarterly Net' line per quarter | This week | Oct 27 Surplus+ Q3 Financials review | 🟡 | ⬜ |
+| Revise North Peak client contracts — replace % of attorney fees with flat servicing fee | This month | Oct 27 Surplus+ Q3 Review | 🟡 | ⬜ |
 | Complete private money lending book (~45 pages) — draft remaining chapters | Sprint 1 | Ongoing book project | 🟡 | ⬜ |
 | Complete young men's values book (ages 10–20) | Sprint 2 | Ongoing book project | 🟢 | ⬜ |
 | Build Gator deal calculator (Morby/Stack Method) | Sprint 1 | 05-16 OC Planning Meeting — top community tool | 🔴 | ⬜ |
@@ -677,6 +708,7 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| Update LinkedIn profile to prioritize Pinecone Capital over RQF lending activity | This week | Oct 28 TEAM — Workflow Automation & LinkedIn | 🟡 | ⬜ |
 | Post 3x/week to Instagram (Reels: deal walkthroughs, fund education, behind-the-scenes) | Weekly | Personal brand build | 🟡 | ⬜ |
 | Post 2x/week to LinkedIn (thought leadership: creative finance, fund structure) | Weekly | LP + professional audience | 🟡 | ⬜ |
 | Create YouTube short from most recent Gator fireside chat clip | This week | Repurpose content | 🟡 | ⬜ |
