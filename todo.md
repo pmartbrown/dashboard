@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-04 — Morning transcript review — +32 item(s) from 12 new transcripts (Oct 27–29)**
+**Last updated: 2026-11-11 — Morning transcript review — +14 item(s) from 10 new transcripts (Oct 20–Nov 10)**
 
 ---
 
@@ -175,6 +175,7 @@
 | **North Peak Q3 bookkeeping cleanup** — reclassify pass-throughs as net revenue not expenses; fix Q1 data anomalies; correct $500 year-end item to service fee; update investor deck | This week | Plaud — 10-27 North Peak Q3 Review | 🟡 | ⬜ |
 | **Bridge funding for $3.2M deal** — assemble capital ($8.8M senior, $4.5M seller carry, $110K EMD posted); contact Bobby or Scott to fill equity gap; record explanation video first (Justin) | ASAP | Plaud — 10-15 Bridge Funding, Second Closing Controls | 🔴 | ⬜ |
 | **Set up community EMD funding for Troy's Ridge Project** — land development needs EMD via Mutual Release Addendum to keep funds refundable through close | This week | Skool call 10-28 — EMD Funding Process | 🟡 | ⬜ |
+| **Coordinate capital liquidity protocols for Japan travel (Nov 9–10)** — coverage during absence; ensure capital deployment not blocked | ASAP | Oct 27 Skool Community Briefing — travel prep | 🟡 | ⬜ |
 ---
 
 | **Correct gas station deal contract** — change seller-financing term from 12 to 120 months (typo in contract); negotiate $50K hard EMD requirement down; ensure inspection contingencies in place before executing | **ASAP** | 2026-10-06 [EXEC] Weekly Strategy — Justin + Paul; contract error discovered during deal review | 🔴 | ⬜ |
@@ -239,6 +240,7 @@
 | **Missouri RV Park — formalize LOI with Noel Wade** — seller proposes 50/50 (seller carries 50% equity, buyers secure 50% from primary bank); proceed to contract | This week | Plaud — 10-21 RV Park Acquisition Strategy | 🟡 | ⬜ |
 | **Texas RV Park — re-evaluate with Lawrence** — original buyer re-traded; synergy with Heather's Park (7 min away, Lawrence partner, Dallas operator available) | This week | Plaud — 10-21 RV Park Acquisition Strategy | 🟡 | ⬜ |
 | **Glendale AZ flip restructuring** — Jeff Ritter (private lender) to consider DSCR refi + title transfer from Tua; appraisal $530K, debt $473K; evaluate tax implications | This week | Plaud — 10-22 Glendale AZ Flip Debt Restructuring | 🟡 | ⬜ |
+| **Proceed with RV park PSA — target close by December** — circulate funding one-pager with terms, eligibility, and process | Dec 2026 | Oct 28 Pod Networking — RV park deal | 🔴 | ⬜ |
 ---
 
 ## 📞 Follow-Ups / Outreach
@@ -381,6 +383,11 @@
 | **Follow up with 7Diamantes (Antonina D.)** on RQF bird-dog partnership — offer free referral form or VIP $97/mo; 50/50 profit split on transactional deals | This week | Plaud — 10-20 7Diamantes Transactional Funding Partnership | 🟡 | ⬜ |
 | **Send Jami Hearn / Karley McNamara white-label proposal** — RQF VIP program ($97/mo), 50/50 transactional / 25/25 double close profit splits; TC flexibility key differentiator | This week | Plaud — 10-20 White-Label Lending Program | 🟡 | ⬜ |
 | **Relay Banking partnership setup** — convert Brown Palaka & Associates to Relay Firm account (Victoria Smith); get referral link for Funding Hub (~800 members) | This week | Plaud — 10-29 Relay Banking Referral Partnership | 🟡 | ⬜ |
+| **Ask Alfonso to text Meredith** — update on the funded Amsterdam, NY EMD deal status | ASAP | Oct 27 Skool Community Briefing | 🟡 | ⬜ |
+| **Facilitate group text: Justin + Adam** — capital coordination during travel; ensure coverage | ASAP | Oct 27 Skool Community Briefing | 🟡 | ⬜ |
+| **Announce new 3 PM ET community call time** — schedule update for SKOOL community | ASAP | Oct 22 Skool Community Call | 🟢 | ⬜ |
+| **Share Z-Sign link with Brent Elkins** — follow up after community call demo | ASAP | Oct 22 Skool Community Call | 🟢 | ⬜ |
+| **Host monthly community call on deal mechanics** — EMD focus; feature Alfonso and Justin for discussion and Q&A | Nov 2026 | Nov 10 convo with Brent Kelley | 🟡 | ⬜ |
 ---
 
 | **Connect Troy Vorse with ground-up construction lenders — Paradise CA rebuild project** — Troy needs a construction lender offering deferred debt service for rebuilding burned-out lots in Paradise CA; seller is financing the lots; ~$400K net profit target per home; lender will need first-position lien (seller lien subordinate); also needs help raising investor reserves (ground-up lenders require significant liquidity) | **This week** | 2026-10-08 Partner Q'A — Troy Vorse (lender partner) presented Paradise CA project; Lot acquisition via seller carry; construction loan with deferred debt service is the target structure | 🟡 | ⬜ |
@@ -597,6 +604,9 @@
 | **Revise lending contracts** — add protections to prevent borrower non-payment exposure (trigger: $700 EMD borrower went unresponsive; suit filed Oct 29) | This week | Plaud — 10-28 Workflow Automation, Lending Contracts | 🟡 | ⬜ |
 | **Vet escrow agent for bonding and E&O insurance** — they hold all client funds; fraud risk mitigation required | This week | Plaud — 10-20 L10 Stagnant Deal Flow | 🟡 | ⬜ |
 | **Fix Mac Mini / WhatsApp technical issues** — route to Mihai; use Claude/Mac Mini workflows to code routine tasks instead of manual handling | This week | Plaud — 10-28 AI-Team Infrastructure | 🟡 | ⬜ |
+| **Instruct Roz: reconfigure CRM — disable auto-assignment, enable manual lead routing** — scope product-level toggles (Hard Money, DSCR, Construction) and custom form redirects | ASAP | Oct 27 Skool Community Briefing | 🔴 | ⬜ |
+| **Update wire instruction docs** — add alternate/Google contact numbers for title wire verification calls | ASAP | Oct 27 Skool Community Briefing — wire fraud prevention | 🟡 | ⬜ |
+| **Ask Raz Mihalyi: Z-Sign AATL certification status** — verify compliance for real estate e-signatures | ASAP | Oct 22 Skool Community Call | 🟡 | ⬜ |
 ---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
@@ -684,6 +694,8 @@
 | **Establish Funding Hub YouTube channel** focused on converting prospects to VIP paid members | This week | Plaud — 10-27 Ops + 10-27 RQF Briefing | 🟡 | ⬜ |
 | **NPR files migration to organizational brain** — bring old Zoom calls/transcripts from Old Zoom Calls folder into knowledge base; connect isolated Obsidian nodes to relevant hubs | This week | Plaud — 10-28 Tax Compliance and AI-Team Infrastructure | 🟡 | ⬜ |
 | **Build deal tracker with referrer visibility** — show deal status + last contact date so referrers can help chase unresponsive borrowers | This month | Skool call 10-29 — AI Brain Architecture | 🟡 | ⬜ |
+| **Distribute updated Mutual Referral Agreement for signature** — send to Jeremy, Josh, Jeff, Megan, and Julian; track completions | ASAP | Oct 27 Skool Community Briefing | 🟡 | ⬜ |
+| **Draft mandatory borrower Terms & Conditions** — payment obligations and fee enforcement regardless of deal outcome; legal review | ASAP | Oct 27 Skool Community Briefing | 🔴 | ⬜ |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
@@ -767,6 +779,8 @@
 | **Circulate RQF funding one-pager** (terms/eligibility/process) to Owners Club pod members | This week | Plaud — 10-28 Community Meeting | 🟡 | ⬜ |
 | **LinkedIn brand repositioning for capital raising** — reframe positioning to attract accredited investors and capital partners | This month | Plaud — 10-28 Workflow Automation, LinkedIn Positioning | 🟡 | ⬜ |
 | **Prioritize fund capital returns to Fernando Mendoza** — communicate recovery plan status (Awadala sale, Lamont refi, Phillips lawsuit); ~$350K frozen for 2+ years | ASAP | Plaud — 10-27 Fernando Capital Recovery | 🔴 | ⬜ |
+| **Direct Radar: propose new hire profiles** — (1) Lead Generation Specialist (Facebook/group scraping), (2) Paid Ads Manager (Google Ads); include titles, reporting lines, team integration | ASAP | Oct 27 Skool Community Briefing | 🟡 | ⬜ |
+| **Publish intro post on internal ops team** — who Manoella, Alfonso, and Joss are and what they do in deal execution | ASAP | Nov 10 convo with Brent Kelley | 🟡 | ⬜ |
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
