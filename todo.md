@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-12 — Morning transcript review — +10 item(s) from 2 new transcripts (Nov 11)**
+**Last updated: 2026-11-13 — Morning transcript review — +8 item(s) from 1 new transcript (Nov 12 CRM)**
 
 ---
 
@@ -177,7 +177,8 @@
 | **Set up community EMD funding for Troy's Ridge Project** — land development needs EMD via Mutual Release Addendum to keep funds refundable through close | This week | Skool call 10-28 — EMD Funding Process | 🟡 | ⬜ |
 | **Coordinate capital liquidity protocols for Japan travel (Nov 9–10)** — coverage during absence; ensure capital deployment not blocked | ASAP | Oct 27 Skool Community Briefing — travel prep | 🟡 | ⬜ |
 | **Surplus funds GA/Idaho: submit open records requests** — verify held amounts and check for prior claims after lien search confirms no excess encumbrances (Brent Kelley workflow) | This week | 11-11 Surplus Funds call — GA/Idaho due diligence | 🟡 | ⬜ |
----
+
+| **Confirm Phoenix AZ deal funding status — coordinate with Justin on HUD files; deal died Tue then revived** | ASAP | Plaud — 11-12 CRM meeting | 🔴 | [ ] |---
 
 | **Correct gas station deal contract** — change seller-financing term from 12 to 120 months (typo in contract); negotiate $50K hard EMD requirement down; ensure inspection contingencies in place before executing | **ASAP** | 2026-10-06 [EXEC] Weekly Strategy — Justin + Paul; contract error discovered during deal review | 🔴 | ⬜ |
 | **Route all Devin/Devon comms to Kiefer agency legal team** — debt now $860K+ (escalated from $740K); Kiefer handling collections + legal; execute foreclosure on all secured assets; zero direct contact with Devin | **ASAP** | 2026-10-06 [EXEC] Weekly Strategy — debt sent to Kiefer; all communication from Devin → Kiefer legal team | 🔴 | ⬜ |
@@ -390,7 +391,8 @@
 | **Share Z-Sign link with Brent Elkins** — follow up after community call demo | ASAP | Oct 22 Skool Community Call | 🟢 | ⬜ |
 | **Host monthly community call on deal mechanics** — EMD focus; feature Alfonso and Justin for discussion and Q&A | Nov 2026 | Nov 10 convo with Brent Kelley | 🟡 | ⬜ |
 | **Pull Sub2 community member list by county for Idaho courthouse research** — map member locations to identify who can cover Ada County, Caldwell County for surplus funds records | This week | 11-11 AI Automation & Surplus Funds call | 🟡 | ⬜ |
----
+
+| **Send Roz consolidated CRM feedback from 2-hr team review (layout + functionality changes)** | This week | Plaud — 11-12 CRM meeting | 🟡 | [ ] |---
 
 | **Connect Troy Vorse with ground-up construction lenders — Paradise CA rebuild project** — Troy needs a construction lender offering deferred debt service for rebuilding burned-out lots in Paradise CA; seller is financing the lots; ~$400K net profit target per home; lender will need first-position lien (seller lien subordinate); also needs help raising investor reserves (ground-up lenders require significant liquidity) | **This week** | 2026-10-08 Partner Q'A — Troy Vorse (lender partner) presented Paradise CA project; Lot acquisition via seller carry; construction loan with deferred debt service is the target structure | 🟡 | ⬜ |
 | **Follow up with Owners Club dinner contact re: EMD/lending collaboration** — coordinate intro call between their lending team and RQF; scheduling commitment made for within 2 weeks | OVERDUE | Sep 29 Owners Club dinner — concrete commitment to meet within 1-2 weeks; now past that window | 🔴 | ⬜ |
@@ -614,7 +616,10 @@
 | **CRM: Build "next step" field per deal component** — action field + responsible person dropdown + due date per Stack/EMD/DSCR/VOF component; show all components in one view | This sprint | 11-11 CRM Design meeting | 🟡 | ⬜ |
 | **CRM: Date alerts for close-of-escrow and next-step deadlines** — bold yellow 1 week out, bold red on day-of/past due; also highlight overdue next steps | This sprint | 11-11 CRM Design meeting | 🟡 | ⬜ |
 | **CRM: Funded deals tracking module** — prompt for actual funding date + amount on stage change to Funded; auto-calculate referral fees (25% default, manual override) | This sprint | 11-11 CRM Design meeting | 🟡 | ⬜ |
----
+
+| **CRM: Decide migration readiness criteria from HubSpot to new custom CRM** | This week | Plaud — 11-12 CRM meeting | 🟡 | [ ] |
+| **CRM: Define TC limited access model (assigned deals only; docs/chat; no email)** | This week | Plaud — 11-12 CRM meeting | 🟡 | [ ] |
+| **CRM: Approve on-demand AI email summary feature requirements** | This week | Plaud — 11-12 CRM meeting | 🟡 | [ ] |---
 | **Present LLC Method structure for seller carrybacks on next RQF community call** — teach members LLC-as-buyer approach for carry deals; use as teaching session | Next call | 09-15 Skool Q&A — members confused on LLC structuring for carryback deals | 🟡 | ⬜ |
 | **Get redacted PSA + seller carryback addendum examples from Justin** — use as teaching materials for community; confirm format and legal review | This week | 09-15 Skool Q&A — Paul committed to sourcing examples | 🟡 | ⬜ |
 | **Restructure Morby Method process to require asset-backed loans** — no undisclosed third-party funding; update intake form and partner agreement language | This week | L10 Oct 6 — legal/compliance risk flagged by Justin | 🔴 | [ ] |
@@ -848,6 +853,9 @@
 | **Ed — report on $6M development deal** — borrower in foreclosure on 18k-acre property; Ed verifying $2M debt figure, $4M engineering costs, and state bond claim | This week | Skool call 10-28 — EMD Funding Process | 🟡 | ⬜ |
 | **Alfonso + Josh: Review Stack and EMD deal screens** — identify info to display, hide, or prefill; submit ideas to Roz before CRM redesign session | This week | 11-11 CRM Design meeting | 🟡 | ⬜ |
 | **Alfonso: Submit DSCR/hard money form input ideas to Roz** — add stack/Morby method checkbox + mandatory deal description field (hold for full form redesign, not piecemeal) | Before next CRM session | 11-11 CRM Design meeting | 🟢 | ⬜ |
----
+
+| **Roz: Fix email UI bug in CRM deal view** | — | Plaud — 11-12 CRM meeting | 🟡 | [ ] |
+| **Roz: Restore linked deal button (start EMD/VOF/DSCR from existing deal)** | — | Plaud — 11-12 CRM meeting | 🟡 | [ ] |
+| **Roz: Implement deal linking + connected chat across linked deals** | — | Plaud — 11-12 CRM meeting | 🟡 | [ ] |---
 
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. Morning run 2026-10-10: 2 new transcripts processed (2026-10-07 [PERSONAL] Capital Raising and Value-Investing Fund Comparison, 2026-10-08 [UNCLEAR] Partner Q&A Primary Lending Handoff Echo Deals LLC Shield); 5 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size. Morning run 2026-08-29: 5 new transcripts processed (Bruce Williams AROS/CA questions 2026-08-26; Debt Fund GP partnership 2026-08-26; GP Onboarding/TC/Lender Risk 2026-08-26; North Peak Recovery state selection 2026-08-26; Personal Noah CRV 2026-08-26), 7 action items added.* Morning run 2026-09-17: 9 new transcripts processed (Dave GP 09-15, Kiefer 09-03, Roger Collaboration 09-03, EMD Referral 09-03, August Results 09-03, 506b Compliance 09-03, Owners Club Assessment 09-14, L10 Six-Month 09-15, Lorena Interview Panel 09-15), 13 action items added. Morning run 2026-09-18: 9 new transcripts processed (1 file — Lending Partner Fallout — unreadable due to file size), 19 action items added. Morning run 2026-10-10: 2 new transcripts processed (2026-10-07 [PERSONAL] Capital Raising and Value-Investing Fund Comparison, 2026-10-08 [UNCLEAR] Partner Q&A Primary Lending Handoff Echo Deals LLC Shield); 5 action items added. Morning run 2026-09-21: 5 new transcripts processed (09-16 Providence 17-acre subdivision feasibility, 09-18 Hans Peterson real estate consult + Relay wire auth, 09-18 Multi-Faceted RE discussion, 09-18 Casual personal conversation, 09-18 Capital Raising/SEC Compliance), 10 action items added. Morning run 2026-10-09: 6 new transcripts processed (2026-09-30 [PARTNER] Networking/Dave, 2026-10-02 [PARTNER] RV Park Scouting Capitol Reef, 2026-10-05 [TEAM] Lending Channel Build-Out, 2026-10-06 [EXEC] Weekly Strategy, 2026-10-06 [LENDER] Transactional Lending Models, 2026-10-07 [PARTNER] Custer LLC); 6 non-work/skipped files; 9 action items added. Morning run 2026-10-10: 2 new transcripts processed (2026-10-07 [PERSONAL] Capital Raising and Value-Investing Fund Comparison, 2026-10-08 [UNCLEAR] Partner Q&A Primary Lending Handoff Echo Deals LLC Shield); 5 action items added. Morning run 2026-10-14: 2 new transcripts processed (2026-10-13 [CLIENT] Cozy Corner RV Park Acquisition Analysis — Noel Wade, 2026-10-08 [PARTNER] Custer Crossings OA and IC Veto — Christian Clark, Mundo Sanchez, Andre Shepherd); 1 file unreadable/entity-not-found (2026-10-08 [PARTNER] Surplus+ Accountability); 2 non-work files skipped (Plaud vendor marketing, Plaud vendor tutorial); 10 action items added.
