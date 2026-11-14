@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-13 — Morning transcript review — +8 item(s) from 1 new transcript (Nov 12 CRM)**
+**Last updated: 2026-11-14 — Morning transcript review — +45 item(s) from 19 new transcripts (Oct-Nov recordings)**
 
 ---
 
@@ -243,6 +243,19 @@
 | **Texas RV Park — re-evaluate with Lawrence** — original buyer re-traded; synergy with Heather's Park (7 min away, Lawrence partner, Dallas operator available) | This week | Plaud — 10-21 RV Park Acquisition Strategy | 🟡 | ⬜ |
 | **Glendale AZ flip restructuring** — Jeff Ritter (private lender) to consider DSCR refi + title transfer from Tua; appraisal $530K, debt $473K; evaluate tax implications | This week | Plaud — 10-22 Glendale AZ Flip Debt Restructuring | 🟡 | ⬜ |
 | **Proceed with RV park PSA — target close by December** — circulate funding one-pager with terms, eligibility, and process | Dec 2026 | Oct 28 Pod Networking — RV park deal | 🔴 | ⬜ |
+| **Pair Dylan with short-term double close / 30-day deal** — assign him to a funded transaction to build trust and demonstrate RQF process | This week | 11-13 Capital & Investor Management | 🔴 | ⬜ |
+| **Initiate ~$12,000 ResCap Plus / ResGap payment before investor payouts** — priority capital move before distributions | ASAP | 10-13 RQF Operational meeting | 🔴 | ⬜ |
+| **Provide local CPA with 2025 P&Ls for filings and K-1s** — all entities; coordinate with Roz | This month | 10-13 RQF Operational meeting | 🔴 | ⬜ |
+| **Michigan RV Park — Send package to Philip** (LOI, map, address, pro forma) for local bank go/no-go; Dec 15 close target | ASAP | 10-26 Private Lending & Capital Strategy | 🔴 | ⬜ |
+| **Michigan RV Park — Finalize seller-carry amount and PSA structure** — work with Christian on LOI language covering seller financing and prepayment | ASAP | 10-23–10-25 Michigan RV Park meetings | 🔴 | ⬜ |
+| **Michigan RV Park — Contact Adam re: $180K bridge capital availability** — confirm sourcing for bridge funding need | ASAP | 10-23 RV Campground Acquisition | 🔴 | ⬜ |
+| **Michigan RV Park — Contact RV park lenders for DSCR financing requirements** — engage local bank + 2 national RV park lenders | This week | 10-23/10-25 Michigan RV Park meetings | 🔴 | ⬜ |
+| **Michigan RV Park — Follow up with engineering team after Nov 15** for stamped drawings timeline and costs; plan Jan/Feb 2027 permitting start | After Nov 15 | 10-23 RV Park Acquisition & Development Planning | 🟡 | ⬜ |
+| **Michigan RV Park — Complete water-sampling certification** (online class + test required by Michigan for campground operation) | Before Dec 15 close | 10-23 Campground Operational Handover | 🟡 | ⬜ |
+| **Michigan RV Park — Attend Grand Rapids RV Show** and promote the campground; coordinate marketing for new ownership | Jan 14–17, 2027 | 10-23 Campground Operational Handover | 🟡 | ⬜ |
+| **Michigan RV Park — Confirm horse exclusion in contract** — ensure no horses on property per operational agreement | In contract | 10-23 Campground Site Development | 🔴 | ⬜ |
+| **Michigan RV Park — Establish weekly 3-partner call** (Paul, Mundo, Christian) for deal coordination | This week | 10-25 Michigan RV Partnership | 🟡 | ⬜ |
+| **Reconnect with Philip on $43M transaction** — primary lender requirements and capital structure | This week | 10-26 Private Lending & Capital Strategy | 🟡 | ⬜ |
 ---
 
 ## 📞 Follow-Ups / Outreach
@@ -440,6 +453,20 @@
 | **Roll over AIG 401(k) (~$1M) to self-directed IRA** — 401k has been sitting idle since leaving AIG ~3 years ago; Paul wants more control over how it's invested; evaluate Entrust or similar SDIRA custodian; possible vehicles include Canadian value fund, SPY/QQQ, or Pinecone-style lending | **This month** | 2026-10-07 Canadian Fund Manager call — Paul explicitly said "I need to address it"; wife prefers non-real-estate allocation for retirement accounts; rollover requires appropriate SDIRA custodian | 🟡 | ⬜ |
 | **Akemi dental — Dr. Kerr** — cracked crown, possible root canal or new crown; complete intake form online before appt; DMBA dental insurance | Wed 10/22 8:45 AM | Plaud 10-19 — scheduled during call | 🔴 | ⬜ |
 | **Japan travel coverage**: coordinate DocuSign authority + capital flows coverage Sun Nov 1 through Mon Nov 9 (13-hr time diff); team responsibilities documented | Before Sunday | Plaud — 10-27 RQF Briefing + 10-27 Ops | 🔴 | ⬜ |
+| **Send DocuSign + Pinecone Capital link to investor/investment committee contact** — close commitment | ASAP | 11-13 Capital & Investor Management | 🔴 | ⬜ |
+| **Follow up Tracy's hard-money file** — sober living property, submitted Oct 19 at EHM; get status update | ASAP | 11-12 Lending Operations & CRM | 🔴 | ⬜ |
+| **Follow up with Angelo re: self-storage and multifamily opportunities** — potential deal flow from his network | This week | 11-12 Lending Operations & CRM | 🟡 | ⬜ |
+| **Follow up with John re: fund/investment discussions** — potential capital into ResGap Plus | This week | 11-12 Lending Operations & CRM | 🟡 | ⬜ |
+| **Help Quentin prepare LOI for $2.25M property** — TC guidance and transaction structuring support | This week | 11-11 Quentin Consultation | 🟡 | ⬜ |
+| **Contact counterparty in disputed RQF transaction** — resolve open dispute per legal/operational guidance | ASAP | 10-13 RQF Operational | 🟡 | ⬜ |
+| **Review Anna's client referral agreement** after Justin sends it — confirm terms before signing | Upon receipt | 10-13 RQF Operational | 🟡 | ⬜ |
+| **Continue contacting Jessica for DSCR refinance** — move her loan file forward | This week | 10-13 Fund Operations | 🟡 | ⬜ |
+| **Arrange lunch with Bobby Siegmeier** — discuss short-duration deal funding opportunities and self-storage contact | This month | 10-13 Fund Operations / 10-23 Casual conversation | 🟡 | ⬜ |
+| **Follow up with Dana Washington re: fund investment interest** — ResGap Plus LP capital raise | This week | 09-21 Financing Consultation | 🟡 | ⬜ |
+| **Follow up with Karen Anspach** re: PA/OH title company referral relationship — joint business development | This week | 09-21 Financing Consultation | 🟡 | ⬜ |
+| **Give Jada 1-month free upgrade** to $17 Funding Hub tier as goodwill gesture | This week | 11-12 Lending Operations & CRM | 🟢 | ⬜ |
+| **Send rankings table to Eric Ball** — per conversation commitment | This week | 10-25 Michigan RV Partnership | 🟢 | ⬜ |
+| **Try personalized ministering approach with youth** — implement more intentional 1-on-1 connection strategy | Ongoing | 10-13 Pastoral Leadership discussion | 🟢 | ⬜ |
 ---
 
 | **Enforce ethical disclosure protocol in Morby Method deals** — require seller signature on single-page disclosure (purchase price, total debt, cash to buyer) before funding any over-leveraged or Morby/Echo deal | Ongoing | Sep 29 Owners Club lender panel — Paul affirmed this as firm RQF policy; document in lender guidelines | 🟢 | ⬜ |
@@ -709,6 +736,18 @@
 | **Distribute updated Mutual Referral Agreement for signature** — send to Jeremy, Josh, Jeff, Megan, and Julian; track completions | ASAP | Oct 27 Skool Community Briefing | 🟡 | ⬜ |
 | **Draft mandatory borrower Terms & Conditions** — payment obligations and fee enforcement regardless of deal outcome; legal review | ASAP | Oct 27 Skool Community Briefing | 🔴 | ⬜ |
 | **Build inbound voice AI agent for off-hours RQF calls** — discloses AI identity, answers basic questions, books Google Meet/Calendar appointments, triggers CRM intake + PSA upload link text | This sprint | 11-11 AI Automation call — planned workflow | 🟡 | ⬜ |
+| **Build investor onboarding flow on own site — replace InvestNext** — target weekend Nov 14–15; self-hosted portal | Nov 14–15 | 11-13 Capital & Investor Management | 🔴 | ⬜ |
+| **RQF CRM — Finish Deal Chat, stage tracking, visual date alerts** — 1–2 month build timeline with Roz | 1–2 months | 11-12 Lending Operations & CRM | 🟡 | ⬜ |
+| **Schedule Matt for North Peak Thursday call Nov 19** — coordinate debt recovery discussion | Nov 19 | 11-12 Surplus Funds | 🟡 | ⬜ |
+| **Explore USD/JPY structured note product with bank** for Japan capital raising — assess viability with banking contacts | This month | 11-13 Capital & Investor Management | 🟡 | ⬜ |
+| **Resolve Dave's LLC GP authority** — amend operating agreement to allow solo signing; prevent deal blockage | This week | 11-13 Capital & Investor Management | 🟡 | ⬜ |
+| **Fix Twilio A2P campaign re-registration** — correct use-case description to match Summit REI brand; unblock SMS | ASAP | 11-12 Lending Operations & CRM | 🔴 | ⬜ |
+| **Create Summit REI web presence** (summitrei.realquickfunds.com) — required for A2P 10DLC campaign approval | ASAP | 11-12 Lending Operations & CRM | 🟡 | ⬜ |
+| **Discuss driver's-license storage/retention with Roz** for CRM design — compliance + legal review needed | This week | 10-13 RQF Operational | 🟡 | ⬜ |
+| **Schedule quarterly fund/company review call** — all partners; set recurring cadence | This month | 10-13 RQF Operational | 🟡 | ⬜ |
+| **Ask local tax consultant about S-Corp election requirements** for RQF/entities — timing and eligibility check | This month | 10-13 RQF Operational | 🟡 | ⬜ |
+| **Update lending procedures — extensions require fees paid upfront** — codify in SOP and communicate to borrowers | This week | 10-13 Fund Operations | 🟡 | ⬜ |
+| **Make North Peak GitHub repo available for North Peak bot** — Roz to provision access | This week | 10-13 Fund Operations | 🟡 | ⬜ |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
@@ -794,6 +833,12 @@
 | **Prioritize fund capital returns to Fernando Mendoza** — communicate recovery plan status (Awadala sale, Lamont refi, Phillips lawsuit); ~$350K frozen for 2+ years | ASAP | Plaud — 10-27 Fernando Capital Recovery | 🔴 | ⬜ |
 | **Direct Radar: propose new hire profiles** — (1) Lead Generation Specialist (Facebook/group scraping), (2) Paid Ads Manager (Google Ads); include titles, reporting lines, team integration | ASAP | Oct 27 Skool Community Briefing | 🟡 | ⬜ |
 | **Publish intro post on internal ops team** — who Manoella, Alfonso, and Joss are and what they do in deal execution | ASAP | Nov 10 convo with Brent Kelley | 🟡 | ⬜ |
+| **Onboard McCray ($200K committed to ResGap Plus)** — complete onboarding Nov 16–22; DocuSign + wire | Nov 16–22 | 11-13 Capital & Investor Management | 🔴 | ⬜ |
+| **Call Monday Nov 16 with prospective fund investor** (former bank colleague) — ResGap Plus capital raise conversation | Nov 16 | 11-13 Capital & Investor Management | 🔴 | ⬜ |
+| **Schedule investor conversations for McRae ($750K available)** — priority capital for fund raise | ASAP | 10-27 Fund Strategy & Investor Management | 🔴 | ⬜ |
+| **Work with Dave on Acrux fund structure** — confirm 70/30 ownership split (Dave/DJ 70%, Adam/Paul 30%) | This month | 10-27 Fund Strategy & Investor Management | 🟡 | ⬜ |
+| **Develop investor onboarding materials for Acrux** — multi-strategy fund; coordinate with Adam | This month | 10-27 Fund Strategy & Investor Management | 🟡 | ⬜ |
+| **Send $1.5M fund raise materials to Philip and credit investors** — ResGap Plus capital deployment | This week | 10-26 Private Lending & Capital Strategy | 🟡 | ⬜ |
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
