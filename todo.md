@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-14 — Morning transcript review — +45 item(s) from 19 new transcripts (Oct-Nov recordings)**
+**Last updated: 2026-11-15 — Morning transcript review — +2 item(s) from 2 new transcripts (Nov 11-12)**
 
 ---
 
@@ -414,6 +414,7 @@
 | **Follow up on overdue Paul Johnson attorney invoice** — confirm status and payment | This week | 2026-10-16 Q3 Financial Review (EXEC) | 🟡 | ☐ |
 | **Forward Alexandria, LA 6-unit deal info to Legacy072025@gmail.com** (Eva/Pierproperty Holdings group) | ASAP | 2026-10-14 Capital Deployment / RQF Fund call (LENDER) | 🟡 | ☐ |
 | **Follow up with Eva/Pierproperty Holdings group** — confirm deal criteria text received; add to RQF deal-flow pipeline | This week | 2026-10-14 Capital Deployment / RQF Fund call (LENDER) | 🟢 | ☐ |
+| **Connect Quentin with DSCR/commercial lenders** familiar with seller finance structures — $2.25M ice rink building; existing $660K note balloon due Dec/Jan; evaluate seller carryback + primary lender structure | This week | 11-11 Consultation — Quentin $2.25M seller finance deal | 🟡 | ⬜ |
 ## 🧭 Personal / Standards
 
 | Item | Due | Context | Priority | Progress |
@@ -768,6 +769,7 @@
 | **Build deal tracker for RQF referrers** — shows deal status and last contact date; gives referrers visibility to help chase unresponsive borrowers; eliminates manual Joss follow-ups | This month | Oct 29 SKOOL AI Brain call — Stack Method routing changed; deal tracker will restore referrer visibility during lender transition | 🟡 | ⬜ |
 | **Hire two new roles via Radar** — (1) Lead Generation Specialist (Facebook/group scraping for leads), (2) Paid Ads Manager (Google Ads campaigns); have Radar propose names, profiles, titles, and reporting lines | This week | Oct 27 SKOOL community briefing — scaling RQF marketing pipeline to drive deal flow | 🟡 | ⬜ |
 
+| **Build mortgage foreclosure surplus lead workflow via GeorgiaPublicNotice.com** — search 'sale under power', filter third-party buyers, look up deed + original security deed, check liens/refinances; set up GoHighLevel case cards + Google Drive folders; skip trace via Deal Sauce | This week | 11-12 North Peak Recovery — Matt shared Bruce's mortgage surplus sourcing process | 🟡 | ⬜ |
 ## 📣 Marketing / Capital Raising
 
 | Item | Due | Context | Priority | Progress |
