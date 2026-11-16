@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-15 — Morning transcript review — +2 item(s) from 2 new transcripts (Nov 11-12)**
+**Last updated: 2026-11-16 — Morning transcript review — +14 item(s) from 4 new transcripts (Nov 11-12 + Oct 27)**
 
 ---
 
@@ -256,6 +256,8 @@
 | **Michigan RV Park — Confirm horse exclusion in contract** — ensure no horses on property per operational agreement | In contract | 10-23 Campground Site Development | 🔴 | ⬜ |
 | **Michigan RV Park — Establish weekly 3-partner call** (Paul, Mundo, Christian) for deal coordination | This week | 10-25 Michigan RV Partnership | 🟡 | ⬜ |
 | **Reconnect with Philip on $43M transaction** — primary lender requirements and capital structure | This week | 10-26 Private Lending & Capital Strategy | 🟡 | ⬜ |
+| **Follow up on 3900 Marydale deal** — Alfonso to get borrower to return EMD that title company wrongly refunded | This week | Plaud 2026-11-12 SKOOL — 3900 Marydale title error | 🔴 | ⬜ |
+| **North Peak: set up Georgia GSCCCA portal** for statewide surplus/lien search, build Idaho county-by-county search workflow | This week | Plaud 2026-11-11 AI Automation call — Surplus Funds sourcing | 🟡 | ⬜ |
 ---
 
 ## 📞 Follow-Ups / Outreach
@@ -468,6 +470,8 @@
 | **Give Jada 1-month free upgrade** to $17 Funding Hub tier as goodwill gesture | This week | 11-12 Lending Operations & CRM | 🟢 | ⬜ |
 | **Send rankings table to Eric Ball** — per conversation commitment | This week | 10-25 Michigan RV Partnership | 🟢 | ⬜ |
 | **Try personalized ministering approach with youth** — implement more intentional 1-on-1 connection strategy | Ongoing | 10-13 Pastoral Leadership discussion | 🟢 | ⬜ |
+| **Follow up with McRae** (Quaid's brother) — has ~$750K from recent RE deals, dissatisfied with Northwestern Mutual, interested in RQF + bank notes + Acrux path | This week | Plaud 2026-10-27 Fund Strategy call | 🟡 | ⬜ |
+| **Adam: research Series 65 for Dave** — determine compliant way to combine public-market advisory and private fund roles | When possible | Plaud 2026-10-27 Fund Strategy call | 🟡 | ⬜ |
 ---
 
 | **Enforce ethical disclosure protocol in Morby Method deals** — require seller signature on single-page disclosure (purchase price, total debt, cash to buyer) before funding any over-leveraged or Morby/Echo deal | Ongoing | Sep 29 Owners Club lender panel — Paul affirmed this as firm RQF policy; document in lender guidelines | 🟢 | ⬜ |
@@ -669,6 +673,14 @@
 | **Update Hive Mind buy/lending box profile** — original onboarding may be 6 months old; define narrow RQF lending criteria (deal types, loan sizes, states) for better deal/partner matching | This week | Plaud — 10-30 Owen Mecom AI Workshop — broad boxes produce poor matches; narrow boxes essential | 🟡 | ⬜ |
 | **Evaluate Composio for multi-AI workflow integration** — connects 1,700+ services to Grok/Claude via single connection; review for RQF deal intake and email automation | When possible | Plaud — 10-30 Owen Mecom AI Workshop (Owners Club) | 🟢 | ⬜ |
 | **Draft mandatory Terms & Conditions agreement for all RQF borrowers** — cover payment obligations and fee enforcement irrespective of deal outcome; have Miles draft and Paxton AI audit; protects against non-payment situations | ASAP | Oct 27 SKOOL community briefing — prompted by Dale Rod non-payment situation; cross-entity risk mitigation | 🟡 | ⬜ |
+| **Update title vetting process**: confirm how companies send refunds (wire vs. check) to prevent wrongful EMD refunds | This week | Plaud 2026-11-12 SKOOL — EMD process improvement | 🟡 | ⬜ |
+| **Implement AI contract analysis (Gemini)** to flag risk factors and hidden clauses in EMD deals | When possible | Plaud 2026-11-12 SKOOL | 🟡 | ⬜ |
+| **Publish mutual release addendum** as standard for all EMD deals | This week | Plaud 2026-11-12 SKOOL | 🟡 | ⬜ |
+| **Rebuild AI executive assistant WhatsApp/text polling** as event-driven Python script (reduce tokens from 29% to 5-6% of budget) | This week | Plaud 2026-11-11 AI Automation call | 🟡 | ⬜ |
+| **Build static Python scripts connecting to HubSpot/QBO/Google APIs** for EOS scorecard (eliminate token spend on scorecard population) | This week | Plaud 2026-11-11 AI Automation call | 🟡 | ⬜ |
+| **Get Justin to log into pilot CRM and test** alongside 3 staff members | This week | Plaud 2026-11-11 AI Automation call — CRM testing blocked | 🟡 | ⬜ |
+| **Build AI inbound call agent with Charlotte**: handles off-hours calls, discloses AI, schedules via Google Calendar | This week | Plaud 2026-11-11 Community Call | 🟡 | ⬜ |
+
 
 
 ## 🏗️ Projects — Build
@@ -749,6 +761,8 @@
 | **Ask local tax consultant about S-Corp election requirements** for RQF/entities — timing and eligibility check | This month | 10-13 RQF Operational | 🟡 | ⬜ |
 | **Update lending procedures — extensions require fees paid upfront** — codify in SOP and communicate to borrowers | This week | 10-13 Fund Operations | 🟡 | ⬜ |
 | **Make North Peak GitHub repo available for North Peak bot** — Roz to provision access | This week | 10-13 Fund Operations | 🟡 | ⬜ |
+| **Acrux fund: document 70/30 ownership split** — 70% Dave/DJ group, 30% Adam+Paul as CFOs; finalize compensation structure for Dave | This month | Plaud 2026-10-27 Fund Strategy call | 🟡 | ⬜ |
+| **Build new community training call tracks** — operations, contracts, marketing (not just acquisitions); invite RQF ops team and high-volume TCs | This week | Plaud 2026-11-11 Community Call | 🟡 | ⬜ |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
@@ -841,6 +855,7 @@
 | **Work with Dave on Acrux fund structure** — confirm 70/30 ownership split (Dave/DJ 70%, Adam/Paul 30%) | This month | 10-27 Fund Strategy & Investor Management | 🟡 | ⬜ |
 | **Develop investor onboarding materials for Acrux** — multi-strategy fund; coordinate with Adam | This month | 10-27 Fund Strategy & Investor Management | 🟡 | ⬜ |
 | **Send $1.5M fund raise materials to Philip and credit investors** — ResGap Plus capital deployment | This week | 10-26 Private Lending & Capital Strategy | 🟡 | ⬜ |
+| **Scale Lila social media bot** to increase from 3-4/week post frequency; track results | This week | Plaud 2026-11-11 Community Call — Lila bot working | 🟡 | ⬜ |
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
