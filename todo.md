@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-16 — Morning transcript review — +14 item(s) from 4 new transcripts (Nov 11-12 + Oct 27)**
+**Last updated: 2026-11-17 — Morning transcript review — +13 item(s) from 13 new transcripts (Nov 11-13 + Oct backlog)**
 
 ---
 
@@ -203,6 +203,8 @@
 | **Investigate $60k intercompany balance owed to Hank's Ventures** — confirm source and resolve | This week | 2026-10-16 Q3 Financial Review (EXEC) | 🟡 | ☐ |
 | **Update fund servicing agreement** — increase rate to ~1.4% to cover Dave GP 2% annual fee | This week | 2026-10-16 Q3 Financial Review (EXEC) | 🟡 | ☐ |
 | **Full loan write-off review** — assess probability of recovery for each outstanding loan (likely >$30k total) | This month | 2026-10-16 Q3 Financial Review (EXEC) | 🟡 | ☐ |
+| **Duke Creek — Review broker PSA red-line** — verify no seller financing language was included (markup sent overnight Nov 11) | ASAP | 11-11 Duke Creek call — Mundo Sanchez, Christian Clark | 🔴 | ⬜ |
+| **Joss: Contact Utu/EHM re 3825 S 25th Street Omaha hard-money file** — submitted Oct 19; stalled with Jeremy's team; seller held open house; needs urgent status update | ASAP | 11-12 Traci Call | 🔴 | ⬜ |
 ## 🏘️ Deals — Acquisition Review
 
 | Item | Due | Context | Priority | Progress |
@@ -417,6 +419,12 @@
 | **Forward Alexandria, LA 6-unit deal info to Legacy072025@gmail.com** (Eva/Pierproperty Holdings group) | ASAP | 2026-10-14 Capital Deployment / RQF Fund call (LENDER) | 🟡 | ☐ |
 | **Follow up with Eva/Pierproperty Holdings group** — confirm deal criteria text received; add to RQF deal-flow pipeline | This week | 2026-10-14 Capital Deployment / RQF Fund call (LENDER) | 🟢 | ☐ |
 | **Connect Quentin with DSCR/commercial lenders** familiar with seller finance structures — $2.25M ice rink building; existing $660K note balloon due Dec/Jan; evaluate seller carryback + primary lender structure | This week | 11-11 Consultation — Quentin $2.25M seller finance deal | 🟡 | ⬜ |
+| **Send consolidated CRM feedback to Russ (CRM developer)** — from Nov 11 two-hour team review session | This week | 11-12 CRM onboarding call | 🔴 | ⬜ |
+| **Process $400/month CRM support payment to Ross** | ASAP | 11-12 CRM onboarding call | 🔴 | ⬜ |
+| **Follow up on Kiana's returned EMD** — she received it back and hasn't re-submitted; check status | This week | 11-12 Traci Call | 🟡 | ⬜ |
+| **Email A.P./Angelo: Pinecone Capital fund info** (12% annual return); schedule follow-up re: multifamily/self-storage co-acquisition interest | This week | 11-12 RE Acquisitions call | 🟡 | ⬜ |
+| **Send John RQF fund info + arrange follow-up call** re: investing in RQF + potential RE acquisition partnership | This week | 11-12 Lending Partnerships call | 🟡 | ⬜ |
+| **Debrief with Justin on lost ResGap Plus client** — client threatened lawsuit and switched lenders mid-process; identify root cause + prevention | This week | 11-13 Adam Anderson call | 🟡 | ⬜ |
 ## 🧭 Personal / Standards
 
 | Item | Due | Context | Priority | Progress |
@@ -680,6 +688,9 @@
 | **Build static Python scripts connecting to HubSpot/QBO/Google APIs** for EOS scorecard (eliminate token spend on scorecard population) | This week | Plaud 2026-11-11 AI Automation call | 🟡 | ⬜ |
 | **Get Justin to log into pilot CRM and test** alongside 3 staff members | This week | Plaud 2026-11-11 AI Automation call — CRM testing blocked | 🟡 | ⬜ |
 | **Build AI inbound call agent with Charlotte**: handles off-hours calls, discloses AI, schedules via Google Calendar | This week | Plaud 2026-11-11 Community Call | 🟡 | ⬜ |
+| **CRM: Restore complementary funding request buttons** — EMD→double close, VOF, DSCR buttons; link to existing deals | This sprint | 11-11 CRM team review | 🟡 | ⬜ |
+| **CRM: Configure TC permissions** — assigned deals only; docs + chat access; no email access | This sprint | 11-11 CRM team review | 🟡 | ⬜ |
+| **Validate SurplusRocket.com (Overage Syndicate)** lead list service — research legitimacy, red flags vs testimonials before subscribing | This week | 11-11 Surplus Funds call | 🟢 | ⬜ |
 
 
 
@@ -784,6 +795,7 @@
 | **Hire two new roles via Radar** — (1) Lead Generation Specialist (Facebook/group scraping for leads), (2) Paid Ads Manager (Google Ads campaigns); have Radar propose names, profiles, titles, and reporting lines | This week | Oct 27 SKOOL community briefing — scaling RQF marketing pipeline to drive deal flow | 🟡 | ⬜ |
 
 | **Build mortgage foreclosure surplus lead workflow via GeorgiaPublicNotice.com** — search 'sale under power', filter third-party buyers, look up deed + original security deed, check liens/refinances; set up GoHighLevel case cards + Google Drive folders; skip trace via Deal Sauce | This week | 11-12 North Peak Recovery — Matt shared Bruce's mortgage surplus sourcing process | 🟡 | ⬜ |
+| **Build proprietary document management site for ResGap Plus** — eliminate third-party hosting costs; integrate AI tools for doc review | Q4 | 11-13 Adam Anderson call | 🟡 | ⬜ |
 ## 📣 Marketing / Capital Raising
 
 | Item | Due | Context | Priority | Progress |
@@ -864,6 +876,7 @@
 | **Audit RQF marketing materials for "we" vs "I" language** — ensure all funding capacity claims use "we" to reflect fund backing, not personal funds | This week | VIP call Oct 6 — compliance/marketing alignment | 🟡 | [ ] |
 | **Share Google Ads campaign results with community** (SKOOL) | This week | 2026-10-15 Agentic AI & Lender Matching (SKOOL) | 🟡 | ☐ |
 | **Research Nick Fisher (New Reach) keyword tools** for Google Ads targeting refinement | This week | 2026-10-15 CRM Go-Live & EMD Automation (PARTNER w/ Raz) | 🟡 | ☐ |
+| **North Peak: Set up Google Ads for surplus funds inbound** — target search: 'how do I get money from my foreclosed house'; funnel into North Peak | Q4 | 11-11 Brent Kelley surplus call | 🟢 | ⬜ |
 
 ## ⏳ Waiting On
 
