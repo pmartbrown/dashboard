@@ -776,6 +776,7 @@
 | **Make North Peak GitHub repo available for North Peak bot** — Roz to provision access | This week | 10-13 Fund Operations | 🟡 | ⬜ |
 | **Acrux fund: document 70/30 ownership split** — 70% Dave/DJ group, 30% Adam+Paul as CFOs; finalize compensation structure for Dave | This month | Plaud 2026-10-27 Fund Strategy call | 🟡 | ⬜ |
 | **Build new community training call tracks** — operations, contracts, marketing (not just acquisitions); invite RQF ops team and high-volume TCs | This week | Plaud 2026-11-11 Community Call | 🟡 | ⬜ |
+| **Decide double-close pricing model with Justin** — debating 3-4 months; current: 1.25% flat ($250 min); proposed: 0.75% floor + broker markup; group gave feedback, needs final decision | This week | Plaud — 11-17 Panel Discussion: Real Estate Networking, Buyer Qualification, and Deal Funding | 🟡 | ⬜ |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
