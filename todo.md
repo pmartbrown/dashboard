@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-17 — Morning transcript review — +13 item(s) from 13 new transcripts (Nov 11-13 + Oct backlog)**
+**Last updated: 2026-11-18 — Morning transcript review — +3 item(s) from 1 new transcript (Nov 17)**
 
 ---
 
@@ -480,6 +480,8 @@
 | **Try personalized ministering approach with youth** — implement more intentional 1-on-1 connection strategy | Ongoing | 10-13 Pastoral Leadership discussion | 🟢 | ⬜ |
 | **Follow up with McRae** (Quaid's brother) — has ~$750K from recent RE deals, dissatisfied with Northwestern Mutual, interested in RQF + bank notes + Acrux path | This week | Plaud 2026-10-27 Fund Strategy call | 🟡 | ⬜ |
 | **Adam: research Series 65 for Dave** — determine compliant way to combine public-market advisory and private fund roles | When possible | Plaud 2026-10-27 Fund Strategy call | 🟡 | ⬜ |
+| **Follow up with JJ Zizian (JJ's RE Networking Group)** — reciprocal referral agreement: JJ's group sends deals they can't fund to RQF; Paul refers back unsuitable deals; formalize arrangement | This week | Plaud — 11-17 Panel Discussion: Real Estate Networking, Buyer Qualification, and Deal Funding | 🟡 | ⬜ |
+| **Connect with Mike Daniels, Dean Creighton, Ronnie Urkart** — JJ's network members; JJ specifically asked Paul to reach out for one-on-one follow-up | This week | Plaud — 11-17 Panel Discussion | 🟢 | ⬜ |
 ---
 
 | **Enforce ethical disclosure protocol in Morby Method deals** — require seller signature on single-page disclosure (purchase price, total debt, cash to buyer) before funding any over-leveraged or Morby/Echo deal | Ongoing | Sep 29 Owners Club lender panel — Paul affirmed this as firm RQF policy; document in lender guidelines | 🟢 | ⬜ |
