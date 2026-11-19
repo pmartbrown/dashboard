@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-18 — Morning transcript review — +3 item(s) from 1 new transcript (Nov 17)**
+**Last updated: 2026-11-19 — Morning transcript review — +5 item(s) from 2 new transcripts (Nov 17)**
 
 ---
 
@@ -260,6 +260,7 @@
 | **Reconnect with Philip on $43M transaction** — primary lender requirements and capital structure | This week | 10-26 Private Lending & Capital Strategy | 🟡 | ⬜ |
 | **Follow up on 3900 Marydale deal** — Alfonso to get borrower to return EMD that title company wrongly refunded | This week | Plaud 2026-11-12 SKOOL — 3900 Marydale title error | 🔴 | ⬜ |
 | **North Peak: set up Georgia GSCCCA portal** for statewide surplus/lien search, build Idaho county-by-county search workflow | This week | Plaud 2026-11-11 AI Automation call — Surplus Funds sourcing | 🟡 | ⬜ |
+| **Verify EHM spreadsheet payment amounts are correct** — $121,488.75 funded total; 3 pending VOs unconfirmed; ~$3,322.50 estimated still owed; Nov 6 payment cycle with $1,612.50 expected | ASAP | Nov 17 Plaud — DSCR & EHM Reconciliation call with Cortland | 🔴 | ⬜ |
 ---
 
 ## 📞 Follow-Ups / Outreach
@@ -482,6 +483,9 @@
 | **Adam: research Series 65 for Dave** — determine compliant way to combine public-market advisory and private fund roles | When possible | Plaud 2026-10-27 Fund Strategy call | 🟡 | ⬜ |
 | **Follow up with JJ Zizian (JJ's RE Networking Group)** — reciprocal referral agreement: JJ's group sends deals they can't fund to RQF; Paul refers back unsuitable deals; formalize arrangement | This week | Plaud — 11-17 Panel Discussion: Real Estate Networking, Buyer Qualification, and Deal Funding | 🟡 | ⬜ |
 | **Connect with Mike Daniels, Dean Creighton, Ronnie Urkart** — JJ's network members; JJ specifically asked Paul to reach out for one-on-one follow-up | This week | Plaud — 11-17 Panel Discussion | 🟢 | ⬜ |
+| **Admin RQF: Follow up with Jeremy re: 3 pending EHM VOs** — ~$3,322.50 estimated owed; unconfirmed payment volumes need resolution before next cycle | ASAP | Nov 17 Plaud — EHM Reconciliation call | 🔴 | ⬜ |
+| **Follow up with Sherry (Gator community) re: $1M West Palm Beach loan lead** — close to the island; needs lender matching; potential RQF/hard money referral | This week | Nov 17 Plaud — Gator Training: Niche Selection & White-Labeling | 🟡 | ⬜ |
+| **Ask DSCR lenders about Cortland's West Valley deal** — $449K list, $316K existing debt, $25K rehab, ~$5K/month sober-living tenant; Morby Method structure; Cortland to run comps first | This week | Nov 17 Plaud — DSCR & Morby Deal Advisory with Cortland Brown | 🟡 | ⬜ |
 ---
 
 | **Enforce ethical disclosure protocol in Morby Method deals** — require seller signature on single-page disclosure (purchase price, total debt, cash to buyer) before funding any over-leveraged or Morby/Echo deal | Ongoing | Sep 29 Owners Club lender panel — Paul affirmed this as firm RQF policy; document in lender guidelines | 🟢 | ⬜ |
@@ -777,6 +781,7 @@
 | **Acrux fund: document 70/30 ownership split** — 70% Dave/DJ group, 30% Adam+Paul as CFOs; finalize compensation structure for Dave | This month | Plaud 2026-10-27 Fund Strategy call | 🟡 | ⬜ |
 | **Build new community training call tracks** — operations, contracts, marketing (not just acquisitions); invite RQF ops team and high-volume TCs | This week | Plaud 2026-11-11 Community Call | 🟡 | ⬜ |
 | **Decide double-close pricing model with Justin** — debating 3-4 months; current: 1.25% flat ($250 min); proposed: 0.75% floor + broker markup; group gave feedback, needs final decision | This week | Plaud — 11-17 Panel Discussion: Real Estate Networking, Buyer Qualification, and Deal Funding | 🟡 | ⬜ |
+| **Check DSCR rental seasoning requirement** — how long rental history required before DSCR refinance available; confirm with lenders | This week | Nov 17 Plaud — DSCR & Morby Deal Advisory with Cortland Brown | 🟢 | ⬜ |
 ---
 
 | **Build referral-lending as full RQF branch** — update processes, lender communications, partner engagement | Q4 2026 | 09-15 Lorena interview | 🔴 | |
