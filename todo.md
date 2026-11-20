@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-19 — Morning transcript review — +5 item(s) from 2 new transcripts (Nov 17)**
+**Last updated: 2026-11-20 — Morning transcript review — +3 item(s) from 1 new transcript (Nov 19)**
 
 ---
 
@@ -205,6 +205,7 @@
 | **Full loan write-off review** — assess probability of recovery for each outstanding loan (likely >$30k total) | This month | 2026-10-16 Q3 Financial Review (EXEC) | 🟡 | ☐ |
 | **Duke Creek — Review broker PSA red-line** — verify no seller financing language was included (markup sent overnight Nov 11) | ASAP | 11-11 Duke Creek call — Mundo Sanchez, Christian Clark | 🔴 | ⬜ |
 | **Joss: Contact Utu/EHM re 3825 S 25th Street Omaha hard-money file** — submitted Oct 19; stalled with Jeremy's team; seller held open house; needs urgent status update | ASAP | 11-12 Traci Call | 🔴 | ⬜ |
+| **North Peak: Monitor Dec 2 foreclosure auction** — Grant has 30 scrubbed names; after auction verify which sold, pull deed + lien research, confirm surplus, move to CRM | Dec 2, 2026 | 11-19 North Peak Surplus Research call — Grant + Kiefer | 🔴 | ⬜ |
 ## 🏘️ Deals — Acquisition Review
 
 | Item | Due | Context | Priority | Progress |
@@ -426,6 +427,7 @@
 | **Email A.P./Angelo: Pinecone Capital fund info** (12% annual return); schedule follow-up re: multifamily/self-storage co-acquisition interest | This week | 11-12 RE Acquisitions call | 🟡 | ⬜ |
 | **Send John RQF fund info + arrange follow-up call** re: investing in RQF + potential RE acquisition partnership | This week | 11-12 Lending Partnerships call | 🟡 | ⬜ |
 | **Debrief with Justin on lost ResGap Plus client** — client threatened lawsuit and switched lenders mid-process; identify root cause + prevention | This week | 11-13 Adam Anderson call | 🟡 | ⬜ |
+| **Schedule joint North Peak surplus working session with Grant** (body-double accountability — work side-by-side on separate states) | This week | 11-19 North Peak Surplus Research call | 🟡 | ⬜ |
 ## 🧭 Personal / Standards
 
 | Item | Due | Context | Priority | Progress |
@@ -700,6 +702,7 @@
 
 
 
+| **North Peak: Settle surplus pricing model** — set fixed minimum fee (like RQF's $1K floor), state-by-state tiers; align with E. Albert attorney's 30% cap constraint; update client contracts | This week | 11-19 North Peak Surplus Research call — pricing unresolved | 🟡 | ⬜ |
 ## 🏗️ Projects — Build
 
 | Item | Due | Context | Priority | Progress |
