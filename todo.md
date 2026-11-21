@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-20 — Morning transcript review — +3 item(s) from 1 new transcript (Nov 19)**
+**Last updated: 2026-11-21 — Morning transcript review — +42 item(s) from 13 new transcripts (Nov 14-20)**
 
 ---
 
@@ -7,6 +7,14 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Continue negotiating Michigan RV Park broker changes and confirm sellers will honor LOI terms** — Paul Brown | 2026-11-28 | Nov 18 L10 — RV Park Deal | 🔴 | ⬜ |
+| **Follow up on $300k Devin payout after anticipated completion, determine next steps** — Olivia | 2026-11-30 | Nov 18 L10 — Devin recovery | 🔴 | ⬜ |
+| **Raise ~$500k for Pinecone Capital to cover planned $100k withdrawal** — Paul Brown | ASAP | Nov 18 Pinecone Capital discussion | 🔴 | ⬜ |
+| **Send CRM redesign requirements to developer** — related deals view, deal chat, email composer, task reorder — Admin RQF | ASAP | Nov 18 L10 — CRM redesign | 🔴 | ⬜ |
+| **Call Pat (Bessons) at 8am for $140k POF deal** — Admin RQF/Justin | ASAP | Nov 18 RQF funding intake | 🟡 | ⬜ |
+| **Follow up on Mitch Pomeroy deal — contact Sandeep re: property underwriting decision** | 2026-11-22 | Nov 18 L10 — Mitch Pomeroy deal | 🟡 | ⬜ |
+| **Verify actual Mitch Pomeroy debt attributable to borrower** — Olivia | 2026-11-22 | Nov 18 L10 — Mitch Pomeroy debt verification | 🟡 | ⬜ |
+| **Close Mitch Pomeroy file and update tracker if Sandeep declines property** — Olivia | 2026-11-22 | Nov 18 L10 — Mitch Pomeroy file | 🟡 | ⬜ |
 | **Sign Devon Alexander conditional payoff doc** — $300K payoff + $60K allocation to additional property lien; awaiting title docs | ASAP | Oct 28 TEAM — Tax & Partnership meeting | 🔴 | ⬜ |
 | **File suit against Devin Alexander and both parties** — last day of waiting was Oct 29; proceed with lien on additional asset (~$100K equity) | ASAP | Oct 28–29 TEAM — EMD Recovery | 🔴 | ⬜ |
 | **Draft and sign Kiavi denial letter for EMD release** — cite 'inability to estimate value due to lack of comparable properties in reasonable geographic area' | ASAP | Oct 29 TEAM — EMD Recovery & Collateral Strategy | 🔴 | ⬜ |
@@ -210,6 +218,8 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Cortland: Run comparable sales for $449k→$399k property, consider Morby+DSCR structure** | This week | Nov 18 L10 — Cortland deal analysis | 🟡 | ⬜ |
+| **Ask DSCR lenders about Cortland deal and check rental history requirement for refi** — Paul Brown | This week | Nov 18 L10 — Cortland DSCR strategy | 🟢 | ⬜ |
 | **Providence UT (17 acres @ $1.25M) — Pull Cache County zoning code + hillside overlay regulations** (min lot size, density, subdivision standards) | ASAP | Plaud 09-16: feasibility call — 17-acre parcel near Logan; hillside elements; plan to subdivide into ~10 one-acre lots | 🟡 | ⬜ |
 | **Providence UT — Engage local civil engineer for conceptual site yield** (lot layout, road plan, utility feasibility, Class 1 cost estimate) | This week | Plaud 09-16: subdivision feasibility before advancing owner-finance conversation | 🟡 | ⬜ |
 | **Providence UT — Commission geotechnical screening** for slope stability + foundation feasibility on homesite and subdivision roads | This week | Plaud 09-16: hillside parcel — geotech required before any pro forma is credible | 🟢 | ⬜ |
@@ -268,6 +278,16 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Help Isaac (Trinity HS Solutions) submit deal via Google Meet screen share** — Paul Brown | 2026-11-18 | Nov 18 L10 — Isaac onboarding | 🟡 | ⬜ |
+| **Follow up on Isaac's password reset for dashboard access** | ASAP | Nov 18 L10 — Isaac portal access | 🟡 | ⬜ |
+| **Email Sandeep that Mitch Pomeroy deal is being discontinued; recommend attorney asset search** | 2026-11-22 | Nov 18 L10 — Mitch Pomeroy wind-down | 🟡 | ⬜ |
+| **Contact Kali and Tala (TC Collective) to schedule partnership meeting** — Admin RQF | This week | Nov 18 L10 — TC Collective partnership | 🟡 | ⬜ |
+| **Send RQF packet to Michigan title company owner for partnership discussion** — Justin | This week | Nov 18 L10 — Michigan title company | 🟡 | ⬜ |
+| **Follow up with Jeremy about pending EHM VOs** — Manoella | This week | Nov 18 L10 — EHM follow-up | 🟢 | ⬜ |
+| **Confirm EHM payment reconciliation figures correctness** — Paul Brown | This week | Nov 18 L10 — EHM reconciliation | 🟢 | ⬜ |
+| **Sadikin: Refer potential investors interested in RV parks; share RV park LOI details** | By Dec 15-22 | Nov 18 L10 — RV park investor referral | 🟢 | ⬜ |
+| **Identify property insurance contact for 15-minute Firebot product presentation** | This week | Nov 18 L10 — Firebot intro meeting | 🟢 | ⬜ |
+| **Call Carnes using contact information exchanged** — Paul Brown | ASAP | Nov 16 Merchants Bank meeting — Pinecone Capital follow-up | 🟢 | ⬜ |
 | **Instruct Roz: stop auto-forwarding deals** — all new deals → central queue for Josh only | ASAP | Oct 28 TEAM — Tax & Partnership | 🔴 | ⬜ |
 | **Review/approve all drafts before any communication with Kiefer or Heather** | Ongoing | Oct 28 TEAM — Tax & Partnership | 🔴 | ⬜ |
 | **EY response re: partnership P&Ls + K-1s** — coordinate response by Nov 13 | Nov 13 | Oct 28 TEAM — Tax & Partnership | 🟡 | ⬜ |
@@ -432,6 +452,12 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Arrange ASAP Locksmith appointment to rekey both locks (handle + deadbolt) to same key — 4540 S 600 E, Murray UT shed** | ASAP | Nov 20 personal task | 🟡 | ⬜ |
+| **Grant: Research foreclosure-notice sources and posting schedules state by state** | ASAP | Nov 20 Grant collab — Gwinnett auction prep | 🟡 | ⬜ |
+| **Grant: Get EIN for LLC; register in Georgia as foreign entity; obtain attorney contract** | 2026-11-19 | Nov 20 Grant collab — GA entity setup | 🟡 | ⬜ |
+| **Grant: Follow up on 30 scrubbed names for Dec 2, 2026 Gwinnett auction** | By Dec 2 | Nov 20 Grant collab — Gwinnett auction | 🟢 | ⬜ |
+| **Kiefer: Send Grant 7 Gwinnett parcels for open-records inquiry; follow up on request** | This week | Nov 20 Grant collab — open records | 🟢 | ⬜ |
+| **Paul/Grant: Schedule another joint working session** | This week | Nov 20 Grant collab — follow-up session | 🟢 | ⬜ |
 | Write welcome-home note for Akemi | ASAP | Oct 28 TEAM meeting | 🔴 | ⬜ |
 | Set up group text thread with Adam and Dave for travel coordination | This week | Oct 27 TEAM — Marketing call | 🟢 | ⬜ |
 | Review and sign updated operating agreement with Justin | This week | 04-28 ops discussion | 🔴 | ⬜ |
@@ -527,6 +553,8 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Switch heavy GrokBot tasks (e.g., code generation) to direct Claude commands to reduce token costs** — Raz | This week | Nov 18 L10 — AI cost optimization | 🟡 | ⬜ |
+| **Confirm member/TC limited CRM access view design (simplified layout)** | This week | Nov 18 L10 — CRM access control | 🟢 | ⬜ |
 | **Add second contact number to all wire instruction documents** | ASAP | Oct 28 L10 — Deal Flow & Capital Raising | 🔴 | ⬜ |
 | **Instruct Mihai: fix Composio auth prompts** (triggering 150×/day) + Mac Mini Node.js popup | ASAP | Oct 28 TEAM — Workflow Automation & LinkedIn | 🔴 | ⬜ |
 | Instruct processors to begin testing CRM portal at portal.realquickfunds.com (deals fork from HubSpot) | This week | Oct 29 Raz & Paul Weekly — CRM Portal Rollout | 🟡 | ⬜ |
@@ -707,6 +735,12 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Investor portal (Pinecone): Update Access Queue to include all items requiring admin sign-off** — Claude/Raz | This week | Nov 18 L10 — investor portal admin queue | 🟡 | ⬜ |
+| **CRM: Implement uncollapsible financials section until key pricing percentages entered** | This week | Nov 18 L10 — CRM financials requirement | 🟡 | ⬜ |
+| **Set deal tracker default view to show no groups** — Paul Brown | This week | Nov 18 L10 — tracker view setting | 🟡 | ⬜ |
+| **Review closed deal import/update process from spreadsheet and notes** — Paul Brown | This week | Nov 18 L10 — deal tracker import | 🟡 | ⬜ |
+| **Confirm tracker status definitions (add 'written off' separate from 'paid off')** — Paul Brown | This week | Nov 18 L10 — tracker status definitions | 🟡 | ⬜ |
+| **Split School community into two groups (free/premium and VIP-only)** — Raz | This week | Nov 18 L10 — Skool community structure | 🟡 | ⬜ |
 | Establish Funding Hub YouTube channel for VIP conversions | Sprint 1 | Oct 27 TEAM — Marketing Agents & Liquidity call | 🟡 | ⬜ |
 | Condense RQF T&C document from 14 pages to ~1/3 | Sprint 1 | Oct 28 TEAM — Workflow Automation & LinkedIn | 🟡 | ⬜ |
 | Create T&C agreement template for all borrowers | Sprint 1 | Oct 28 L10 — Deal Flow & Capital Raising | 🟡 | ⬜ |
@@ -811,6 +845,10 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Develop list of 30 target title companies for long-term outreach campaign** — Paul/Justin | This month | Nov 18 L10 — title company pipeline | 🟡 | ⬜ |
+| **Research Google Ads management options for Funding Hub (~$5k/month budget)** — Paul/Justin | This week | Nov 18 L10 — Funding Hub paid ads | 🟡 | ⬜ |
+| **Plan double-close pricing change to 1% in new year for volume growth** | By Jan 2027 | Nov 18 L10 — pricing strategy | 🟢 | ⬜ |
+| **Brainstorm niche product for funding EMDs on bank-owned REO properties** — Brent/Paul | This month | Nov 18 Skool transactional funding — REO niche product | 🟢 | ⬜ |
 | Update LinkedIn profile to prioritize Pinecone Capital over RQF lending activity | This week | Oct 28 TEAM — Workflow Automation & LinkedIn | 🟡 | ⬜ |
 | Post 3x/week to Instagram (Reels: deal walkthroughs, fund education, behind-the-scenes) | Weekly | Personal brand build | 🟡 | ⬜ |
 | Post 2x/week to LinkedIn (thought leadership: creative finance, fund structure) | Weekly | LP + professional audience | 🟡 | ⬜ |
@@ -893,6 +931,10 @@
 
 | Item | Waiting For | Context | Priority | Progress |
 |------|-------------|---------|----------|----------|
+| **Snyder's Highway: Request final title insurance policy and Schedule B from Robinson Gray; research title claim** | ASAP | Nov 18 L10 — Snyder's Highway title | 🟡 | ⬜ |
+| **Snyder's Highway: Confirm lien positions (omitted $340k Infinite Ventures mortgage), research title insurance claim with Fidelity National** | ASAP | Nov 18 L10 — Snyder's lien issue | 🟡 | ⬜ |
+| **Mitch Pomeroy: Waiting for Sandeep's property decision** | 2026-11-22 | Nov 18 L10 — Mitch Pomeroy pending | 🟡 | ⬜ |
+| **Devin: Continue tracking receipt of signed deed of trust** | Ongoing | Nov 18 L10 — Devin deed of trust | 🟢 | ⬜ |
 | Lender decision on JV agreement for Mike's refi | Tomer/Jeffrey broker team | 04-28 meeting | 🔴 | ⬜ |
 | Mike's capital partner confirmation | Mike's team | 04-28 meeting | 🔴 | ⬜ |
 | Fund admin confirmation (subscription docs review) | Third-party fund administrator | 04-25 investor call | 🟡 | ⬜ |
