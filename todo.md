@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-21 — Morning transcript review — +42 item(s) from 13 new transcripts (Nov 14-20)**
+**Last updated: 2026-11-22 — Morning transcript review — +22 item(s) from 45 new transcripts (Oct-Nov 2026)**
 
 ---
 
@@ -214,6 +214,10 @@
 | **Duke Creek — Review broker PSA red-line** — verify no seller financing language was included (markup sent overnight Nov 11) | ASAP | 11-11 Duke Creek call — Mundo Sanchez, Christian Clark | 🔴 | ⬜ |
 | **Joss: Contact Utu/EHM re 3825 S 25th Street Omaha hard-money file** — submitted Oct 19; stalled with Jeremy's team; seller held open house; needs urgent status update | ASAP | 11-12 Traci Call | 🔴 | ⬜ |
 | **North Peak: Monitor Dec 2 foreclosure auction** — Grant has 30 scrubbed names; after auction verify which sold, pull deed + lien research, confirm surplus, move to CRM | Dec 2, 2026 | 11-19 North Peak Surplus Research call — Grant + Kiefer | 🔴 | ⬜ |
+| **Onboard McCray ($200k committed) to Pinecone fund** — sign documents and collect funds | ASAP | Nov 13 PARTNER — fund onboarding | 🔴 | ⬜ |
+| **Onboard Dylan (committed, $1M+ liquid) to Pinecone fund** — advance investor relationship | ASAP | Nov 13 PARTNER — fund onboarding | 🔴 | ⬜ |
+| **Draft and send fund committee contracts** — Pinecone Capital governance docs | This week | Nov 11 L10 — fund governance | 🟡 | ⬜ |
+| **Pursue Snyder Highway title insurance claim** — omitted $340k lien, lender in 4th position; escalate with title company | ASAP | Nov 18 TEAM — title defect discovered | 🔴 | ⬜ |
 ## 🏘️ Deals — Acquisition Review
 
 | Item | Due | Context | Priority | Progress |
@@ -448,6 +452,14 @@
 | **Send John RQF fund info + arrange follow-up call** re: investing in RQF + potential RE acquisition partnership | This week | 11-12 Lending Partnerships call | 🟡 | ⬜ |
 | **Debrief with Justin on lost ResGap Plus client** — client threatened lawsuit and switched lenders mid-process; identify root cause + prevention | This week | 11-13 Adam Anderson call | 🟡 | ⬜ |
 | **Schedule joint North Peak surplus working session with Grant** (body-double accountability — work side-by-side on separate states) | This week | 11-19 North Peak Surplus Research call | 🟡 | ⬜ |
+| **Research Devin's assets for potential NOIs** — ~$780k outstanding; identify collectible assets | ASAP | Nov 11 L10 — Devin collections | 🔴 | ⬜ |
+| **Finalize Devin payoff letter** — formal demand for $780k recovery | ASAP | Nov 11 L10 — Devin payoff | 🔴 | ⬜ |
+| **Develop specific legal action plan for each overdue debt** — $20k EMD, $50k EMD, Devin $780k, $5k EMDs | This week | Nov 11 L10 — collections strategy | 🔴 | ⬜ |
+| **Send team re-introduction email to Funding Hub members** — reactivate community engagement | This week | Nov 11 L10 — Funding Hub growth | 🟡 | ⬜ |
+| **Schedule monthly deep-dive sessions for Funding Hub** — Alfonso explains loan products each month | This week | Nov 11 L10 — Funding Hub programming | 🟡 | ⬜ |
+| **Call Carnes** — contact from Merchants Bank meeting re: lending partnership | This week | Nov 16 LENDER Merchants Bank | 🟡 | ⬜ |
+| **Develop list of 30 target title companies in attorney states (starting NJ) for outreach** | This week | Nov 18 L10 — attorney state expansion | 🟡 | ⬜ |
+| **Schedule another joint working session with Grant** — foreclosure surplus research follow-up | This week | Nov 19 PARTNER — surplus research | 🟡 | ⬜ |
 ## 🧭 Personal / Standards
 
 | Item | Due | Context | Priority | Progress |
@@ -517,6 +529,7 @@
 ---
 
 | **Enforce ethical disclosure protocol in Morby Method deals** — require seller signature on single-page disclosure (purchase price, total debt, cash to buyer) before funding any over-leveraged or Morby/Echo deal | Ongoing | Sep 29 Owners Club lender panel — Paul affirmed this as firm RQF policy; document in lender guidelines | 🟢 | ⬜ |
+| **Arrange locksmith appointment to rekey both locks on shed at 4540 S 600 E, Murray UT** — door-handle + deadbolt to same key | ASAP | Nov 18 TEAM — property maintenance | 🟢 | ⬜ |
 ## 💪 Health
 
 | Item | Due | Context | Priority | Progress |
@@ -731,6 +744,11 @@
 
 
 | **North Peak: Settle surplus pricing model** — set fixed minimum fee (like RQF's $1K floor), state-by-state tiers; align with E. Albert attorney's 30% cap constraint; update client contracts | This week | 11-19 North Peak Surplus Research call — pricing unresolved | 🟡 | ⬜ |
+| **Implement forced financials data entry in CRM** — uncollapsible section until pricing % entered | This week | Nov 20 PARTNER Raz — CRM improvement | 🟡 | ⬜ |
+| **Update Pinecone investor portal Access Queue** — include all items needing admin approval/counter-sig | This week | Nov 17 PARTNER — investor portal admin | 🟡 | ⬜ |
+| **Restructure Skool community into free/premium and VIP groups** — enable direct VIP onboarding flow | This week | Nov 20 PARTNER Raz — community structure | 🟡 | ⬜ |
+| **Set deal tracker default view to show no groups** | ASAP | Nov 18 TEAM — CRM UX fix | 🟢 | ⬜ |
+| **Use direct Claude commands for heavy tasks instead of GrokBot orchestration** — reduce token costs | Ongoing | Nov 20 PARTNER Raz — AI cost optimization | 🟢 | ⬜ |
 ## 🏗️ Projects — Build
 
 | Item | Due | Context | Priority | Progress |
@@ -841,6 +859,9 @@
 
 | **Build mortgage foreclosure surplus lead workflow via GeorgiaPublicNotice.com** — search 'sale under power', filter third-party buyers, look up deed + original security deed, check liens/refinances; set up GoHighLevel case cards + Google Drive folders; skip trace via Deal Sauce | This week | 11-12 North Peak Recovery — Matt shared Bruce's mortgage surplus sourcing process | 🟡 | ⬜ |
 | **Build proprietary document management site for ResGap Plus** — eliminate third-party hosting costs; integrate AI tools for doc review | Q4 | 11-13 Adam Anderson call | 🟡 | ⬜ |
+| **Grant: Research foreclosure notice sources and posting schedules state by state** | This week | Nov 19 PARTNER — surplus research infrastructure | 🟡 | ⬜ |
+| **Resolve Dave LLC GP authority issue** — amend operating agreement for Dave to act alone on private investments | This week | Nov 13 PARTNER — entity governance | 🟡 | ⬜ |
+| **Explore USD/JPY structured note product for Japan capital raise** | When possible | Nov 13 PARTNER — international fund strategy | 🟢 | ⬜ |
 ## 📣 Marketing / Capital Raising
 
 | Item | Due | Context | Priority | Progress |
@@ -985,5 +1006,6 @@
 | **Roz: Fix email UI bug in CRM deal view** | — | Plaud — 11-12 CRM meeting | 🟡 | [ ] |
 | **Roz: Restore linked deal button (start EMD/VOF/DSCR from existing deal)** | — | Plaud — 11-12 CRM meeting | 🟡 | [ ] |
 | **Roz: Implement deal linking + connected chat across linked deals** | — | Plaud — 11-12 CRM meeting | 🟡 | [ ] |---
+| **Contact Sandeep re: Mitch Pomeroy deal** — accept quitclaim deed or close file — Olivia | 2026-11-22 | Nov 18 TEAM — Mitch Pomeroy deal resolution | 🟡 | ⬜ |
 
 *Dashboard source: Plaud transcripts via Google Drive. Updated by AI transcript review pipeline — Morning run 2026-05-21: 3 new transcripts, 3 action items added. Afternoon run 2026-05-21: 1 new transcript, 1 action item added. Morning run 2026-05-22: 3 new transcripts (Paul+Justin operations, DSCR debrief, OC EOS weekly), 16 action items added; 1 non-substantive recording skipped. Afternoon run 2026-05-22: 2 new transcripts (bookkeeping standard directive re: 5419 Palmer + Curtis repayment voice note), 2 action items added. Morning run 2026-08-21: 2 new transcripts processed (2026-08-18 Morby Method Lecture, 2026-08-19 L10 CRM/Delinquent Loans/Pricing), 6 action items added. Morning run 2026-08-23: 2 transcripts processed (Raz Mihalyi drip campaign sync 2026-08-20; Traci Canning + Tony MN townhome underwriting 2026-08-19), 9 action items added. Morning run 2026-10-10: 2 new transcripts processed (2026-10-07 [PERSONAL] Capital Raising and Value-Investing Fund Comparison, 2026-10-08 [UNCLEAR] Partner Q&A Primary Lending Handoff Echo Deals LLC Shield); 5 action items added. File 7 Charlotte Hudgins (99KB) could not be processed this run due to file size. Morning run 2026-08-29: 5 new transcripts processed (Bruce Williams AROS/CA questions 2026-08-26; Debt Fund GP partnership 2026-08-26; GP Onboarding/TC/Lender Risk 2026-08-26; North Peak Recovery state selection 2026-08-26; Personal Noah CRV 2026-08-26), 7 action items added.* Morning run 2026-09-17: 9 new transcripts processed (Dave GP 09-15, Kiefer 09-03, Roger Collaboration 09-03, EMD Referral 09-03, August Results 09-03, 506b Compliance 09-03, Owners Club Assessment 09-14, L10 Six-Month 09-15, Lorena Interview Panel 09-15), 13 action items added. Morning run 2026-09-18: 9 new transcripts processed (1 file — Lending Partner Fallout — unreadable due to file size), 19 action items added. Morning run 2026-10-10: 2 new transcripts processed (2026-10-07 [PERSONAL] Capital Raising and Value-Investing Fund Comparison, 2026-10-08 [UNCLEAR] Partner Q&A Primary Lending Handoff Echo Deals LLC Shield); 5 action items added. Morning run 2026-09-21: 5 new transcripts processed (09-16 Providence 17-acre subdivision feasibility, 09-18 Hans Peterson real estate consult + Relay wire auth, 09-18 Multi-Faceted RE discussion, 09-18 Casual personal conversation, 09-18 Capital Raising/SEC Compliance), 10 action items added. Morning run 2026-10-09: 6 new transcripts processed (2026-09-30 [PARTNER] Networking/Dave, 2026-10-02 [PARTNER] RV Park Scouting Capitol Reef, 2026-10-05 [TEAM] Lending Channel Build-Out, 2026-10-06 [EXEC] Weekly Strategy, 2026-10-06 [LENDER] Transactional Lending Models, 2026-10-07 [PARTNER] Custer LLC); 6 non-work/skipped files; 9 action items added. Morning run 2026-10-10: 2 new transcripts processed (2026-10-07 [PERSONAL] Capital Raising and Value-Investing Fund Comparison, 2026-10-08 [UNCLEAR] Partner Q&A Primary Lending Handoff Echo Deals LLC Shield); 5 action items added. Morning run 2026-10-14: 2 new transcripts processed (2026-10-13 [CLIENT] Cozy Corner RV Park Acquisition Analysis — Noel Wade, 2026-10-08 [PARTNER] Custer Crossings OA and IC Veto — Christian Clark, Mundo Sanchez, Andre Shepherd); 1 file unreadable/entity-not-found (2026-10-08 [PARTNER] Surplus+ Accountability); 2 non-work files skipped (Plaud vendor marketing, Plaud vendor tutorial); 10 action items added.
