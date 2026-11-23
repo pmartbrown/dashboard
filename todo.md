@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-22 — Morning transcript review — +22 item(s) from 45 new transcripts (Oct-Nov 2026)**
+**Last updated: 2026-11-23 — Morning transcript review — +5 new items from Nov 11–20 transcripts**
 
 ---
 
@@ -7,6 +7,7 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Create release for Clark loan payoff and confirm recording with local recorder** — Justin | ASAP | 11-11 L10 — Clark debt collection | 🟡 | ⬜ |
 | **Continue negotiating Michigan RV Park broker changes and confirm sellers will honor LOI terms** — Paul Brown | 2026-11-28 | Nov 18 L10 — RV Park Deal | 🔴 | ⬜ |
 | **Follow up on $300k Devin payout after anticipated completion, determine next steps** — Olivia | 2026-11-30 | Nov 18 L10 — Devin recovery | 🔴 | ⬜ |
 | **Raise ~$500k for Pinecone Capital to cover planned $100k withdrawal** — Paul Brown | ASAP | Nov 18 Pinecone Capital discussion | 🔴 | ⬜ |
@@ -753,6 +754,8 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Hire dedicated Skool community operator (Brent or similar) to drive member engagement** | When possible | Nov 18 L10 — community ops | 🟡 | ⬜ |
+| **Set target of 100 VIP members and build tracking/accountability for growth milestone** | This month | Nov 18 L10 — VIP growth strategy | 🟡 | ⬜ |
 | **Investor portal (Pinecone): Update Access Queue to include all items requiring admin sign-off** — Claude/Raz | This week | Nov 18 L10 — investor portal admin queue | 🟡 | ⬜ |
 | **CRM: Implement uncollapsible financials section until key pricing percentages entered** | This week | Nov 18 L10 — CRM financials requirement | 🟡 | ⬜ |
 | **Set deal tracker default view to show no groups** — Paul Brown | This week | Nov 18 L10 — tracker view setting | 🟡 | ⬜ |
@@ -866,6 +869,8 @@
 
 | Item | Due | Context | Priority | Progress |
 |------|-----|---------|----------|----------|
+| **Create short educational videos on key financial terms: recourse vs. non-recourse, deal type definitions** | This month | Nov 18 RQF funding training session | 🟡 | ⬜ |
+| **Organize LinkedIn lead-gen competition with prize for RQF team partners** | This month | Nov 18 RQF funding training session | 🟡 | ⬜ |
 | **Develop list of 30 target title companies for long-term outreach campaign** — Paul/Justin | This month | Nov 18 L10 — title company pipeline | 🟡 | ⬜ |
 | **Research Google Ads management options for Funding Hub (~$5k/month budget)** — Paul/Justin | This week | Nov 18 L10 — Funding Hub paid ads | 🟡 | ⬜ |
 | **Plan double-close pricing change to 1% in new year for volume growth** | By Jan 2027 | Nov 18 L10 — pricing strategy | 🟢 | ⬜ |
