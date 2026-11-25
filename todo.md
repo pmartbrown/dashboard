@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-23 — Morning transcript review — +5 new items from Nov 11–20 transcripts**
+**Last updated: 2026-11-25 — Morning transcript review — +3 new items from Nov 24 transcript**
 
 ---
 
@@ -277,6 +277,8 @@
 | **Follow up on 3900 Marydale deal** — Alfonso to get borrower to return EMD that title company wrongly refunded | This week | Plaud 2026-11-12 SKOOL — 3900 Marydale title error | 🔴 | ⬜ |
 | **North Peak: set up Georgia GSCCCA portal** for statewide surplus/lien search, build Idaho county-by-county search workflow | This week | Plaud 2026-11-11 AI Automation call — Surplus Funds sourcing | 🟡 | ⬜ |
 | **Verify EHM spreadsheet payment amounts are correct** — $121,488.75 funded total; 3 pending VOs unconfirmed; ~$3,322.50 estimated still owed; Nov 6 payment cycle with $1,612.50 expected | ASAP | Nov 17 Plaud — DSCR & EHM Reconciliation call with Cortland | 🔴 | ⬜ |
+| **Send RQF lending resources + stack deal intake info to Gamma (Healing Oasis) / Nancy — 2.5 pts quoted for standard transactional deal; they fund sub-to, stack method, assumable FHA/VA** | This week | Plaud 11-24 — Gamma consult via Sean | 🟡 | ⬜ |
+| **Research credit-sponsor HELOC structure for assumable/sub-to deals** — explore putting property in trust/LLC so buyer can be credit sponsor for HELOC in 2nd position (seller carry stays out of lien position) | When deal arises | Plaud 11-24 — Nancy's equity-access question on sub-to deals | 🟢 | ⬜ |
 ---
 
 ## 📞 Follow-Ups / Outreach
@@ -527,6 +529,7 @@
 | **Admin RQF: Follow up with Jeremy re: 3 pending EHM VOs** — ~$3,322.50 estimated owed; unconfirmed payment volumes need resolution before next cycle | ASAP | Nov 17 Plaud — EHM Reconciliation call | 🔴 | ⬜ |
 | **Follow up with Sherry (Gator community) re: $1M West Palm Beach loan lead** — close to the island; needs lender matching; potential RQF/hard money referral | This week | Nov 17 Plaud — Gator Training: Niche Selection & White-Labeling | 🟡 | ⬜ |
 | **Ask DSCR lenders about Cortland's West Valley deal** — $449K list, $316K existing debt, $25K rehab, ~$5K/month sober-living tenant; Morby Method structure; Cortland to run comps first | This week | Nov 17 Plaud — DSCR & Morby Deal Advisory with Cortland Brown | 🟡 | ⬜ |
+| **Follow up with Gamma (Healing Oasis) & Nancy via Sean — schedule test stack/double-close deal; targeting 2,500 closes in 2027; active in Vegas, TX, CA, FL, MT** | This week | Plaud 11-24 — Gamma & Nancy intro call via Sean | 🟡 | ⬜ |
 ---
 
 | **Enforce ethical disclosure protocol in Morby Method deals** — require seller signature on single-page disclosure (purchase price, total debt, cash to buyer) before funding any over-leveraged or Morby/Echo deal | Ongoing | Sep 29 Owners Club lender panel — Paul affirmed this as firm RQF policy; document in lender guidelines | 🟢 | ⬜ |
