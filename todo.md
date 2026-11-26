@@ -1,5 +1,5 @@
 # Paul Brown — Master Task Dashboard
-**Last updated: 2026-11-25 — Morning transcript review — +3 new items from Nov 24 transcript**
+**Last updated: 2026-11-26 — Morning transcript review — +3 new items from Nov 25 SKOOL transcript**
 
 ---
 
@@ -530,6 +530,7 @@
 | **Follow up with Sherry (Gator community) re: $1M West Palm Beach loan lead** — close to the island; needs lender matching; potential RQF/hard money referral | This week | Nov 17 Plaud — Gator Training: Niche Selection & White-Labeling | 🟡 | ⬜ |
 | **Ask DSCR lenders about Cortland's West Valley deal** — $449K list, $316K existing debt, $25K rehab, ~$5K/month sober-living tenant; Morby Method structure; Cortland to run comps first | This week | Nov 17 Plaud — DSCR & Morby Deal Advisory with Cortland Brown | 🟡 | ⬜ |
 | **Follow up with Gamma (Healing Oasis) & Nancy via Sean — schedule test stack/double-close deal; targeting 2,500 closes in 2027; active in Vegas, TX, CA, FL, MT** | This week | Plaud 11-24 — Gamma & Nancy intro call via Sean | 🟡 | ⬜ |
+| **Follow up with Charlotte Hudgins — confirm she sent Christine Key the Skool community invite link for referral tracking** | This week | 11-25 SKOOL — referral tracking action item | 🟢 | ⬜ |
 ---
 
 | **Enforce ethical disclosure protocol in Morby Method deals** — require seller signature on single-page disclosure (purchase price, total debt, cash to buyer) before funding any over-leveraged or Morby/Echo deal | Ongoing | Sep 29 Owners Club lender panel — Paul affirmed this as firm RQF policy; document in lender guidelines | 🟢 | ⬜ |
@@ -946,6 +947,8 @@
 | **Develop investor onboarding materials for Acrux** — multi-strategy fund; coordinate with Adam | This month | 10-27 Fund Strategy & Investor Management | 🟡 | ⬜ |
 | **Send $1.5M fund raise materials to Philip and credit investors** — ResGap Plus capital deployment | This week | 10-26 Private Lending & Capital Strategy | 🟡 | ⬜ |
 | **Scale Lila social media bot** to increase from 3-4/week post frequency; track results | This week | Plaud 2026-11-11 Community Call — Lila bot working | 🟡 | ⬜ |
+| **Monitor RQF holiday pricing (1.0%) volume through Dec 31 — decide if rate becomes permanent** | Dec 31 | 11-25 SKOOL — double close / holiday pricing session | 🟡 | ⬜ |
+| **Host Echo Funding Skool session — next Tuesday Dec 1, 6 PM MT** | Dec 1 | 11-25 SKOOL — announced next session | 🟡 | ⬜ |
 ---
 
 | **Support Dave (Acrux, 2% GP) with investor script for LP calls** — talking points covering: escrow safety model, double-close mechanics, timing controls, deal risk mitigation, RQF track record; Dave is ready to pitch his first LP (McRae) | **This week** | 2026-09-15 Dave GP call — Dave's LP pitch conversations starting; needs a script for his network | 🟡 | ⬜ |
